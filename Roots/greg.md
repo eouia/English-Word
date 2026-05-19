@@ -3,7 +3,9 @@
 - 출발 단어: `segregation`
 - 핵심 어원: Latin `grex`, `gregis` = flock, herd
 - 핵심 이미지: 무리, 떼, 집단
+- 관련 문서: [[sect]]
 - 주의: `egregious`는 원래 "무리 밖으로 두드러진" 긍정적 의미도 있었지만, 현대 영어에서는 주로 "터무니없이 나쁜" 뜻.
+- 주의: `segregate`는 `segment`와 형태·의미가 비슷해 보이지만, `segment`는 [[sect]] 계열의 "잘라낸 부분" 이미지.
 
 ## 출발 단어 분석
 
@@ -107,6 +109,11 @@
 - `segregation`: 제도적 분리
 - `gregarious`: 무리 속에 있기를 좋아함
 - `egregious`: 무리 밖으로 두드러질 만큼 심함
+
+`segregate`와 `segment`의 차이:
+
+- `segregate`: `se-` + `greg`, 무리에서 따로 떼어 놓음
+- `segment`: Latin `segmentum` ← `secare`, 전체를 잘라낸 한 조각
 
 ## 비교 단어
 

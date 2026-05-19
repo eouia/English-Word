@@ -46,7 +46,7 @@
 - 사용 맥락: `chronic disease`, `chronic pain`
 - 주의: 오래 지속되거나 반복되는 상태. 반대는 `acute`.
 
-### acute
+### [[acu#acute|acute]]
 
 - 핵심 의미: 급성의, 예리한, 심각한
 - 사용 맥락: `acute infection`, `acute pain`

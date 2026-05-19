@@ -16,7 +16,7 @@
 - 사용 맥락: `a flock of birds`, `a flock of sheep`
 - 주의: 새가 함께 날거나 모여 있는 장면에 자연스러움. `herd of sheep`도 가능하지만 `flock of sheep`이 더 전형적.
 
-### pack
+### [[pack#pack|pack]]
 
 - 핵심 의미: 함께 사냥하거나 움직이는 포식성 동물의 무리
 - 사용 맥락: `a pack of wolves`, `a pack of dogs`

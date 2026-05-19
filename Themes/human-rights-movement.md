@@ -16,7 +16,7 @@
 - 사용 맥락: `civil rights movement`, `civil rights legislation`
 - 주의: 일반적 인권보다 법과 사회 안에서 시민에게 보장되는 평등한 권리에 초점.
 
-### liberty
+### [[liber#liberty|liberty]]
 
 - 핵심 의미: 자유
 - 사용 맥락: `civil liberties`, `individual liberty`
@@ -34,7 +34,7 @@
 - 사용 맥락: `racial equity`, `equity in education`
 - 주의: `equality`가 같은 대우라면, `equity`는 출발점 차이를 고려해 공정한 결과를 추구하는 느낌.
 
-### [[honor#dignity|dignity]]
+### [[dign#dignity|dignity]]
 
 - 핵심 의미: 존엄, 품위
 - 사용 맥락: `human dignity`, `dignity and respect`

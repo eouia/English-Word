@@ -240,7 +240,7 @@
 - 사용 맥락: `severe famine`, `famine relief`
 - 주의: 단순 식량 부족보다 광범위하고 심각한 굶주림 상태.
 
-### [[mal#malnutrition|malnutrition]]
+### malnutrition ([[mal#malnutrition|mal]], [[nutri#malnutrition|nutri]])
 
 - 핵심 의미: 영양실조
 - 사용 맥락: `child malnutrition`, `chronic malnutrition`

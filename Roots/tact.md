@@ -80,6 +80,29 @@
 - 어원적 연결: 접촉을 통해 옮겨 감
 - 사용 맥락: `a contagious disease` = 전염병
 
+### contagion
+
+- 구성: `con-` = together + Latin `tangere`
+- 뜻: 전염, 감염의 확산; 나쁜 영향의 확산
+- 어원적 연결: 서로 닿아 옮겨 가는 상태
+- 사용 맥락: `financial contagion` = 금융 위기의 전염성 확산
+- 주의: 의학뿐 아니라 공포, 폭력, 금융 불안처럼 퍼져 나가는 현상에도 씀.
+
+### contiguous
+
+- 구성: Latin `contiguus` ← `con-` = together + `tangere`
+- 뜻: 맞닿은, 인접한
+- 어원적 연결: 경계나 면이 서로 닿아 있음
+- 사용 맥락: `contiguous states` = 서로 이어져 있는 주들
+- 주의: `continuous`는 끊김 없이 이어짐. `contiguous`는 서로 맞닿아 있음.
+
+### contiguity
+
+- 구성: `contiguous` + `-ity`
+- 뜻: 인접성, 맞닿아 있음
+- 어원적 연결: 둘 이상의 대상이 서로 닿아 있는 상태
+- 사용 맥락: `spatial contiguity` = 공간적 인접성
+
 ### contingent
 
 - 구성: Latin `con-` = together + `tangere` = touch
@@ -111,6 +134,8 @@
 - `tactile`: 촉각의
 - `tangent`: 한 점에서 닿는 선
 - `intact`: 건드려지지 않음
+- `contagion`: 접촉처럼 퍼져 나감
+- `contiguous`: 서로 맞닿아 있음
 - `contingent`: 조건에 닿아 달린
 
 ## 비교 단어

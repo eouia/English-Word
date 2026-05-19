@@ -96,7 +96,7 @@
 - 사용 맥락: `police informant`, `confidential informant`
 - 주의: 경찰이나 수사기관에 정보를 제공하는 사람. 부정적 뉘앙스가 있을 수 있음.
 
-### fugitive
+### [[fug#fugitive|fugitive]]
 
 - 핵심 의미: 도망자, 도피 중인 사람
 - 사용 맥락: `a fugitive from justice`, `capture a fugitive`

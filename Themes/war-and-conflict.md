@@ -184,7 +184,7 @@
 - 사용 맥락: `civilian population`, `civilian casualties`
 - 주의: 군인이 아닌 일반 사람. `civil`과 철자는 비슷하지만 문맥상 구분.
 
-### refugee
+### [[fug#refugee|refugee]]
 
 - 핵심 의미: 난민
 - 사용 맥락: `war refugees`, `refugee camp`

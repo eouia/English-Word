@@ -172,7 +172,7 @@
 - 사용 맥락: `the age of reason`, `use reason`
 - 주의: 계몽주의 맥락에서는 전통·권위보다 인간의 합리적 판단을 중시하는 개념.
 
-### liberty
+### [[liber#liberty|liberty]]
 
 - 핵심 의미: 자유
 - 사용 맥락: `liberty and equality`, `civil liberties`
@@ -258,7 +258,7 @@
 - 사용 맥락: `universal suffrage`, `expand suffrage`
 - 주의: 선거권을 뜻함. 고통 `suffering`과 혼동하지 않기.
 
-### radical
+### [[radic#radical|radical]]
 
 - 핵심 의미: 급진적인, 근본적인
 - 사용 맥락: `radical revolutionaries`, `radical reform`

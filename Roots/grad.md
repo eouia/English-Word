@@ -2,9 +2,9 @@
 
 - 출발 단어: `progress`
 - 핵심 어원: Latin `gradus` = 걸음, 단계
-- 관련 형태: Latin `gradi` = 걷다, 나아가다
+- 관련 형태: Latin `gradi` = 걷다, 나아가다; `gress-`
 - 핵심 이미지: 한 걸음씩 단계적으로 나아감
-- 관련 문서: [[cess]], [[curr]]
+- 관련 문서: [[gress]], [[cess]], [[curr]]
 - 주의: `grade`와 `graduate`는 "단계" 이미지, `progress`와 `regress`는 "걸어 나아감" 이미지.
 
 ## 출발 단어 분석
@@ -81,6 +81,13 @@
 - 어원적 연결: 사람들이 함께 걸어 모임
 - 사용 맥락: `the U.S. Congress` = 미국 의회
 
+### transgress
+
+- 구성: `trans-` = across, beyond + Latin `gradi`
+- 뜻: 위반하다, 넘어서다
+- 어원적 연결: 정해진 선이나 규범을 넘어 걸어감
+- 사용 맥락: `transgress social norms` = 사회 규범을 위반하다
+
 ## 기억 포인트
 
 `grad/gress` 계열은 "걸음과 단계" 이미지.
@@ -91,6 +98,7 @@
 - `progress`: 앞으로 나아감
 - `regress`: 뒤로 돌아감
 - `aggressive`: 상대를 향해 나아감
+- `transgress`: 선을 넘어 위반함
 
 ## 비교 단어
 
