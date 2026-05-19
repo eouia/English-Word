@@ -75,6 +75,30 @@ cd site
 npx quartz build --serve
 ```
 
+## 테마 단어를 어근 문서와 연결
+
+`Roots/_Lexicon.json`을 기준으로 `Themes/*.md`의 `### word` 항목 제목을 어근 문서 링크로 바꿀 수 있다.
+
+먼저 dry-run으로 확인한다.
+
+```bash
+python3 scripts/link_theme_roots.py Themes/education-school-and-university.md
+```
+
+출력이 괜찮으면 `--write`를 붙인다.
+
+```bash
+python3 scripts/link_theme_roots.py --write Themes/education-school-and-university.md
+```
+
+모든 테마 문서를 대상으로 확인하려면 파일명을 생략한다.
+
+```bash
+python3 scripts/link_theme_roots.py
+```
+
+여러 어근 후보가 있는 단어는 `ambiguous`로 표시하고 자동 수정하지 않는다.
+
 ## 운영 원칙
 
 - iCloud Vault 안에는 `.git`, `site/`, `node_modules/`를 두지 않는다.
