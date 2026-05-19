@@ -8,8 +8,8 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "English Word",
-    pageTitleSuffix: " | English Word",
+    pageTitle: "Vocabulary Notes",
+    pageTitleSuffix: " | Vocabulary Notes",
     enableSPA: true,
     enablePopovers: true,
     analytics: null,
