@@ -158,7 +158,7 @@
 - 사용 맥락: `settler colonialism displaced Indigenous peoples`
 - 주의: 외부 정착민이 기존 주민을 몰아내거나 지배하며 새 사회를 세우는 형태.
 
-### assimilation
+### [[simil#assimilation|assimilation]]
 
 - 핵심 의미: 동화, 흡수
 - 사용 맥락: `forced assimilation`, `assimilation policy`

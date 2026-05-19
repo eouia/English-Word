@@ -78,7 +78,7 @@
 - 사용 맥락: `gravitational pull`, `gravitational waves`
 - 주의: 천체의 운동, 궤도, 블랙홀 설명에 자주 나옴.
 
-### atmosphere
+### [[sphere#atmosphere|atmosphere]]
 
 - 핵심 의미: 대기, 분위기
 - 사용 맥락: `Mars's atmosphere`, `atmospheric pressure`

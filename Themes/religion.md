@@ -240,7 +240,7 @@
 - 사용 맥락: `Christian denomination`, `religious denomination`
 - 주의: 같은 큰 종교 안에서 조직·교리·예배 방식이 다른 하위 집단.
 
-### congregation
+### [[greg#congregation|congregation]]
 
 - 핵심 의미: 회중, 신도 모임
 - 사용 맥락: `local congregation`, `congregational worship`
@@ -272,7 +272,7 @@
 - 사용 맥락: `religious tolerance`, `tolerance of dissent`
 - 주의: 다른 신앙과 의견을 억압하지 않고 인정하는 태도나 제도.
 
-### persecution
+### [[sequ#persecution|persecution]]
 
 - 핵심 의미: 박해
 - 사용 맥락: `religious persecution`, `persecution of minorities`

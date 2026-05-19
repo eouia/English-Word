@@ -66,7 +66,7 @@
 - 사용 맥락: `racial prejudice`, `prejudice against immigrants`
 - 주의: 행동보다 태도·선입견에 초점. 차별 행동으로 이어질 수 있음.
 
-### segregation
+### [[greg#segregation|segregation]]
 
 - 핵심 의미: 분리, 인종 분리
 - 사용 맥락: `racial segregation`, `school segregation`
@@ -84,7 +84,7 @@
 - 사용 맥락: `political oppression`, `systemic oppression`
 - 주의: 개인적 불친절보다 권력과 제도가 지속적으로 누르는 상태.
 
-### persecution
+### [[sequ#persecution|persecution]]
 
 - 핵심 의미: 박해
 - 사용 맥락: `religious persecution`, `political persecution`
@@ -166,7 +166,7 @@
 - 사용 맥락: `peaceful protest`, `protest against injustice`
 - 주의: 단순 불평보다 공개적이고 정치·사회적 항의의 느낌.
 
-### demonstration
+### [[monstr#demonstration|demonstration]]
 
 - 핵심 의미: 시위, 시연, 증명
 - 사용 맥락: `mass demonstration`, `public demonstration`

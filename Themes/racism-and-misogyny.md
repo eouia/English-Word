@@ -78,7 +78,7 @@
 - 사용 맥락: `structural inequality`, `structural barriers`
 - 주의: 개인 노력만으로 해결하기 어려운 사회 구조상의 불평등을 설명할 때 중요.
 
-### segregation
+### [[greg#segregation|segregation]]
 
 - 핵심 의미: 분리, 인종 분리
 - 사용 맥락: `racial segregation`, `school segregation`

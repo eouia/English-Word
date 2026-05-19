@@ -48,7 +48,7 @@
 
 ## 건국과 헌정 질서
 
-### constitution
+### [[stat#constitution|constitution]]
 
 - 핵심 의미: 헌법
 - 사용 맥락: `the U.S. Constitution`, `constitutional rights`
@@ -116,7 +116,7 @@
 - 사용 맥락: `Native American reservation`
 - 주의: 일반적으로는 예약. 미국사에서는 원주민에게 배정된 제한된 거주 지역.
 
-### assimilation
+### [[simil#assimilation|assimilation]]
 
 - 핵심 의미: 동화
 - 사용 맥락: `forced assimilation`, `assimilation policy`
@@ -172,7 +172,7 @@
 - 사용 맥락: `Reconstruction era`, `postwar reconstruction`
 - 주의: 미국사에서는 남북전쟁 후 남부 재편과 흑인 시민권 확대·반발의 시기.
 
-### segregation
+### [[greg#segregation|segregation]]
 
 - 핵심 의미: 분리, 인종분리
 - 사용 맥락: `racial segregation`, `school segregation`

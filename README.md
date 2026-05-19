@@ -129,6 +129,11 @@ python3 scripts/build_theme_lexicon.py
 
 ## 운영 원칙
 
+- **노트 데이터 원본은 항상 iCloud Obsidian Vault다.**
+- `~/Workspace/English-Word`는 Quartz 설정, Git 이력, GitHub Pages 배포를 위한 작업 폴더다.
+- GitHub 저장소가 최신이어도 노트 본문의 정답으로 간주하지 않는다. 다른 Mac에서 작업한 노트는 iCloud Vault에 먼저 들어온다고 본다.
+- "최신화" 순서는 `git pull --ff-only`로 배포 스크립트와 Quartz 설정을 받은 뒤, `publish/sync_from_icloud.sh`로 **Vault → Workspace** 방향 동기화다.
+- Workspace/GitHub 내용을 iCloud Vault에 역으로 덮어쓰지 않는다. Vault 파일 삭제나 복구는 사용자가 명시적으로 요청한 경우에만 한다.
 - iCloud Vault 안에는 `.git`, `site/`, `node_modules/`를 두지 않는다.
 - Git/Quartz 작업은 `~/Workspace/English-Word`에서만 한다.
 - 여러 Mac에서 작업할 때는 배포 전 항상 `git pull --ff-only`를 먼저 한다.

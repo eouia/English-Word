@@ -123,6 +123,14 @@
 - 어원적 연결: 비슷하게 만들어 한데 섞임
 - 사용 맥락: `assimilate into a culture` = 문화에 동화되다
 
+### assimilation
+
+- 구성: `assimilate` + `-ion`
+- 뜻: 동화, 흡수
+- 어원적 연결: 기존 집단이나 체계와 비슷해지도록 섞이는 과정
+- 사용 맥락: `forced assimilation` = 강제 동화
+- 주의: 문화·이민·식민지 맥락에서는 권력관계가 들어간 강제적 동화를 가리킬 수 있음.
+
 ## 기억 포인트
 
 `simil/simul` 계열은 "같음/비슷함/함께" 이미지.
@@ -135,6 +143,7 @@
 - `similar`: 비슷한
 - `simultaneous`: 같은 시간에 함께
 - `assimilate`: 비슷하게 되어 섞임
+- `assimilation`: 비슷하게 되어 섞이는 과정
 
 ## 비교 단어
 

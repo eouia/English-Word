@@ -66,13 +66,13 @@
 - 사용 맥락: `fossil remains`, `skeletal remains`
 - 주의: 일반 의미는 "남은 것". 고생물·고고학 맥락에서는 생물의 유해나 잔존물.
 
-### sediment
+### [[sed-sedere#sediment|sediment]]
 
 - 핵심 의미: 퇴적물
 - 사용 맥락: `layers of sediment`, `sediment deposits`
 - 주의: 물·바람 등에 의해 쌓인 입자 물질. 화석 보존과 지층 형성에 중요.
 
-### sedimentary
+### [[sed-sedere#sedimentary|sedimentary]]
 
 - 핵심 의미: 퇴적성의, 퇴적암의
 - 사용 맥락: `sedimentary rock`, `sedimentary layers`

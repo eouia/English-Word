@@ -172,7 +172,7 @@
 - 사용 맥락: `genocide during wartime`, `prevent genocide`
 - 주의: 특정 민족, 인종, 종교 집단을 의도적으로 파괴하려는 범죄.
 
-### persecution
+### [[sequ#persecution|persecution]]
 
 - 핵심 의미: 박해
 - 사용 맥락: `persecution of Jews`, `religious persecution`

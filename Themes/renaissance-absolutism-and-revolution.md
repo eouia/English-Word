@@ -90,7 +90,7 @@
 - 사용 맥락: `accused of heresy`, `heretical ideas`
 - 주의: 정통 교리와 어긋난다고 판단된 믿음. 권위와 사상의 충돌을 보여줌.
 
-### persecution
+### [[sequ#persecution|persecution]]
 
 - 핵심 의미: 박해
 - 사용 맥락: `religious persecution`, `persecution of dissenters`
@@ -228,13 +228,13 @@
 - 사용 맥락: `peasant revolt`, `revolt against taxation`
 - 주의: 권력에 대한 집단적 반발. 동사로는 역겹게 하다라는 뜻도 있음.
 
-### constitution
+### [[stat#constitution|constitution]]
 
 - 핵심 의미: 헌법
 - 사용 맥락: `written constitution`, `constitutional government`
 - 주의: 국가 권력의 구조와 시민의 권리를 정하는 최고 규범.
 
-### constitutionalism
+### [[stat#constitutionalism|constitutionalism]]
 
 - 핵심 의미: 입헌주의
 - 사용 맥락: `constitutionalism and limited government`

@@ -70,6 +70,20 @@
 - 어원적 연결: 땅이나 표면이 아래로 내려앉음
 - 사용 맥락: `land subsidence` = 지반 침하
 
+### sediment
+
+- 구성: Latin `sedere` = sit, settle
+- 뜻: 침전물, 퇴적물
+- 어원적 연결: 물이나 공기 속 입자가 아래로 가라앉아 앉은 것
+- 사용 맥락: `river sediment` = 강의 퇴적물
+
+### sedimentary
+
+- 구성: `sediment` + `-ary`
+- 뜻: 퇴적의, 퇴적암의
+- 어원적 연결: 가라앉아 쌓인 물질로 이루어짐
+- 사용 맥락: `sedimentary rock` = 퇴적암
+
 ### assiduous
 
 - 구성: 라틴어 `assiduus` = 곁에 계속 앉아 있는
@@ -92,4 +106,5 @@
 - `preside`: 앞자리에 앉아 이끎
 - `session`: 함께 앉아 진행하는 시간
 - `subside`: 아래로 앉아 가라앉음
+- `sediment`: 아래로 가라앉아 쌓인 물질
 - `assiduous`: 붙어 앉아 꾸준함

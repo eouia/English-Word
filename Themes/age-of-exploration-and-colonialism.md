@@ -234,7 +234,7 @@
 - 사용 맥락: `Christian missionary`, `missionary activity`
 - 주의: 종교 전파를 목적으로 활동한 사람. 교육·의료와 함께 식민 권력과 얽히기도 함.
 
-### assimilation
+### [[simil#assimilation|assimilation]]
 
 - 핵심 의미: 동화
 - 사용 맥락: `forced assimilation`, `cultural assimilation`

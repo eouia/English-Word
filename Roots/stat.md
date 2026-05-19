@@ -43,6 +43,35 @@
 - 어원적 연결: 공식적으로 세워 둔 규칙
 - 사용 맥락: `a federal statute` = 연방법
 
+### constitution
+
+- 구성: Latin `constituere` = set up, establish
+- 의미: 헌법, 구성, 체질
+- 어원적 연결: 국가나 조직의 기본 구조를 함께 세워 둔 것
+- 사용 맥락: `the U.S. Constitution` = 미국 헌법
+- 주의: 정치·법 맥락에서는 헌법. 일반적으로는 사물의 구성이나 사람의 체질도 뜻함.
+
+### constitutional
+
+- 구성: `constitution` + `-al`
+- 의미: 헌법상의, 합헌의; 체질상의
+- 어원적 연결: 세워진 기본 구조나 헌법에 속함
+- 사용 맥락: `constitutional rights` = 헌법상 권리
+
+### unconstitutional
+
+- 구성: `un-` + `constitutional`
+- 의미: 위헌의
+- 어원적 연결: 헌법으로 세워 둔 기준에 맞지 않음
+- 사용 맥락: `declare a law unconstitutional` = 법을 위헌이라고 선언하다
+
+### constitutionalism
+
+- 구성: `constitutional` + `-ism`
+- 의미: 입헌주의
+- 어원적 연결: 권력을 헌법이라는 세워진 기준으로 제한하려는 원칙
+- 사용 맥락: `constitutionalism and limited government` = 입헌주의와 제한 정부
+
 ### statue
 
 - 구성: Latin `statua` < `statuere`
@@ -154,6 +183,7 @@
 - `statement`: 세워 둔 말
 - `status`: 사회 안에서 서 있는 자리
 - `statute`: 세워 둔 법
+- `constitution`: 기본 구조나 헌법을 세워 둠
 - `station`: 서 있는 자리
 - `stable`: 흔들리지 않고 섬
 - `stabilize`: 흔들리지 않게 세움

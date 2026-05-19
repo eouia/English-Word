@@ -196,7 +196,7 @@
 - 사용 맥락: `pay tribute to Rome`, `tribute from conquered peoples`
 - 주의: 지배받는 지역이 강대국에 바치는 돈·물품. 현대에는 존경의 표시.
 
-### assimilation
+### [[simil#assimilation|assimilation]]
 
 - 핵심 의미: 동화
 - 사용 맥락: `cultural assimilation`, `Roman assimilation`
@@ -272,7 +272,7 @@
 - 사용 맥락: `spread of Christianity`, `Christianity in the Roman Empire`
 - 주의: 로마 후기 제국의 종교와 정치 질서를 크게 바꾼 요소.
 
-### persecution
+### [[sequ#persecution|persecution]]
 
 - 핵심 의미: 박해
 - 사용 맥락: `persecution of Christians`, `religious persecution`

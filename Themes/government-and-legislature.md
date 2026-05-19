@@ -4,19 +4,19 @@
 
 ## 제도와 헌법
 
-### constitution
+### [[stat#constitution|constitution]]
 
 - 핵심 의미: 헌법, 구성 체계
 - 사용 맥락: `the U.S. Constitution`, `constitutional law`
 - 주의: 일반 의미로는 "구성, 체질". 정치 맥락에서는 국가 권력 구조와 기본권을 정한 최고 규범.
 
-### constitutional
+### [[stat#constitutional|constitutional]]
 
 - 핵심 의미: 헌법상의, 합헌의
 - 사용 맥락: `constitutional rights`, `constitutional amendment`
 - 주의: `constitutional`은 "체질상의"라는 뜻도 있지만, 정부·법 맥락에서는 거의 헌법 관련 의미.
 
-### unconstitutional
+### [[stat#unconstitutional|unconstitutional]]
 
 - 핵심 의미: 위헌의
 - 사용 맥락: `declare a law unconstitutional`
@@ -300,7 +300,7 @@
 - 사용 맥락: `the Westminster system`
 - 주의: 영국식 의회제와 정부 운영 방식을 가리키는 표현으로 쓰임.
 
-### Constitution
+### [[stat#constitution|Constitution]]
 
 - 핵심 의미: 헌법
 - 사용 맥락: `the U.S. Constitution`, `constitutional amendment`

@@ -74,6 +74,20 @@
 - 어원적 연결: 손으로 다루고 통제함
 - 사용 맥락: `manage a team` = 팀을 관리하다
 
+### manner
+
+- 구성: Old French `maniere` ← Vulgar Latin `*manuaria` ← Latin `manuarius` = of the hand
+- 뜻: 방식, 태도, 예절
+- 어원적 연결: 손으로 다루는 방식에서 어떤 일을 하는 방식, 사람의 태도·행동 양식으로 확장
+- 사용 맥락: `in a polite manner` = 공손한 방식으로, `good manners` = 좋은 예절
+
+### mannerism
+
+- 구성: `manner` + `-ism`
+- 뜻: 독특한 습관, 버릇, 양식
+- 어원적 연결: 개인이나 예술가가 반복적으로 드러내는 "하는 방식"
+- 사용 맥락: `a nervous mannerism` = 긴장할 때 나오는 버릇
+
 ### manageable
 
 - 구성: `manage` + `-able`
@@ -111,6 +125,7 @@
 - `manufacture`: 손으로 만들던 일
 - `manipulate`: 손안에서 조작하듯 다룸
 - `manage`: 손에 쥐고 관리함
+- `manner`: 손으로 다루는 방식에서 나온 태도·방식
 - `manageable`: 손에 쥐고 다룰 수 있음
 - `emancipate`: 손으로 쥔 소유에서 풀어 줌
 
@@ -125,3 +140,8 @@
 
 - 뜻: 만들다, 하다
 - 구분 포인트: [[fac]]는 만드는 행위. `manu`는 그 일을 하는 손이나 직접 조작하는 이미지
+
+### manor
+
+- 뜻: 영지, 장원
+- 구분 포인트: [[manere]] 계열. Latin `manere` = 머무르다에서 온 말이라 `manner`와 어원이 다름

@@ -78,7 +78,7 @@
 - 사용 맥락: `atmospheric CO2 concentration`
 - 주의: 일반 의미는 집중. 과학 맥락에서는 일정 부피나 양 안에 들어 있는 물질의 정도.
 
-### atmospheric
+### [[sphere#atmospheric|atmospheric]]
 
 - 핵심 의미: 대기의
 - 사용 맥락: `atmospheric carbon dioxide`, `atmospheric warming`

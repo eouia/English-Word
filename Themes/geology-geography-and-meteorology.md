@@ -60,13 +60,13 @@
 - 사용 맥락: `rock strata`, `sedimentary strata`
 - 주의: `stratum`의 복수형. 사회 계층을 뜻할 때도 있음.
 
-### sediment
+### [[sed-sedere#sediment|sediment]]
 
 - 핵심 의미: 퇴적물
 - 사용 맥락: `river sediment`, `sediment deposition`
 - 주의: 물, 바람, 얼음이 운반해 쌓은 모래, 진흙, 자갈 등.
 
-### sedimentary
+### [[sed-sedere#sedimentary|sedimentary]]
 
 - 핵심 의미: 퇴적의, 퇴적암의
 - 사용 맥락: `sedimentary rock`, `sedimentary layers`
@@ -210,7 +210,7 @@
 - 사용 맥락: `meteorological data`, `study meteorology`
 - 주의: 날씨와 대기 현상을 연구하는 분야. 유성 `meteor`와 철자가 비슷하지만 다른 분야.
 
-### atmosphere
+### [[sphere#atmosphere|atmosphere]]
 
 - 핵심 의미: 대기, 분위기
 - 사용 맥락: `Earth's atmosphere`, `atmospheric pressure`
