@@ -17,6 +17,7 @@
 | [[business-and-economics]]         | 상업, 기업 활동, 시장 구조, 생산과 비용, 경기 변동, 금융과 투자 관련 어휘 |
 | [[court-and-trial]]                | 법정, 재판 절차, 소송 당사자, 증거, 판결과 형벌 관련 어휘           |
 | [[crime-investigation-and-police]] | 범죄, 용의자, 경찰 수사, 체포와 구금, 증거 확보 관련 어휘           |
+| [[collective-animal-nouns]]        | 동물의 무리, 떼, 군집을 가리키는 영어 집합명사와 사용 맥락       |
 | [[cultural-anthropology-and-indigenous-peoples]] | 문화인류학, 민족지, 친족과 의례, 토착민·원주민, 식민화와 권리 관련 어휘 |
 | [[diplomacy]]                      | 외교 관계, 대사관과 외교관, 협상과 조약, 제재와 갈등 완화 관련 어휘      |
 | [[disease-and-medicine]]           | 질병과 증상, 감염과 면역, 진단과 예후, 치료와 예방, 공중보건과 의료 윤리 관련 어휘 |
