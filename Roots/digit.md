@@ -3,7 +3,7 @@
 - 출발 단어: `digit`
 - 핵심 의미: 손가락, 손가락으로 세는 수, 숫자
 - 관련 형태: Latin `digitus` = finger, toe
-- 관련 문서: [[index]], [[dict]]
+- 관련 문서: [[Roots/index|index]], [[dict]]
 
 ## 핵심 이미지
 
@@ -80,9 +80,8 @@
 
 ## 비교 단어
 
-`index`, `indicate`, `indicator`는 [[index]] 계열.
+`index`, `indicate`, `indicator`는 [[Roots/index|index]] 계열.
 깊은 PIE 단계에서는 "가리키다" 이미지가 연결될 수 있지만, 영어 학습 문서에서는 `digitus` = 손가락/숫자 계열과 `index` = 가리키는 표시 계열을 나누는 편이 좋음.
 
 `dict`는 [[dict]] 계열로 "말하다, 선언하다" 중심.
 철자가 비슷해도 `digit`의 숫자·손가락 이미지와 직접 섞지 않음.
-

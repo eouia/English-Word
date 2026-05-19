@@ -3,7 +3,7 @@
 - 출발 단어: `sign`
 - 핵심 의미: 표시, 신호, 표로 나타내다
 - 관련 형태: Latin `signum` = mark, token, sign
-- 관련 문서: [[index]], [[dict]]
+- 관련 문서: [[Roots/index|index]], [[dict]]
 
 ## 핵심 이미지
 
@@ -145,7 +145,7 @@
 
 ## 비교 단어
 
-`index`, `indicate`, `indicator`는 [[index]] 계열.
+`index`, `indicate`, `indicator`는 [[Roots/index|index]] 계열.
 둘 다 "가리켜 알림" 이미지가 있지만, `sign`은 표시 자체와 그 표시가 담은 의미가 중심.
 
 `dict`는 [[dict]] 계열로 "말하다, 선언하다" 중심.
