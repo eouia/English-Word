@@ -1,3 +1,28 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+@media all and (min-width: 1200px) {
+  body .page > #quartz-body > .right.sidebar {
+    max-height: 100vh;
+    overflow-y: auto;
+    overscroll-behavior: contain;
+    scrollbar-gutter: stable;
+  }
+
+  body .page > #quartz-body > .right.sidebar > * {
+    flex: 0 0 auto;
+  }
+
+  body .page > #quartz-body > .right.sidebar .toc,
+  body .page > #quartz-body > .right.sidebar .backlinks {
+    max-height: none;
+    overflow: visible;
+  }
+
+  body .page > #quartz-body > .right.sidebar ul.toc-content.overflow,
+  body .page > #quartz-body > .right.sidebar .backlinks > ul.overflow {
+    max-height: none;
+    overflow: visible;
+  }
+}
