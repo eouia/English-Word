@@ -2192,8 +2192,8 @@
     },
     "Roots/quest.md": {
       "doc": "Roots/quest.md",
-      "heading_count": 10,
-      "mtime": 1779097887.0,
+      "heading_count": 11,
+      "mtime": 1779185840.0,
       "root": "quest"
     },
     "Roots/quote.md": {
@@ -3169,7 +3169,7 @@
       "root": "yield"
     }
   },
-  "generated_at": "2026-05-19T10:15:23.535077+00:00",
+  "generated_at": "2026-05-19T10:17:55.330101+00:00",
   "root": "/Users/seongnohyi/Workspace/English-Word",
   "schema": 1,
   "terms": {
@@ -4007,7 +4007,7 @@
       {
         "doc": "Roots/quest.md",
         "heading": "acquire",
-        "line": 77,
+        "line": 85,
         "root": "quest",
         "section": "단어들",
         "term": "acquire"
@@ -12161,6 +12161,16 @@
         "root": "not",
         "section": "단어들",
         "term": "connotation"
+      }
+    ],
+    "conquest": [
+      {
+        "doc": "Roots/quest.md",
+        "heading": "conquest",
+        "line": 35,
+        "root": "quest",
+        "section": "단어들",
+        "term": "conquest"
       }
     ],
     "consanguinity": [
@@ -20549,7 +20559,7 @@
       {
         "doc": "Roots/quest.md",
         "heading": "exquisite",
-        "line": 84,
+        "line": 92,
         "root": "quest",
         "section": "단어들",
         "term": "exquisite"
@@ -26813,7 +26823,7 @@
       {
         "doc": "Roots/quest.md",
         "heading": "inquire",
-        "line": 56,
+        "line": 64,
         "root": "quest",
         "section": "단어들",
         "term": "inquire"
@@ -26823,7 +26833,7 @@
       {
         "doc": "Roots/quest.md",
         "heading": "inquiry",
-        "line": 63,
+        "line": 71,
         "root": "quest",
         "section": "단어들",
         "term": "inquiry"
@@ -39147,7 +39157,7 @@
       {
         "doc": "Roots/quest.md",
         "heading": "query",
-        "line": 49,
+        "line": 57,
         "root": "quest",
         "section": "단어들",
         "term": "query"
@@ -39167,7 +39177,7 @@
       {
         "doc": "Roots/quest.md",
         "heading": "question",
-        "line": 35,
+        "line": 43,
         "root": "quest",
         "section": "단어들",
         "term": "question"
@@ -39177,7 +39187,7 @@
       {
         "doc": "Roots/quest.md",
         "heading": "questionable",
-        "line": 42,
+        "line": 50,
         "root": "quest",
         "section": "단어들",
         "term": "questionable"
@@ -41121,7 +41131,7 @@
       {
         "doc": "Roots/quest.md",
         "heading": "require",
-        "line": 70,
+        "line": 78,
         "root": "quest",
         "section": "단어들",
         "term": "require"

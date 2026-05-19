@@ -122,7 +122,7 @@
 - 사용 맥락: `Roman legionary`, `legionary equipment`
 - 주의: 로마 군단에 소속된 전문 병사.
 
-### conquest
+### [[quest#conquest|conquest]]
 
 - 핵심 의미: 정복
 - 사용 맥락: `Roman conquest`, `conquest of Gaul`

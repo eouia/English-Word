@@ -32,6 +32,14 @@
 - 어원적 연결: 무언가를 구하거나 청함
 - 사용 맥락: `request information` = 정보를 요청하다
 
+### conquest
+
+- 구성: `con-` = together/intensive + Latin `quaerere` / `quaesit-`
+- 뜻: 정복, 점령, 어렵게 얻은 성취
+- 어원적 연결: 찾아 구해낸 대상 → 힘으로 차지한 땅이나 성취
+- 사용 맥락: `the conquest of Gaul` = 갈리아 정복, `a conquest of fear` = 두려움의 극복
+- 주의: 현대 의미는 군사적 정복이 강함. `quest`의 "찾고 구함"이 소유·획득 쪽으로 굳어진 단어.
+
 ### question
 
 - 구성: 라틴어 `quaestio`
@@ -110,6 +118,7 @@
 
 - `quest`: 찾아감
 - `request`: 요청함
+- `conquest`: 힘으로 얻어 차지함
 - `question`: 답을 찾기 위해 물음
 - `questionable`: 질문받을 만큼 의심스러움
 - `query`: 문의함

@@ -160,7 +160,7 @@
 - 사용 맥락: `Indigenous peoples`, `indigenous communities`
 - 주의: 특정 지역에 외부 지배 이전부터 살아온 사람들과 문화를 가리킴. 대문자 `Indigenous`는 정체성 표현에 자주 쓰임.
 
-### conquest
+### [[quest#conquest|conquest]]
 
 - 핵심 의미: 정복
 - 사용 맥락: `Spanish conquest`, `conquest of the Americas`

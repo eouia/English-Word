@@ -260,7 +260,7 @@
 - 사용 맥락: `ancient migration`, `population migration`
 - 주의: 사람들이 한 지역에서 다른 지역으로 이동하는 현상.
 
-### conquest
+### [[quest#conquest|conquest]]
 
 - 핵심 의미: 정복
 - 사용 맥락: `military conquest`, `conquest of neighboring lands`
