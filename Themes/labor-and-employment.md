@@ -90,7 +90,7 @@
 - 사용 맥락: `submit a résumé`, `update one's résumé`
 - 주의: 미국식 취업 문맥에서 자주 씀. 영국식에서는 `CV`가 더 흔함.
 
-### [[inter#interview|interview]]
+### interview ([[inter#interview|inter]], [[vid-see#interview|vid-see]])
 
 - 핵심 의미: 면접, 인터뷰
 - 사용 맥락: `job interview`, `interview panel`
@@ -128,7 +128,7 @@
 - 사용 맥락: `executive compensation`, `workers' compensation`
 - 주의: 급여, 보너스, 복지까지 포함하는 넓은 보상. 법률에서는 손해 배상.
 
-### [[bene#benefit|benefit]]
+### benefit ([[bene#benefit|bene]], [[fac-make#benefit|fac-make]])
 
 - 핵심 의미: 복리후생, 혜택
 - 사용 맥락: `employee benefits`, `health benefits`

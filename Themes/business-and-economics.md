@@ -240,7 +240,7 @@
 - 사용 맥락: `GDP growth`, `per capita GDP`
 - 주의: `gross domestic product`. 한 나라 안에서 일정 기간 생산된 최종 재화와 서비스의 총가치.
 
-### [[fisc#fiscal policy|fiscal policy]]
+### fiscal policy ([[fisc#fiscal policy|fisc]], [[polis#fiscal policy|polis]])
 
 - 핵심 의미: 재정 정책
 - 사용 맥락: `expansionary fiscal policy`, `fiscal stimulus`

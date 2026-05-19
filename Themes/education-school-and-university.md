@@ -86,7 +86,7 @@
 
 ## 입학과 등록
 
-### [[miss#admission|admission]]
+### admission ([[miss#admission|miss]], [[mit#admission|mit]])
 
 - 핵심 의미: 입학 허가, 입학 절차
 - 사용 맥락: `college admissions`, `gain admission to a university`

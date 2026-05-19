@@ -60,13 +60,13 @@
 - 사용 맥락: `ancient deities`, `patron deity`
 - 주의: 종교나 신화 속 신적 존재. `god`보다 격식 있는 표현.
 
-### [[mono#monotheism|monotheism]]
+### monotheism ([[mono#monotheism|mono]], [[theo#monotheism|theo]])
 
 - 핵심 의미: 유일신교
 - 사용 맥락: `monotheistic religion`, `rise of monotheism`
 - 주의: 하나의 신만을 믿는 종교 체계. 유대교, 기독교, 이슬람교와 자주 연결됨.
 
-### [[poly#polytheism|polytheism]]
+### polytheism ([[poly#polytheism|poly]], [[theo#polytheism|theo]])
 
 - 핵심 의미: 다신교
 - 사용 맥락: `ancient polytheism`, `polytheistic worship`

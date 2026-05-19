@@ -116,7 +116,7 @@
 - 사용 맥락: `DNA evidence`, `DNA replication`
 - 주의: `deoxyribonucleic acid`. 유전정보를 저장하는 분자.
 
-### [[chrom#chromosome|chromosome]]
+### chromosome ([[chrom#chromosome|chrom]], [[som#chromosome|som]])
 
 - 핵심 의미: 염색체
 - 사용 맥락: `sex chromosome`, `chromosomal abnormality`

@@ -4,7 +4,7 @@
 
 ## 심리학 기본 개념
 
-### [[logos#psychology|psychology]]
+### psychology ([[logos#psychology|logos]], [[psych#psychology|psych]])
 
 - 핵심 의미: 심리학, 심리
 - 사용 맥락: `clinical psychology`, `social psychology`
@@ -322,7 +322,7 @@
 - 사용 맥락: `patient confidentiality`, `therapist confidentiality`
 - 주의: 상담과 치료에서 개인 정보와 대화 내용을 보호하는 윤리 원칙.
 
-### [[con#consent|consent]]
+### consent ([[con#consent|con]], [[sent#consent|sent]])
 
 - 핵심 의미: 동의, 승낙
 - 사용 맥락: `informed consent`, `parental consent`

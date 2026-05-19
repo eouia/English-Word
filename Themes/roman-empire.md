@@ -4,7 +4,7 @@
 
 ## 정치 제도와 권력
 
-### [[popul#republic|republic]]
+### republic ([[popul#republic|popul]], [[res#republic|res]])
 
 - 핵심 의미: 공화국, 공화정
 - 사용 맥락: `the Roman Republic`, `republican institutions`
@@ -234,7 +234,7 @@
 - 사용 맥락: `Roman infrastructure`, `roads and aqueducts`
 - 주의: 도로, 수도교, 항구, 하수도처럼 사회 운영의 바탕이 되는 시설.
 
-### [[aqua#aqueduct|aqueduct]]
+### aqueduct ([[aqua#aqueduct|aqua]], [[duc#aqueduct|duc]])
 
 - 핵심 의미: 수도교
 - 사용 맥락: `Roman aqueduct`, `aqueduct system`
@@ -252,7 +252,7 @@
 - 사용 맥락: `Roman urbanization`, `urban planning`
 - 주의: 도시 중심의 생활과 행정, 상업, 문화가 확대되는 과정.
 
-### [[amphi#amphitheater|amphitheater]]
+### amphitheater ([[amphi#amphitheater|amphi]], [[theor#amphitheater|theor]])
 
 - 핵심 의미: 원형경기장
 - 사용 맥락: `Roman amphitheater`, `gladiatorial games`

@@ -48,11 +48,14 @@ publish/publish_notes.sh "Update notes"
 이 스크립트는 다음 작업을 수행한다.
 
 1. GitHub 최신 변경을 `git pull --ff-only`로 가져옴
-2. iCloud Vault의 `Roots/`, `Themes/`, `scripts/`, `index.md`, `AGENTS.md`, `RTK.md`를 Workspace 저장소로 동기화
-3. `Themes/_Lexicon.json` 역색인 갱신
-4. Quartz 빌드 확인
-5. 변경 사항이 있으면 커밋 후 푸시
-6. GitHub Actions가 자동으로 GitHub Pages에 배포
+2. iCloud Vault 원본에서 `Roots/_Lexicon.json` 갱신
+3. iCloud Vault 원본에서 테마 heading과 어근 문서 링크 갱신
+4. iCloud Vault 원본에서 `Themes/_Lexicon.json` 갱신
+5. iCloud Vault의 `Roots/`, `Themes/`, `scripts/`, `index.md`, `AGENTS.md`, `RTK.md`를 Workspace 저장소로 동기화
+6. Workspace 저장소에서도 역색인과 테마 링크를 한 번 더 갱신
+7. Quartz 빌드 확인
+8. 변경 사항이 있으면 커밋 후 푸시
+9. GitHub Actions가 자동으로 GitHub Pages에 배포
 
 ## 수동 작업
 
@@ -86,10 +89,10 @@ npx quartz build --serve
 python3 scripts/link_theme_roots.py Themes/education-school-and-university.md
 ```
 
-출력이 괜찮으면 `--write`를 붙인다. 여러 어근 후보가 있는 단어를 자동으로 고치지 않으려면 `--skip-ambiguous`를 함께 쓴다.
+출력이 괜찮으면 `--write`를 붙인다. 여러 어근 후보가 있는 단어는 표제어 뒤에 후보 어근 링크를 모두 붙이려면 `--list-ambiguous`를 함께 쓴다.
 
 ```bash
-python3 scripts/link_theme_roots.py --write --skip-ambiguous Themes/education-school-and-university.md
+python3 scripts/link_theme_roots.py --write --list-ambiguous Themes/education-school-and-university.md
 ```
 
 모든 테마 문서를 대상으로 확인하려면 파일명을 생략한다.
@@ -100,16 +103,19 @@ python3 scripts/link_theme_roots.py
 
 예: `### curriculum` -> `### [[curr#curriculum|curriculum]]`
 
-여러 어근 후보가 있는 단어도 첫 번째 후보로 연결한다. 이 경우 출력에 `ambiguous chose`로 후보 목록을 남긴다.
+여러 어근 후보가 있는 단어를 `--list-ambiguous`로 처리하면 표제어 뒤에 후보 링크를 나열한다.
 
-안전하게 확실한 항목만 전체 적용하려면:
+예: `### aqueduct` -> `### aqueduct ([[aqua#aqueduct|aqua]], [[duc#aqueduct|duc]])`
+
+전체 적용:
 
 ```bash
-python3 scripts/link_theme_roots.py --write --skip-ambiguous
+python3 scripts/build_lexicon.py
+python3 scripts/link_theme_roots.py --write --list-ambiguous
 python3 scripts/build_theme_lexicon.py
 ```
 
-`skip ambiguous`로 남은 항목은 `republic`, `aqueduct`, `psychology`처럼 복수 어근 후보가 자연스러운 경우다. 이 항목들은 사람이 어느 링크가 학습 흐름에 맞는지 판단한 뒤 수동으로 고친다.
+`--skip-ambiguous`를 쓰면 복수 후보 항목을 건드리지 않는다. 특정 테마에서 후보 링크가 너무 복잡해 보이면 수동으로 하나만 남겨도 된다.
 
 ## 테마 역색인 갱신
 

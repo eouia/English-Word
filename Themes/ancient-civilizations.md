@@ -186,7 +186,7 @@
 
 ## 종교, 권력, 문화
 
-### [[poly#polytheism|polytheism]]
+### polytheism ([[poly#polytheism|poly]], [[theo#polytheism|theo]])
 
 - 핵심 의미: 다신교
 - 사용 맥락: `ancient polytheism`, `polytheistic religion`

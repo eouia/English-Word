@@ -90,7 +90,7 @@
 - 사용 맥락: `apply at the consulate`, `consular services`
 - 주의: 대사관보다 실무적 영사 업무, 비자, 자국민 보호와 관련이 큼.
 
-### [[miss#mission|mission]]
+### mission ([[miss#mission|miss]], [[mit#mission|mit]])
 
 - 핵심 의미: 외교 사절단, 임무
 - 사용 맥락: `diplomatic mission`, `UN mission`

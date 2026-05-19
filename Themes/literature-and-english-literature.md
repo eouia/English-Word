@@ -164,7 +164,7 @@
 - 사용 맥락: `ironic tone`, `melancholic tone`
 - 주의: 작가나 화자가 대상에 대해 보이는 태도와 감정의 결.
 
-### [[ag#ambiguity|ambiguity]]
+### ambiguity ([[ag#ambiguity|ag]], [[ambi#ambiguity|ambi]])
 
 - 핵심 의미: 모호성, 중의성
 - 사용 맥락: `deliberate ambiguity`, `moral ambiguity`
@@ -196,13 +196,13 @@
 - 사용 맥락: `rhyme scheme`, `end rhyme`
 - 주의: 시에서 소리가 비슷하게 반복되는 것.
 
-### [[loqu#soliloquy|soliloquy]]
+### soliloquy ([[loqu#soliloquy|loqu]], [[solus#soliloquy|solus]])
 
 - 핵심 의미: 독백
 - 사용 맥락: `Hamlet's soliloquy`, `dramatic soliloquy`
 - 주의: 무대에서 인물이 혼자 자기 생각을 말하는 장면.
 
-### [[logos#monologue|monologue]]
+### monologue ([[logos#monologue|logos]], [[mono#monologue|mono]])
 
 - 핵심 의미: 독백, 긴 발화
 - 사용 맥락: `dramatic monologue`, `interior monologue`

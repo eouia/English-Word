@@ -60,7 +60,7 @@
 - 사용 맥락: `carbon emissions`, `reduce emissions`
 - 주의: 기체나 물질을 밖으로 내보내는 것. 기후 글에서는 주로 온실가스 배출.
 
-### [[em#emit|emit]]
+### emit ([[em#emit|em]], [[ex#emit|ex]], [[mit#emit|mit]])
 
 - 핵심 의미: 배출하다, 내뿜다
 - 사용 맥락: `emit carbon dioxide`, `emit pollutants`

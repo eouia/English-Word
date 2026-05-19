@@ -16,13 +16,13 @@
 - 사용 맥락: `interstate commerce`, `global commerce`
 - 주의: `trade`보다 격식 있고 제도·법률 맥락에서 자주 쓰임.
 
-### [[ex#export|export]]
+### export ([[ex#export|ex]], [[port#export|port]])
 
 - 핵심 의미: 수출하다, 수출품
 - 사용 맥락: `export goods`, `major exports`
 - 주의: 상품·서비스를 다른 나라로 파는 것. 컴퓨터에서는 파일을 내보내다.
 
-### [[in#import|import]]
+### import ([[in#import|in]], [[port#import|port]])
 
 - 핵심 의미: 수입하다, 수입품
 - 사용 맥락: `import raw materials`, `imports from abroad`
@@ -66,7 +66,7 @@
 - 사용 맥락: `customs duty`, `import duties`
 - 주의: 일반 의미는 의무. 무역·세관 맥락에서는 수입품에 부과되는 세금.
 
-### [[quant#quota|quota]]
+### quota ([[quant#quota|quant]], [[quote#quota|quote]])
 
 - 핵심 의미: 할당량, 수입 한도
 - 사용 맥락: `import quota`, `production quota`

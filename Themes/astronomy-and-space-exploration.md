@@ -128,7 +128,7 @@
 
 ## 관측과 연구
 
-### [[scope#telescope|telescope]]
+### telescope ([[scope#telescope|scope]], [[tele#telescope|tele]])
 
 - 핵심 의미: 망원경
 - 사용 맥락: `space telescope`, `radio telescope`

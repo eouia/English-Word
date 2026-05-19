@@ -104,13 +104,13 @@
 
 ## 지리와 지도
 
-### [[geo#geography|geography]]
+### geography ([[geo#geography|geo]], [[graph#geography|graph]])
 
 - 핵심 의미: 지리학, 지리
 - 사용 맥락: `physical geography`, `human geography`
 - 주의: 지형, 기후, 자원, 인구, 도시, 경제 활동의 공간적 관계를 다룸.
 
-### [[graph#topography|topography]]
+### topography ([[graph#topography|graph]], [[top#topography|top]])
 
 - 핵심 의미: 지형, 지세
 - 사용 맥락: `mountainous topography`, `topographic map`

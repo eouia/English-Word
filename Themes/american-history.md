@@ -60,7 +60,7 @@
 - 사용 맥락: `American federalism`, `federal and state powers`
 - 주의: 중앙정부와 주정부가 권한을 나누는 제도.
 
-### [[popul#republic|republic]]
+### republic ([[popul#republic|popul]], [[res#republic|res]])
 
 - 핵심 의미: 공화국
 - 사용 맥락: `a constitutional republic`, `the early republic`

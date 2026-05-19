@@ -20,6 +20,9 @@ ENTRY_HEADING_RE = re.compile(r"^(###)\s+(.+?)\s*$")
 SECTION_HEADING_RE = re.compile(r"^(##)\s+(.+?)\s*$")
 CODE_RE = re.compile(r"`([^`]+)`")
 WIKI_LINK_FULL_RE = re.compile(r"^\[\[(?P<target>[^|\]]+)(?:\|(?P<alias>[^\]]+))?\]\]$")
+ROOT_LINK_SUFFIX_RE = re.compile(
+    r"\s+\((?:\[\[[^\]]+\]\](?:,\s*)?)+\)\s*$"
+)
 
 
 def normalize(value: str) -> str:
@@ -31,10 +34,16 @@ def clean_heading(value: str) -> str:
     return value.strip()
 
 
+def strip_root_link_suffix(value: str) -> str:
+    """Remove trailing root-choice links from a theme heading."""
+
+    return ROOT_LINK_SUFFIX_RE.sub("", value).strip()
+
+
 def display_title(value: str) -> str:
     """Return the visible title from a plain or wiki-linked heading."""
 
-    cleaned = clean_heading(value)
+    cleaned = strip_root_link_suffix(clean_heading(value))
     match = WIKI_LINK_FULL_RE.match(cleaned)
     if not match:
         return cleaned

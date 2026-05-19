@@ -240,7 +240,7 @@
 - 사용 맥락: `constitutionalism and limited government`
 - 주의: 권력이 헌법과 법에 의해 제한되어야 한다는 원칙.
 
-### [[popul#republic|republic]]
+### republic ([[popul#republic|popul]], [[res#republic|res]])
 
 - 핵심 의미: 공화국, 공화정
 - 사용 맥락: `establish a republic`, `republican government`

@@ -214,7 +214,7 @@
 - 사용 맥락: `multimodal model`, `multimodal input`
 - 주의: 텍스트, 이미지, 음성, 영상 등 여러 종류의 입력·출력을 다루는 것.
 
-### [[sym#synthetic|synthetic]]
+### synthetic ([[sym#synthetic|sym]], [[thes#synthetic|thes]])
 
 - 핵심 의미: 합성의, 인공적인
 - 사용 맥락: `synthetic data`, `synthetic media`

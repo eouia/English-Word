@@ -166,7 +166,7 @@
 - 사용 맥락: `corroborate testimony`, `corroborating evidence`
 - 주의: 한 사람의 주장이나 증언을 다른 증거가 보강하는 것.
 
-### [[dict#verdict|verdict]]
+### verdict ([[dict#verdict|dict]], [[ver#verdict|ver]])
 
 - 핵심 의미: 평결
 - 사용 맥락: `reach a verdict`, `guilty verdict`

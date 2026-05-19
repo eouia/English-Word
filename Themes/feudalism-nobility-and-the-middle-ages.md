@@ -146,7 +146,7 @@
 - 사용 맥락: `Earl of Warwick`, `earldom`
 - 주의: 영국식 작위. 대륙 유럽의 `count`와 대체로 대응함. 여성형은 `countess`.
 
-### [[comit#count|count]]
+### count ([[comit#count|comit]], [[count#count|count]])
 
 - 핵심 의미: 백작, 세다
 - 사용 맥락: `Count Dracula`, `Count of Flanders`
@@ -302,7 +302,7 @@
 - 사용 맥락: `medieval monk`, `monastic order`
 - 주의: 종교적 규율에 따라 공동체 생활을 하는 남성 수도자.
 
-### [[manu#manuscript|manuscript]]
+### manuscript ([[manu#manuscript|manu]], [[scrib#manuscript|scrib]])
 
 - 핵심 의미: 필사본, 원고
 - 사용 맥락: `illuminated manuscript`, `medieval manuscript`
@@ -384,7 +384,7 @@
 - 사용 맥락: `Charlemagne's empire`, `Carolingian Renaissance`
 - 주의: 서유럽 중세 정치 질서와 신성로마제국의 전통을 설명할 때 자주 등장.
 
-### [[mag-magn#Magna Carta|Magna Carta]]
+### Magna Carta ([[chart#Magna Carta|chart]], [[mag-magn#Magna Carta|mag-magn]])
 
 - 핵심 의미: 대헌장
 - 사용 맥락: `the Magna Carta of 1215`

@@ -134,7 +134,7 @@
 - 사용 맥락: `administer a program`, `administer benefits`
 - 주의: 정부 맥락에서는 제도나 프로그램을 운영·관리하는 것. 의료 맥락에서는 약을 투여하다.
 
-### [[over#oversee|oversee]]
+### oversee ([[over#oversee|over]], [[vid-watch#oversee|vid-watch]])
 
 - 핵심 의미: 감독하다
 - 사용 맥락: `oversee federal programs`, `oversee implementation`

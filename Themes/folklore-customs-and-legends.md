@@ -122,7 +122,7 @@
 - 사용 맥락: `recurring motif`, `folkloric motif`
 - 주의: 이야기나 예술에서 반복되는 장면, 이미지, 주제. 음악·미술에서도 쓰임.
 
-### [[arch#archetype|archetype]]
+### archetype ([[arch#archetype|arch]], [[typ#archetype|typ]])
 
 - 핵심 의미: 원형, 전형
 - 사용 맥락: `hero archetype`, `archetypal figure`

@@ -16,7 +16,7 @@
 - 사용 맥락: `mechanization of textile production`, `agricultural mechanization`
 - 주의: 인간이나 동물의 노동을 기계가 대신하거나 보조하게 되는 변화.
 
-### [[fac-make#manufacture|manufacture]]
+### manufacture ([[fac-make#manufacture|fac-make]], [[manu#manufacture|manu]])
 
 - 핵심 의미: 제조하다, 제조
 - 사용 맥락: `manufacture textiles`, `manufacturing industry`

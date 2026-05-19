@@ -28,7 +28,7 @@
 - 사용 맥락: `national sovereignty`, `popular sovereignty`
 - 주의: 국가가 외부 간섭 없이 스스로 다스릴 권한. `popular sovereignty`는 국민 주권.
 
-### [[popul#republic|republic]]
+### republic ([[popul#republic|popul]], [[res#republic|res]])
 
 - 핵심 의미: 공화국
 - 사용 맥락: `a democratic republic`, `republican government`
@@ -188,7 +188,7 @@
 - 사용 맥락: `deliberate on a bill`, `deliberative body`
 - 주의: 형용사로는 "의도적인, 신중한". 의회 맥락에서는 충분히 논의하고 검토하는 절차.
 
-### [[con#convene|convene]]
+### convene ([[con#convene|con]], [[ven#convene|ven]])
 
 - 핵심 의미: 회의를 소집하다, 모이다
 - 사용 맥락: `Congress convenes`, `convene a special session`

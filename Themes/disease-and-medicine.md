@@ -290,7 +290,7 @@
 - 사용 맥락: `vaccine efficacy`, `drug efficacy`
 - 주의: 의학 연구에서 치료나 예방이 의도한 효과를 내는 정도.
 
-### [[con#consent|consent]]
+### consent ([[con#consent|con]], [[sent#consent|sent]])
 
 - 핵심 의미: 동의, 승낙
 - 사용 맥락: `informed consent`, `patient consent`
