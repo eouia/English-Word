@@ -156,7 +156,7 @@
 ### index
 
 - 뜻: 가리켜 알려 주는 표시, 색인, 지표
-- 연결 포인트: [[Roots/index|index]]의 `indicate`, `indicator`, `indict`는 `dicare/dictare`와 연결되지만, 말보다 "가리킴/표시" 이미지가 강함
+- 연결 포인트: [[indic]]의 `indicate`, `indicator`, `indict`는 `dicare/dictare`와 연결되지만, 말보다 "가리킴/표시" 이미지가 강함
 
 ### fore
 

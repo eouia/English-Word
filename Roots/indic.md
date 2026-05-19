@@ -1,11 +1,11 @@
-# index
+# indic
 
 - 출발 단어: `index`
 - 핵심 어원: Latin `index/indicis` = pointer, sign; from `indicare` = point out, show
 - 깊은 어근: `in-` + `dicare` = proclaim, point out; PIE `*deik-` = show, point
 - 핵심 이미지: 손가락이나 표시로 가리켜 알려 줌
 - 관련 문서: [[dict]], [[digit]], [[speci]]
-- 주의: 이 문서는 실제 어근 문서 `index.md`. 관리용 목차는 `_Index.md`.
+- 주의: 웹사이트의 폴더 인덱스와 충돌을 피하려고 대표 문서명은 `indic`.
 
 ## 출발 단어 분석
 

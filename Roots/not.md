@@ -3,7 +3,7 @@
 - 출발 단어: `annotation`
 - 핵심 의미: 표시하다, 알아보게 적어 두다
 - 관련 형태: Latin `nota` = mark, sign, note; `notare` = mark, note
-- 관련 문서: [[sign]], [[Roots/index|index]]
+- 관련 문서: [[sign]], [[indic]]
 
 ## 핵심 이미지
 
@@ -114,5 +114,5 @@
 `sign`은 [[sign]] 계열로 "표시 자체, 신호, 서명" 이미지가 강함.
 `not`은 그 표시를 "알아보게 적어 두다, 주석으로 남기다" 쪽에 가까움.
 
-`index`는 [[Roots/index|index]] 계열로 "가리켜 알려 주는 표시" 중심.
+`index`는 [[indic]] 계열로 "가리켜 알려 주는 표시" 중심.
 `annotation`은 본문에 덧붙은 설명 표시라는 점에서 구분.
