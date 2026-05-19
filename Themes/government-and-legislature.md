@@ -22,7 +22,7 @@
 - 사용 맥락: `declare a law unconstitutional`
 - 주의: 단순히 나쁘거나 부당한 것이 아니라, 헌법에 어긋난다는 법적 판단.
 
-### sovereignty
+### [[sovereign#sovereignty|sovereignty]]
 
 - 핵심 의미: 주권, 최고 통치권
 - 사용 맥락: `national sovereignty`, `popular sovereignty`

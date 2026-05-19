@@ -4,7 +4,7 @@
 
 ## 식민지와 독립
 
-### colony
+### [[colon#colony|colony]]
 
 - 핵심 의미: 식민지
 - 사용 맥락: `British colonies in North America`, `colonial society`
@@ -98,7 +98,7 @@
 - 사용 맥락: `westward expansion`, `territorial expansion`
 - 주의: 미국사에서는 서부로 영토와 정착지가 넓어지는 과정.
 
-### migration
+### [[migr#migration|migration]]
 
 - 핵심 의미: 이주
 - 사용 맥락: `westward migration`, `internal migration`
@@ -122,7 +122,7 @@
 - 사용 맥락: `forced assimilation`, `assimilation policy`
 - 주의: 소수 집단이 지배 문화에 맞추도록 압박받는 과정. 원주민 교육 정책과 자주 연결됨.
 
-### sovereignty
+### [[sovereign#sovereignty|sovereignty]]
 
 - 핵심 의미: 주권
 - 사용 맥락: `tribal sovereignty`, `national sovereignty`
@@ -186,7 +186,7 @@
 - 사용 맥락: `rapid industrialization`, `industrialization after the Civil War`
 - 주의: 농업 중심 사회가 공장, 기계, 대량생산 중심으로 바뀌는 과정.
 
-### urbanization
+### [[urban#urbanization|urbanization]]
 
 - 핵심 의미: 도시화
 - 사용 맥락: `urbanization and immigration`, `rapid urbanization`
@@ -248,7 +248,7 @@
 - 사용 맥락: `containment policy`, `contain communism`
 - 주의: 냉전기 미국의 대소련·반공 외교 전략.
 
-### suburb
+### [[urban#suburb|suburb]]
 
 - 핵심 의미: 교외
 - 사용 맥락: `postwar suburbs`, `suburban growth`

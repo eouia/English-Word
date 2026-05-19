@@ -54,19 +54,19 @@
 
 ## 식민지와 제국
 
-### colony
+### [[colon#colony|colony]]
 
 - 핵심 의미: 식민지
 - 사용 맥락: `overseas colony`, `colonial settlement`
 - 주의: 본국이 정치·경제적으로 지배하는 해외 지역. 정착민과 원주민 관계를 함께 봐야 함.
 
-### colonialism
+### [[colon#colonialism|colonialism]]
 
 - 핵심 의미: 식민주의
 - 사용 맥락: `European colonialism`, `legacy of colonialism`
 - 주의: 한 나라가 다른 지역을 지배하고 자원, 노동, 정치 질서를 통제하는 체제와 이념.
 
-### colonization
+### [[colon#colonization|colonization]]
 
 - 핵심 의미: 식민화, 개척 정착
 - 사용 맥락: `colonization of the Americas`, `settler colonization`
@@ -254,13 +254,13 @@
 
 ## 탈식민과 역사적 유산
 
-### decolonization
+### [[colon#decolonization|decolonization]]
 
 - 핵심 의미: 탈식민화
 - 사용 맥락: `decolonization movement`, `postwar decolonization`
 - 주의: 식민 지배에서 벗어나 정치적 독립과 문화적 회복을 추구하는 과정.
 
-### sovereignty
+### [[sovereign#sovereignty|sovereignty]]
 
 - 핵심 의미: 주권
 - 사용 맥락: `national sovereignty`, `Indigenous sovereignty`
@@ -278,7 +278,7 @@
 - 사용 맥락: `legacy of colonialism`, `colonial legacy`
 - 주의: 식민 지배가 남긴 언어, 국경, 경제 구조, 불평등, 문화적 상처를 가리킬 수 있음.
 
-### postcolonial
+### [[colon#postcolonial|postcolonial]]
 
 - 핵심 의미: 탈식민의, 식민지 이후의
 - 사용 맥락: `postcolonial literature`, `postcolonial society`

@@ -302,7 +302,7 @@
 - 사용 맥락: `literary Modernism`, `modernist fiction`
 - 주의: 전통적 서사 형식을 깨고 의식의 흐름, 단절, 주관적 시간, 실험적 언어를 중시함.
 
-### postcolonial
+### [[colon#postcolonial|postcolonial]]
 
 - 핵심 의미: 탈식민의, 식민지 이후의
 - 사용 맥락: `postcolonial literature`, `postcolonial criticism`

@@ -116,7 +116,7 @@
 - 사용 맥락: `absolute monarchy`, `constitutional monarchy`
 - 주의: 왕이나 여왕 같은 군주가 국가의 중심이 되는 체제. 헌정군주제와 절대군주제 구분 필요.
 
-### sovereignty
+### [[sovereign#sovereignty|sovereignty]]
 
 - 핵심 의미: 주권
 - 사용 맥락: `state sovereignty`, `sovereign authority`

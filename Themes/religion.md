@@ -154,7 +154,7 @@
 
 ## 의례와 예배
 
-### ritual
+### [[rit#ritual|ritual]]
 
 - 핵심 의미: 의례, 의식
 - 사용 맥락: `religious ritual`, `ritual practice`
@@ -196,7 +196,7 @@
 - 사용 맥락: `religious ceremony`, `wedding ceremony`
 - 주의: 공식적이고 형식이 있는 행사. 종교와 세속 행사 모두에 쓰임.
 
-### rite
+### [[rit#rite|rite]]
 
 - 핵심 의미: 의례, 의식
 - 사용 맥락: `funeral rites`, `rite of passage`

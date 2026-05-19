@@ -450,6 +450,12 @@
       "mtime": 1779079182.0,
       "root": "cogn"
     },
+    "Roots/colon.md": {
+      "doc": "Roots/colon.md",
+      "heading_count": 9,
+      "mtime": 1779186504.0,
+      "root": "colon"
+    },
     "Roots/come.md": {
       "doc": "Roots/come.md",
       "heading_count": 6,
@@ -1536,6 +1542,12 @@
       "mtime": 1779009393.0,
       "root": "metr"
     },
+    "Roots/migr.md": {
+      "doc": "Roots/migr.md",
+      "heading_count": 9,
+      "mtime": 1779186451.0,
+      "root": "migr"
+    },
     "Roots/mim.md": {
       "doc": "Roots/mim.md",
       "heading_count": 4,
@@ -2298,6 +2310,12 @@
       "mtime": 1779004680.0,
       "root": "right"
     },
+    "Roots/rit.md": {
+      "doc": "Roots/rit.md",
+      "heading_count": 7,
+      "mtime": 1779186490.0,
+      "root": "rit"
+    },
     "Roots/riv.md": {
       "doc": "Roots/riv.md",
       "heading_count": 8,
@@ -2579,6 +2597,12 @@
       "heading_count": 9,
       "mtime": 1779098624.0,
       "root": "sound"
+    },
+    "Roots/sovereign.md": {
+      "doc": "Roots/sovereign.md",
+      "heading_count": 7,
+      "mtime": 1779186451.0,
+      "root": "sovereign"
     },
     "Roots/space.md": {
       "doc": "Roots/space.md",
@@ -2988,6 +3012,12 @@
       "mtime": 1779044476.0,
       "root": "uni"
     },
+    "Roots/urban.md": {
+      "doc": "Roots/urban.md",
+      "heading_count": 9,
+      "mtime": 1779186491.0,
+      "root": "urban"
+    },
     "Roots/val.md": {
       "doc": "Roots/val.md",
       "heading_count": 15,
@@ -3169,7 +3199,7 @@
       "root": "yield"
     }
   },
-  "generated_at": "2026-05-19T10:17:55.330101+00:00",
+  "generated_at": "2026-05-19T10:28:53.278566+00:00",
   "root": "/Users/seongnohyi/Workspace/English-Word",
   "schema": 1,
   "terms": {
@@ -10751,6 +10781,66 @@
         "term": "collusion"
       }
     ],
+    "colonial": [
+      {
+        "doc": "Roots/colon.md",
+        "heading": "colonial",
+        "line": 28,
+        "root": "colon",
+        "section": "단어들",
+        "term": "colonial"
+      }
+    ],
+    "colonialism": [
+      {
+        "doc": "Roots/colon.md",
+        "heading": "colonialism",
+        "line": 35,
+        "root": "colon",
+        "section": "단어들",
+        "term": "colonialism"
+      }
+    ],
+    "colonist": [
+      {
+        "doc": "Roots/colon.md",
+        "heading": "colonist",
+        "line": 56,
+        "root": "colon",
+        "section": "단어들",
+        "term": "colonist"
+      }
+    ],
+    "colonization": [
+      {
+        "doc": "Roots/colon.md",
+        "heading": "colonization",
+        "line": 49,
+        "root": "colon",
+        "section": "단어들",
+        "term": "colonization"
+      }
+    ],
+    "colonize": [
+      {
+        "doc": "Roots/colon.md",
+        "heading": "colonize",
+        "line": 42,
+        "root": "colon",
+        "section": "단어들",
+        "term": "colonize"
+      }
+    ],
+    "colony": [
+      {
+        "doc": "Roots/colon.md",
+        "heading": "colony",
+        "line": 21,
+        "root": "colon",
+        "section": "단어들",
+        "term": "colony"
+      }
+    ],
     "combat": [
       {
         "doc": "Roots/batt.md",
@@ -14437,6 +14527,26 @@
         "root": "clin",
         "section": "단어들",
         "term": "decline"
+      }
+    ],
+    "decolonization": [
+      {
+        "doc": "Roots/colon.md",
+        "heading": "decolonization",
+        "line": 77,
+        "root": "colon",
+        "section": "단어들",
+        "term": "decolonization"
+      }
+    ],
+    "decolonize": [
+      {
+        "doc": "Roots/colon.md",
+        "heading": "decolonize",
+        "line": 70,
+        "root": "colon",
+        "section": "단어들",
+        "term": "decolonize"
       }
     ],
     "decrease": [
@@ -18433,6 +18543,16 @@
         "term": "emergent"
       }
     ],
+    "emigrant": [
+      {
+        "doc": "Roots/migr.md",
+        "heading": "emigrant",
+        "line": 61,
+        "root": "migr",
+        "section": "단어들",
+        "term": "emigrant"
+      }
+    ],
     "emigrate": [
       {
         "doc": "Roots/em.md",
@@ -18440,6 +18560,14 @@
         "line": 135,
         "root": "em",
         "section": "주의할 단어",
+        "term": "emigrate"
+      },
+      {
+        "doc": "Roots/migr.md",
+        "heading": "emigrate",
+        "line": 54,
+        "root": "migr",
+        "section": "단어들",
         "term": "emigrate"
       }
     ],
@@ -24667,6 +24795,26 @@
         "term": "immersion"
       }
     ],
+    "immigrant": [
+      {
+        "doc": "Roots/migr.md",
+        "heading": "immigrant",
+        "line": 40,
+        "root": "migr",
+        "section": "단어들",
+        "term": "immigrant"
+      }
+    ],
+    "immigrate": [
+      {
+        "doc": "Roots/migr.md",
+        "heading": "immigrate",
+        "line": 47,
+        "root": "migr",
+        "section": "단어들",
+        "term": "immigrate"
+      }
+    ],
     "imminence": [
       {
         "doc": "Roots/minere.md",
@@ -30683,6 +30831,46 @@
         "term": "middle-class"
       }
     ],
+    "migrant": [
+      {
+        "doc": "Roots/migr.md",
+        "heading": "migrant",
+        "line": 33,
+        "root": "migr",
+        "section": "단어들",
+        "term": "migrant"
+      }
+    ],
+    "migrate": [
+      {
+        "doc": "Roots/migr.md",
+        "heading": "migrate",
+        "line": 26,
+        "root": "migr",
+        "section": "단어들",
+        "term": "migrate"
+      }
+    ],
+    "migration": [
+      {
+        "doc": "Roots/migr.md",
+        "heading": "migration",
+        "line": 19,
+        "root": "migr",
+        "section": "단어들",
+        "term": "migration"
+      }
+    ],
+    "migratory": [
+      {
+        "doc": "Roots/migr.md",
+        "heading": "migratory",
+        "line": 68,
+        "root": "migr",
+        "section": "단어들",
+        "term": "migratory"
+      }
+    ],
     "mime": [
       {
         "doc": "Roots/mim.md",
@@ -36663,6 +36851,16 @@
         "term": "postcard"
       }
     ],
+    "postcolonial": [
+      {
+        "doc": "Roots/colon.md",
+        "heading": "postcolonial",
+        "line": 63,
+        "root": "colon",
+        "section": "단어들",
+        "term": "postcolonial"
+      }
+    ],
     "postmortem": [
       {
         "doc": "Roots/mort.md",
@@ -41963,6 +42161,76 @@
         "term": "rightward"
       }
     ],
+    "rite": [
+      {
+        "doc": "Roots/rit.md",
+        "heading": "rite",
+        "line": 27,
+        "root": "rit",
+        "section": "단어들",
+        "term": "rite"
+      }
+    ],
+    "rite of passage": [
+      {
+        "doc": "Roots/rit.md",
+        "heading": "rite of passage",
+        "line": 41,
+        "root": "rit",
+        "section": "단어들",
+        "term": "rite of passage"
+      }
+    ],
+    "rites": [
+      {
+        "doc": "Roots/rit.md",
+        "heading": "rites",
+        "line": 34,
+        "root": "rit",
+        "section": "단어들",
+        "term": "rites"
+      }
+    ],
+    "ritual": [
+      {
+        "doc": "Roots/rit.md",
+        "heading": "ritual",
+        "line": 20,
+        "root": "rit",
+        "section": "단어들",
+        "term": "ritual"
+      }
+    ],
+    "ritualism": [
+      {
+        "doc": "Roots/rit.md",
+        "heading": "ritualism",
+        "line": 62,
+        "root": "rit",
+        "section": "단어들",
+        "term": "ritualism"
+      }
+    ],
+    "ritualistic": [
+      {
+        "doc": "Roots/rit.md",
+        "heading": "ritualistic",
+        "line": 55,
+        "root": "rit",
+        "section": "단어들",
+        "term": "ritualistic"
+      }
+    ],
+    "ritualize": [
+      {
+        "doc": "Roots/rit.md",
+        "heading": "ritualize",
+        "line": 48,
+        "root": "rit",
+        "section": "단어들",
+        "term": "ritualize"
+      }
+    ],
     "rival": [
       {
         "doc": "Roots/riv.md",
@@ -44217,6 +44485,46 @@
         "term": "souvenir"
       }
     ],
+    "sovereign": [
+      {
+        "doc": "Roots/sovereign.md",
+        "heading": "sovereign",
+        "line": 27,
+        "root": "sovereign",
+        "section": "단어들",
+        "term": "sovereign"
+      }
+    ],
+    "sovereign power": [
+      {
+        "doc": "Roots/sovereign.md",
+        "heading": "sovereign power",
+        "line": 41,
+        "root": "sovereign",
+        "section": "단어들",
+        "term": "sovereign power"
+      }
+    ],
+    "sovereign state": [
+      {
+        "doc": "Roots/sovereign.md",
+        "heading": "sovereign state",
+        "line": 34,
+        "root": "sovereign",
+        "section": "단어들",
+        "term": "sovereign state"
+      }
+    ],
+    "sovereignty": [
+      {
+        "doc": "Roots/sovereign.md",
+        "heading": "sovereignty",
+        "line": 20,
+        "root": "sovereign",
+        "section": "단어들",
+        "term": "sovereignty"
+      }
+    ],
     "space": [
       {
         "doc": "Roots/space.md",
@@ -45689,6 +45997,26 @@
         "term": "subtraction"
       }
     ],
+    "suburb": [
+      {
+        "doc": "Roots/urban.md",
+        "heading": "suburb",
+        "line": 78,
+        "root": "urban",
+        "section": "단어들",
+        "term": "suburb"
+      }
+    ],
+    "suburban": [
+      {
+        "doc": "Roots/urban.md",
+        "heading": "suburban",
+        "line": 71,
+        "root": "urban",
+        "section": "단어들",
+        "term": "suburban"
+      }
+    ],
     "succeed": [
       {
         "doc": "Roots/cess.md",
@@ -46049,6 +46377,26 @@
         "term": "suppress"
       }
     ],
+    "supremacy": [
+      {
+        "doc": "Roots/sovereign.md",
+        "heading": "supremacy",
+        "line": 55,
+        "root": "sovereign",
+        "section": "단어들",
+        "term": "supremacy"
+      }
+    ],
+    "supreme": [
+      {
+        "doc": "Roots/sovereign.md",
+        "heading": "supreme",
+        "line": 62,
+        "root": "sovereign",
+        "section": "단어들",
+        "term": "supreme"
+      }
+    ],
     "surface": [
       {
         "doc": "Roots/facet.md",
@@ -46257,6 +46605,16 @@
         "root": "ten",
         "section": "단어들",
         "term": "sustain"
+      }
+    ],
+    "suzerain": [
+      {
+        "doc": "Roots/sovereign.md",
+        "heading": "suzerain",
+        "line": 48,
+        "root": "sovereign",
+        "section": "단어들",
+        "term": "suzerain"
       }
     ],
     "syllable": [
@@ -47919,6 +48277,16 @@
         "term": "translucent"
       }
     ],
+    "transmigration": [
+      {
+        "doc": "Roots/migr.md",
+        "heading": "transmigration",
+        "line": 75,
+        "root": "migr",
+        "section": "단어들",
+        "term": "transmigration"
+      }
+    ],
     "transmission": [
       {
         "doc": "Roots/miss.md",
@@ -49213,6 +49581,76 @@
         "root": "set",
         "section": "단어들",
         "term": "upset"
+      }
+    ],
+    "urban": [
+      {
+        "doc": "Roots/urban.md",
+        "heading": "urban",
+        "line": 29,
+        "root": "urban",
+        "section": "단어들",
+        "term": "urban"
+      }
+    ],
+    "urbane": [
+      {
+        "doc": "Roots/urban.md",
+        "heading": "urbane",
+        "line": 57,
+        "root": "urban",
+        "section": "단어들",
+        "term": "urbane"
+      }
+    ],
+    "urbanism": [
+      {
+        "doc": "Roots/urban.md",
+        "heading": "urbanism",
+        "line": 50,
+        "root": "urban",
+        "section": "단어들",
+        "term": "urbanism"
+      }
+    ],
+    "urbanity": [
+      {
+        "doc": "Roots/urban.md",
+        "heading": "urbanity",
+        "line": 64,
+        "root": "urban",
+        "section": "단어들",
+        "term": "urbanity"
+      }
+    ],
+    "urbanization": [
+      {
+        "doc": "Roots/urban.md",
+        "heading": "urbanization",
+        "line": 22,
+        "root": "urban",
+        "section": "단어들",
+        "term": "urbanization"
+      }
+    ],
+    "urbanize": [
+      {
+        "doc": "Roots/urban.md",
+        "heading": "urbanize",
+        "line": 36,
+        "root": "urban",
+        "section": "단어들",
+        "term": "urbanize"
+      }
+    ],
+    "urbanized": [
+      {
+        "doc": "Roots/urban.md",
+        "heading": "urbanized",
+        "line": 43,
+        "root": "urban",
+        "section": "단어들",
+        "term": "urbanized"
       }
     ],
     "utopia": [

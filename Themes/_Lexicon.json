@@ -3,7 +3,7 @@
     "Themes/age-of-exploration-and-colonialism.md": {
       "doc": "Themes/age-of-exploration-and-colonialism.md",
       "heading_count": 57,
-      "mtime": 1779185861.0,
+      "mtime": 1779186513.0,
       "theme": "age-of-exploration-and-colonialism"
     },
     "Themes/agriculture-and-livestock.md": {
@@ -15,19 +15,19 @@
     "Themes/american-history.md": {
       "doc": "Themes/american-history.md",
       "heading_count": 58,
-      "mtime": 1779184077.0,
+      "mtime": 1779186513.0,
       "theme": "american-history"
     },
     "Themes/ancient-civilizations.md": {
       "doc": "Themes/ancient-civilizations.md",
       "heading_count": 55,
-      "mtime": 1779185861.0,
+      "mtime": 1779186513.0,
       "theme": "ancient-civilizations"
     },
     "Themes/archaeology.md": {
       "doc": "Themes/archaeology.md",
       "heading_count": 47,
-      "mtime": 1779169399.0,
+      "mtime": 1779186513.0,
       "theme": "archaeology"
     },
     "Themes/art-and-art-movements.md": {
@@ -57,7 +57,7 @@
     "Themes/collective-animal-nouns.md": {
       "doc": "Themes/collective-animal-nouns.md",
       "heading_count": 20,
-      "mtime": 1779169399.0,
+      "mtime": 1779186513.0,
       "theme": "collective-animal-nouns"
     },
     "Themes/court-and-trial.md": {
@@ -75,13 +75,13 @@
     "Themes/cultural-anthropology-and-indigenous-peoples.md": {
       "doc": "Themes/cultural-anthropology-and-indigenous-peoples.md",
       "heading_count": 54,
-      "mtime": 1779169399.0,
+      "mtime": 1779186513.0,
       "theme": "cultural-anthropology-and-indigenous-peoples"
     },
     "Themes/diplomacy.md": {
       "doc": "Themes/diplomacy.md",
       "heading_count": 44,
-      "mtime": 1779184077.0,
+      "mtime": 1779186513.0,
       "theme": "diplomacy"
     },
     "Themes/disease-and-medicine.md": {
@@ -105,7 +105,7 @@
     "Themes/folklore-customs-and-legends.md": {
       "doc": "Themes/folklore-customs-and-legends.md",
       "heading_count": 45,
-      "mtime": 1779184077.0,
+      "mtime": 1779186513.0,
       "theme": "folklore-customs-and-legends"
     },
     "Themes/genetics-and-biology.md": {
@@ -135,7 +135,7 @@
     "Themes/government-and-legislature.md": {
       "doc": "Themes/government-and-legislature.md",
       "heading_count": 49,
-      "mtime": 1779184077.0,
+      "mtime": 1779186513.0,
       "theme": "government-and-legislature"
     },
     "Themes/human-rights-movement.md": {
@@ -147,7 +147,7 @@
     "Themes/industrial-revolution-and-modern-society.md": {
       "doc": "Themes/industrial-revolution-and-modern-society.md",
       "heading_count": 55,
-      "mtime": 1779184077.0,
+      "mtime": 1779186513.0,
       "theme": "industrial-revolution-and-modern-society"
     },
     "Themes/labor-and-employment.md": {
@@ -159,7 +159,7 @@
     "Themes/literature-and-english-literature.md": {
       "doc": "Themes/literature-and-english-literature.md",
       "heading_count": 60,
-      "mtime": 1779184077.0,
+      "mtime": 1779186513.0,
       "theme": "literature-and-english-literature"
     },
     "Themes/media-and-popular-culture.md": {
@@ -189,13 +189,13 @@
     "Themes/religion.md": {
       "doc": "Themes/religion.md",
       "heading_count": 60,
-      "mtime": 1779184077.0,
+      "mtime": 1779186513.0,
       "theme": "religion"
     },
     "Themes/renaissance-absolutism-and-revolution.md": {
       "doc": "Themes/renaissance-absolutism-and-revolution.md",
       "heading_count": 59,
-      "mtime": 1779184077.0,
+      "mtime": 1779186513.0,
       "theme": "renaissance-absolutism-and-revolution"
     },
     "Themes/renewable-energy.md": {
@@ -207,7 +207,7 @@
     "Themes/roman-empire.md": {
       "doc": "Themes/roman-empire.md",
       "heading_count": 61,
-      "mtime": 1779185861.0,
+      "mtime": 1779186513.0,
       "theme": "roman-empire"
     },
     "Themes/trade.md": {
@@ -229,7 +229,7 @@
       "theme": "world-wars"
     }
   },
-  "generated_at": "2026-05-19T10:17:55.451473+00:00",
+  "generated_at": "2026-05-19T10:28:53.406876+00:00",
   "root": "/Users/seongnohyi/Workspace/English-Word",
   "schema": 1,
   "terms": {

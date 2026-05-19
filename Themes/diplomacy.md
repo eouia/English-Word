@@ -34,7 +34,7 @@
 - 사용 맥락: `multilateral negotiations`, `multilateral institutions`
 - 주의: 여러 국가가 함께 참여하는 외교·협상·기구.
 
-### sovereignty
+### [[sovereign#sovereignty|sovereignty]]
 
 - 핵심 의미: 주권
 - 사용 맥락: `respect sovereignty`, `national sovereignty`

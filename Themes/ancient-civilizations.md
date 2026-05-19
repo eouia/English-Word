@@ -40,7 +40,7 @@
 - 사용 맥락: `domestication of plants`, `animal domestication`
 - 주의: 인간이 식물과 동물을 길들이고 선택해 농업·목축에 이용하는 과정.
 
-### urbanization
+### [[urban#urbanization|urbanization]]
 
 - 핵심 의미: 도시화
 - 사용 맥락: `early urbanization`, `urban civilization`
@@ -204,7 +204,7 @@
 - 사용 맥락: `temple complex`, `temple economy`
 - 주의: 종교 의례 장소이면서 경제·행정 중심지 역할도 할 수 있음.
 
-### ritual
+### [[rit#ritual|ritual]]
 
 - 핵심 의미: 의례, 의식
 - 사용 맥락: `funerary ritual`, `ritual practice`
@@ -254,7 +254,7 @@
 - 사용 맥락: `cultural diffusion`, `technological diffusion`
 - 주의: 기술, 종교, 작물, 문자, 예술 양식이 지역 사이로 퍼지는 과정.
 
-### migration
+### [[migr#migration|migration]]
 
 - 핵심 의미: 이주
 - 사용 맥락: `ancient migration`, `population migration`

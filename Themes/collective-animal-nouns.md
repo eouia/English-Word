@@ -40,7 +40,7 @@
 - 사용 맥락: `a swarm of bees`, `a swarm of locusts`, `a swarm of flies`
 - 주의: 많고 빠르게 움직이며 성가시거나 위협적인 느낌이 붙기 쉬움.
 
-### colony
+### [[colon#colony|colony]]
 
 - 핵심 의미: 일정한 장소에 정착해 사는 동물·곤충의 군집
 - 사용 맥락: `a colony of ants`, `a colony of bees`, `a colony of penguins`

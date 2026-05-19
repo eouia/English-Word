@@ -210,7 +210,7 @@
 
 ## 사회와 문화 해석
 
-### ritual
+### [[rit#ritual|ritual]]
 
 - 핵심 의미: 의례, 의식
 - 사용 맥락: `ritual object`, `burial ritual`
@@ -234,7 +234,7 @@
 - 사용 맥락: `animal domestication`, `plant domestication`
 - 주의: 야생 동식물을 인간 생활에 맞게 길들이고 변화시키는 과정.
 
-### migration
+### [[migr#migration|migration]]
 
 - 핵심 의미: 이주, 이동
 - 사용 맥락: `human migration`, `migration patterns`

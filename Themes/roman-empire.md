@@ -246,7 +246,7 @@
 - 사용 맥락: `urban sanitation`, `Roman baths and sanitation`
 - 주의: 하수도, 목욕탕, 깨끗한 물 공급과 연결됨.
 
-### urbanization
+### [[urban#urbanization|urbanization]]
 
 - 핵심 의미: 도시화
 - 사용 맥락: `Roman urbanization`, `urban planning`

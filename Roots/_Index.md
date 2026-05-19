@@ -80,6 +80,7 @@
 | [[clin]]         | 기울다, 기대다, 병상 곁의 진료 계열                                                                                                           | `incline`, `inclination`, `decline`, `recline`, `proclivity`, `clinic`, `clinical`, `clinician`                                                                 |
 | [[clud]] | 닫다, 막다, 닫아 넣거나 끝내다 계열 | `include`, `inclusion`, `inclusive`, `exclude`, `exclusion`, `exclusive`, `conclude`, `conclusion`, `conclusive`, `preclude`, `precluded`, `preclusion`, `preclusive`, `seclude` |
 | [[cogn]]         | 알다, 알아보다, 인식하다 계열                                                                                                               | `recognize`, `recognition`, `recognizable`, `cognitive`, `cognition`, `cognizant`, `incognito`, `ignorant`, `ignore`                                            |
+| [[colon]] | 정착지, 식민지, 식민 지배 계열 | `colony`, `colonial`, `colonialism`, `colonize`, `colonization`, `colonist`, `postcolonial`, `decolonize`, `decolonization` |
 | [[come]]         | 오다, 들어오다, 어떤 상태나 결과에 이르다 계열                                                                                                     | `income`, `incoming`, `outcome`, `become`, `newcomer`, `comeback`                                                                                               |
 | [[comit]] | 수행원에서 귀족 칭호와 관할지로 발전한 계열 | `county`, `count`, `countess`, `viscount`, `viscountess`, `comital` |
 | [[concert]] | 서로 맞추어 조율함, 조율이 깨지면 당황함 계열 | `disconcerting`, `disconcert`, `disconcerted`, `concert`, `concerted`, `concerto`, `concertmaster` |
@@ -208,6 +209,7 @@
 | [[lig]] | 묶다, 의무나 끈으로 매어 둠 계열 | `obligate`, `obligation`, `obligatory`, `oblige`, `obliged`, `ligament`, `ligature` |
 | [[manere]] | 머무르다, 계속 남아 있음 계열 | `permanent`, `permanence`, `permanently`, `remain`, `remaining`, `remainder`, `remnant`, `mansion`, `manor`, `immanent` |
 | [[medit]] | 마음속으로 되풀이해 생각하고 준비함 계열 | `premeditated`, `premeditate`, `premeditation`, `meditate`, `meditation`, `meditative`, `meditated` |
+| [[migr]] | 장소를 옮겨 가는 이주 계열 | `migration`, `migrate`, `migrant`, `immigrant`, `immigrate`, `emigrate`, `emigrant`, `migratory`, `transmigration` |
 | [[mim]] | 흉내 내는 사람과 동작, 말투·표정·소리의 모방 계열 | `mimic`, `mimicry`, `mime`, `mimesis` |
 | [[imper]]        | 명령권, 통치권, 제국 계열                                                                                                                 | `empire`, `emperor`, `empress`, `imperial`, `imperialism`, `imperative`, `imperious`                                                                            |
 | [[in]]           | 안으로 / 아니다 계열 접두사                                                                                                                | `include`, `import`, `influence`, `inspect`, `inscribe`, `invisible`, `incredible`, `independent`, `illegal`                                                    |
@@ -389,6 +391,7 @@
 | [[ratio]]        | 계산하고 따져 이유와 합리성을 세우는 계열                                                                                                        | `rational`, `rationale`, `rationalize`, `rationalization`, `irrational`, `reason`                                                                               |
 | [[reciproc]]     | 오가며 서로 되돌려 주고받는 상호성 계열                                                                                                          | `reciprocate`, `reciprocal`, `reciprocity`, `reciprocation`, `reciprocally`                                                                                     |
 | [[rest]]         | 쉬다 / 남다의 두 갈래                                                                                                                    | `rest`, `restful`, `restless`, `the rest`; `reside`, `remain`과 구분                                                                                            |
+| [[rit]] | 정해진 의식과 의례 계열 | `ritual`, `rite`, `rites`, `rite of passage`, `ritualize`, `ritualistic`, `ritualism` |
 | [[riv]] | 물길에서 흘러나오거나 갈라져 나옴 계열 | `derived`, `derive`, `derivation`, `derivative`, `river`, `rivulet`, `rival`, `rivalry` |
 | [[robor]] | 단단한 힘을 보태 확증하거나 견고하게 함 계열 | `corroborate`, `corroboration`, `corroborative`, `robust`, `robustly`, `robustness` |
 | [[roll]]         | 말다, 두루마리, 명단, 그 명단에 적힌 역할 계열                                                                                                    | `role`, `role model`, `roll`, `roll call`, `enroll`, `enrollment`, `payroll`, `control`                                                                         |
@@ -433,6 +436,7 @@
 | [[solus]]        | 혼자, 홀로 떨어져 있음, 단독 계열                                                                                                            | `solo`, `sole`, `solely`, `solitary`, `solitude`, `soliloquy`                                                                                                   |
 | [[som]]          | 몸, 신체 계열                                                                                                                        | `somatic`, `psychosomatic`, `chromosome`, `somatotype`, `somatization`                                                                                          |
 | [[soph]] | 지혜와 기술, 기교가 더해져 세련되거나 정교해지는 계열 | `sophisticated`, `sophistication`, `sophisticate`, `sophist`, `sophistry`, `philosophical`, `philosophy`, `philosopher`, `sophomore`, `sophomoric` |
+| [[sovereign]] | 최고 권위와 주권 계열 | `sovereignty`, `sovereign`, `sovereign state`, `sovereign power`, `suzerain`, `supremacy`, `supreme` |
 | [[space]]        | 펼쳐진 거리, 간격, 공간 계열                                                                                                               | `space`, `spatial`, `spacious`, `spacing`, `spaced`, `spacecraft`, `spaceship`, `aerospace`                                                                     |
 | [[span]] | 손을 벌린 폭에서 두 지점 사이의 기간·범위·걸침으로 이어지는 계열 | `span`, `lifespan`, `attention span`, `wingspan`, `handspan`, `spanner`, `spick-and-span` |
 | [[spare]] | 아껴 남겨 두거나 해치지 않고 봐주는 절제와 여분 계열 | `spare`, `sparing`, `sparingly`, `unsparing`, `sparely`, `sparse`, `sparsely` |
@@ -504,6 +508,7 @@
 | [[ubiqu]] | 어디에나 있어 흔히 보이고 널리 퍼진 편재 계열 | `ubiquitous`, `ubiquitously`, `ubiquity`, `ubiquitousness` |
 | [[ultra]]        | 너머, 한계를 넘은 극단 계열                                                                                                                | `ultra`, `ultraviolet`, `ultrasound`, `ultramodern`, `ultimate`, `ulterior`                                                                                     |
 | [[uni]]          | 하나, 하나로 묶임 계열                                                                                                                   | `unity`, `unite`, `union`, `unit`, `unique`, `uniform`, `unify`, `universe`, `unanimous`                                                                        |
+| [[urban]] | 도시와 도시화 계열 | `urbanization`, `urban`, `urbanize`, `urbanized`, `urbanism`, `urbane`, `urbanity`, `suburban`, `suburb` |
 | [[val]] | 힘이 있다, 가치가 있다, 유효함을 확인하는 계열 | `value`, `valuable`, `valuation`, `evaluate`, `evaluation`, `valid`, `validity`, `validate`, `validation`, `invalidate` |
 | [[vapor]]        | 증기, 증기로 변해 밖으로 흩어짐 계열                                                                                                           | `evaporate`, `evaporation`, `evaporative`, `vapor`, `vaporize`, `vaporization`, `vapour`                                                                        |
 | [[vari]]         | 다양한, 여러 모습으로 달라짐 계열                                                                                                             | `various`, `vary`, `variety`, `variation`, `variable`, `invariably`, `variance`                                                                                 |

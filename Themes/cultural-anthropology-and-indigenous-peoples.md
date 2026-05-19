@@ -96,7 +96,7 @@
 - 사용 맥락: `social hierarchy`, `ritual hierarchy`
 - 주의: 권력, 지위, 나이, 성별, 혈통 등에 따라 사회적 위치가 나뉘는 구조.
 
-### ritual
+### [[rit#ritual|ritual]]
 
 - 핵심 의미: 의례, 의식
 - 사용 맥락: `initiation ritual`, `ritual practice`
@@ -140,13 +140,13 @@
 - 사용 맥락: `First Nations communities`, `First Nations rights`
 - 주의: 캐나다 맥락에서 특정 원주민 집단을 가리킴. Inuit, Métis와 구분.
 
-### colonization
+### [[colon#colonization|colonization]]
 
 - 핵심 의미: 식민화
 - 사용 맥락: `European colonization`, `effects of colonization`
 - 주의: 단순 이주가 아니라 외부 세력이 땅, 자원, 정치, 문화를 지배하는 과정.
 
-### colonialism
+### [[colon#colonialism|colonialism]]
 
 - 핵심 의미: 식민주의
 - 사용 맥락: `legacy of colonialism`, `settler colonialism`
@@ -178,7 +178,7 @@
 
 ## 권리와 보존
 
-### sovereignty
+### [[sovereign#sovereignty|sovereignty]]
 
 - 핵심 의미: 주권, 자치권
 - 사용 맥락: `tribal sovereignty`, `Indigenous sovereignty`

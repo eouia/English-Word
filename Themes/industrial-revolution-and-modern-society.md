@@ -98,13 +98,13 @@
 
 ## 도시화와 생활 환경
 
-### urbanization
+### [[urban#urbanization|urbanization]]
 
 - 핵심 의미: 도시화
 - 사용 맥락: `rapid urbanization`, `urbanization and industrialization`
 - 주의: 인구와 일자리가 도시로 집중되는 과정.
 
-### migration
+### [[migr#migration|migration]]
 
 - 핵심 의미: 이주
 - 사용 맥락: `rural-to-urban migration`, `labor migration`
