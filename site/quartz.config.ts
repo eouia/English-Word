@@ -14,6 +14,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "ko-KR",
+    baseUrl: "eouia.github.io/English-Word",
     ignorePatterns: [
       "site",
       "publish",
