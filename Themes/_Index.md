@@ -22,6 +22,7 @@
 | [[diplomacy]]                      | 외교 관계, 대사관과 외교관, 협상과 조약, 제재와 갈등 완화 관련 어휘      |
 | [[disease-and-medicine]]           | 질병과 증상, 감염과 면역, 진단과 예후, 치료와 예방, 공중보건과 의료 윤리 관련 어휘 |
 | [[education-school-and-university]] | 학교 교육, 대학 제도, 수업과 공부, 학업 평가 관련 어휘 |
+| [[environment-and-conservation]]    | 자연환경, 생태계, 생물다양성, 보전 정책, 서식지 파괴와 지속가능성 관련 어휘 |
 | [[feudalism-nobility-and-the-middle-ages]] | 봉건제도, 귀족과 신분 질서, 장원제, 기사 문화, 중세 교회와 도시 관련 어휘 |
 | [[folklore-customs-and-legends]]   | 민속, 풍습, 의례, 민간신앙, 구전 전통, 설화와 전설, 신화적 상징 관련 어휘 |
 | [[genetics-and-biology]]           | 생명체와 세포, 유전과 변이, 진화와 적응, 생태계, 생명공학과 윤리 관련 어휘 |
@@ -30,11 +31,14 @@
 | [[government-and-executive]]       | 행정부, 대통령·총리·내각, 행정기관, 정책 집행과 규제 관련 어휘         |
 | [[government-and-legislature]]     | 정부 구조, 입법부, 법안 처리, 권한과 통제 관련 어휘               |
 | [[human-rights-movement]]          | 인권, 시민권, 차별과 평등, 사회운동, 시위와 권리 보호 관련 어휘        |
+| [[immigration-and-diaspora]]       | 이민, 난민, 디아스포라, 동화와 통합, 국경 통제, 이주 정체성 관련 어휘 |
 | [[industrial-revolution-and-modern-society]] | 산업혁명, 기계화와 공장제, 도시화, 자본주의와 노동계급, 근대사회 변화 관련 어휘 |
 | [[labor-and-employment]]           | 노동시장, 취업과 채용, 임금과 복지, 근로 조건, 노사 관계와 고용 불안 관련 어휘 |
+| [[language-and-communication]]      | 언어 구조, 의미와 맥락, 말하기와 설득, 번역과 의사소통 관련 어휘 |
 | [[literature-and-english-literature]] | 문학 일반, 장르와 서사, 시와 극, 문학 비평, 영문학 시대와 주요 작가·작품 관련 어휘 |
 | [[media-and-popular-culture]]      | 언론과 방송, 디지털 미디어, 대중문화 산업, 팬덤과 유명인, 광고와 표현 관련 어휘 |
 | [[paleontology]]                   | 고생물학, 화석, 지층과 지질시대, 멸종, 진화, 발굴과 분류 관련 어휘      |
+| [[philosophy-and-ethics]]          | 철학적 사고, 윤리 이론, 도덕 판단, 지식과 회의, 자유의지와 책임 관련 어휘 |
 | [[psychology-psychoanalysis-and-mental-health]] | 심리학, 인지와 행동, 정신분석학, 발달과 성격, 정신건강, 진단과 치료 관련 어휘 |
 | [[racism-and-misogyny]]            | 인종차별, 여성혐오, 성차별, 편견, 혐오 표현, 구조적 차별과 대응 관련 어휘  |
 | [[renewable-energy]]               | 재생에너지, 태양광·풍력·수력, 전력망, 저장 기술, 에너지 전환 관련 어휘      |
@@ -42,5 +46,6 @@
 | [[renaissance-absolutism-and-revolution]] | 르네상스 인문주의와 예술, 종교개혁, 절대왕정, 계몽주의, 시민혁명 관련 어휘 |
 | [[roman-empire]]                   | 로마 공화정과 제정, 황제권, 시민권, 군단, 속주 통치, 로마법과 도시 문명 관련 어휘 |
 | [[trade]]                          | 국제무역, 수출입, 관세와 무역장벽, 무역협정, 공급망과 무역분쟁 관련 어휘    |
+| [[urbanization-and-housing]]       | 도시화, 주거, 기반시설, 교통 혼잡, 교외화, 젠트리피케이션 관련 어휘 |
 | [[war-and-conflict]]               | 전쟁, 무력 분쟁, 군사 작전, 피해와 난민, 휴전과 평화 협상 관련 어휘     |
 | [[world-wars]]                     | 제1차·제2차 세계대전, 동맹 체제, 참호전과 총력전, 파시즘, 홀로코스트, 전후 국제질서 관련 어휘 |
