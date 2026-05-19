@@ -1,5 +1,11 @@
 {
   "documents": {
+    "Roots/ab.md": {
+      "doc": "Roots/ab.md",
+      "heading_count": 12,
+      "mtime": 1779213482.0,
+      "root": "ab"
+    },
     "Roots/abyss.md": {
       "doc": "Roots/abyss.md",
       "heading_count": 4,
@@ -3325,7 +3331,7 @@
       "root": "yield"
     }
   },
-  "generated_at": "2026-05-19T17:51:27.518338+00:00",
+  "generated_at": "2026-05-19T17:58:13.547413+00:00",
   "root": "/Users/macmini/Workspace/English-Word",
   "schema": 1,
   "terms": {
@@ -3641,6 +3647,14 @@
     ],
     "abduct": [
       {
+        "doc": "Roots/ab.md",
+        "heading": "abduct",
+        "line": 42,
+        "root": "ab",
+        "section": "단어들",
+        "term": "abduct"
+      },
+      {
         "doc": "Roots/duc.md",
         "heading": "abduct",
         "line": 89,
@@ -3659,6 +3673,16 @@
         "term": "aberration"
       }
     ],
+    "abhor": [
+      {
+        "doc": "Roots/ab.md",
+        "heading": "abhor",
+        "line": 81,
+        "root": "ab",
+        "section": "단어들",
+        "term": "abhor"
+      }
+    ],
     "ability": [
       {
         "doc": "Roots/hab.md",
@@ -3669,6 +3693,16 @@
         "term": "ability"
       }
     ],
+    "abject": [
+      {
+        "doc": "Roots/ab.md",
+        "heading": "abject",
+        "line": 88,
+        "root": "ab",
+        "section": "단어들",
+        "term": "abject"
+      }
+    ],
     "able": [
       {
         "doc": "Roots/hab.md",
@@ -3677,6 +3711,16 @@
         "root": "hab",
         "section": "단어들",
         "term": "able"
+      }
+    ],
+    "abnormal": [
+      {
+        "doc": "Roots/ab.md",
+        "heading": "abnormal",
+        "line": 35,
+        "root": "ab",
+        "section": "단어들",
+        "term": "abnormal"
       }
     ],
     "abominable": [
@@ -3739,7 +3783,25 @@
         "term": "abridge"
       }
     ],
+    "abrogate": [
+      {
+        "doc": "Roots/ab.md",
+        "heading": "abrogate",
+        "line": 95,
+        "root": "ab",
+        "section": "단어들",
+        "term": "abrogate"
+      }
+    ],
     "abrupt": [
+      {
+        "doc": "Roots/ab.md",
+        "heading": "abrupt",
+        "line": 65,
+        "root": "ab",
+        "section": "단어들",
+        "term": "abrupt"
+      },
       {
         "doc": "Roots/rupt.md",
         "heading": "abrupt",
@@ -3761,6 +3823,14 @@
     ],
     "absence": [
       {
+        "doc": "Roots/ab.md",
+        "heading": "absence",
+        "line": 28,
+        "root": "ab",
+        "section": "단어들",
+        "term": "absence"
+      },
+      {
         "doc": "Roots/present.md",
         "heading": "absence",
         "line": 96,
@@ -3770,6 +3840,14 @@
       }
     ],
     "absent": [
+      {
+        "doc": "Roots/ab.md",
+        "heading": "absent",
+        "line": 20,
+        "root": "ab",
+        "section": "단어들",
+        "term": "absent"
+      },
       {
         "doc": "Roots/present.md",
         "heading": "absent",
@@ -3791,6 +3869,14 @@
     ],
     "absolve": [
       {
+        "doc": "Roots/ab.md",
+        "heading": "absolve",
+        "line": 102,
+        "root": "ab",
+        "section": "단어들",
+        "term": "absolve"
+      },
+      {
         "doc": "Roots/solv.md",
         "heading": "absolve",
         "line": 83,
@@ -3799,7 +3885,25 @@
         "term": "absolve"
       }
     ],
+    "abstain": [
+      {
+        "doc": "Roots/ab.md",
+        "heading": "abstain",
+        "line": 50,
+        "root": "ab",
+        "section": "단어들",
+        "term": "abstain"
+      }
+    ],
     "abstract": [
+      {
+        "doc": "Roots/ab.md",
+        "heading": "abstract",
+        "line": 57,
+        "root": "ab",
+        "section": "단어들",
+        "term": "abstract"
+      },
       {
         "doc": "Roots/tract-pull.md",
         "heading": "abstract",
@@ -3817,6 +3921,16 @@
         "root": "tract-pull",
         "section": "단어들",
         "term": "abstraction"
+      }
+    ],
+    "abuse": [
+      {
+        "doc": "Roots/ab.md",
+        "heading": "abuse",
+        "line": 73,
+        "root": "ab",
+        "section": "단어들",
+        "term": "abuse"
       }
     ],
     "abysmal": [
