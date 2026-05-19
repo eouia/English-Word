@@ -128,3 +128,34 @@
 - 사용 맥락: `ecosystem resilience`, `climate resilience`
 - 주의: 충격 뒤 원래 기능을 유지하거나 회복하는 능력.
 
+## 주요 고유명사
+
+### Rachel Carson
+
+- 핵심 의미: 환경운동에 큰 영향을 준 미국 작가·생물학자
+- 사용 맥락: `Rachel Carson's Silent Spring`
+- 주의: 살충제 남용과 생태계 피해를 대중적으로 알린 인물.
+
+### Silent Spring
+
+- 핵심 의미: 현대 환경운동의 계기가 된 책
+- 사용 맥락: `the publication of Silent Spring`
+- 주의: DDT 같은 살충제가 생태계와 인간 건강에 미치는 영향을 비판.
+
+### EPA
+
+- 핵심 의미: 미국 환경보호청
+- 사용 맥락: `EPA regulations`, `the Environmental Protection Agency`
+- 주의: 미국의 오염 규제, 환경 기준, 공중보건 보호와 관련.
+
+### IUCN
+
+- 핵심 의미: 국제자연보전연맹
+- 사용 맥락: `IUCN Red List`
+- 주의: 멸종위기종 보전 상태를 평가하는 국제 기준으로 자주 등장.
+
+### CITES
+
+- 핵심 의미: 멸종위기 야생동식물 국제거래 협약
+- 사용 맥락: `CITES restrictions`, `CITES-listed species`
+- 주의: 멸종위기종의 국제 거래를 규제하는 협약.

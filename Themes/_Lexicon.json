@@ -98,8 +98,8 @@
     },
     "Themes/environment-and-conservation.md": {
       "doc": "Themes/environment-and-conservation.md",
-      "heading_count": 20,
-      "mtime": 1779212483.0,
+      "heading_count": 25,
+      "mtime": 1779212711.0,
       "theme": "environment-and-conservation"
     },
     "Themes/feudalism-nobility-and-the-middle-ages.md": {
@@ -152,8 +152,8 @@
     },
     "Themes/immigration-and-diaspora.md": {
       "doc": "Themes/immigration-and-diaspora.md",
-      "heading_count": 20,
-      "mtime": 1779212483.0,
+      "heading_count": 25,
+      "mtime": 1779212711.0,
       "theme": "immigration-and-diaspora"
     },
     "Themes/industrial-revolution-and-modern-society.md": {
@@ -170,8 +170,8 @@
     },
     "Themes/language-and-communication.md": {
       "doc": "Themes/language-and-communication.md",
-      "heading_count": 20,
-      "mtime": 1779212483.0,
+      "heading_count": 24,
+      "mtime": 1779212711.0,
       "theme": "language-and-communication"
     },
     "Themes/literature-and-english-literature.md": {
@@ -194,8 +194,8 @@
     },
     "Themes/philosophy-and-ethics.md": {
       "doc": "Themes/philosophy-and-ethics.md",
-      "heading_count": 21,
-      "mtime": 1779212483.0,
+      "heading_count": 28,
+      "mtime": 1779212711.0,
       "theme": "philosophy-and-ethics"
     },
     "Themes/psychology-psychoanalysis-and-mental-health.md": {
@@ -242,8 +242,8 @@
     },
     "Themes/urbanization-and-housing.md": {
       "doc": "Themes/urbanization-and-housing.md",
-      "heading_count": 20,
-      "mtime": 1779212483.0,
+      "heading_count": 24,
+      "mtime": 1779212711.0,
       "theme": "urbanization-and-housing"
     },
     "Themes/war-and-conflict.md": {
@@ -259,7 +259,7 @@
       "theme": "world-wars"
     }
   },
-  "generated_at": "2026-05-19T17:41:30.437497+00:00",
+  "generated_at": "2026-05-19T17:45:32.341079+00:00",
   "root": "/Users/macmini/Workspace/English-Word",
   "schema": 1,
   "terms": {
@@ -1533,6 +1533,16 @@
         "section": "시민권과 사회 질서",
         "term": "aristocracy",
         "theme": "roman-empire"
+      }
+    ],
+    "aristotle": [
+      {
+        "doc": "Themes/philosophy-and-ethics.md",
+        "heading": "Aristotle",
+        "line": 151,
+        "section": "주요 고유명사",
+        "term": "Aristotle",
+        "theme": "philosophy-and-ethics"
       }
     ],
     "armistice": [
@@ -3445,6 +3455,16 @@
         "theme": "age-of-exploration-and-colonialism"
       }
     ],
+    "cites": [
+      {
+        "doc": "Themes/environment-and-conservation.md",
+        "heading": "CITES",
+        "line": 157,
+        "section": "주요 고유명사",
+        "term": "CITES",
+        "theme": "environment-and-conservation"
+      }
+    ],
     "citizen": [
       {
         "doc": "Themes/roman-empire.md",
@@ -5171,6 +5191,16 @@
         "theme": "world-wars"
       }
     ],
+    "daca": [
+      {
+        "doc": "Themes/immigration-and-diaspora.md",
+        "heading": "DACA",
+        "line": 151,
+        "section": "주요 고유명사",
+        "term": "DACA",
+        "theme": "immigration-and-diaspora"
+      }
+    ],
     "damages": [
       {
         "doc": "Themes/court-and-trial.md",
@@ -6653,6 +6683,16 @@
         "theme": "literature-and-english-literature"
       }
     ],
+    "ellis island": [
+      {
+        "doc": "Themes/immigration-and-diaspora.md",
+        "heading": "Ellis Island",
+        "line": 133,
+        "section": "주요 고유명사",
+        "term": "Ellis Island",
+        "theme": "immigration-and-diaspora"
+      }
+    ],
     "eloquence": [
       {
         "doc": "Themes/language-and-communication.md",
@@ -7009,6 +7049,16 @@
         "section": "세포와 생명 활동",
         "term": "enzyme",
         "theme": "genetics-and-biology"
+      }
+    ],
+    "epa": [
+      {
+        "doc": "Themes/environment-and-conservation.md",
+        "heading": "EPA",
+        "line": 145,
+        "section": "주요 고유명사",
+        "term": "EPA",
+        "theme": "environment-and-conservation"
       }
     ],
     "epic": [
@@ -7769,6 +7819,16 @@
         "section": "대응과 변화",
         "term": "feminism",
         "theme": "racism-and-misogyny"
+      }
+    ],
+    "ferdinand de saussure": [
+      {
+        "doc": "Themes/language-and-communication.md",
+        "heading": "Ferdinand de Saussure",
+        "line": 139,
+        "section": "주요 고유명사",
+        "term": "Ferdinand de Saussure",
+        "theme": "language-and-communication"
       }
     ],
     "ferdinand magellan": [
@@ -8595,6 +8655,16 @@
         "theme": "business-and-economics"
       }
     ],
+    "great migration": [
+      {
+        "doc": "Themes/immigration-and-diaspora.md",
+        "heading": "Great Migration",
+        "line": 157,
+        "section": "주요 고유명사",
+        "term": "Great Migration",
+        "theme": "immigration-and-diaspora"
+      }
+    ],
     "great recession": [
       {
         "doc": "Themes/business-and-economics.md",
@@ -9339,6 +9409,16 @@
         "section": "주요 고유명사",
         "term": "IMF",
         "theme": "business-and-economics"
+      }
+    ],
+    "immanuel kant": [
+      {
+        "doc": "Themes/philosophy-and-ethics.md",
+        "heading": "Immanuel Kant",
+        "line": 157,
+        "section": "주요 고유명사",
+        "term": "Immanuel Kant",
+        "theme": "philosophy-and-ethics"
       }
     ],
     "immigrant": [
@@ -10185,6 +10265,16 @@
         "theme": "religion"
       }
     ],
+    "iucn": [
+      {
+        "doc": "Themes/environment-and-conservation.md",
+        "heading": "IUCN",
+        "line": 151,
+        "section": "주요 고유명사",
+        "term": "IUCN",
+        "theme": "environment-and-conservation"
+      }
+    ],
     "ivan pavlov": [
       {
         "doc": "Themes/psychology-psychoanalysis-and-mental-health.md",
@@ -10245,6 +10335,16 @@
         "theme": "literature-and-english-literature"
       }
     ],
+    "jane jacobs": [
+      {
+        "doc": "Themes/urbanization-and-housing.md",
+        "heading": "Jane Jacobs",
+        "line": 133,
+        "section": "주요 고유명사",
+        "term": "Jane Jacobs",
+        "theme": "urbanization-and-housing"
+      }
+    ],
     "jean piaget": [
       {
         "doc": "Themes/psychology-psychoanalysis-and-mental-health.md",
@@ -10253,6 +10353,16 @@
         "section": "주요 고유명사",
         "term": "Jean Piaget",
         "theme": "psychology-psychoanalysis-and-mental-health"
+      }
+    ],
+    "jeremy bentham": [
+      {
+        "doc": "Themes/philosophy-and-ethics.md",
+        "heading": "Jeremy Bentham",
+        "line": 169,
+        "section": "주요 고유명사",
+        "term": "Jeremy Bentham",
+        "theme": "philosophy-and-ethics"
       }
     ],
     "jim crow": [
@@ -10301,6 +10411,16 @@
         "section": "주요 고유명사",
         "term": "John Milton",
         "theme": "literature-and-english-literature"
+      }
+    ],
+    "john stuart mill": [
+      {
+        "doc": "Themes/philosophy-and-ethics.md",
+        "heading": "John Stuart Mill",
+        "line": 163,
+        "section": "주요 고유명사",
+        "term": "John Stuart Mill",
+        "theme": "philosophy-and-ethics"
       }
     ],
     "journalism": [
@@ -10819,6 +10939,16 @@
         "section": "주요 고유명사",
         "term": "Leonardo da Vinci",
         "theme": "renaissance-absolutism-and-revolution"
+      }
+    ],
+    "levittown": [
+      {
+        "doc": "Themes/urbanization-and-housing.md",
+        "heading": "Levittown",
+        "line": 151,
+        "section": "주요 고유명사",
+        "term": "Levittown",
+        "theme": "urbanization-and-housing"
       }
     ],
     "levy": [
@@ -12779,6 +12909,16 @@
         "theme": "american-history"
       }
     ],
+    "nietzsche": [
+      {
+        "doc": "Themes/philosophy-and-ethics.md",
+        "heading": "Nietzsche",
+        "line": 175,
+        "section": "주요 고유명사",
+        "term": "Nietzsche",
+        "theme": "philosophy-and-ethics"
+      }
+    ],
     "nineteenth amendment": [
       {
         "doc": "Themes/racism-and-misogyny.md",
@@ -12787,6 +12927,16 @@
         "section": "역사적 고유명사",
         "term": "Nineteenth Amendment",
         "theme": "racism-and-misogyny"
+      }
+    ],
+    "noam chomsky": [
+      {
+        "doc": "Themes/language-and-communication.md",
+        "heading": "Noam Chomsky",
+        "line": 133,
+        "section": "주요 고유명사",
+        "term": "Noam Chomsky",
+        "theme": "language-and-communication"
       }
     ],
     "nobility": [
@@ -13335,6 +13485,16 @@
         "section": "근로 조건과 직장 생활",
         "term": "overtime",
         "theme": "labor-and-employment"
+      }
+    ],
+    "oxford english dictionary": [
+      {
+        "doc": "Themes/language-and-communication.md",
+        "heading": "Oxford English Dictionary",
+        "line": 151,
+        "section": "주요 고유명사",
+        "term": "Oxford English Dictionary",
+        "theme": "language-and-communication"
       }
     ],
     "pablo picasso": [
@@ -13971,6 +14131,16 @@
         "section": "디지털 미디어와 플랫폼",
         "term": "platform",
         "theme": "media-and-popular-culture"
+      }
+    ],
+    "plato": [
+      {
+        "doc": "Themes/philosophy-and-ethics.md",
+        "heading": "Plato",
+        "line": 145,
+        "section": "주요 고유명사",
+        "term": "Plato",
+        "theme": "philosophy-and-ethics"
       }
     ],
     "plead": [
@@ -14867,6 +15037,16 @@
         "section": "주요 고유명사",
         "term": "Quran",
         "theme": "religion"
+      }
+    ],
+    "rachel carson": [
+      {
+        "doc": "Themes/environment-and-conservation.md",
+        "heading": "Rachel Carson",
+        "line": 133,
+        "section": "주요 고유명사",
+        "term": "Rachel Carson",
+        "theme": "environment-and-conservation"
       }
     ],
     "racism": [
@@ -16025,6 +16205,16 @@
         "theme": "religion"
       }
     ],
+    "robert moses": [
+      {
+        "doc": "Themes/urbanization-and-housing.md",
+        "heading": "Robert Moses",
+        "line": 145,
+        "section": "주요 고유명사",
+        "term": "Robert Moses",
+        "theme": "urbanization-and-housing"
+      }
+    ],
     "robin hood": [
       {
         "doc": "Themes/folklore-customs-and-legends.md",
@@ -16319,6 +16509,16 @@
         "section": "법과 도시 문명",
         "term": "sanitation",
         "theme": "roman-empire"
+      }
+    ],
+    "sapir-whorf hypothesis": [
+      {
+        "doc": "Themes/language-and-communication.md",
+        "heading": "Sapir-Whorf hypothesis",
+        "line": 145,
+        "section": "주요 고유명사",
+        "term": "Sapir-Whorf hypothesis",
+        "theme": "language-and-communication"
       }
     ],
     "satellite": [
@@ -16981,6 +17181,16 @@
         "theme": "psychology-psychoanalysis-and-mental-health"
       }
     ],
+    "silent spring": [
+      {
+        "doc": "Themes/environment-and-conservation.md",
+        "heading": "Silent Spring",
+        "line": 139,
+        "section": "주요 고유명사",
+        "term": "Silent Spring",
+        "theme": "environment-and-conservation"
+      }
+    ],
     "silicon valley": [
       {
         "doc": "Themes/business-and-economics.md",
@@ -17075,6 +17285,16 @@
         "section": "계몽주의와 정치 사상",
         "term": "social contract",
         "theme": "renaissance-absolutism-and-revolution"
+      }
+    ],
+    "socrates": [
+      {
+        "doc": "Themes/philosophy-and-ethics.md",
+        "heading": "Socrates",
+        "line": 139,
+        "section": "주요 고유명사",
+        "term": "Socrates",
+        "theme": "philosophy-and-ethics"
       }
     ],
     "soil": [
@@ -17345,6 +17565,16 @@
         "section": "시와 극 용어",
         "term": "stanza",
         "theme": "literature-and-english-literature"
+      }
+    ],
+    "statue of liberty": [
+      {
+        "doc": "Themes/immigration-and-diaspora.md",
+        "heading": "Statue of Liberty",
+        "line": 139,
+        "section": "주요 고유명사",
+        "term": "Statue of Liberty",
+        "theme": "immigration-and-diaspora"
       }
     ],
     "statute": [
@@ -18273,6 +18503,16 @@
         "theme": "art-and-art-movements"
       }
     ],
+    "the death and life of great american cities": [
+      {
+        "doc": "Themes/urbanization-and-housing.md",
+        "heading": "The Death and Life of Great American Cities",
+        "line": 139,
+        "section": "주요 고유명사",
+        "term": "The Death and Life of Great American Cities",
+        "theme": "urbanization-and-housing"
+      }
+    ],
     "theft": [
       {
         "doc": "Themes/crime-investigation-and-police.md",
@@ -19119,6 +19359,16 @@
         "section": "주요 고유명사",
         "term": "UNFCCC",
         "theme": "global-warming"
+      }
+    ],
+    "unhcr": [
+      {
+        "doc": "Themes/immigration-and-diaspora.md",
+        "heading": "UNHCR",
+        "line": 145,
+        "section": "주요 고유명사",
+        "term": "UNHCR",
+        "theme": "immigration-and-diaspora"
       }
     ],
     "union": [

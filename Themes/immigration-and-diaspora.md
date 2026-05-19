@@ -128,3 +128,34 @@
 - 사용 맥락: `migrant remittances`, `send remittances home`
 - 주의: 이주 노동자가 고향 가족에게 보내는 돈. 개발경제 문맥에서 중요.
 
+## 주요 고유명사
+
+### Ellis Island
+
+- 핵심 의미: 미국 이민사에서 중요한 입국 심사소
+- 사용 맥락: `immigrants arriving at Ellis Island`
+- 주의: 19세기 말-20세기 초 유럽 이민자의 미국 입국 상징으로 자주 등장.
+
+### Statue of Liberty
+
+- 핵심 의미: 자유의 여신상
+- 사용 맥락: `the Statue of Liberty as a symbol of immigration`
+- 주의: 미국 이민, 자유, 환영의 상징으로 읽힘.
+
+### UNHCR
+
+- 핵심 의미: 유엔난민기구
+- 사용 맥락: `UNHCR refugee data`, `UNHCR protection mandate`
+- 주의: 난민 보호, 난민 지위, 국제 인도주의 지원과 관련.
+
+### DACA
+
+- 핵심 의미: 미국의 청년 불법체류 이민자 추방 유예 정책
+- 사용 맥락: `DACA recipients`, `debates over DACA`
+- 주의: 어린 시절 미국에 온 이민자와 시민권 논쟁에서 자주 등장.
+
+### Great Migration
+
+- 핵심 의미: 미국 흑인의 대이동
+- 사용 맥락: `the Great Migration from the rural South`
+- 주의: 국제 이민은 아니지만, 미국 사회·도시·인종사 독해에서 중요한 내부 이주.

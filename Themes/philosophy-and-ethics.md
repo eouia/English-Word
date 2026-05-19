@@ -134,3 +134,46 @@
 - 사용 맥락: `moral relativism`, `cultural relativism`
 - 주의: 판단 기준이 문화나 관점에 따라 달라진다는 입장.
 
+## 주요 고유명사
+
+### Socrates
+
+- 핵심 의미: 고대 그리스 철학자
+- 사용 맥락: `Socratic method`, `the trial of Socrates`
+- 주의: 질문을 통해 개념을 검토하는 방식과 윤리적 삶의 문제로 자주 등장.
+
+### Plato
+
+- 핵심 의미: 고대 그리스 철학자, 소크라테스의 제자
+- 사용 맥락: `Plato's Republic`, `Platonic idealism`
+- 주의: 이데아, 정의, 이상국가 논의의 배경지식.
+
+### Aristotle
+
+- 핵심 의미: 고대 그리스 철학자
+- 사용 맥락: `Aristotelian ethics`, `virtue ethics`
+- 주의: 덕 윤리, 목적론, 논리학과 분류 체계에서 자주 등장.
+
+### Immanuel Kant
+
+- 핵심 의미: 독일 철학자
+- 사용 맥락: `Kantian ethics`, `categorical imperative`
+- 주의: 의무론, 자율성, 인간 존엄 논의와 연결.
+
+### John Stuart Mill
+
+- 핵심 의미: 영국 철학자·정치사상가
+- 사용 맥락: `Mill's utilitarianism`, `On Liberty`
+- 주의: 공리주의와 자유론 독해에서 자주 등장.
+
+### Jeremy Bentham
+
+- 핵심 의미: 영국 공리주의 철학자
+- 사용 맥락: `Bentham's principle of utility`
+- 주의: 쾌락·고통 계산과 최대 행복 원리의 대표 인물.
+
+### Nietzsche
+
+- 핵심 의미: 독일 철학자
+- 사용 맥락: `Nietzsche's critique of morality`
+- 주의: 전통 도덕, 가치 창조, 허무주의 논의에서 자주 등장.

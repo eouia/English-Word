@@ -128,3 +128,28 @@
 - 사용 맥락: `avoid miscommunication`, `cross-cultural miscommunication`
 - 주의: 말하지 않음이 아니라 잘못 전달되거나 잘못 해석되는 상황.
 
+## 주요 고유명사
+
+### Noam Chomsky
+
+- 핵심 의미: 현대 언어학에 큰 영향을 준 언어학자
+- 사용 맥락: `Chomsky's theory of generative grammar`
+- 주의: 생성문법, 보편문법, 언어 능력 논의에서 자주 등장.
+
+### Ferdinand de Saussure
+
+- 핵심 의미: 구조주의 언어학의 핵심 인물
+- 사용 맥락: `Saussure's distinction between signifier and signified`
+- 주의: 기호, 랑그와 파롤, 구조주의 배경지식으로 중요.
+
+### Sapir-Whorf hypothesis
+
+- 핵심 의미: 언어가 사고에 영향을 준다는 가설
+- 사용 맥락: `the Sapir-Whorf hypothesis`, `linguistic relativity`
+- 주의: 강한 결정론보다 약한 언어상대성 논의로 자주 다뤄짐.
+
+### Oxford English Dictionary
+
+- 핵심 의미: 영어 역사 사전
+- 사용 맥락: `the Oxford English Dictionary traces a word's history`
+- 주의: 단어의 역사적 용례와 어원 설명에서 권위 있는 자료로 언급됨.

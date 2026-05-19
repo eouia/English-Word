@@ -128,3 +128,28 @@
 - 사용 맥락: `residential segregation`, `urban segregation`
 - 주의: 도시 문맥에서는 주거지와 학교, 서비스 접근이 집단별로 나뉘는 구조.
 
+## 주요 고유명사
+
+### Jane Jacobs
+
+- 핵심 의미: 도시계획 비평가이자 작가
+- 사용 맥락: `Jane Jacobs's critique of urban renewal`
+- 주의: 보행성, 혼합 용도, 지역 공동체를 중시한 도시론으로 자주 등장.
+
+### The Death and Life of Great American Cities
+
+- 핵심 의미: 제인 제이콥스의 도시론 저작
+- 사용 맥락: `The Death and Life of Great American Cities challenged modernist planning`
+- 주의: 대규모 재개발과 자동차 중심 계획을 비판한 책.
+
+### Robert Moses
+
+- 핵심 의미: 뉴욕 도시 개발에 큰 영향을 준 공공사업 기획자
+- 사용 맥락: `Robert Moses's highway projects`
+- 주의: 고속도로, 도시 재개발, 권력 집중, 주민 밀려남 논쟁과 연결.
+
+### Levittown
+
+- 핵심 의미: 미국 교외 주택 개발의 상징
+- 사용 맥락: `Levittown as a model of postwar suburbia`
+- 주의: 전후 교외화, 주택 대량생산, 인종적 주거 분리 논의에서 자주 등장.
