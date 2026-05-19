@@ -19,11 +19,13 @@
 | [[crime-investigation-and-police]] | 범죄, 용의자, 경찰 수사, 체포와 구금, 증거 확보 관련 어휘           |
 | [[collective-animal-nouns]]        | 동물의 무리, 떼, 군집을 가리키는 영어 집합명사와 사용 맥락       |
 | [[cultural-anthropology-and-indigenous-peoples]] | 문화인류학, 민족지, 친족과 의례, 토착민·원주민, 식민화와 권리 관련 어휘 |
+| [[democracy-and-elections]]       | 민주주의 제도, 선거, 참정권, 정당과 대표, 여론과 정치 양극화 관련 어휘 |
 | [[diplomacy]]                      | 외교 관계, 대사관과 외교관, 협상과 조약, 제재와 갈등 완화 관련 어휘      |
 | [[disease-and-medicine]]           | 질병과 증상, 감염과 면역, 진단과 예후, 치료와 예방, 공중보건과 의료 윤리 관련 어휘 |
 | [[education-school-and-university]] | 학교 교육, 대학 제도, 수업과 공부, 학업 평가 관련 어휘 |
 | [[environment-and-conservation]]    | 자연환경, 생태계, 생물다양성, 보전 정책, 서식지 파괴와 지속가능성 관련 어휘 |
 | [[feudalism-nobility-and-the-middle-ages]] | 봉건제도, 귀족과 신분 질서, 장원제, 기사 문화, 중세 교회와 도시 관련 어휘 |
+| [[finance-and-banking]]           | 은행, 신용, 부채, 이자, 담보, 유동성, 금융시장과 금융위기 관련 어휘 |
 | [[folklore-customs-and-legends]]   | 민속, 풍습, 의례, 민간신앙, 구전 전통, 설화와 전설, 신화적 상징 관련 어휘 |
 | [[genetics-and-biology]]           | 생명체와 세포, 유전과 변이, 진화와 적응, 생태계, 생명공학과 윤리 관련 어휘 |
 | [[geology-geography-and-meteorology]] | 지질 구조와 지각 변동, 지형과 지도, 자연 지리, 대기와 날씨, 기후 현상 관련 어휘 |
@@ -35,16 +37,19 @@
 | [[industrial-revolution-and-modern-society]] | 산업혁명, 기계화와 공장제, 도시화, 자본주의와 노동계급, 근대사회 변화 관련 어휘 |
 | [[labor-and-employment]]           | 노동시장, 취업과 채용, 임금과 복지, 근로 조건, 노사 관계와 고용 불안 관련 어휘 |
 | [[language-and-communication]]      | 언어 구조, 의미와 맥락, 말하기와 설득, 번역과 의사소통 관련 어휘 |
+| [[law-and-rights]]                | 법 원리, 권리와 의무, 책임, 사법 절차, 구제 수단과 법의 지배 관련 어휘 |
 | [[literature-and-english-literature]] | 문학 일반, 장르와 서사, 시와 극, 문학 비평, 영문학 시대와 주요 작가·작품 관련 어휘 |
 | [[media-and-popular-culture]]      | 언론과 방송, 디지털 미디어, 대중문화 산업, 팬덤과 유명인, 광고와 표현 관련 어휘 |
 | [[paleontology]]                   | 고생물학, 화석, 지층과 지질시대, 멸종, 진화, 발굴과 분류 관련 어휘      |
 | [[philosophy-and-ethics]]          | 철학적 사고, 윤리 이론, 도덕 판단, 지식과 회의, 자유의지와 책임 관련 어휘 |
+| [[privacy-and-surveillance]]      | 개인정보, 감시, 데이터 수집, 보안, 암호화, 검열과 디지털 권리 관련 어휘 |
 | [[psychology-psychoanalysis-and-mental-health]] | 심리학, 인지와 행동, 정신분석학, 발달과 성격, 정신건강, 진단과 치료 관련 어휘 |
 | [[racism-and-misogyny]]            | 인종차별, 여성혐오, 성차별, 편견, 혐오 표현, 구조적 차별과 대응 관련 어휘  |
 | [[renewable-energy]]               | 재생에너지, 태양광·풍력·수력, 전력망, 저장 기술, 에너지 전환 관련 어휘      |
 | [[religion]]                       | 종교와 신앙, 교리와 경전, 의례와 예배, 성직자와 제도, 세계종교와 세속화 관련 어휘 |
 | [[renaissance-absolutism-and-revolution]] | 르네상스 인문주의와 예술, 종교개혁, 절대왕정, 계몽주의, 시민혁명 관련 어휘 |
 | [[roman-empire]]                   | 로마 공화정과 제정, 황제권, 시민권, 군단, 속주 통치, 로마법과 도시 문명 관련 어휘 |
+| [[scientific-method-and-research]] | 과학적 방법, 가설과 실험, 자료 수집, 통계 해석, 연구 윤리와 학술 검증 관련 어휘 |
 | [[trade]]                          | 국제무역, 수출입, 관세와 무역장벽, 무역협정, 공급망과 무역분쟁 관련 어휘    |
 | [[urbanization-and-housing]]       | 도시화, 주거, 기반시설, 교통 혼잡, 교외화, 젠트리피케이션 관련 어휘 |
 | [[war-and-conflict]]               | 전쟁, 무력 분쟁, 군사 작전, 피해와 난민, 휴전과 평화 협상 관련 어휘     |

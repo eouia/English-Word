@@ -78,6 +78,12 @@
       "mtime": 1779210341.0,
       "theme": "cultural-anthropology-and-indigenous-peoples"
     },
+    "Themes/democracy-and-elections.md": {
+      "doc": "Themes/democracy-and-elections.md",
+      "heading_count": 23,
+      "mtime": 1779213080.0,
+      "theme": "democracy-and-elections"
+    },
     "Themes/diplomacy.md": {
       "doc": "Themes/diplomacy.md",
       "heading_count": 44,
@@ -107,6 +113,12 @@
       "heading_count": 67,
       "mtime": 1779184077.0,
       "theme": "feudalism-nobility-and-the-middle-ages"
+    },
+    "Themes/finance-and-banking.md": {
+      "doc": "Themes/finance-and-banking.md",
+      "heading_count": 24,
+      "mtime": 1779213080.0,
+      "theme": "finance-and-banking"
     },
     "Themes/folklore-customs-and-legends.md": {
       "doc": "Themes/folklore-customs-and-legends.md",
@@ -174,6 +186,12 @@
       "mtime": 1779212711.0,
       "theme": "language-and-communication"
     },
+    "Themes/law-and-rights.md": {
+      "doc": "Themes/law-and-rights.md",
+      "heading_count": 24,
+      "mtime": 1779213080.0,
+      "theme": "law-and-rights"
+    },
     "Themes/literature-and-english-literature.md": {
       "doc": "Themes/literature-and-english-literature.md",
       "heading_count": 60,
@@ -197,6 +215,12 @@
       "heading_count": 28,
       "mtime": 1779212711.0,
       "theme": "philosophy-and-ethics"
+    },
+    "Themes/privacy-and-surveillance.md": {
+      "doc": "Themes/privacy-and-surveillance.md",
+      "heading_count": 23,
+      "mtime": 1779213080.0,
+      "theme": "privacy-and-surveillance"
     },
     "Themes/psychology-psychoanalysis-and-mental-health.md": {
       "doc": "Themes/psychology-psychoanalysis-and-mental-health.md",
@@ -234,6 +258,12 @@
       "mtime": 1779210341.0,
       "theme": "roman-empire"
     },
+    "Themes/scientific-method-and-research.md": {
+      "doc": "Themes/scientific-method-and-research.md",
+      "heading_count": 25,
+      "mtime": 1779213080.0,
+      "theme": "scientific-method-and-research"
+    },
     "Themes/trade.md": {
       "doc": "Themes/trade.md",
       "heading_count": 45,
@@ -259,7 +289,7 @@
       "theme": "world-wars"
     }
   },
-  "generated_at": "2026-05-19T17:45:32.341079+00:00",
+  "generated_at": "2026-05-19T17:51:27.647631+00:00",
   "root": "/Users/macmini/Workspace/English-Word",
   "schema": 1,
   "terms": {
@@ -937,6 +967,14 @@
         "section": "디지털 미디어와 플랫폼",
         "term": "algorithm",
         "theme": "media-and-popular-culture"
+      },
+      {
+        "doc": "Themes/privacy-and-surveillance.md",
+        "heading": "algorithm",
+        "line": 75,
+        "section": "보안과 기술",
+        "term": "algorithm",
+        "theme": "privacy-and-surveillance"
       }
     ],
     "alibi": [
@@ -1281,6 +1319,16 @@
         "theme": "artificial-intelligence"
       }
     ],
+    "anonymity": [
+      {
+        "doc": "Themes/privacy-and-surveillance.md",
+        "heading": "anonymity",
+        "line": 25,
+        "section": "프라이버시와 데이터",
+        "term": "anonymity",
+        "theme": "privacy-and-surveillance"
+      }
+    ],
     "antagonist": [
       {
         "doc": "Themes/literature-and-english-literature.md",
@@ -1387,6 +1435,14 @@
         "section": "법정과 절차",
         "term": "appeal",
         "theme": "court-and-trial"
+      },
+      {
+        "doc": "Themes/law-and-rights.md",
+        "heading": "appeal",
+        "line": 101,
+        "section": "절차와 원칙",
+        "term": "appeal",
+        "theme": "law-and-rights"
       }
     ],
     "appeasement": [
@@ -1681,6 +1737,14 @@
         "section": "금융과 투자",
         "term": "asset",
         "theme": "business-and-economics"
+      },
+      {
+        "doc": "Themes/finance-and-banking.md",
+        "heading": "asset",
+        "line": 57,
+        "section": "시장과 위험",
+        "term": "asset",
+        "theme": "finance-and-banking"
       }
     ],
     "assignment": [
@@ -1773,6 +1837,16 @@
         "section": "이주와 지위",
         "term": "asylum",
         "theme": "immigration-and-diaspora"
+      }
+    ],
+    "athenian democracy": [
+      {
+        "doc": "Themes/democracy-and-elections.md",
+        "heading": "Athenian democracy",
+        "line": 121,
+        "section": "주요 고유명사",
+        "term": "Athenian democracy",
+        "theme": "democracy-and-elections"
       }
     ],
     "atlantic slave trade": [
@@ -1881,6 +1955,16 @@
         "section": "주요 고유명사",
         "term": "Augustus",
         "theme": "roman-empire"
+      }
+    ],
+    "authentication": [
+      {
+        "doc": "Themes/privacy-and-surveillance.md",
+        "heading": "authentication",
+        "line": 57,
+        "section": "보안과 기술",
+        "term": "authentication",
+        "theme": "privacy-and-surveillance"
       }
     ],
     "authenticity": [
@@ -2063,6 +2147,36 @@
         "section": "체포와 구금",
         "term": "bail",
         "theme": "crime-investigation-and-police"
+      }
+    ],
+    "bailout": [
+      {
+        "doc": "Themes/finance-and-banking.md",
+        "heading": "bailout",
+        "line": 113,
+        "section": "제도와 규제",
+        "term": "bailout",
+        "theme": "finance-and-banking"
+      }
+    ],
+    "ballot": [
+      {
+        "doc": "Themes/democracy-and-elections.md",
+        "heading": "ballot",
+        "line": 51,
+        "section": "선거 절차",
+        "term": "ballot",
+        "theme": "democracy-and-elections"
+      }
+    ],
+    "banking": [
+      {
+        "doc": "Themes/finance-and-banking.md",
+        "heading": "banking",
+        "line": 13,
+        "section": "은행과 신용",
+        "term": "banking",
+        "theme": "finance-and-banking"
       }
     ],
     "bankruptcy": [
@@ -2265,6 +2379,14 @@
         "section": "차별의 핵심 개념",
         "term": "bias",
         "theme": "racism-and-misogyny"
+      },
+      {
+        "doc": "Themes/scientific-method-and-research.md",
+        "heading": "bias",
+        "line": 81,
+        "section": "자료와 해석",
+        "term": "bias",
+        "theme": "scientific-method-and-research"
       }
     ],
     "bible": [
@@ -2325,6 +2447,14 @@
         "section": "주요 고유명사",
         "term": "Bill of Rights",
         "theme": "american-history"
+      },
+      {
+        "doc": "Themes/law-and-rights.md",
+        "heading": "Bill of Rights",
+        "line": 133,
+        "section": "주요 고유명사",
+        "term": "Bill of Rights",
+        "theme": "law-and-rights"
       }
     ],
     "biodiversity": [
@@ -2361,6 +2491,16 @@
         "section": "주요 에너지원",
         "term": "biomass",
         "theme": "renewable-energy"
+      }
+    ],
+    "biometric": [
+      {
+        "doc": "Themes/privacy-and-surveillance.md",
+        "heading": "biometric",
+        "line": 63,
+        "section": "보안과 기술",
+        "term": "biometric",
+        "theme": "privacy-and-surveillance"
       }
     ],
     "biopsy": [
@@ -2555,6 +2695,14 @@
     ],
     "bretton woods": [
       {
+        "doc": "Themes/finance-and-banking.md",
+        "heading": "Bretton Woods",
+        "line": 145,
+        "section": "주요 고유명사",
+        "term": "Bretton Woods",
+        "theme": "finance-and-banking"
+      },
+      {
         "doc": "Themes/trade.md",
         "heading": "Bretton Woods",
         "line": 281,
@@ -2609,6 +2757,14 @@
         "section": "주요 고유명사",
         "term": "Brown v. Board of Education",
         "theme": "court-and-trial"
+      },
+      {
+        "doc": "Themes/law-and-rights.md",
+        "heading": "Brown v. Board of Education",
+        "line": 145,
+        "section": "주요 고유명사",
+        "term": "Brown v. Board of Education",
+        "theme": "law-and-rights"
       },
       {
         "doc": "Themes/racism-and-misogyny.md",
@@ -2797,7 +2953,25 @@
         "theme": "ancient-civilizations"
       }
     ],
+    "cambridge analytica": [
+      {
+        "doc": "Themes/privacy-and-surveillance.md",
+        "heading": "Cambridge Analytica",
+        "line": 139,
+        "section": "주요 고유명사",
+        "term": "Cambridge Analytica",
+        "theme": "privacy-and-surveillance"
+      }
+    ],
     "campaign": [
+      {
+        "doc": "Themes/democracy-and-elections.md",
+        "heading": "campaign",
+        "line": 81,
+        "section": "선거 절차",
+        "term": "campaign",
+        "theme": "democracy-and-elections"
+      },
       {
         "doc": "Themes/human-rights-movement.md",
         "heading": "campaign",
@@ -3067,6 +3241,16 @@
         "theme": "government-and-legislature"
       }
     ],
+    "causation": [
+      {
+        "doc": "Themes/scientific-method-and-research.md",
+        "heading": "causation",
+        "line": 75,
+        "section": "자료와 해석",
+        "term": "causation",
+        "theme": "scientific-method-and-research"
+      }
+    ],
     "cavalry": [
       {
         "doc": "Themes/feudalism-nobility-and-the-middle-ages.md",
@@ -3145,6 +3329,14 @@
         "theme": "media-and-popular-culture"
       },
       {
+        "doc": "Themes/privacy-and-surveillance.md",
+        "heading": "censorship",
+        "line": 89,
+        "section": "권리와 통제",
+        "term": "censorship",
+        "theme": "privacy-and-surveillance"
+      },
+      {
         "doc": "Themes/world-wars.md",
         "heading": "censorship",
         "line": 119,
@@ -3171,6 +3363,16 @@
         "section": "주요 고유명사",
         "term": "Centers for Disease Control and Prevention",
         "theme": "disease-and-medicine"
+      }
+    ],
+    "central bank": [
+      {
+        "doc": "Themes/finance-and-banking.md",
+        "heading": "central bank",
+        "line": 95,
+        "section": "제도와 규제",
+        "term": "central bank",
+        "theme": "finance-and-banking"
       }
     ],
     "centralization": [
@@ -3475,6 +3677,16 @@
         "theme": "roman-empire"
       }
     ],
+    "citizens united v. fec": [
+      {
+        "doc": "Themes/democracy-and-elections.md",
+        "heading": "Citizens United v. FEC",
+        "line": 145,
+        "section": "주요 고유명사",
+        "term": "Citizens United v. FEC",
+        "theme": "democracy-and-elections"
+      }
+    ],
     "citizenship": [
       {
         "doc": "Themes/renaissance-absolutism-and-revolution.md",
@@ -3511,6 +3723,16 @@
         "section": "시위와 저항",
         "term": "civil disobedience",
         "theme": "human-rights-movement"
+      }
+    ],
+    "civil liberties": [
+      {
+        "doc": "Themes/privacy-and-surveillance.md",
+        "heading": "civil liberties",
+        "line": 101,
+        "section": "권리와 통제",
+        "term": "civil liberties",
+        "theme": "privacy-and-surveillance"
       }
     ],
     "civil rights": [
@@ -3843,6 +4065,16 @@
         "section": "주요 고유명사",
         "term": "Cold War",
         "theme": "world-wars"
+      }
+    ],
+    "collateral": [
+      {
+        "doc": "Themes/finance-and-banking.md",
+        "heading": "collateral",
+        "line": 37,
+        "section": "은행과 신용",
+        "term": "collateral",
+        "theme": "finance-and-banking"
       }
     ],
     "collateral damage": [
@@ -4257,6 +4489,14 @@
         "theme": "disease-and-medicine"
       },
       {
+        "doc": "Themes/privacy-and-surveillance.md",
+        "heading": "confidentiality",
+        "line": 31,
+        "section": "프라이버시와 데이터",
+        "term": "confidentiality",
+        "theme": "privacy-and-surveillance"
+      },
+      {
         "doc": "Themes/psychology-psychoanalysis-and-mental-health.md",
         "heading": "confidentiality",
         "line": 319,
@@ -4407,6 +4647,14 @@
         "theme": "disease-and-medicine"
       },
       {
+        "doc": "Themes/privacy-and-surveillance.md",
+        "heading": "consent",
+        "line": 19,
+        "section": "프라이버시와 데이터",
+        "term": "consent",
+        "theme": "privacy-and-surveillance"
+      },
+      {
         "doc": "Themes/psychology-psychoanalysis-and-mental-health.md",
         "heading": "consent",
         "line": 325,
@@ -4454,6 +4702,14 @@
       }
     ],
     "constituency": [
+      {
+        "doc": "Themes/democracy-and-elections.md",
+        "heading": "constituency",
+        "line": 19,
+        "section": "민주주의와 대표",
+        "term": "constituency",
+        "theme": "democracy-and-elections"
+      },
       {
         "doc": "Themes/government-and-legislature.md",
         "heading": "constituency",
@@ -4643,6 +4899,16 @@
         "theme": "art-and-art-movements"
       }
     ],
+    "control group": [
+      {
+        "doc": "Themes/scientific-method-and-research.md",
+        "heading": "control group",
+        "line": 31,
+        "section": "연구 설계",
+        "term": "control group",
+        "theme": "scientific-method-and-research"
+      }
+    ],
     "convene": [
       {
         "doc": "Themes/government-and-legislature.md",
@@ -4757,6 +5023,16 @@
         "section": "데이터와 학습",
         "term": "corpus",
         "theme": "artificial-intelligence"
+      }
+    ],
+    "correlation": [
+      {
+        "doc": "Themes/scientific-method-and-research.md",
+        "heading": "correlation",
+        "line": 69,
+        "section": "자료와 해석",
+        "term": "correlation",
+        "theme": "scientific-method-and-research"
       }
     ],
     "correspondent": [
@@ -4931,6 +5207,14 @@
         "section": "금융과 투자",
         "term": "credit",
         "theme": "business-and-economics"
+      },
+      {
+        "doc": "Themes/finance-and-banking.md",
+        "heading": "credit",
+        "line": 19,
+        "section": "은행과 신용",
+        "term": "credit",
+        "theme": "finance-and-banking"
       }
     ],
     "cretaceous": [
@@ -5051,6 +5335,16 @@
         "section": "예술사조",
         "term": "Cubism",
         "theme": "art-and-art-movements"
+      }
+    ],
+    "culpability": [
+      {
+        "doc": "Themes/law-and-rights.md",
+        "heading": "culpability",
+        "line": 57,
+        "section": "책임과 구제",
+        "term": "culpability",
+        "theme": "law-and-rights"
       }
     ],
     "cultivation": [
@@ -5209,6 +5503,14 @@
         "section": "판결과 처벌",
         "term": "damages",
         "theme": "court-and-trial"
+      },
+      {
+        "doc": "Themes/law-and-rights.md",
+        "heading": "damages",
+        "line": 87,
+        "section": "책임과 구제",
+        "term": "damages",
+        "theme": "law-and-rights"
       }
     ],
     "dartmouth workshop": [
@@ -5219,6 +5521,26 @@
         "section": "주요 고유명사",
         "term": "Dartmouth Workshop",
         "theme": "artificial-intelligence"
+      }
+    ],
+    "data": [
+      {
+        "doc": "Themes/scientific-method-and-research.md",
+        "heading": "data",
+        "line": 57,
+        "section": "자료와 해석",
+        "term": "data",
+        "theme": "scientific-method-and-research"
+      }
+    ],
+    "data breach": [
+      {
+        "doc": "Themes/privacy-and-surveillance.md",
+        "heading": "data breach",
+        "line": 43,
+        "section": "프라이버시와 데이터",
+        "term": "data breach",
+        "theme": "privacy-and-surveillance"
       }
     ],
     "dataset": [
@@ -5297,6 +5619,14 @@
         "section": "금융과 투자",
         "term": "debt",
         "theme": "business-and-economics"
+      },
+      {
+        "doc": "Themes/finance-and-banking.md",
+        "heading": "debt",
+        "line": 25,
+        "section": "은행과 신용",
+        "term": "debt",
+        "theme": "finance-and-banking"
       }
     ],
     "decarbonization": [
@@ -5379,6 +5709,16 @@
         "theme": "artificial-intelligence"
       }
     ],
+    "default": [
+      {
+        "doc": "Themes/finance-and-banking.md",
+        "heading": "default",
+        "line": 69,
+        "section": "시장과 위험",
+        "term": "default",
+        "theme": "finance-and-banking"
+      }
+    ],
     "defendant": [
       {
         "doc": "Themes/court-and-trial.md",
@@ -5387,6 +5727,14 @@
         "section": "사람과 역할",
         "term": "defendant",
         "theme": "court-and-trial"
+      },
+      {
+        "doc": "Themes/law-and-rights.md",
+        "heading": "defendant",
+        "line": 113,
+        "section": "절차와 원칙",
+        "term": "defendant",
+        "theme": "law-and-rights"
       }
     ],
     "defense mechanism": [
@@ -5539,6 +5887,16 @@
         "section": "외교, 종전, 전후 질서",
         "term": "demilitarization",
         "theme": "world-wars"
+      }
+    ],
+    "democracy": [
+      {
+        "doc": "Themes/democracy-and-elections.md",
+        "heading": "democracy",
+        "line": 7,
+        "section": "민주주의와 대표",
+        "term": "democracy",
+        "theme": "democracy-and-elections"
       }
     ],
     "demonstration": [
@@ -6045,6 +6403,14 @@
     ],
     "disenfranchise": [
       {
+        "doc": "Themes/democracy-and-elections.md",
+        "heading": "disenfranchise",
+        "line": 107,
+        "section": "정치 갈등",
+        "term": "disenfranchise",
+        "theme": "democracy-and-elections"
+      },
+      {
         "doc": "Themes/human-rights-movement.md",
         "heading": "disenfranchise",
         "line": 231,
@@ -6429,6 +6795,16 @@
         "theme": "feudalism-nobility-and-the-middle-ages"
       }
     ],
+    "due process": [
+      {
+        "doc": "Themes/law-and-rights.md",
+        "heading": "due process",
+        "line": 37,
+        "section": "법과 권리",
+        "term": "due process",
+        "theme": "law-and-rights"
+      }
+    ],
     "duke": [
       {
         "doc": "Themes/feudalism-nobility-and-the-middle-ages.md",
@@ -6583,6 +6959,16 @@
         "theme": "media-and-popular-culture"
       }
     ],
+    "edward snowden": [
+      {
+        "doc": "Themes/privacy-and-surveillance.md",
+        "heading": "Edward Snowden",
+        "line": 121,
+        "section": "주요 고유명사",
+        "term": "Edward Snowden",
+        "theme": "privacy-and-surveillance"
+      }
+    ],
     "efficacy": [
       {
         "doc": "Themes/disease-and-medicine.md",
@@ -6633,7 +7019,35 @@
         "theme": "geology-geography-and-meteorology"
       }
     ],
+    "election": [
+      {
+        "doc": "Themes/democracy-and-elections.md",
+        "heading": "election",
+        "line": 45,
+        "section": "선거 절차",
+        "term": "election",
+        "theme": "democracy-and-elections"
+      }
+    ],
+    "electoral college": [
+      {
+        "doc": "Themes/democracy-and-elections.md",
+        "heading": "Electoral College",
+        "line": 139,
+        "section": "주요 고유명사",
+        "term": "Electoral College",
+        "theme": "democracy-and-elections"
+      }
+    ],
     "electorate": [
+      {
+        "doc": "Themes/democracy-and-elections.md",
+        "heading": "electorate",
+        "line": 25,
+        "section": "민주주의와 대표",
+        "term": "electorate",
+        "theme": "democracy-and-elections"
+      },
       {
         "doc": "Themes/government-and-legislature.md",
         "heading": "electorate",
@@ -6825,6 +7239,16 @@
         "theme": "roman-empire"
       }
     ],
+    "empirical": [
+      {
+        "doc": "Themes/scientific-method-and-research.md",
+        "heading": "empirical",
+        "line": 19,
+        "section": "연구 설계",
+        "term": "empirical",
+        "theme": "scientific-method-and-research"
+      }
+    ],
     "empiricism": [
       {
         "doc": "Themes/philosophy-and-ethics.md",
@@ -6871,6 +7295,16 @@
         "section": "입법 절차",
         "term": "enact",
         "theme": "government-and-legislature"
+      }
+    ],
+    "encryption": [
+      {
+        "doc": "Themes/privacy-and-surveillance.md",
+        "heading": "encryption",
+        "line": 51,
+        "section": "보안과 기술",
+        "term": "encryption",
+        "theme": "privacy-and-surveillance"
       }
     ],
     "endangered": [
@@ -7001,6 +7435,16 @@
         "theme": "media-and-popular-culture"
       }
     ],
+    "entitlement": [
+      {
+        "doc": "Themes/law-and-rights.md",
+        "heading": "entitlement",
+        "line": 25,
+        "section": "법과 권리",
+        "term": "entitlement",
+        "theme": "law-and-rights"
+      }
+    ],
     "entrepreneur": [
       {
         "doc": "Themes/industrial-revolution-and-modern-society.md",
@@ -7109,6 +7553,16 @@
         "section": "분야와 시간",
         "term": "epoch",
         "theme": "paleontology"
+      }
+    ],
+    "equal protection": [
+      {
+        "doc": "Themes/law-and-rights.md",
+        "heading": "equal protection",
+        "line": 43,
+        "section": "법과 권리",
+        "term": "equal protection",
+        "theme": "law-and-rights"
       }
     ],
     "equality": [
@@ -7253,6 +7707,16 @@
         "theme": "philosophy-and-ethics"
       }
     ],
+    "ethics review": [
+      {
+        "doc": "Themes/scientific-method-and-research.md",
+        "heading": "ethics review",
+        "line": 125,
+        "section": "출판과 윤리",
+        "term": "ethics review",
+        "theme": "scientific-method-and-research"
+      }
+    ],
     "ethnocentrism": [
       {
         "doc": "Themes/cultural-anthropology-and-indigenous-peoples.md",
@@ -7319,6 +7783,14 @@
         "section": "증거와 판단",
         "term": "evidence",
         "theme": "court-and-trial"
+      },
+      {
+        "doc": "Themes/scientific-method-and-research.md",
+        "heading": "evidence",
+        "line": 63,
+        "section": "자료와 해석",
+        "term": "evidence",
+        "theme": "scientific-method-and-research"
       }
     ],
     "evolution": [
@@ -7615,6 +8087,16 @@
         "theme": "folklore-customs-and-legends"
       }
     ],
+    "facial recognition": [
+      {
+        "doc": "Themes/privacy-and-surveillance.md",
+        "heading": "facial recognition",
+        "line": 81,
+        "section": "보안과 기술",
+        "term": "facial recognition",
+        "theme": "privacy-and-surveillance"
+      }
+    ],
     "factory acts": [
       {
         "doc": "Themes/industrial-revolution-and-modern-society.md",
@@ -7773,6 +8255,14 @@
         "theme": "business-and-economics"
       },
       {
+        "doc": "Themes/finance-and-banking.md",
+        "heading": "Federal Reserve",
+        "line": 127,
+        "section": "주요 고유명사",
+        "term": "Federal Reserve",
+        "theme": "finance-and-banking"
+      },
+      {
         "doc": "Themes/government-and-executive.md",
         "heading": "Federal Reserve",
         "line": 255,
@@ -7789,6 +8279,16 @@
         "section": "건국과 헌정 질서",
         "term": "federalism",
         "theme": "american-history"
+      }
+    ],
+    "federalist papers": [
+      {
+        "doc": "Themes/democracy-and-elections.md",
+        "heading": "Federalist Papers",
+        "line": 127,
+        "section": "주요 고유명사",
+        "term": "Federalist Papers",
+        "theme": "democracy-and-elections"
       }
     ],
     "feedback loop": [
@@ -7929,6 +8429,16 @@
         "section": "문화인류학 기본 개념",
         "term": "fieldwork",
         "theme": "cultural-anthropology-and-indigenous-peoples"
+      }
+    ],
+    "finance": [
+      {
+        "doc": "Themes/finance-and-banking.md",
+        "heading": "finance",
+        "line": 7,
+        "section": "은행과 신용",
+        "term": "finance",
+        "theme": "finance-and-banking"
       }
     ],
     "financial aid": [
@@ -8175,6 +8685,26 @@
         "theme": "american-history"
       }
     ],
+    "fourteenth amendment": [
+      {
+        "doc": "Themes/law-and-rights.md",
+        "heading": "Fourteenth Amendment",
+        "line": 139,
+        "section": "주요 고유명사",
+        "term": "Fourteenth Amendment",
+        "theme": "law-and-rights"
+      }
+    ],
+    "fourth amendment": [
+      {
+        "doc": "Themes/privacy-and-surveillance.md",
+        "heading": "Fourth Amendment",
+        "line": 145,
+        "section": "주요 고유명사",
+        "term": "Fourth Amendment",
+        "theme": "privacy-and-surveillance"
+      }
+    ],
     "fragmentation": [
       {
         "doc": "Themes/roman-empire.md",
@@ -8187,12 +8717,30 @@
     ],
     "franchise": [
       {
+        "doc": "Themes/democracy-and-elections.md",
+        "heading": "franchise",
+        "line": 37,
+        "section": "민주주의와 대표",
+        "term": "franchise",
+        "theme": "democracy-and-elections"
+      },
+      {
         "doc": "Themes/media-and-popular-culture.md",
         "heading": "franchise",
         "line": 125,
         "section": "콘텐츠 산업과 대중문화",
         "term": "franchise",
         "theme": "media-and-popular-culture"
+      }
+    ],
+    "francis bacon": [
+      {
+        "doc": "Themes/scientific-method-and-research.md",
+        "heading": "Francis Bacon",
+        "line": 139,
+        "section": "주요 고유명사",
+        "term": "Francis Bacon",
+        "theme": "scientific-method-and-research"
       }
     ],
     "fraud": [
@@ -8331,6 +8879,16 @@
         "theme": "astronomy-and-space-exploration"
       }
     ],
+    "galileo galilei": [
+      {
+        "doc": "Themes/scientific-method-and-research.md",
+        "heading": "Galileo Galilei",
+        "line": 133,
+        "section": "주요 고유명사",
+        "term": "Galileo Galilei",
+        "theme": "scientific-method-and-research"
+      }
+    ],
     "garrison": [
       {
         "doc": "Themes/roman-empire.md",
@@ -8359,6 +8917,16 @@
         "section": "경기와 거시경제",
         "term": "GDP",
         "theme": "business-and-economics"
+      }
+    ],
+    "gdpr": [
+      {
+        "doc": "Themes/privacy-and-surveillance.md",
+        "heading": "GDPR",
+        "line": 133,
+        "section": "주요 고유명사",
+        "term": "GDPR",
+        "theme": "privacy-and-surveillance"
       }
     ],
     "gene": [
@@ -8527,6 +9095,16 @@
         "theme": "renewable-energy"
       }
     ],
+    "gerrymandering": [
+      {
+        "doc": "Themes/democracy-and-elections.md",
+        "heading": "gerrymandering",
+        "line": 101,
+        "section": "정치 갈등",
+        "term": "gerrymandering",
+        "theme": "democracy-and-elections"
+      }
+    ],
     "gideon v. wainwright": [
       {
         "doc": "Themes/court-and-trial.md",
@@ -8653,6 +9231,14 @@
         "section": "주요 고유명사",
         "term": "Great Depression",
         "theme": "business-and-economics"
+      },
+      {
+        "doc": "Themes/finance-and-banking.md",
+        "heading": "Great Depression",
+        "line": 139,
+        "section": "주요 고유명사",
+        "term": "Great Depression",
+        "theme": "finance-and-banking"
       }
     ],
     "great migration": [
@@ -9303,6 +9889,16 @@
         "theme": "renewable-energy"
       }
     ],
+    "hypothesis": [
+      {
+        "doc": "Themes/scientific-method-and-research.md",
+        "heading": "hypothesis",
+        "line": 7,
+        "section": "연구 설계",
+        "term": "hypothesis",
+        "theme": "scientific-method-and-research"
+      }
+    ],
     "ice sheet": [
       {
         "doc": "Themes/global-warming.md",
@@ -9409,6 +10005,14 @@
         "section": "주요 고유명사",
         "term": "IMF",
         "theme": "business-and-economics"
+      },
+      {
+        "doc": "Themes/finance-and-banking.md",
+        "heading": "IMF",
+        "line": 151,
+        "section": "주요 고유명사",
+        "term": "IMF",
+        "theme": "finance-and-banking"
       }
     ],
     "immanuel kant": [
@@ -9602,6 +10206,14 @@
       }
     ],
     "incumbent": [
+      {
+        "doc": "Themes/democracy-and-elections.md",
+        "heading": "incumbent",
+        "line": 75,
+        "section": "선거 절차",
+        "term": "incumbent",
+        "theme": "democracy-and-elections"
+      },
       {
         "doc": "Themes/government-and-executive.md",
         "heading": "incumbent",
@@ -9877,6 +10489,16 @@
         "theme": "folklore-customs-and-legends"
       }
     ],
+    "injunction": [
+      {
+        "doc": "Themes/law-and-rights.md",
+        "heading": "injunction",
+        "line": 81,
+        "section": "책임과 구제",
+        "term": "injunction",
+        "theme": "law-and-rights"
+      }
+    ],
     "innovation": [
       {
         "doc": "Themes/industrial-revolution-and-modern-society.md",
@@ -9915,6 +10537,16 @@
         "theme": "archaeology"
       }
     ],
+    "insolvency": [
+      {
+        "doc": "Themes/finance-and-banking.md",
+        "heading": "insolvency",
+        "line": 75,
+        "section": "시장과 위험",
+        "term": "insolvency",
+        "theme": "finance-and-banking"
+      }
+    ],
     "installation": [
       {
         "doc": "Themes/art-and-art-movements.md",
@@ -9933,6 +10565,16 @@
         "section": "구조와 제도",
         "term": "institutional",
         "theme": "racism-and-misogyny"
+      }
+    ],
+    "institutional review board": [
+      {
+        "doc": "Themes/scientific-method-and-research.md",
+        "heading": "Institutional Review Board",
+        "line": 157,
+        "section": "주요 고유명사",
+        "term": "Institutional Review Board",
+        "theme": "scientific-method-and-research"
       }
     ],
     "instruction": [
@@ -9971,6 +10613,16 @@
         "section": "속주 통치와 제국 운영",
         "term": "integration",
         "theme": "roman-empire"
+      }
+    ],
+    "interest": [
+      {
+        "doc": "Themes/finance-and-banking.md",
+        "heading": "interest",
+        "line": 31,
+        "section": "은행과 신용",
+        "term": "interest",
+        "theme": "finance-and-banking"
       }
     ],
     "interest rate": [
@@ -10499,6 +11151,14 @@
         "section": "권한과 통제",
         "term": "jurisdiction",
         "theme": "government-and-legislature"
+      },
+      {
+        "doc": "Themes/law-and-rights.md",
+        "heading": "jurisdiction",
+        "line": 19,
+        "section": "법과 권리",
+        "term": "jurisdiction",
+        "theme": "law-and-rights"
       }
     ],
     "jurisprudence": [
@@ -10539,6 +11199,16 @@
         "section": "주요 고유명사",
         "term": "Karl Marx",
         "theme": "industrial-revolution-and-modern-society"
+      }
+    ],
+    "karl popper": [
+      {
+        "doc": "Themes/scientific-method-and-research.md",
+        "heading": "Karl Popper",
+        "line": 145,
+        "section": "주요 고유명사",
+        "term": "Karl Popper",
+        "theme": "scientific-method-and-research"
       }
     ],
     "keynesian economics": [
@@ -10761,6 +11431,14 @@
     ],
     "law": [
       {
+        "doc": "Themes/law-and-rights.md",
+        "heading": "law",
+        "line": 7,
+        "section": "법과 권리",
+        "term": "law",
+        "theme": "law-and-rights"
+      },
+      {
         "doc": "Themes/roman-empire.md",
         "heading": "law",
         "line": 213,
@@ -10923,6 +11601,16 @@
         "theme": "government-and-legislature"
       }
     ],
+    "legitimacy": [
+      {
+        "doc": "Themes/democracy-and-elections.md",
+        "heading": "legitimacy",
+        "line": 113,
+        "section": "정치 갈등",
+        "term": "legitimacy",
+        "theme": "democracy-and-elections"
+      }
+    ],
     "leonardo da vinci": [
       {
         "doc": "Themes/art-and-art-movements.md",
@@ -10977,6 +11665,22 @@
         "section": "판결과 처벌",
         "term": "liability",
         "theme": "court-and-trial"
+      },
+      {
+        "doc": "Themes/finance-and-banking.md",
+        "heading": "liability",
+        "line": 63,
+        "section": "시장과 위험",
+        "term": "liability",
+        "theme": "finance-and-banking"
+      },
+      {
+        "doc": "Themes/law-and-rights.md",
+        "heading": "liability",
+        "line": 51,
+        "section": "책임과 구제",
+        "term": "liability",
+        "theme": "law-and-rights"
       }
     ],
     "liberty": [
@@ -10987,6 +11691,14 @@
         "section": "권리와 평등",
         "term": "liberty",
         "theme": "human-rights-movement"
+      },
+      {
+        "doc": "Themes/law-and-rights.md",
+        "heading": "liberty",
+        "line": 31,
+        "section": "법과 권리",
+        "term": "liberty",
+        "theme": "law-and-rights"
       },
       {
         "doc": "Themes/renaissance-absolutism-and-revolution.md",
@@ -11063,6 +11775,14 @@
         "section": "금융과 투자",
         "term": "liquidity",
         "theme": "business-and-economics"
+      },
+      {
+        "doc": "Themes/finance-and-banking.md",
+        "heading": "liquidity",
+        "line": 51,
+        "section": "시장과 위험",
+        "term": "liquidity",
+        "theme": "finance-and-banking"
       }
     ],
     "literacy": [
@@ -11251,6 +11971,14 @@
         "section": "주요 고유명사",
         "term": "Magna Carta",
         "theme": "feudalism-nobility-and-the-middle-ages"
+      },
+      {
+        "doc": "Themes/law-and-rights.md",
+        "heading": "Magna Carta",
+        "line": 127,
+        "section": "주요 고유명사",
+        "term": "Magna Carta",
+        "theme": "law-and-rights"
       }
     ],
     "mahatma gandhi": [
@@ -11753,6 +12481,16 @@
         "theme": "genetics-and-biology"
       }
     ],
+    "metadata": [
+      {
+        "doc": "Themes/privacy-and-surveillance.md",
+        "heading": "metadata",
+        "line": 69,
+        "section": "보안과 기술",
+        "term": "metadata",
+        "theme": "privacy-and-surveillance"
+      }
+    ],
     "metallurgy": [
       {
         "doc": "Themes/industrial-revolution-and-modern-society.md",
@@ -11821,6 +12559,16 @@
         "section": "기본 개념",
         "term": "methane",
         "theme": "global-warming"
+      }
+    ],
+    "methodology": [
+      {
+        "doc": "Themes/scientific-method-and-research.md",
+        "heading": "methodology",
+        "line": 49,
+        "section": "연구 설계",
+        "term": "methodology",
+        "theme": "scientific-method-and-research"
       }
     ],
     "metoo movement": [
@@ -12275,6 +13023,14 @@
         "section": "경기와 거시경제",
         "term": "monetary policy",
         "theme": "business-and-economics"
+      },
+      {
+        "doc": "Themes/finance-and-banking.md",
+        "heading": "monetary policy",
+        "line": 101,
+        "section": "제도와 규제",
+        "term": "monetary policy",
+        "theme": "finance-and-banking"
       }
     ],
     "monk": [
@@ -12437,6 +13193,16 @@
         "section": "의료제도와 공중보건",
         "term": "mortality",
         "theme": "disease-and-medicine"
+      }
+    ],
+    "mortgage": [
+      {
+        "doc": "Themes/finance-and-banking.md",
+        "heading": "mortgage",
+        "line": 43,
+        "section": "은행과 신용",
+        "term": "mortgage",
+        "theme": "finance-and-banking"
       }
     ],
     "motif": [
@@ -12801,6 +13567,16 @@
         "theme": "astronomy-and-space-exploration"
       }
     ],
+    "negligence": [
+      {
+        "doc": "Themes/law-and-rights.md",
+        "heading": "negligence",
+        "line": 63,
+        "section": "책임과 구제",
+        "term": "negligence",
+        "theme": "law-and-rights"
+      }
+    ],
     "negotiate": [
       {
         "doc": "Themes/diplomacy.md",
@@ -13017,6 +13793,16 @@
         "section": "주요 고유명사",
         "term": "Norman Conquest",
         "theme": "feudalism-nobility-and-the-middle-ages"
+      }
+    ],
+    "nsa": [
+      {
+        "doc": "Themes/privacy-and-surveillance.md",
+        "heading": "NSA",
+        "line": 127,
+        "section": "주요 고유명사",
+        "term": "NSA",
+        "theme": "privacy-and-surveillance"
       }
     ],
     "nuance": [
@@ -13475,6 +14261,14 @@
         "section": "권한과 통제",
         "term": "oversight",
         "theme": "government-and-legislature"
+      },
+      {
+        "doc": "Themes/privacy-and-surveillance.md",
+        "heading": "oversight",
+        "line": 113,
+        "section": "권리와 통제",
+        "term": "oversight",
+        "theme": "privacy-and-surveillance"
       }
     ],
     "overtime": [
@@ -13661,6 +14455,16 @@
         "theme": "cultural-anthropology-and-indigenous-peoples"
       }
     ],
+    "partisan": [
+      {
+        "doc": "Themes/democracy-and-elections.md",
+        "heading": "partisan",
+        "line": 95,
+        "section": "정치 갈등",
+        "term": "partisan",
+        "theme": "democracy-and-elections"
+      }
+    ],
     "pasture": [
       {
         "doc": "Themes/agriculture-and-livestock.md",
@@ -13819,6 +14623,16 @@
         "section": "교육 제도와 과정",
         "term": "pedagogy",
         "theme": "education-school-and-university"
+      }
+    ],
+    "peer review": [
+      {
+        "doc": "Themes/scientific-method-and-research.md",
+        "heading": "peer review",
+        "line": 107,
+        "section": "출판과 윤리",
+        "term": "peer review",
+        "theme": "scientific-method-and-research"
       }
     ],
     "peerage": [
@@ -14075,6 +14889,16 @@
         "theme": "disease-and-medicine"
       }
     ],
+    "plagiarism": [
+      {
+        "doc": "Themes/scientific-method-and-research.md",
+        "heading": "plagiarism",
+        "line": 113,
+        "section": "출판과 윤리",
+        "term": "plagiarism",
+        "theme": "scientific-method-and-research"
+      }
+    ],
     "plague": [
       {
         "doc": "Themes/feudalism-nobility-and-the-middle-ages.md",
@@ -14093,6 +14917,14 @@
         "section": "사람과 역할",
         "term": "plaintiff",
         "theme": "court-and-trial"
+      },
+      {
+        "doc": "Themes/law-and-rights.md",
+        "heading": "plaintiff",
+        "line": 107,
+        "section": "절차와 원칙",
+        "term": "plaintiff",
+        "theme": "law-and-rights"
       }
     ],
     "plantation": [
@@ -14211,6 +15043,16 @@
         "section": "문학 일반과 장르",
         "term": "poetry",
         "theme": "literature-and-english-literature"
+      }
+    ],
+    "polarization": [
+      {
+        "doc": "Themes/democracy-and-elections.md",
+        "heading": "polarization",
+        "line": 89,
+        "section": "정치 갈등",
+        "term": "polarization",
+        "theme": "democracy-and-elections"
       }
     ],
     "pollution": [
@@ -14347,6 +15189,14 @@
         "section": "증거와 판단",
         "term": "precedent",
         "theme": "court-and-trial"
+      },
+      {
+        "doc": "Themes/law-and-rights.md",
+        "heading": "precedent",
+        "line": 95,
+        "section": "절차와 원칙",
+        "term": "precedent",
+        "theme": "law-and-rights"
       }
     ],
     "precinct": [
@@ -14569,6 +15419,16 @@
         "theme": "ancient-civilizations"
       }
     ],
+    "primary": [
+      {
+        "doc": "Themes/democracy-and-elections.md",
+        "heading": "primary",
+        "line": 63,
+        "section": "선거 절차",
+        "term": "primary",
+        "theme": "democracy-and-elections"
+      }
+    ],
     "prime minister": [
       {
         "doc": "Themes/government-and-executive.md",
@@ -14607,6 +15467,14 @@
         "section": "윤리와 위험",
         "term": "privacy",
         "theme": "artificial-intelligence"
+      },
+      {
+        "doc": "Themes/privacy-and-surveillance.md",
+        "heading": "privacy",
+        "line": 7,
+        "section": "프라이버시와 데이터",
+        "term": "privacy",
+        "theme": "privacy-and-surveillance"
       }
     ],
     "privilege": [
@@ -15139,6 +16007,16 @@
         "theme": "human-rights-movement"
       }
     ],
+    "randomization": [
+      {
+        "doc": "Themes/scientific-method-and-research.md",
+        "heading": "randomization",
+        "line": 37,
+        "section": "연구 설계",
+        "term": "randomization",
+        "theme": "scientific-method-and-research"
+      }
+    ],
     "rank": [
       {
         "doc": "Themes/feudalism-nobility-and-the-middle-ages.md",
@@ -15283,6 +16161,14 @@
         "section": "경기와 거시경제",
         "term": "recession",
         "theme": "business-and-economics"
+      },
+      {
+        "doc": "Themes/finance-and-banking.md",
+        "heading": "recession",
+        "line": 119,
+        "section": "제도와 규제",
+        "term": "recession",
+        "theme": "finance-and-banking"
       }
     ],
     "reciprocity": [
@@ -15407,6 +16293,14 @@
         "theme": "human-rights-movement"
       },
       {
+        "doc": "Themes/law-and-rights.md",
+        "heading": "redress",
+        "line": 75,
+        "section": "책임과 구제",
+        "term": "redress",
+        "theme": "law-and-rights"
+      },
+      {
         "doc": "Themes/racism-and-misogyny.md",
         "heading": "redress",
         "line": 249,
@@ -15443,6 +16337,16 @@
         "section": "우주비행과 개발",
         "term": "reentry",
         "theme": "astronomy-and-space-exploration"
+      }
+    ],
+    "referendum": [
+      {
+        "doc": "Themes/democracy-and-elections.md",
+        "heading": "referendum",
+        "line": 57,
+        "section": "선거 절차",
+        "term": "referendum",
+        "theme": "democracy-and-elections"
       }
     ],
     "reform": [
@@ -15533,6 +16437,14 @@
         "theme": "business-and-economics"
       },
       {
+        "doc": "Themes/finance-and-banking.md",
+        "heading": "regulation",
+        "line": 107,
+        "section": "제도와 규제",
+        "term": "regulation",
+        "theme": "finance-and-banking"
+      },
+      {
         "doc": "Themes/government-and-executive.md",
         "heading": "regulation",
         "line": 169,
@@ -15615,6 +16527,14 @@
         "section": "전력망과 저장",
         "term": "reliability",
         "theme": "renewable-energy"
+      },
+      {
+        "doc": "Themes/scientific-method-and-research.md",
+        "heading": "reliability",
+        "line": 93,
+        "section": "자료와 해석",
+        "term": "reliability",
+        "theme": "scientific-method-and-research"
       }
     ],
     "relic": [
@@ -15655,6 +16575,16 @@
         "section": "화석과 지층",
         "term": "remains",
         "theme": "paleontology"
+      }
+    ],
+    "remedy": [
+      {
+        "doc": "Themes/law-and-rights.md",
+        "heading": "remedy",
+        "line": 69,
+        "section": "책임과 구제",
+        "term": "remedy",
+        "theme": "law-and-rights"
       }
     ],
     "remittance": [
@@ -15779,6 +16709,16 @@
         "theme": "government-and-legislature"
       }
     ],
+    "replication": [
+      {
+        "doc": "Themes/scientific-method-and-research.md",
+        "heading": "replication",
+        "line": 99,
+        "section": "자료와 해석",
+        "term": "replication",
+        "theme": "scientific-method-and-research"
+      }
+    ],
     "representation": [
       {
         "doc": "Themes/american-history.md",
@@ -15803,6 +16743,14 @@
         "section": "연구 윤리와 관점",
         "term": "representation",
         "theme": "cultural-anthropology-and-indigenous-peoples"
+      },
+      {
+        "doc": "Themes/democracy-and-elections.md",
+        "heading": "representation",
+        "line": 13,
+        "section": "민주주의와 대표",
+        "term": "representation",
+        "theme": "democracy-and-elections"
       },
       {
         "doc": "Themes/human-rights-movement.md",
@@ -15839,6 +16787,16 @@
         "section": "정신분석학",
         "term": "repression",
         "theme": "psychology-psychoanalysis-and-mental-health"
+      }
+    ],
+    "reproducibility": [
+      {
+        "doc": "Themes/scientific-method-and-research.md",
+        "heading": "reproducibility",
+        "line": 119,
+        "section": "출판과 윤리",
+        "term": "reproducibility",
+        "theme": "scientific-method-and-research"
       }
     ],
     "reproduction": [
@@ -16359,6 +17317,16 @@
         "theme": "archaeology"
       }
     ],
+    "rule of law": [
+      {
+        "doc": "Themes/law-and-rights.md",
+        "heading": "rule of law",
+        "line": 119,
+        "section": "절차와 원칙",
+        "term": "rule of law",
+        "theme": "law-and-rights"
+      }
+    ],
     "ruling": [
       {
         "doc": "Themes/court-and-trial.md",
@@ -16445,6 +17413,16 @@
         "section": "주요 고유명사",
         "term": "Salvador Dalí",
         "theme": "art-and-art-movements"
+      }
+    ],
+    "sample": [
+      {
+        "doc": "Themes/scientific-method-and-research.md",
+        "heading": "sample",
+        "line": 43,
+        "section": "연구 설계",
+        "term": "sample",
+        "theme": "scientific-method-and-research"
       }
     ],
     "sample return": [
@@ -17457,6 +18435,16 @@
         "theme": "astronomy-and-space-exploration"
       }
     ],
+    "speculation": [
+      {
+        "doc": "Themes/finance-and-banking.md",
+        "heading": "speculation",
+        "line": 81,
+        "section": "시장과 위험",
+        "term": "speculation",
+        "theme": "finance-and-banking"
+      }
+    ],
     "spice trade": [
       {
         "doc": "Themes/age-of-exploration-and-colonialism.md",
@@ -17585,6 +18573,14 @@
         "section": "입법 절차",
         "term": "statute",
         "theme": "government-and-legislature"
+      },
+      {
+        "doc": "Themes/law-and-rights.md",
+        "heading": "statute",
+        "line": 13,
+        "section": "법과 권리",
+        "term": "statute",
+        "theme": "law-and-rights"
       }
     ],
     "steam engine": [
@@ -17913,6 +18909,14 @@
         "theme": "american-history"
       },
       {
+        "doc": "Themes/democracy-and-elections.md",
+        "heading": "suffrage",
+        "line": 31,
+        "section": "민주주의와 대표",
+        "term": "suffrage",
+        "theme": "democracy-and-elections"
+      },
+      {
         "doc": "Themes/industrial-revolution-and-modern-society.md",
         "heading": "suffrage",
         "line": 269,
@@ -18017,6 +19021,14 @@
         "section": "주요 고유명사",
         "term": "Supreme Court",
         "theme": "court-and-trial"
+      },
+      {
+        "doc": "Themes/law-and-rights.md",
+        "heading": "Supreme Court",
+        "line": 151,
+        "section": "주요 고유명사",
+        "term": "Supreme Court",
+        "theme": "law-and-rights"
       }
     ],
     "surgery": [
@@ -18099,6 +19111,14 @@
         "section": "수사와 증거",
         "term": "surveillance",
         "theme": "crime-investigation-and-police"
+      },
+      {
+        "doc": "Themes/privacy-and-surveillance.md",
+        "heading": "surveillance",
+        "line": 13,
+        "section": "프라이버시와 데이터",
+        "term": "surveillance",
+        "theme": "privacy-and-surveillance"
       }
     ],
     "survey": [
@@ -18543,6 +19563,16 @@
         "theme": "religion"
       }
     ],
+    "theory": [
+      {
+        "doc": "Themes/scientific-method-and-research.md",
+        "heading": "theory",
+        "line": 13,
+        "section": "연구 설계",
+        "term": "theory",
+        "theme": "scientific-method-and-research"
+      }
+    ],
     "therapy": [
       {
         "doc": "Themes/disease-and-medicine.md",
@@ -18579,6 +19609,16 @@
         "section": "수업과 학업 활동",
         "term": "thesis",
         "theme": "education-school-and-university"
+      }
+    ],
+    "thomas kuhn": [
+      {
+        "doc": "Themes/scientific-method-and-research.md",
+        "heading": "Thomas Kuhn",
+        "line": 151,
+        "section": "주요 고유명사",
+        "term": "Thomas Kuhn",
+        "theme": "scientific-method-and-research"
       }
     ],
     "threshold": [
@@ -18987,6 +20027,14 @@
         "section": "윤리와 위험",
         "term": "transparency",
         "theme": "artificial-intelligence"
+      },
+      {
+        "doc": "Themes/privacy-and-surveillance.md",
+        "heading": "transparency",
+        "line": 37,
+        "section": "프라이버시와 데이터",
+        "term": "transparency",
+        "theme": "privacy-and-surveillance"
       }
     ],
     "trauma": [
@@ -19211,6 +20259,16 @@
         "section": "주요 고유명사",
         "term": "Turing Test",
         "theme": "artificial-intelligence"
+      }
+    ],
+    "turnout": [
+      {
+        "doc": "Themes/democracy-and-elections.md",
+        "heading": "turnout",
+        "line": 69,
+        "section": "선거 절차",
+        "term": "turnout",
+        "theme": "democracy-and-elections"
       }
     ],
     "turnover": [
@@ -19531,6 +20589,26 @@
         "theme": "astronomy-and-space-exploration"
       }
     ],
+    "validity": [
+      {
+        "doc": "Themes/scientific-method-and-research.md",
+        "heading": "validity",
+        "line": 87,
+        "section": "자료와 해석",
+        "term": "validity",
+        "theme": "scientific-method-and-research"
+      }
+    ],
+    "variable": [
+      {
+        "doc": "Themes/scientific-method-and-research.md",
+        "heading": "variable",
+        "line": 25,
+        "section": "연구 설계",
+        "term": "variable",
+        "theme": "scientific-method-and-research"
+      }
+    ],
     "variation": [
       {
         "doc": "Themes/genetics-and-biology.md",
@@ -19721,6 +20799,16 @@
         "theme": "labor-and-employment"
       }
     ],
+    "volatility": [
+      {
+        "doc": "Themes/finance-and-banking.md",
+        "heading": "volatility",
+        "line": 87,
+        "section": "시장과 위험",
+        "term": "volatility",
+        "theme": "finance-and-banking"
+      }
+    ],
     "volcano": [
       {
         "doc": "Themes/geology-geography-and-meteorology.md",
@@ -19739,6 +20827,14 @@
         "section": "주요 고유명사",
         "term": "Voting Rights Act",
         "theme": "american-history"
+      },
+      {
+        "doc": "Themes/democracy-and-elections.md",
+        "heading": "Voting Rights Act",
+        "line": 133,
+        "section": "주요 고유명사",
+        "term": "Voting Rights Act",
+        "theme": "democracy-and-elections"
       },
       {
         "doc": "Themes/racism-and-misogyny.md",
@@ -19817,6 +20913,14 @@
         "section": "주요 고유명사",
         "term": "Wall Street",
         "theme": "business-and-economics"
+      },
+      {
+        "doc": "Themes/finance-and-banking.md",
+        "heading": "Wall Street",
+        "line": 133,
+        "section": "주요 고유명사",
+        "term": "Wall Street",
+        "theme": "finance-and-banking"
       }
     ],
     "warfare": [
@@ -19837,6 +20941,14 @@
         "section": "체포와 구금",
         "term": "warrant",
         "theme": "crime-investigation-and-police"
+      },
+      {
+        "doc": "Themes/privacy-and-surveillance.md",
+        "heading": "warrant",
+        "line": 107,
+        "section": "권리와 통제",
+        "term": "warrant",
+        "theme": "privacy-and-surveillance"
       }
     ],
     "watershed": [
@@ -19907,6 +21019,16 @@
         "section": "동물별 자주 쓰는 표현",
         "term": "whales",
         "theme": "collective-animal-nouns"
+      }
+    ],
+    "whistleblower": [
+      {
+        "doc": "Themes/privacy-and-surveillance.md",
+        "heading": "whistleblower",
+        "line": 95,
+        "section": "권리와 통제",
+        "term": "whistleblower",
+        "theme": "privacy-and-surveillance"
       }
     ],
     "white house": [
