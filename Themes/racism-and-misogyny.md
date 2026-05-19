@@ -350,10 +350,10 @@
 - 사용 맥락: `Roe v. Wade shaped abortion rights debates`
 - 주의: 여성의 신체 자기결정권, reproductive rights 논쟁에서 자주 언급되는 판례.
 
-### #MeToo
+### MeToo movement
 
 - 핵심 의미: 성폭력·성희롱 고발 운동
-- 사용 맥락: `the #MeToo movement`
+- 사용 맥락: `the MeToo movement`
 - 주의: 개인 경험 고발에서 시작해 권력형 성폭력과 workplace harassment 논의로 확장.
 
 ## 기억할 점
@@ -365,4 +365,4 @@
 - `systemic`, `institutional`, `structural`은 개인보다 제도·구조에 초점.
 - `slur`, `hate speech`, `derogatory`는 비하 표현을 설명하는 단어이며 실제 사용에는 주의.
 - `intersectionality`는 여러 정체성이 겹칠 때 차별 경험이 달라진다는 개념.
-- `Jim Crow`, `Brown v. Board of Education`, `Voting Rights Act`, `Title IX`, `#MeToo`는 배경지식으로 자주 작동하는 고유명사.
+- `Jim Crow`, `Brown v. Board of Education`, `Voting Rights Act`, `Title IX`, `MeToo movement`는 배경지식으로 자주 작동하는 고유명사.
