@@ -18,6 +18,7 @@ LEXICON_PATH = ROOTS_DIR / "_Lexicon.json"
 
 HEADING_RE = re.compile(r"^(#{2,3})\s+(.+?)\s*$")
 CODE_RE = re.compile(r"`([^`]+)`")
+EXCLUDED_ENTRY_SECTIONS = {"비교 단어"}
 
 
 def normalize(value: str) -> str:
@@ -96,6 +97,9 @@ def parse_doc(path: Path) -> tuple[dict[str, Any], dict[str, list[dict[str, Any]
 
         if marker == "##":
             section = title
+            continue
+
+        if section in EXCLUDED_ENTRY_SECTIONS:
             continue
 
         heading_count += 1
