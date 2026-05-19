@@ -110,13 +110,13 @@
 - 사용 맥락: `electric grid`, `grid stability`
 - 주의: 일반 의미는 격자. 에너지 문맥에서는 전기를 생산지에서 소비지로 보내는 전력망.
 
-### transmission
+### [[miss#transmission|transmission]]
 
 - 핵심 의미: 송전, 전송
 - 사용 맥락: `transmission lines`, `electricity transmission`
 - 주의: 질병 전파나 정보 전송도 뜻함. 전력에서는 먼 거리로 전기를 보내는 것.
 
-### distribution
+### [[trib#distribution|distribution]]
 
 - 핵심 의미: 배전, 분배
 - 사용 맥락: `distribution network`, `electricity distribution`
@@ -128,13 +128,13 @@
 - 사용 맥락: `energy storage`, `battery storage`
 - 주의: 재생에너지의 변동성을 보완하기 위해 전기를 저장하는 기술.
 
-### battery
+### [[batt#battery|battery]]
 
 - 핵심 의미: 배터리, 전지
 - 사용 맥락: `lithium-ion battery`, `grid-scale battery`
 - 주의: 법률에서는 폭행, 군사에서는 포대라는 뜻도 있음.
 
-### capacity
+### [[cap#capacity|capacity]]
 
 - 핵심 의미: 용량, 발전 능력
 - 사용 맥락: `installed capacity`, `storage capacity`
@@ -158,7 +158,7 @@
 - 사용 맥락: `grid reliability`, `reliable power supply`
 - 주의: 전기가 필요할 때 안정적으로 공급되는 능력.
 
-### resilience
+### [[sult#resilience|resilience]]
 
 - 핵심 의미: 회복력, 탄력성
 - 사용 맥락: `grid resilience`, `energy resilience`
@@ -166,7 +166,7 @@
 
 ## 정책과 경제성
 
-### subsidy
+### [[sed-sess#subsidy|subsidy]]
 
 - 핵심 의미: 보조금
 - 사용 맥락: `renewable energy subsidies`, `subsidize solar panels`
@@ -178,13 +178,13 @@
 - 사용 맥락: `tax incentive`, `incentives for clean energy`
 - 주의: 사람이나 기업이 특정 행동을 하도록 만드는 경제적·정책적 동기.
 
-### mandate
+### [[mand#mandate|mandate]]
 
 - 핵심 의미: 의무 규정, 명령, 위임
 - 사용 맥락: `renewable energy mandate`, `clean energy mandate`
 - 주의: 에너지 문맥에서는 일정 비율 이상의 재생에너지 사용을 요구하는 규정.
 
-### standard
+### [[stand#standard|standard]]
 
 - 핵심 의미: 기준, 표준
 - 사용 맥락: `renewable portfolio standard`, `efficiency standard`

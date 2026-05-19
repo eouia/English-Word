@@ -16,19 +16,19 @@
 - 사용 맥락: `mental illness`, `serious illness`
 - 주의: 환자가 경험하는 아픈 상태에 초점. `disease`보다 일상적이고 주관적 느낌이 있음.
 
-### disorder
+### [[ord#disorder|disorder]]
 
 - 핵심 의미: 장애, 질환, 무질서
 - 사용 맥락: `anxiety disorder`, `genetic disorder`
 - 주의: 신체·정신 기능의 이상을 가리킴. 일반 의미로는 혼란, 무질서.
 
-### condition
+### [[dict#condition|condition]]
 
 - 핵심 의미: 질환, 상태, 조건
 - 사용 맥락: `medical condition`, `preexisting condition`
 - 주의: 의학에서는 특정 건강 상태나 질환. 보험 문맥에서 `preexisting condition`은 기존 질환.
 
-### symptom
+### [[sym#symptom|symptom]]
 
 - 핵심 의미: 증상
 - 사용 맥락: `early symptoms`, `mild symptoms`
@@ -40,7 +40,7 @@
 - 사용 맥락: `chronic fatigue syndrome`, `Down syndrome`
 - 주의: 함께 나타나는 증상·징후의 묶음. 원인이 하나로 분명하지 않을 수도 있음.
 
-### chronic
+### [[chron#chronic|chronic]]
 
 - 핵심 의미: 만성의, 장기적인
 - 사용 맥락: `chronic disease`, `chronic pain`
@@ -52,7 +52,7 @@
 - 사용 맥락: `acute infection`, `acute pain`
 - 주의: 의학에서는 갑자기 시작되고 짧고 강한 상태. 일반적으로는 예리한, 심각한.
 
-### complication
+### [[plic-fold#complication|complication]]
 
 - 핵심 의미: 합병증, 복잡하게 만드는 문제
 - 사용 맥락: `surgical complications`, `complications from diabetes`
@@ -72,13 +72,13 @@
 - 사용 맥락: `pathogenic bacteria`, `pathogen transmission`
 - 주의: 질병을 일으키는 바이러스, 세균, 곰팡이, 기생생물 등.
 
-### contagious
+### [[tact#contagious|contagious]]
 
 - 핵심 의미: 전염성의
 - 사용 맥락: `highly contagious disease`, `contagious virus`
 - 주의: 사람 사이에 쉽게 옮는 성질. 감정이나 행동이 퍼질 때도 비유적으로 쓰임.
 
-### transmission
+### [[miss#transmission|transmission]]
 
 - 핵심 의미: 전파, 전달
 - 사용 맥락: `disease transmission`, `airborne transmission`
@@ -90,19 +90,19 @@
 - 사용 맥락: `disease outbreak`, `outbreak of cholera`
 - 주의: 특정 지역에서 질병이 갑자기 늘어나는 상황. 전쟁·폭력에도 쓰임.
 
-### epidemic
+### [[dem#epidemic|epidemic]]
 
 - 핵심 의미: 유행병, 대유행
 - 사용 맥락: `an epidemic of influenza`, `opioid epidemic`
 - 주의: 특정 지역·집단에서 평소보다 훨씬 많이 발생하는 질병. 사회문제에도 비유적으로 쓰임.
 
-### pandemic
+### [[dem#pandemic|pandemic]]
 
 - 핵심 의미: 세계적 대유행
 - 사용 맥락: `global pandemic`, `pandemic response`
 - 주의: 여러 나라와 대륙에 걸쳐 퍼진 감염병 유행.
 
-### immunity
+### [[mun#immunity|immunity]]
 
 - 핵심 의미: 면역, 면제
 - 사용 맥락: `herd immunity`, `immunity to infection`
@@ -122,7 +122,7 @@
 
 ## 진단과 예후
 
-### diagnosis
+### [[dia#diagnosis|diagnosis]]
 
 - 핵심 의미: 진단
 - 사용 맥락: `early diagnosis`, `medical diagnosis`
@@ -152,7 +152,7 @@
 - 사용 맥락: `perform a biopsy`, `biopsy results`
 - 주의: 조직 일부를 떼어 현미경 등으로 검사하는 절차.
 
-### clinical
+### [[clin#clinical|clinical]]
 
 - 핵심 의미: 임상의, 냉정한
 - 사용 맥락: `clinical trial`, `clinical symptoms`
@@ -160,7 +160,7 @@
 
 ## 치료와 예방
 
-### treatment
+### [[tract-handle#treatment|treatment]]
 
 - 핵심 의미: 치료, 대우, 처리
 - 사용 맥락: `medical treatment`, `treatment options`
@@ -172,13 +172,13 @@
 - 사용 맥락: `physical therapy`, `gene therapy`
 - 주의: 반복적·체계적 치료법에 자주 쓰임. 심리치료도 `therapy`.
 
-### medication
+### [[med#medication|medication]]
 
 - 핵심 의미: 약물, 투약
 - 사용 맥락: `take medication`, `prescription medication`
 - 주의: 치료를 위해 쓰는 약. `medicine`보다 구체적·의학적 느낌.
 
-### prescription
+### [[scrib#prescription|prescription]]
 
 - 핵심 의미: 처방전, 처방
 - 사용 맥락: `prescription drugs`, `write a prescription`
@@ -202,7 +202,7 @@
 - 사용 맥락: `vaccination campaign`, `childhood vaccination`
 - 주의: 백신을 투여해 면역을 유도하는 행위. 백신 자체는 `vaccine`.
 
-### prevention
+### [[ven#prevention|prevention]]
 
 - 핵심 의미: 예방
 - 사용 맥락: `disease prevention`, `prevention strategy`
@@ -252,7 +252,7 @@
 - 사용 맥락: `public health policy`, `public health crisis`
 - 주의: 개인 치료보다 인구 집단 전체의 건강 보호에 초점.
 
-### mortality
+### [[mort#mortality|mortality]]
 
 - 핵심 의미: 사망률, 죽음
 - 사용 맥락: `infant mortality`, `mortality rate`
@@ -278,7 +278,7 @@
 - 사용 맥락: `conduct a clinical trial`, `clinical trial participants`
 - 주의: 새 약이나 치료법의 안전성과 효과를 사람에게 시험하는 연구.
 
-### placebo
+### [[plac#placebo|placebo]]
 
 - 핵심 의미: 위약
 - 사용 맥락: `placebo effect`, `placebo-controlled trial`
@@ -290,7 +290,7 @@
 - 사용 맥락: `vaccine efficacy`, `drug efficacy`
 - 주의: 의학 연구에서 치료나 예방이 의도한 효과를 내는 정도.
 
-### consent
+### [[con#consent|consent]]
 
 - 핵심 의미: 동의, 승낙
 - 사용 맥락: `informed consent`, `patient consent`

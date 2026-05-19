@@ -4,19 +4,19 @@
 
 ## 문학 일반과 장르
 
-### literature
+### [[liter#literature|literature]]
 
 - 핵심 의미: 문학, 문헌
 - 사용 맥락: `English literature`, `scientific literature`
 - 주의: 예술로서의 글뿐 아니라 특정 분야의 연구 문헌 전체도 뜻함.
 
-### genre
+### [[gen#genre|genre]]
 
 - 핵심 의미: 장르
 - 사용 맥락: `literary genre`, `genre fiction`
 - 주의: 작품을 형식, 주제, 관습에 따라 나누는 범주. 발음은 프랑스어식에 가까움.
 
-### fiction
+### [[fig#fiction|fiction]]
 
 - 핵심 의미: 소설, 허구
 - 사용 맥락: `literary fiction`, `works of fiction`
@@ -28,7 +28,7 @@
 - 사용 맥락: `nonfiction prose`, `creative nonfiction`
 - 주의: 역사, 전기, 에세이, 르포처럼 실제 사실을 바탕으로 한 글.
 
-### prose
+### [[pros#prose|prose]]
 
 - 핵심 의미: 산문
 - 사용 맥락: `prose style`, `fictional prose`
@@ -54,19 +54,19 @@
 
 ## 서사와 작품 구조
 
-### narrative
+### [[narr#narrative|narrative]]
 
 - 핵심 의미: 서사, 이야기
 - 사용 맥락: `narrative structure`, `first-person narrative`
 - 주의: 사건을 의미 있는 순서와 관점으로 엮어 전달하는 방식.
 
-### narrator
+### [[narr#narrator|narrator]]
 
 - 핵심 의미: 화자, 서술자
 - 사용 맥락: `unreliable narrator`, `first-person narrator`
 - 주의: 이야기를 전달하는 목소리. 작가와 항상 같지 않음.
 
-### perspective
+### [[spect#perspective|perspective]]
 
 - 핵심 의미: 관점, 원근법
 - 사용 맥락: `narrative perspective`, `shift in perspective`
@@ -78,25 +78,25 @@
 - 사용 맥락: `plot development`, `complex plot`
 - 주의: 사건이 배열되고 전개되는 구조. 정치·범죄 맥락에서는 음모.
 
-### setting
+### [[set#setting|setting]]
 
 - 핵심 의미: 배경, 설정
 - 사용 맥락: `historical setting`, `rural setting`
 - 주의: 작품의 시간, 장소, 사회적 환경.
 
-### character
+### [[charact#character|character]]
 
 - 핵심 의미: 인물, 성격, 문자
 - 사용 맥락: `main character`, `character development`
 - 주의: 문학에서는 작품 속 인물. 사람의 성품이나 글자도 뜻함.
 
-### protagonist
+### [[agon#protagonist|protagonist]]
 
 - 핵심 의미: 주인공, 중심 인물
 - 사용 맥락: `female protagonist`, `protagonist's conflict`
 - 주의: 이야기의 중심에서 목표와 갈등을 이끄는 인물.
 
-### antagonist
+### [[agon#antagonist|antagonist]]
 
 - 핵심 의미: 적대자, 반대자
 - 사용 맥락: `central antagonist`, `antagonistic force`
@@ -108,7 +108,7 @@
 - 사용 맥락: `internal conflict`, `social conflict`
 - 주의: 인물, 사회, 자연, 자기 자신 사이의 대립. 이야기 전개의 핵심 동력.
 
-### resolution
+### [[solv#resolution|resolution]]
 
 - 핵심 의미: 해결, 결말, 결의안
 - 사용 맥락: `narrative resolution`, `resolution of conflict`
@@ -116,7 +116,7 @@
 
 ## 문체와 수사
 
-### imagery
+### [[imag#imagery|imagery]]
 
 - 핵심 의미: 심상, 이미지 표현
 - 사용 맥락: `visual imagery`, `nature imagery`
@@ -152,7 +152,7 @@
 - 사용 맥락: `political allegory`, `religious allegory`
 - 주의: 이야기 전체가 다른 추상적 의미나 사상 체계를 가리키는 구조.
 
-### allusion
+### [[lud#allusion|allusion]]
 
 - 핵심 의미: 암시, 간접적 언급
 - 사용 맥락: `biblical allusion`, `classical allusion`
@@ -164,7 +164,7 @@
 - 사용 맥락: `ironic tone`, `melancholic tone`
 - 주의: 작가나 화자가 대상에 대해 보이는 태도와 감정의 결.
 
-### ambiguity
+### [[ag#ambiguity|ambiguity]]
 
 - 핵심 의미: 모호성, 중의성
 - 사용 맥락: `deliberate ambiguity`, `moral ambiguity`
@@ -172,7 +172,7 @@
 
 ## 시와 극 용어
 
-### verse
+### [[pros#verse|verse]]
 
 - 핵심 의미: 운문, 시구
 - 사용 맥락: `blank verse`, `verse drama`
@@ -184,7 +184,7 @@
 - 사용 맥락: `four-line stanza`, `final stanza`
 - 주의: 시에서 여러 행이 묶인 단위.
 
-### meter
+### [[metr#meter|meter]]
 
 - 핵심 의미: 운율, 박자, 계량기
 - 사용 맥락: `iambic meter`, `regular meter`
@@ -196,13 +196,13 @@
 - 사용 맥락: `rhyme scheme`, `end rhyme`
 - 주의: 시에서 소리가 비슷하게 반복되는 것.
 
-### soliloquy
+### [[loqu#soliloquy|soliloquy]]
 
 - 핵심 의미: 독백
 - 사용 맥락: `Hamlet's soliloquy`, `dramatic soliloquy`
 - 주의: 무대에서 인물이 혼자 자기 생각을 말하는 장면.
 
-### monologue
+### [[logos#monologue|monologue]]
 
 - 핵심 의미: 독백, 긴 발화
 - 사용 맥락: `dramatic monologue`, `interior monologue`
@@ -222,13 +222,13 @@
 
 ## 문학 비평과 해석
 
-### criticism
+### [[crit#criticism|criticism]]
 
 - 핵심 의미: 비평, 비판
 - 사용 맥락: `literary criticism`, `critical essay`
 - 주의: 문학에서는 작품을 분석하고 해석하는 학문적 활동. 단순한 비난만은 아님.
 
-### interpretation
+### [[interpres#interpretation|interpretation]]
 
 - 핵심 의미: 해석, 통역
 - 사용 맥락: `interpretation of a poem`, `multiple interpretations`
@@ -246,13 +246,13 @@
 - 사용 맥락: `recurring motif`, `motif of light and darkness`
 - 주의: 작품 안에서 반복되는 이미지, 장면, 소리, 주제 단위.
 
-### context
+### [[tex#context|context]]
 
 - 핵심 의미: 맥락
 - 사용 맥락: `historical context`, `cultural context`
 - 주의: 작품이 만들어지고 읽히는 역사적·문화적·언어적 배경.
 
-### subtext
+### [[tex#subtext|subtext]]
 
 - 핵심 의미: 숨은 의미, 서브텍스트
 - 사용 맥락: `political subtext`, `emotional subtext`
@@ -264,7 +264,7 @@
 - 사용 맥락: `intertextual references`, `literary intertextuality`
 - 주의: 한 작품이 다른 작품, 신화, 성경, 역사 텍스트와 맺는 관계.
 
-### reception
+### [[cap#reception|reception]]
 
 - 핵심 의미: 수용, 반응, 접수
 - 사용 맥락: `critical reception`, `reader reception`
@@ -272,7 +272,7 @@
 
 ## 영문학 시대와 흐름
 
-### medieval
+### [[medi#medieval|medieval]]
 
 - 핵심 의미: 중세의
 - 사용 맥락: `medieval literature`, `medieval romance`

@@ -22,7 +22,7 @@
 - 사용 맥락: `a pack of wolves`, `a pack of dogs`
 - 주의: `a pack of wolf`가 아니라 `a pack of wolves`. 집단 뒤의 동물명은 보통 복수형.
 
-### school
+### [[schol#school|school]]
 
 - 핵심 의미: 함께 헤엄치는 물고기 무리
 - 사용 맥락: `a school of fish`

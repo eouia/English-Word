@@ -4,43 +4,43 @@
 
 ## 기본 거래와 흐름
 
-### trade
+### [[merc#trade|trade]]
 
 - 핵심 의미: 무역, 거래, 교역하다
 - 사용 맥락: `international trade`, `trade between countries`
 - 주의: 직업·기술이라는 뜻도 있음. 경제 맥락에서는 상품과 서비스의 교환.
 
-### commerce
+### [[merc#commerce|commerce]]
 
 - 핵심 의미: 상업, 교역
 - 사용 맥락: `interstate commerce`, `global commerce`
 - 주의: `trade`보다 격식 있고 제도·법률 맥락에서 자주 쓰임.
 
-### export
+### [[ex#export|export]]
 
 - 핵심 의미: 수출하다, 수출품
 - 사용 맥락: `export goods`, `major exports`
 - 주의: 상품·서비스를 다른 나라로 파는 것. 컴퓨터에서는 파일을 내보내다.
 
-### import
+### [[in#import|import]]
 
 - 핵심 의미: 수입하다, 수입품
 - 사용 맥락: `import raw materials`, `imports from abroad`
 - 주의: 외국에서 상품·서비스를 들여오는 것. 일반 의미로는 중요성 `importance`와 연결된 용법도 있음.
 
-### commodity
+### [[merc#commodity|commodity]]
 
 - 핵심 의미: 원자재, 상품
 - 사용 맥락: `agricultural commodities`, `commodity prices`
 - 주의: 석유, 곡물, 금속처럼 대량 거래되는 표준화된 상품.
 
-### merchandise
+### [[merc#merchandise|merchandise]]
 
 - 핵심 의미: 상품, 판매 물품
 - 사용 맥락: `merchandise trade`, `retail merchandise`
 - 주의: 서비스가 아니라 물리적 상품에 가까운 표현.
 
-### transaction
+### [[trans#transaction|transaction]]
 
 - 핵심 의미: 거래
 - 사용 맥락: `commercial transaction`, `cross-border transaction`
@@ -66,7 +66,7 @@
 - 사용 맥락: `customs duty`, `import duties`
 - 주의: 일반 의미는 의무. 무역·세관 맥락에서는 수입품에 부과되는 세금.
 
-### quota
+### [[quant#quota|quota]]
 
 - 핵심 의미: 할당량, 수입 한도
 - 사용 맥락: `import quota`, `production quota`
@@ -84,7 +84,7 @@
 - 사용 맥락: `rise of protectionism`, `protectionist policies`
 - 주의: 국내 산업 보호를 위해 수입을 제한하거나 관세를 높이는 정책 방향.
 
-### subsidy
+### [[sed-sess#subsidy|subsidy]]
 
 - 핵심 의미: 보조금
 - 사용 맥락: `agricultural subsidies`, `export subsidies`
@@ -96,7 +96,7 @@
 - 사용 맥락: `trade embargo`, `arms embargo`
 - 주의: 특정 국가나 상품과의 교역을 막는 강한 제재. 외교 테마와도 연결됨.
 
-### sanction
+### [[sanct#sanction|sanction]]
 
 - 핵심 의미: 제재, 승인하다
 - 사용 맥락: `economic sanctions`, `trade sanctions`
@@ -116,7 +116,7 @@
 - 사용 맥락: `sign a trade agreement`, `regional trade agreement`
 - 주의: 국가들이 관세, 기준, 시장 접근 등을 정하는 공식 합의.
 
-### pact
+### [[grat#pact|pact]]
 
 - 핵심 의미: 협약, 조약
 - 사용 맥락: `trade pact`, `regional trade pact`
@@ -128,13 +128,13 @@
 - 사용 맥락: `trade negotiations`, `enter negotiations`
 - 주의: 서로 다른 경제적 이해관계를 조정해 조건을 정하는 과정.
 
-### concession
+### [[cess#concession|concession]]
 
 - 핵심 의미: 양보, concession
 - 사용 맥락: `make trade concessions`
 - 주의: 협상에서 상대 요구 일부를 받아들이는 것. 사업권·매점이라는 뜻도 있음.
 
-### regulation
+### [[reg#regulation|regulation]]
 
 - 핵심 의미: 규제, 규정
 - 사용 맥락: `trade regulations`, `regulatory standards`
@@ -204,13 +204,13 @@
 - 사용 맥락: `global supply chain`, `supply chain disruption`
 - 주의: 원자재, 생산, 운송, 판매까지 이어지는 전체 흐름.
 
-### logistics
+### [[logos#logistics|logistics]]
 
 - 핵심 의미: 물류, 병참
 - 사용 맥락: `logistics network`, `logistics costs`
 - 주의: 군사 병참에서 나온 말이지만, 무역에서는 운송·보관·배송 관리.
 
-### distribution
+### [[trib#distribution|distribution]]
 
 - 핵심 의미: 유통, 분배
 - 사용 맥락: `distribution channels`, `global distribution`
@@ -234,13 +234,13 @@
 - 사용 맥락: `supply chain bottleneck`, `shipping bottleneck`
 - 주의: 전체 흐름을 느리게 만드는 좁은 지점이나 제한 요소.
 
-### disruption
+### [[rupt#disruption|disruption]]
 
 - 핵심 의미: 중단, 차질, 교란
 - 사용 맥락: `trade disruption`, `supply chain disruption`
 - 주의: 정상 흐름이 깨져 생산·운송·거래에 차질이 생기는 것.
 
-### resilience
+### [[sult#resilience|resilience]]
 
 - 핵심 의미: 회복력, 탄력성
 - 사용 맥락: `supply chain resilience`, `economic resilience`

@@ -10,7 +10,7 @@
 - 사용 맥락: `organized religion`, `religion and society`
 - 주의: 신앙, 의례, 공동체, 윤리, 세계관을 포함하는 넓은 개념.
 
-### faith
+### [[fid#faith|faith]]
 
 - 핵심 의미: 신앙, 믿음
 - 사용 맥락: `religious faith`, `faith community`
@@ -22,7 +22,7 @@
 - 사용 맥락: `religious belief`, `core beliefs`
 - 주의: 어떤 것이 참이라고 받아들이는 생각. 종교·정치·윤리 모두에서 쓰임.
 
-### devotion
+### [[vot#devotion|devotion]]
 
 - 핵심 의미: 헌신, 신앙심
 - 사용 맥락: `religious devotion`, `devotional practice`
@@ -34,7 +34,7 @@
 - 사용 맥락: `spirituality and religion`, `spiritual practice`
 - 주의: 제도 종교보다 개인의 내면, 초월, 의미 추구에 초점을 둘 때 자주 쓰임.
 
-### sacred
+### [[sanct#sacred / sacr|sacred]]
 
 - 핵심 의미: 신성한
 - 사용 맥락: `sacred text`, `sacred site`
@@ -60,13 +60,13 @@
 - 사용 맥락: `ancient deities`, `patron deity`
 - 주의: 종교나 신화 속 신적 존재. `god`보다 격식 있는 표현.
 
-### monotheism
+### [[mono#monotheism|monotheism]]
 
 - 핵심 의미: 유일신교
 - 사용 맥락: `monotheistic religion`, `rise of monotheism`
 - 주의: 하나의 신만을 믿는 종교 체계. 유대교, 기독교, 이슬람교와 자주 연결됨.
 
-### polytheism
+### [[poly#polytheism|polytheism]]
 
 - 핵심 의미: 다신교
 - 사용 맥락: `ancient polytheism`, `polytheistic worship`
@@ -98,19 +98,19 @@
 
 ## 교리와 경전
 
-### doctrine
+### [[dox#doctrine|doctrine]]
 
 - 핵심 의미: 교리, 원칙
 - 사용 맥락: `religious doctrine`, `official doctrine`
 - 주의: 종교 공동체가 공식적으로 받아들이는 가르침. 정치·군사 원칙도 뜻함.
 
-### theology
+### [[theo#theology|theology]]
 
 - 핵심 의미: 신학
 - 사용 맥락: `Christian theology`, `theological debate`
 - 주의: 신, 신앙, 구원, 교리의 의미를 체계적으로 연구하는 분야.
 
-### scripture
+### [[scrib#scripture|scripture]]
 
 - 핵심 의미: 경전, 성서
 - 사용 맥락: `sacred scripture`, `interpret scripture`
@@ -122,7 +122,7 @@
 - 사용 맥락: `biblical canon`, `literary canon`
 - 주의: 종교에서는 공식 경전 목록. 문학·예술에서는 권위 있는 작품 목록.
 
-### revelation
+### [[vel#revelation|revelation]]
 
 - 핵심 의미: 계시, 폭로
 - 사용 맥락: `divine revelation`, `religious revelation`
@@ -134,13 +134,13 @@
 - 사용 맥락: `biblical prophecy`, `fulfill a prophecy`
 - 주의: 신적 권위나 영적 통찰로 미래나 진리를 말하는 것. 단순 예측 `prediction`보다 종교적 느낌.
 
-### interpretation
+### [[interpres#interpretation|interpretation]]
 
 - 핵심 의미: 해석, 통역
 - 사용 맥락: `scriptural interpretation`, `interpret a text`
 - 주의: 경전이나 상징의 의미를 읽어내는 방식. 언어 통역도 뜻함.
 
-### orthodoxy
+### [[dox#orthodoxy|orthodoxy]]
 
 - 핵심 의미: 정통 교리, 정통성
 - 사용 맥락: `religious orthodoxy`, `orthodox belief`
@@ -166,13 +166,13 @@
 - 사용 맥락: `place of worship`, `worship a deity`
 - 주의: 신에게 존경과 헌신을 드리는 행위. 지나친 선망에도 비유적으로 쓰임.
 
-### prayer
+### [[precari#prayer|prayer]]
 
 - 핵심 의미: 기도
 - 사용 맥락: `daily prayer`, `prayer service`
 - 주의: 신이나 초월적 존재에게 말하거나 바라는 종교적 행위.
 
-### sacrifice
+### [[fac-make#sacrifice|sacrifice]]
 
 - 핵심 의미: 희생, 제물, 희생하다
 - 사용 맥락: `ritual sacrifice`, `animal sacrifice`
@@ -234,7 +234,7 @@
 - 사용 맥락: `Benedictine monastery`, `monastic life`
 - 주의: 수도자들이 공동생활하며 기도, 노동, 학문 활동을 하는 장소.
 
-### denomination
+### [[nomin#denomination|denomination]]
 
 - 핵심 의미: 교파, 종파, 명칭
 - 사용 맥락: `Christian denomination`, `religious denomination`
@@ -246,7 +246,7 @@
 - 사용 맥락: `local congregation`, `congregational worship`
 - 주의: 예배를 위해 모인 신자 공동체.
 
-### conversion
+### [[vers#conversion|conversion]]
 
 - 핵심 의미: 개종, 전환
 - 사용 맥락: `religious conversion`, `conversion to Christianity`
@@ -266,7 +266,7 @@
 - 사용 맥락: `secularization of society`, `secularization theory`
 - 주의: 사회 제도와 사고방식이 종교 권위에서 상대적으로 분리되는 과정.
 
-### tolerance
+### [[tol#tolerance|tolerance]]
 
 - 핵심 의미: 관용, 허용
 - 사용 맥락: `religious tolerance`, `tolerance of dissent`

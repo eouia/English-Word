@@ -10,7 +10,7 @@
 - 사용 맥락: `contemporary artwork`, `display artwork`
 - 주의: 회화, 조각, 설치, 사진 등 예술 작품 전반을 넓게 가리킴.
 
-### medium
+### [[medi#medium|medium]]
 
 - 핵심 의미: 매체, 재료, 중간의
 - 사용 맥락: `oil as a medium`, `mixed media`
@@ -22,7 +22,7 @@
 - 사용 맥락: `oil on canvas`, `large canvas`
 - 주의: 실제 천 바탕뿐 아니라, 예술가가 표현하는 화면이나 공간을 비유적으로도 뜻함.
 
-### sculpture
+### [[sculp#sculpture|sculpture]]
 
 - 핵심 의미: 조각, 조각 작품
 - 사용 맥락: `marble sculpture`, `public sculpture`
@@ -34,7 +34,7 @@
 - 사용 맥락: `site-specific installation`, `art installation`
 - 주의: 일반 의미는 설치. 미술에서는 공간 전체를 활용한 작품 형식.
 
-### portrait
+### [[tract-trace#portrait|portrait]]
 
 - 핵심 의미: 초상화, 묘사
 - 사용 맥락: `paint a portrait`, `portrait of a noblewoman`
@@ -54,37 +54,37 @@
 
 ## 기법과 구성
 
-### composition
+### [[pos#composition|composition]]
 
 - 핵심 의미: 구성, 구도, 작곡
 - 사용 맥락: `balanced composition`, `composition of the painting`
 - 주의: 미술에서는 화면 안 요소들의 배치와 관계.
 
-### perspective
+### [[spect#perspective|perspective]]
 
 - 핵심 의미: 원근법, 관점
 - 사용 맥락: `linear perspective`, `use perspective`
 - 주의: 일반 의미는 관점. 미술에서는 깊이와 거리감을 표현하는 기법.
 
-### proportion
+### [[part#proportion|proportion]]
 
 - 핵심 의미: 비례, 균형 잡힌 크기 관계
 - 사용 맥락: `human proportion`, `distorted proportions`
 - 주의: 전체와 부분, 신체 각 부위의 크기 관계를 말할 때 중요.
 
-### symmetry
+### [[metr#symmetry|symmetry]]
 
 - 핵심 의미: 대칭
 - 사용 맥락: `perfect symmetry`, `symmetrical composition`
 - 주의: 형태나 배치가 양쪽으로 균형을 이루는 상태.
 
-### contrast
+### [[counter#contrast|contrast]]
 
 - 핵심 의미: 대비, 대조
 - 사용 맥락: `contrast of light and shadow`, `color contrast`
 - 주의: 색, 밝기, 형태, 주제의 차이를 통해 효과를 만드는 것.
 
-### texture
+### [[tex#texture|texture]]
 
 - 핵심 의미: 질감
 - 사용 맥락: `rough texture`, `visual texture`
@@ -102,7 +102,7 @@
 - 사용 맥락: `visible brushstrokes`, `loose brushstroke`
 - 주의: 화가의 손동작과 표현 방식이 드러나는 흔적.
 
-### chiaroscuro
+### [[scur#chiaroscuro|chiaroscuro]]
 
 - 핵심 의미: 명암대비 기법
 - 사용 맥락: `dramatic chiaroscuro`
@@ -110,19 +110,19 @@
 
 ## 비평과 감상
 
-### aesthetic
+### [[aesthes#aesthetic|aesthetic]]
 
 - 핵심 의미: 미학의, 심미적인
 - 사용 맥락: `aesthetic value`, `aesthetic experience`
 - 주의: 단순히 예쁜 것보다, 아름다움과 감각적 경험에 관한 판단.
 
-### interpretation
+### [[interpres#interpretation|interpretation]]
 
 - 핵심 의미: 해석
 - 사용 맥락: `interpretation of the artwork`, `multiple interpretations`
 - 주의: 작품 의미는 하나로 고정되지 않고 관점과 맥락에 따라 달라질 수 있음.
 
-### representation
+### [[present#representation|representation]]
 
 - 핵심 의미: 재현, 표현, 대표성
 - 사용 맥락: `visual representation`, `representation of women`
@@ -146,13 +146,13 @@
 - 사용 맥락: `royal patronage`, `church patronage`
 - 주의: 예술가가 권력자, 교회, 귀족, 부유층의 후원을 받아 작품을 제작한 역사적 제도.
 
-### curator
+### [[cura#curator|curator]]
 
 - 핵심 의미: 큐레이터, 전시 기획자
 - 사용 맥락: `museum curator`, `curate an exhibition`
 - 주의: 작품을 수집·연구·배치해 전시의 의미를 구성하는 사람.
 
-### exhibition
+### [[hab#exhibition|exhibition]]
 
 - 핵심 의미: 전시, 전람회
 - 사용 맥락: `solo exhibition`, `museum exhibition`
@@ -160,7 +160,7 @@
 
 ## 예술사조
 
-### Renaissance
+### [[nat-birth#renaissance|Renaissance]]
 
 - 핵심 의미: 르네상스, 문예부흥
 - 사용 맥락: `Renaissance art`, `Italian Renaissance`
@@ -232,7 +232,7 @@
 - 사용 맥락: `Modernist art`, `Modernism rejected tradition`
 - 주의: 전통적 형식에서 벗어나 새로운 표현과 실험을 추구한 넓은 흐름.
 
-### avant-garde
+### [[avant#avant-garde|avant-garde]]
 
 - 핵심 의미: 전위적인, 전위 예술
 - 사용 맥락: `avant-garde movement`, `avant-garde artist`

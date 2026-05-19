@@ -7,6 +7,7 @@ MESSAGE="${1:-Update notes}"
 cd "$ROOT"
 git pull --ff-only
 publish/sync_from_icloud.sh
+python3 scripts/build_theme_lexicon.py
 
 cd "$ROOT/site"
 if [ ! -d node_modules ]; then

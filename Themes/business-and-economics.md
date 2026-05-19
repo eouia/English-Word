@@ -10,13 +10,13 @@
 - 사용 맥락: `the global economy`, `a market economy`
 - 주의: 한 나라의 생산·소비·고용·금융 활동 전체. `economy`는 절약이라는 뜻도 있음.
 
-### market
+### [[merc#market|market]]
 
 - 핵심 의미: 시장
 - 사용 맥락: `housing market`, `emerging markets`
 - 주의: 실제 장소뿐 아니라 상품, 서비스, 자본, 노동이 거래되는 구조 전체.
 
-### demand
+### [[mand#demand|demand]]
 
 - 핵심 의미: 수요
 - 사용 맥락: `consumer demand`, `demand for labor`
@@ -28,13 +28,13 @@
 - 사용 맥락: `supply shortage`, `increase the supply of goods`
 - 주의: 시장에 제공되는 상품·서비스의 양. 동사로는 공급하다.
 
-### consumption
+### [[sumere#consumption|consumption]]
 
 - 핵심 의미: 소비
 - 사용 맥락: `household consumption`, `energy consumption`
 - 주의: 경제에서는 상품·서비스를 사용하는 행위. 환경·에너지 맥락에서는 사용량.
 
-### scarcity
+### [[pauc#scarcity|scarcity]]
 
 - 핵심 의미: 희소성, 부족
 - 사용 맥락: `resource scarcity`, `scarcity of skilled workers`
@@ -48,19 +48,19 @@
 
 ## 기업과 상업 활동
 
-### commerce
+### [[merc#commerce|commerce]]
 
 - 핵심 의미: 상업, 교역
 - 사용 맥락: `electronic commerce`, `commercial activity`
 - 주의: `trade`보다 넓게 상품·서비스의 상업적 거래 전체를 가리킬 수 있음.
 
-### enterprise
+### [[prehend#enterprise|enterprise]]
 
 - 핵심 의미: 기업, 사업, 진취적 활동
 - 사용 맥락: `private enterprise`, `small and medium-sized enterprises`
 - 주의: 회사 자체를 뜻하기도 하고, 위험을 감수하는 사업 활동을 뜻하기도 함.
 
-### corporation
+### [[corp#corporation|corporation]]
 
 - 핵심 의미: 법인, 주식회사
 - 사용 맥락: `multinational corporation`, `corporate profits`
@@ -84,7 +84,7 @@
 - 사용 맥락: `shareholder value`, `shareholder meeting`
 - 주의: 회사 주식을 보유한 사람. `stakeholder`보다 범위가 좁음.
 
-### merger
+### [[merg#merger|merger]]
 
 - 핵심 의미: 합병
 - 사용 맥락: `corporate merger`, `merger negotiations`
@@ -98,7 +98,7 @@
 
 ## 생산, 비용, 수익
 
-### revenue
+### [[come#revenue|revenue]]
 
 - 핵심 의미: 매출, 수입
 - 사용 맥락: `annual revenue`, `revenue growth`
@@ -122,7 +122,7 @@
 - 사용 맥락: `government expenditure`, `capital expenditure`
 - 주의: 돈을 쓰는 행위나 금액. `spending`보다 격식 있음.
 
-### productivity
+### [[duc#productivity|productivity]]
 
 - 핵심 의미: 생산성
 - 사용 맥락: `labor productivity`, `increase productivity`
@@ -142,7 +142,7 @@
 
 ## 금융과 투자
 
-### capital
+### [[capit#capital|capital]]
 
 - 핵심 의미: 자본
 - 사용 맥락: `raise capital`, `capital investment`
@@ -160,19 +160,19 @@
 - 사용 맥락: `assets and liabilities`, `legal liability`
 - 주의: 회계에서는 갚아야 할 빚. 법률에서는 책임이라는 뜻.
 
-### equity
+### [[equ#equity|equity]]
 
 - 핵심 의미: 자기자본, 지분, 형평성
 - 사용 맥락: `private equity`, `shareholders' equity`
 - 주의: 경제·회계에서는 자산에서 부채를 뺀 지분 가치. 사회 담론에서는 공정성.
 
-### investment
+### [[vest#investment|investment]]
 
 - 핵심 의미: 투자
 - 사용 맥락: `foreign investment`, `long-term investment`
 - 주의: 미래 수익을 기대하고 자본을 투입하는 행위.
 
-### portfolio
+### [[port#portfolio|portfolio]]
 
 - 핵심 의미: 투자 포트폴리오, 작품·업무 모음
 - 사용 맥락: `investment portfolio`, `diversified portfolio`
@@ -184,13 +184,13 @@
 - 사용 맥락: `market liquidity`, `liquidity crisis`
 - 주의: 자산을 현금으로 빠르게 바꿀 수 있는 정도. 경제 위기 기사에서 자주 나옴.
 
-### credit
+### [[cred#credit|credit]]
 
 - 핵심 의미: 신용, 대출, 공로
 - 사용 맥락: `credit market`, `extend credit`
 - 주의: 금융에서는 나중에 갚겠다는 약속을 바탕으로 돈이나 상품을 먼저 받는 구조.
 
-### debt
+### [[borrow#debt|debt]]
 
 - 핵심 의미: 부채, 빚
 - 사용 맥락: `household debt`, `public debt`
@@ -204,19 +204,19 @@
 
 ## 경기와 거시경제
 
-### inflation
+### [[flat#inflation|inflation]]
 
 - 핵심 의미: 인플레이션, 물가 상승
 - 사용 맥락: `high inflation`, `inflation rate`
 - 주의: 전반적인 물가 수준이 지속적으로 오르는 현상. 특정 상품 가격 상승만으로는 부족함.
 
-### recession
+### [[cess#recession|recession]]
 
 - 핵심 의미: 경기 침체
 - 사용 맥락: `enter a recession`, `economic recession`
 - 주의: 경제 활동이 상당 기간 위축되는 상태. `depression`보다 보통 약한 표현.
 
-### depression
+### [[press#depression|depression]]
 
 - 핵심 의미: 대공황, 심각한 불황, 우울증
 - 사용 맥락: `the Great Depression`, `economic depression`
@@ -240,7 +240,7 @@
 - 사용 맥락: `GDP growth`, `per capita GDP`
 - 주의: `gross domestic product`. 한 나라 안에서 일정 기간 생산된 최종 재화와 서비스의 총가치.
 
-### fiscal policy
+### [[fisc#fiscal policy|fiscal policy]]
 
 - 핵심 의미: 재정 정책
 - 사용 맥락: `expansionary fiscal policy`, `fiscal stimulus`
@@ -272,13 +272,13 @@
 
 ## 시장 구조와 정책
 
-### competition
+### [[pet#competition|competition]]
 
 - 핵심 의미: 경쟁
 - 사용 맥락: `market competition`, `competition policy`
 - 주의: 여러 기업이 가격, 품질, 기술로 고객을 얻으려는 관계.
 
-### monopoly
+### [[mono#monopoly|monopoly]]
 
 - 핵심 의미: 독점
 - 사용 맥락: `natural monopoly`, `monopoly power`
@@ -290,7 +290,7 @@
 - 사용 맥락: `an oligopoly in the airline industry`
 - 주의: 소수의 큰 기업이 시장 대부분을 차지하는 구조.
 
-### regulation
+### [[reg#regulation|regulation]]
 
 - 핵심 의미: 규제, 규정
 - 사용 맥락: `financial regulation`, `market regulation`
@@ -302,7 +302,7 @@
 - 사용 맥락: `financial deregulation`, `deregulation of markets`
 - 주의: 정부 규제를 줄여 기업 활동과 경쟁을 확대하려는 정책.
 
-### subsidy
+### [[sed-sess#subsidy|subsidy]]
 
 - 핵심 의미: 보조금
 - 사용 맥락: `farm subsidies`, `energy subsidies`

@@ -28,19 +28,19 @@
 - 사용 맥락: `cultural heritage`, `intangible heritage`
 - 주의: 과거로부터 물려받은 문화, 건축, 언어, 예술, 관습을 포함함.
 
-### legacy
+### [[lect#legacy|legacy]]
 
 - 핵심 의미: 유산, 남긴 영향
 - 사용 맥락: `historical legacy`, `legacy of colonialism`
 - 주의: 물려받은 긍정적·부정적 영향. 법률에서는 유증 재산.
 
-### preservation
+### [[serv#preservation|preservation]]
 
 - 핵심 의미: 보존
 - 사용 맥락: `preservation of folk traditions`, `heritage preservation`
 - 주의: 사라질 위험이 있는 문화, 장소, 기록을 유지하려는 활동.
 
-### transmission
+### [[miss#transmission|transmission]]
 
 - 핵심 의미: 전승, 전달, 전파
 - 사용 맥락: `cultural transmission`, `oral transmission`
@@ -60,7 +60,7 @@
 - 사용 맥락: `Norse mythology`, `comparative mythology`
 - 주의: 한 문화의 신화 전체 또는 신화를 연구하는 분야.
 
-### legend
+### [[lect#legend|legend]]
 
 - 핵심 의미: 전설, 전설적 인물
 - 사용 맥락: `urban legend`, `legend of King Arthur`
@@ -72,7 +72,7 @@
 - 사용 맥락: `traditional folktale`, `African folktales`
 - 주의: 민중 사이에서 구전으로 전해진 이야기. 교훈, 반복 구조, 전형적 인물이 많음.
 
-### fable
+### [[fari#fable|fable]]
 
 - 핵심 의미: 우화
 - 사용 맥락: `Aesop's fables`, `moral fable`
@@ -96,7 +96,7 @@
 - 사용 맥락: `ancient epic`, `epic hero`
 - 주의: 영웅의 모험과 공동체의 운명을 다루는 긴 시·서사.
 
-### narrative
+### [[narr#narrative|narrative]]
 
 - 핵심 의미: 서사, 이야기
 - 사용 맥락: `mythic narrative`, `historical narrative`
@@ -110,7 +110,7 @@
 - 사용 맥락: `oral tradition among Indigenous peoples`
 - 주의: 글이 아니라 말, 노래, 공연으로 지식과 이야기를 전하는 방식.
 
-### proverb
+### [[verb#proverb|proverb]]
 
 - 핵심 의미: 속담
 - 사용 맥락: `traditional proverb`, `African proverb`
@@ -122,7 +122,7 @@
 - 사용 맥락: `recurring motif`, `folkloric motif`
 - 주의: 이야기나 예술에서 반복되는 장면, 이미지, 주제. 음악·미술에서도 쓰임.
 
-### archetype
+### [[arch#archetype|archetype]]
 
 - 핵심 의미: 원형, 전형
 - 사용 맥락: `hero archetype`, `archetypal figure`
@@ -140,7 +140,7 @@
 - 사용 맥락: `social taboo`, `cultural taboo`
 - 주의: 특정 사회에서 말하거나 행해서는 안 된다고 여겨지는 것.
 
-### omen
+### [[omen#omen|omen]]
 
 - 핵심 의미: 징조, 전조
 - 사용 맥락: `bad omen`, `interpret an omen`
@@ -172,7 +172,7 @@
 - 사용 맥락: `funeral rites`, `rite of passage`
 - 주의: 종교·문화적으로 정해진 의식. `rite of passage`는 통과의례.
 
-### initiation
+### [[init#initiation|initiation]]
 
 - 핵심 의미: 입문, 시작
 - 사용 맥락: `initiation ceremony`, `initiation into adulthood`
@@ -204,13 +204,13 @@
 - 사용 맥락: `local deity`, `ancient deities`
 - 주의: 종교나 신화 속 신적 존재. `god`보다 격식 있음.
 
-### spirit
+### [[spir#spirit|spirit]]
 
 - 핵심 의미: 영혼, 정신, 분위기
 - 사용 맥락: `ancestral spirits`, `spirit world`
 - 주의: 민속·종교에서는 눈에 보이지 않는 영적 존재. 일반적으로는 정신·태도.
 
-### ancestor
+### [[ante#ancestor|ancestor]]
 
 - 핵심 의미: 조상
 - 사용 맥락: `ancestor worship`, `ancestral tradition`

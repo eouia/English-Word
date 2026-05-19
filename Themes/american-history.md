@@ -28,13 +28,13 @@
 - 사용 맥락: `declare independence`, `the struggle for independence`
 - 주의: 정치적으로 외부 지배에서 벗어나는 것. 미국사는 영국으로부터의 독립이 핵심.
 
-### revolution
+### [[volv#revolution|revolution]]
 
 - 핵심 의미: 혁명
 - 사용 맥락: `the American Revolution`, `revolutionary ideals`
 - 주의: 정치 체제나 권력 질서의 급격한 변화. 산업혁명은 `Industrial Revolution`.
 
-### rebellion
+### [[bell#rebellion|rebellion]]
 
 - 핵심 의미: 반란, 저항
 - 사용 맥락: `armed rebellion`, `colonial rebellion`
@@ -60,19 +60,19 @@
 - 사용 맥락: `American federalism`, `federal and state powers`
 - 주의: 중앙정부와 주정부가 권한을 나누는 제도.
 
-### republic
+### [[popul#republic|republic]]
 
 - 핵심 의미: 공화국
 - 사용 맥락: `a constitutional republic`, `the early republic`
 - 주의: 군주가 아니라 시민이 뽑은 대표가 통치하는 정치 체제.
 
-### amendment
+### [[mend#amendment|amendment]]
 
 - 핵심 의미: 수정 조항, 개정
 - 사용 맥락: `the First Amendment`, `constitutional amendment`
 - 주의: 미국 헌법의 조항 변경·추가. 권리장전은 첫 10개 수정 조항.
 
-### representation
+### [[present#representation|representation]]
 
 - 핵심 의미: 대표, 대의
 - 사용 맥락: `political representation`, `taxation without representation`
@@ -92,7 +92,7 @@
 
 ## 영토 확장과 원주민
 
-### expansion
+### [[pand#expansion|expansion]]
 
 - 핵심 의미: 확장, 팽창
 - 사용 맥락: `westward expansion`, `territorial expansion`
@@ -110,7 +110,7 @@
 - 사용 맥락: `Indian removal`, `forced removal`
 - 주의: 미국사에서는 원주민을 조상 대대로 살던 땅에서 내쫓은 정책과 연결됨.
 
-### reservation
+### [[serv#reservation|reservation]]
 
 - 핵심 의미: 보호구역, 예약
 - 사용 맥락: `Native American reservation`
@@ -198,19 +198,19 @@
 - 사용 맥락: `waves of immigration`, `immigration policy`
 - 주의: 다른 나라에서 들어와 사는 것. 미국사는 이민의 역사와 긴밀함.
 
-### monopoly
+### [[mono#monopoly|monopoly]]
 
 - 핵심 의미: 독점
 - 사용 맥락: `railroad monopoly`, `break up monopolies`
 - 주의: 한 기업이나 집단이 시장을 지배하는 상태. 19세기 말 대기업 규제 논의와 연결됨.
 
-### trust
+### [[cred#trust|trust]]
 
 - 핵심 의미: 트러스트, 신탁, 신뢰
 - 사용 맥락: `antitrust laws`, `business trusts`
 - 주의: 미국 경제사에서는 독점적 기업 결합. `trust`의 일반 의미는 신뢰.
 
-### reform
+### [[form#reform|reform]]
 
 - 핵심 의미: 개혁
 - 사용 맥락: `Progressive reform`, `social reform`
@@ -224,13 +224,13 @@
 
 ## 대공황, 전쟁, 현대 미국
 
-### depression
+### [[press#depression|depression]]
 
 - 핵심 의미: 대공황, 심각한 불황, 우울증
 - 사용 맥락: `the Great Depression`, `economic depression`
 - 주의: 미국사에서는 1930년대의 장기 경제 위기를 가리키는 경우가 많음.
 
-### relief
+### [[lev#relief|relief]]
 
 - 핵심 의미: 구호, 완화
 - 사용 맥락: `relief programs`, `economic relief`

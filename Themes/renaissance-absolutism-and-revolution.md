@@ -4,7 +4,7 @@
 
 ## 르네상스와 인문주의
 
-### renaissance
+### [[nat-birth#renaissance|renaissance]]
 
 - 핵심 의미: 르네상스, 부흥
 - 사용 맥락: `the Italian Renaissance`, `a cultural renaissance`
@@ -16,13 +16,13 @@
 - 사용 맥락: `Renaissance humanism`, `humanist scholars`
 - 주의: 인간의 이성, 고전 문헌, 세속 학문, 교육을 중시한 르네상스 사상.
 
-### classical
+### [[class#classical|classical]]
 
 - 핵심 의미: 고전의, 고대 그리스·로마의
 - 사용 맥락: `classical antiquity`, `classical ideals`
 - 주의: 르네상스에서는 고대 그리스·로마 문학과 예술의 기준을 가리키는 경우가 많음.
 
-### antiquity
+### [[ante#antiquity|antiquity]]
 
 - 핵심 의미: 고대, 고대 유물
 - 사용 맥락: `classical antiquity`, `the art of antiquity`
@@ -34,7 +34,7 @@
 - 사용 맥락: `artistic patronage`, `patronage of the Medici`
 - 주의: 부유한 개인, 가문, 교회, 국가가 예술가와 학자를 재정적으로 지원하는 구조.
 
-### perspective
+### [[spect#perspective|perspective]]
 
 - 핵심 의미: 원근법, 관점
 - 사용 맥락: `linear perspective`, `Renaissance perspective`
@@ -78,7 +78,7 @@
 - 사용 맥락: `Catholic Church`, `Catholic reform`
 - 주의: 대문자 `Catholic`은 로마 가톨릭. 소문자 `catholic`은 보편적인이라는 뜻도 있음.
 
-### doctrine
+### [[dox#doctrine|doctrine]]
 
 - 핵심 의미: 교리, 원칙
 - 사용 맥락: `religious doctrine`, `political doctrine`
@@ -96,7 +96,7 @@
 - 사용 맥락: `religious persecution`, `persecution of dissenters`
 - 주의: 종교, 사상, 정체성을 이유로 조직적으로 탄압하는 것.
 
-### dissent
+### [[sent#dissent|dissent]]
 
 - 핵심 의미: 반대 의견, 이견
 - 사용 맥락: `religious dissent`, `political dissent`
@@ -110,7 +110,7 @@
 - 사용 맥락: `royal absolutism`, `absolutist monarchy`
 - 주의: 군주가 신분제 의회나 귀족보다 강한 중앙 권력을 행사하는 통치 방식.
 
-### monarchy
+### [[arch#monarchy|monarchy]]
 
 - 핵심 의미: 군주제
 - 사용 맥락: `absolute monarchy`, `constitutional monarchy`
@@ -128,7 +128,7 @@
 - 사용 맥락: `centralization of royal power`, `centralized state`
 - 주의: 지방 귀족·도시·교회에 흩어진 권한이 중앙정부나 군주에게 모이는 과정.
 
-### bureaucracy
+### [[crat#bureaucracy|bureaucracy]]
 
 - 핵심 의미: 관료제
 - 사용 맥락: `royal bureaucracy`, `state bureaucracy`
@@ -146,7 +146,7 @@
 - 사용 맥락: `maintain a standing army`, `royal standing army`
 - 주의: 전쟁 때만 모으는 군대가 아니라 평상시에도 유지되는 전문 군대.
 
-### court
+### [[court#court|court]]
 
 - 핵심 의미: 궁정, 법정
 - 사용 맥락: `royal court`, `court culture`
@@ -166,7 +166,7 @@
 - 사용 맥락: `the Enlightenment`, `Enlightenment thinkers`
 - 주의: 이성, 과학, 진보, 권리, 자유, 사회계약을 강조한 18세기 지적 운동.
 
-### reason
+### [[caus#reason|reason]]
 
 - 핵심 의미: 이성, 이유
 - 사용 맥락: `the age of reason`, `use reason`
@@ -178,7 +178,7 @@
 - 사용 맥락: `liberty and equality`, `civil liberties`
 - 주의: 정치적 권리와 억압으로부터의 자유. `freedom`보다 제도적·정치적 느낌이 강할 수 있음.
 
-### equality
+### [[equ#equality|equality]]
 
 - 핵심 의미: 평등
 - 사용 맥락: `political equality`, `equality before the law`
@@ -196,7 +196,7 @@
 - 사용 맥락: `social contract theory`, `Rousseau's social contract`
 - 주의: 정부의 정당성을 개인과 공동체의 동의에서 찾는 정치 사상.
 
-### tolerance
+### [[tol#tolerance|tolerance]]
 
 - 핵심 의미: 관용, 허용
 - 사용 맥락: `religious tolerance`, `political tolerance`
@@ -210,7 +210,7 @@
 
 ## 혁명과 근대 정치
 
-### revolution
+### [[volv#revolution|revolution]]
 
 - 핵심 의미: 혁명
 - 사용 맥락: `political revolution`, `French Revolution`
@@ -240,7 +240,7 @@
 - 사용 맥락: `constitutionalism and limited government`
 - 주의: 권력이 헌법과 법에 의해 제한되어야 한다는 원칙.
 
-### republic
+### [[popul#republic|republic]]
 
 - 핵심 의미: 공화국, 공화정
 - 사용 맥락: `establish a republic`, `republican government`
@@ -272,7 +272,7 @@
 
 ## 주요 고유명사
 
-### Renaissance
+### [[nat-birth#renaissance|Renaissance]]
 
 - 핵심 의미: 르네상스
 - 사용 맥락: `Renaissance art`, `Renaissance humanism`

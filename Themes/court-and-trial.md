@@ -4,13 +4,13 @@
 
 ## 법정과 절차
 
-### court
+### [[court#court|court]]
 
 - 핵심 의미: 법원, 법정
 - 사용 맥락: `appear in court`, `Supreme Court`
 - 주의: 일반 의미로는 궁정, 경기장도 가능. 법률 맥락에서는 재판 기관이나 법정.
 
-### trial
+### [[exper#trial|trial]]
 
 - 핵심 의미: 재판, 시도, 시험
 - 사용 맥락: `stand trial`, `a criminal trial`
@@ -40,7 +40,7 @@
 - 사용 맥락: `legal proceedings`, `court proceedings`
 - 주의: 일반 의미는 진행, 행사 기록. 법률 맥락에서는 공식 절차 전체.
 
-### jurisdiction
+### [[jur#jurisdiction|jurisdiction]]
 
 - 핵심 의미: 관할권, 관할 구역
 - 사용 맥락: `within the court's jurisdiction`, `federal jurisdiction`
@@ -72,13 +72,13 @@
 - 사용 맥락: `the prosecutor presented evidence`
 - 주의: 형사 사건에서 국가를 대표해 혐의를 제기하고 입증하는 역할.
 
-### attorney
+### [[tour#attorney|attorney]]
 
 - 핵심 의미: 변호사, 법률 대리인
 - 사용 맥락: `defense attorney`, `district attorney`
 - 주의: 미국식 표현에서 변호사를 가리킴. `district attorney`는 지방검사.
 
-### counsel
+### [[consul#counsel|counsel]]
 
 - 핵심 의미: 변호인, 법률 조언
 - 사용 맥락: `legal counsel`, `right to counsel`
@@ -90,13 +90,13 @@
 - 사용 맥락: `call a witness`, `witness testimony`
 - 주의: 동사로는 "목격하다". 재판에서는 사실을 증언하는 사람.
 
-### jury
+### [[jur#jury|jury]]
 
 - 핵심 의미: 배심원단
 - 사용 맥락: `jury trial`, `the jury reached a verdict`
 - 주의: `juror`는 배심원 개인, `jury`는 배심원단.
 
-### judge
+### [[cern#judge|judge]]
 
 - 핵심 의미: 판사, 판단하다
 - 사용 맥락: `federal judge`, `the judge ruled`
@@ -110,19 +110,19 @@
 - 사용 맥락: `criminal charge`, `charge someone with fraud`
 - 주의: 일반 의미로는 요금, 책임, 돌진. 법률 맥락에서는 범죄 혐의나 기소 내용.
 
-### allegation
+### [[lect#allegation|allegation]]
 
 - 핵심 의미: 혐의, 주장
 - 사용 맥락: `serious allegations`, `allegations of misconduct`
 - 주의: 아직 입증된 사실이 아니라 주장된 내용.
 
-### accuse
+### [[caus#accuse|accuse]]
 
 - 핵심 의미: 고발하다, 혐의를 제기하다
 - 사용 맥락: `accuse someone of theft`
 - 주의: 법적 공식 기소보다 넓게 "비난하며 혐의를 말하다"의 느낌.
 
-### indict
+### [[indic#indict|indict]]
 
 - 핵심 의미: 기소하다
 - 사용 맥락: `indict a former official`, `be indicted on charges`
@@ -140,7 +140,7 @@
 - 사용 맥락: `give testimony`, `expert testimony`
 - 주의: 법정이나 청문회에서 공식적으로 말한 증거성 진술.
 
-### affidavit
+### [[fid#affidavit|affidavit]]
 
 - 핵심 의미: 선서 진술서
 - 사용 맥락: `submit an affidavit`, `sworn affidavit`
@@ -148,7 +148,7 @@
 
 ## 증거와 판단
 
-### evidence
+### [[vid-see#evidence|evidence]]
 
 - 핵심 의미: 증거
 - 사용 맥락: `present evidence`, `lack of evidence`
@@ -160,13 +160,13 @@
 - 사용 맥락: `admissible evidence`
 - 주의: 사실과 관련 있어도 법적 기준을 통과해야 법정에서 쓸 수 있음.
 
-### corroborate
+### [[robor#corroborate|corroborate]]
 
 - 핵심 의미: 뒷받침하다, 확증하다
 - 사용 맥락: `corroborate testimony`, `corroborating evidence`
 - 주의: 한 사람의 주장이나 증언을 다른 증거가 보강하는 것.
 
-### verdict
+### [[dict#verdict|verdict]]
 
 - 핵심 의미: 평결
 - 사용 맥락: `reach a verdict`, `guilty verdict`
@@ -178,7 +178,7 @@
 - 사용 맥락: `court ruling`, `the judge's ruling`
 - 주의: 일반 의미로는 지배하는. 법정에서는 판사나 법원의 공식 결정.
 
-### judgment
+### [[jud#judgment|judgment]]
 
 - 핵심 의미: 판결, 판단
 - 사용 맥락: `final judgment`, `enter judgment`
@@ -192,13 +192,13 @@
 
 ## 판결과 처벌
 
-### sentence
+### [[sent#sentence|sentence]]
 
 - 핵심 의미: 형량, 선고하다, 문장
 - 사용 맥락: `receive a sentence`, `sentence the defendant to prison`
 - 주의: 일반 의미는 문장. 법률 맥락에서는 유죄 판결 뒤 내려지는 처벌.
 
-### conviction
+### [[vict#conviction|conviction]]
 
 - 핵심 의미: 유죄 판결, 확신
 - 사용 맥락: `criminal conviction`, `overturn a conviction`
@@ -222,7 +222,7 @@
 - 사용 맥락: `award damages`, `seek damages`
 - 주의: 복수형 `damages`는 단순 피해가 아니라 법원이 인정한 금전 배상.
 
-### settlement
+### [[set#settlement|settlement]]
 
 - 핵심 의미: 합의, 화해, 정착지
 - 사용 맥락: `reach a settlement`, `settle out of court`

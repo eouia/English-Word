@@ -4,7 +4,7 @@
 
 ## 노동시장과 고용
 
-### labor
+### [[labor#labor|labor]]
 
 - 핵심 의미: 노동, 노동력
 - 사용 맥락: `labor market`, `manual labor`
@@ -22,7 +22,7 @@
 - 사용 맥락: `labor force participation`, `the civilian labor force`
 - 주의: 일하고 있거나 일할 의사가 있는 사람들. 학생, 은퇴자 등은 보통 제외됨.
 
-### employment
+### [[em#employment|employment]]
 
 - 핵심 의미: 고용, 취업
 - 사용 맥락: `employment opportunities`, `full employment`
@@ -46,7 +46,7 @@
 - 사용 맥락: `professional occupation`, `occupational status`
 - 주의: 노동 맥락에서는 직업. 전쟁·정치 맥락에서는 점령이라는 뜻도 있음.
 
-### vocation
+### [[voc#vocation|vocation]]
 
 - 핵심 의미: 직업, 천직
 - 사용 맥락: `a sense of vocation`, `vocational training`
@@ -60,19 +60,19 @@
 - 사용 맥락: `recruitment process`, `recruitment agency`
 - 주의: 회사가 직원을 찾고 선발하는 과정.
 
-### applicant
+### [[plic-apply#applicant|applicant]]
 
 - 핵심 의미: 지원자
 - 사용 맥락: `job applicant`, `qualified applicants`
 - 주의: 일자리, 학교, 비자 등에 지원한 사람.
 
-### candidate
+### [[cand#candidate|candidate]]
 
 - 핵심 의미: 후보자, 지원자
 - 사용 맥락: `shortlist candidates`, `a strong candidate`
 - 주의: 채용에서는 선발 대상자. 선거에서는 후보자.
 
-### qualification
+### [[qual#qualification|qualification]]
 
 - 핵심 의미: 자격, 자격 요건
 - 사용 맥락: `minimum qualifications`, `professional qualifications`
@@ -90,7 +90,7 @@
 - 사용 맥락: `submit a résumé`, `update one's résumé`
 - 주의: 미국식 취업 문맥에서 자주 씀. 영국식에서는 `CV`가 더 흔함.
 
-### interview
+### [[inter#interview|interview]]
 
 - 핵심 의미: 면접, 인터뷰
 - 사용 맥락: `job interview`, `interview panel`
@@ -102,7 +102,7 @@
 - 사용 맥락: `summer internship`, `paid internship`
 - 주의: 학생이나 초년자가 실무 경험을 쌓는 단기 근무.
 
-### probation
+### [[prob#probation|probation]]
 
 - 핵심 의미: 수습 기간, 보호관찰
 - 사용 맥락: `probation period`, `on probation`
@@ -110,7 +110,7 @@
 
 ## 임금과 보상
 
-### wage
+### [[gage#wage|wage]]
 
 - 핵심 의미: 임금
 - 사용 맥락: `minimum wage`, `hourly wage`
@@ -122,25 +122,25 @@
 - 사용 맥락: `annual salary`, `salary increase`
 - 주의: 정규직·전문직의 고정 급여에 자주 쓰임.
 
-### compensation
+### [[pend#compensation|compensation]]
 
 - 핵심 의미: 보상, 급여 총액, 배상
 - 사용 맥락: `executive compensation`, `workers' compensation`
 - 주의: 급여, 보너스, 복지까지 포함하는 넓은 보상. 법률에서는 손해 배상.
 
-### benefit
+### [[bene#benefit|benefit]]
 
 - 핵심 의미: 복리후생, 혜택
 - 사용 맥락: `employee benefits`, `health benefits`
 - 주의: 보험, 휴가, 연금, 수당 등 급여 외 혜택.
 
-### pension
+### [[pend#pension|pension]]
 
 - 핵심 의미: 연금
 - 사용 맥락: `pension plan`, `retirement pension`
 - 주의: 은퇴 후 받는 정기적 소득.
 
-### remuneration
+### [[mun#remuneration|remuneration]]
 
 - 핵심 의미: 보수, 보상
 - 사용 맥락: `remuneration package`, `fair remuneration`
@@ -178,13 +178,13 @@
 - 사용 맥락: `heavy workload`, `manage workload`
 - 주의: 맡은 일의 양이나 부담.
 
-### shift
+### [[shift#shift|shift]]
 
 - 핵심 의미: 교대 근무, 변화
 - 사용 맥락: `night shift`, `work in shifts`
 - 주의: 노동 맥락에서는 정해진 근무 시간대. 일반적으로는 변화라는 뜻.
 
-### overtime
+### [[over#overtime|overtime]]
 
 - 핵심 의미: 초과근무, 연장근무
 - 사용 맥락: `work overtime`, `overtime pay`
@@ -196,7 +196,7 @@
 - 사용 맥락: `employee burnout`, `prevent burnout`
 - 주의: 장기적 스트레스와 과로로 인한 신체적·정서적 소진.
 
-### flexibility
+### [[flect#flexibility|flexibility]]
 
 - 핵심 의미: 유연성
 - 사용 맥락: `workplace flexibility`, `flexible schedule`
@@ -204,7 +204,7 @@
 
 ## 노사 관계와 노동권
 
-### union
+### [[uni#union|union]]
 
 - 핵심 의미: 노동조합, 연합
 - 사용 맥락: `labor union`, `union members`
@@ -222,13 +222,13 @@
 - 사용 맥락: `go on strike`, `strike action`
 - 주의: 노동자가 요구 관철을 위해 일을 중단하는 행위. 동사로는 치다, 떠오르다 등 뜻이 많음.
 
-### grievance
+### [[grav#grievance|grievance]]
 
 - 핵심 의미: 불만, 고충
 - 사용 맥락: `file a grievance`, `workplace grievance`
 - 주의: 직장 내 부당 대우나 계약 위반에 대해 제기하는 공식 불만.
 
-### exploitation
+### [[plic-explain#exploitation|exploitation]]
 
 - 핵심 의미: 착취, 이용
 - 사용 맥락: `labor exploitation`, `exploit workers`
@@ -254,13 +254,13 @@
 - 사용 맥락: `employee turnover`, `high turnover rate`
 - 주의: 노동 맥락에서는 직원이 회사를 떠나고 교체되는 비율.
 
-### resignation
+### [[sign#resignation|resignation]]
 
 - 핵심 의미: 사직, 체념
 - 사용 맥락: `submit a resignation`, `mass resignation`
 - 주의: 직장을 스스로 그만두는 것. 감정적으로는 체념.
 
-### dismissal
+### [[miss#dismissal|dismissal]]
 
 - 핵심 의미: 해고, 기각
 - 사용 맥락: `unfair dismissal`, `dismissal from employment`

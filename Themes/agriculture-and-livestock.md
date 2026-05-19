@@ -28,7 +28,7 @@
 - 사용 맥락: `harvest season`, `harvest grain`
 - 주의: 농작물 수확에서, 데이터·에너지 등을 모으는 비유로도 확장.
 
-### yield
+### [[cumb#yield|yield]]
 
 - 핵심 의미: 수확량, 산출량, 생산하다
 - 사용 맥락: `crop yield`, `high-yield varieties`
@@ -46,7 +46,7 @@
 - 사용 맥락: `increase acreage`, `cultivated acreage`
 - 주의: 농업 생산 규모를 말할 때 자주 쓰임.
 
-### plantation
+### [[plant#plantation|plantation]]
 
 - 핵심 의미: 대규모 농장, 플랜테이션
 - 사용 맥락: `tea plantation`, `sugar plantation`
@@ -60,13 +60,13 @@
 - 사용 맥락: `soil fertility`, `soil erosion`
 - 주의: 동사로는 더럽히다. 농업에서는 생산성의 기반.
 
-### fertility
+### [[fer-fertile#fertility|fertility]]
 
 - 핵심 의미: 비옥도, 생식력
 - 사용 맥락: `soil fertility`, `fertility rate`
 - 주의: 토양 맥락에서는 작물이 잘 자랄 수 있는 영양 상태. 인구학에서는 출산율.
 
-### fertilizer
+### [[fer-fertile#fertilizer|fertilizer]]
 
 - 핵심 의미: 비료
 - 사용 맥락: `chemical fertilizer`, `apply fertilizer`
@@ -110,7 +110,7 @@
 - 사용 맥락: `pesticide use`, `pesticide residue`
 - 주의: 해충, 잡초, 병원체 등을 막는 화학물질 전반. `insecticide`는 살충제.
 
-### herbicide
+### [[herb#herbicide|herbicide]]
 
 - 핵심 의미: 제초제
 - 사용 맥락: `herbicide-resistant weeds`
@@ -240,7 +240,7 @@
 - 사용 맥락: `severe famine`, `famine relief`
 - 주의: 단순 식량 부족보다 광범위하고 심각한 굶주림 상태.
 
-### malnutrition
+### [[mal#malnutrition|malnutrition]]
 
 - 핵심 의미: 영양실조
 - 사용 맥락: `child malnutrition`, `chronic malnutrition`

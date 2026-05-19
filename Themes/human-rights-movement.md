@@ -22,31 +22,31 @@
 - 사용 맥락: `civil liberties`, `individual liberty`
 - 주의: `freedom`보다 격식 있고 정치·법적 권리의 느낌이 강함.
 
-### equality
+### [[equ#equality|equality]]
 
 - 핵심 의미: 평등
 - 사용 맥락: `racial equality`, `equality before the law`
 - 주의: 모두를 똑같이 대한다는 뜻뿐 아니라, 법적·사회적 지위의 동등함.
 
-### equity
+### [[equ#equity|equity]]
 
 - 핵심 의미: 형평성, 공정한 조정
 - 사용 맥락: `racial equity`, `equity in education`
 - 주의: `equality`가 같은 대우라면, `equity`는 출발점 차이를 고려해 공정한 결과를 추구하는 느낌.
 
-### dignity
+### [[honor#dignity|dignity]]
 
 - 핵심 의미: 존엄, 품위
 - 사용 맥락: `human dignity`, `dignity and respect`
 - 주의: 인권 담론에서는 인간이 모욕·박탈 없이 대우받아야 한다는 핵심 가치.
 
-### justice
+### [[jur#justice|justice]]
 
 - 핵심 의미: 정의, 사법
 - 사용 맥락: `social justice`, `racial justice`
 - 주의: 법원·사법이라는 뜻도 있지만, 인권운동에서는 불평등을 바로잡는 정의의 의미.
 
-### inclusion
+### [[clud#inclusion|inclusion]]
 
 - 핵심 의미: 포용, 포함
 - 사용 맥락: `social inclusion`, `inclusion policies`
@@ -60,7 +60,7 @@
 - 사용 맥락: `racial discrimination`, `discrimination against minorities`
 - 주의: 일반 의미로는 구별 능력. 사회 맥락에서는 특정 집단을 불리하게 대우하는 것.
 
-### prejudice
+### [[jud#prejudice|prejudice]]
 
 - 핵심 의미: 편견
 - 사용 맥락: `racial prejudice`, `prejudice against immigrants`
@@ -90,7 +90,7 @@
 - 사용 맥락: `religious persecution`, `political persecution`
 - 주의: 신념, 정체성, 집단 소속 때문에 지속적으로 괴롭히거나 처벌하는 것.
 
-### exploitation
+### [[plic-explain#exploitation|exploitation]]
 
 - 핵심 의미: 착취, 이용
 - 사용 맥락: `labor exploitation`, `economic exploitation`
@@ -102,7 +102,7 @@
 - 사용 맥락: `income inequality`, `structural inequality`
 - 주의: 단순 차이가 아니라 자원, 권리, 기회가 불공정하게 분배된 상태.
 
-### disparity
+### [[par#disparity|disparity]]
 
 - 핵심 의미: 격차, 불균형
 - 사용 맥락: `racial disparities`, `health disparities`
@@ -178,7 +178,7 @@
 - 사용 맥락: `hold a rally`, `rally support`
 - 주의: 스포츠 반격이나 주가 회복도 뜻함. 운동 맥락에서는 지지자를 모으는 집회.
 
-### march
+### [[mark#march|march]]
 
 - 핵심 의미: 행진, 행진하다
 - 사용 맥락: `civil rights march`, `march for justice`
@@ -202,7 +202,7 @@
 - 사용 맥락: `act of civil disobedience`
 - 주의: 부당한 법이나 명령에 비폭력적으로 불복종해 도덕적·정치적 문제를 드러내는 행동.
 
-### resistance
+### [[sist#resistance|resistance]]
 
 - 핵심 의미: 저항
 - 사용 맥락: `nonviolent resistance`, `resistance movement`
@@ -210,13 +210,13 @@
 
 ## 제도와 변화
 
-### reform
+### [[form#reform|reform]]
 
 - 핵심 의미: 개혁, 개혁하다
 - 사용 맥락: `legal reform`, `police reform`
 - 주의: 기존 제도를 완전히 없애기보다 고쳐 개선하는 의미가 강함.
 
-### legislation
+### [[leg#legislation|legislation]]
 
 - 핵심 의미: 법률, 입법
 - 사용 맥락: `civil rights legislation`, `anti-discrimination legislation`
@@ -234,25 +234,25 @@
 - 사용 맥락: `disenfranchised voters`, `voter disenfranchisement`
 - 주의: 공식 박탈뿐 아니라 제도적으로 투표를 어렵게 만드는 경우에도 쓰임.
 
-### representation
+### [[present#representation|representation]]
 
 - 핵심 의미: 대표성, 대변
 - 사용 맥락: `political representation`, `minority representation`
 - 주의: 단순 묘사라는 뜻도 있지만, 인권운동에서는 집단이 정치·문화적으로 대변되는 문제.
 
-### empowerment
+### [[em#empowerment|empowerment]]
 
 - 핵심 의미: 권한 부여, 역량 강화
 - 사용 맥락: `community empowerment`, `women's empowerment`
 - 주의: 약자나 공동체가 스스로 결정하고 행동할 힘을 갖게 되는 것.
 
-### accountability
+### [[count#accountability|accountability]]
 
 - 핵심 의미: 책임성, 설명 책임
 - 사용 맥락: `police accountability`, `government accountability`
 - 주의: 권한을 가진 기관이나 사람이 잘못에 대해 설명하고 책임지는 제도적 의미.
 
-### redress
+### [[rect#redress|redress]]
 
 - 핵심 의미: 시정, 보상, 바로잡음
 - 사용 맥락: `seek redress`, `legal redress`

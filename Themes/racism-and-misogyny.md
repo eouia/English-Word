@@ -46,7 +46,7 @@
 - 사용 맥락: `racial discrimination`, `gender discrimination`
 - 주의: 일반 의미로는 구별 능력. 사회 맥락에서는 특정 집단을 불리하게 대우하는 것.
 
-### prejudice
+### [[jud#prejudice|prejudice]]
 
 - 핵심 의미: 편견
 - 사용 맥락: `racial prejudice`, `gender prejudice`
@@ -60,7 +60,7 @@
 
 ## 구조와 제도
 
-### systemic
+### [[sym#systemic|systemic]]
 
 - 핵심 의미: 제도적인, 체계적인
 - 사용 맥락: `systemic racism`, `systemic inequality`
@@ -72,7 +72,7 @@
 - 사용 맥락: `institutional discrimination`, `institutional racism`
 - 주의: 학교, 기업, 정부, 경찰 같은 기관의 규칙과 관행에서 생기는 차별.
 
-### structural
+### [[struct#structural|structural]]
 
 - 핵심 의미: 구조적인
 - 사용 맥락: `structural inequality`, `structural barriers`
@@ -84,7 +84,7 @@
 - 사용 맥락: `racial segregation`, `school segregation`
 - 주의: 단순 분리보다, 특정 집단을 제도적으로 따로 떼어 불평등하게 만드는 역사적 맥락.
 
-### exclusion
+### [[clud#exclusion|exclusion]]
 
 - 핵심 의미: 배제
 - 사용 맥락: `social exclusion`, `exclusion from leadership`
@@ -102,7 +102,7 @@
 - 사용 맥락: `underrepresentation in STEM`, `political underrepresentation`
 - 주의: 어떤 집단이 실제 인구 비중이나 자격에 비해 적게 대표되는 상태.
 
-### disparity
+### [[par#disparity|disparity]]
 
 - 핵심 의미: 격차, 불균형
 - 사용 맥락: `racial disparities`, `gender disparities`
@@ -116,7 +116,7 @@
 
 ## 고정관념과 표현
 
-### stereotype
+### [[typ#stereotype|stereotype]]
 
 - 핵심 의미: 고정관념, 정형화하다
 - 사용 맥락: `racial stereotype`, `gender stereotype`
@@ -202,7 +202,7 @@
 - 사용 맥락: `backlash against feminism`, `racial backlash`
 - 주의: 사회 변화나 권리 확대에 대한 강한 반대 반응.
 
-### retaliation
+### [[tali#retaliation|retaliation]]
 
 - 핵심 의미: 보복
 - 사용 맥락: `retaliation against whistleblowers`, `fear of retaliation`
@@ -234,19 +234,19 @@
 - 사용 맥락: `effective allyship`, `allyship with marginalized groups`
 - 주의: 단순 지지가 아니라, 특권을 인식하고 차별받는 집단과 함께 행동하는 것.
 
-### empowerment
+### [[em#empowerment|empowerment]]
 
 - 핵심 의미: 권한 부여, 역량 강화
 - 사용 맥락: `women's empowerment`, `community empowerment`
 - 주의: 약자나 배제된 집단이 스스로 결정하고 행동할 힘을 갖게 되는 것.
 
-### accountability
+### [[count#accountability|accountability]]
 
 - 핵심 의미: 책임성, 설명 책임
 - 사용 맥락: `institutional accountability`, `hold perpetrators accountable`
 - 주의: 잘못을 한 개인이나 기관이 설명하고 책임지도록 만드는 제도적 의미.
 
-### redress
+### [[rect#redress|redress]]
 
 - 핵심 의미: 시정, 보상, 바로잡음
 - 사용 맥락: `seek redress`, `redress historical injustice`

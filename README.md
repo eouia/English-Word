@@ -49,9 +49,10 @@ publish/publish_notes.sh "Update notes"
 
 1. GitHub 최신 변경을 `git pull --ff-only`로 가져옴
 2. iCloud Vault의 `Roots/`, `Themes/`, `scripts/`, `index.md`, `AGENTS.md`를 Workspace 저장소로 동기화
-3. Quartz 빌드 확인
-4. 변경 사항이 있으면 커밋 후 푸시
-5. GitHub Actions가 자동으로 GitHub Pages에 배포
+3. `Themes/_Lexicon.json` 역색인 갱신
+4. Quartz 빌드 확인
+5. 변경 사항이 있으면 커밋 후 푸시
+6. GitHub Actions가 자동으로 GitHub Pages에 배포
 
 ## 수동 작업
 
@@ -100,6 +101,16 @@ python3 scripts/link_theme_roots.py
 예: `### curriculum` -> `### [[curr#curriculum|curriculum]]`
 
 여러 어근 후보가 있는 단어도 첫 번째 후보로 연결한다. 이 경우 출력에 `ambiguous chose`로 후보 목록을 남긴다.
+
+## 테마 역색인 갱신
+
+`Themes/_Lexicon.json`은 테마 문서의 `###` 단어 항목을 기준으로 만든 단어-테마 역색인이다. 수동으로 갱신하려면:
+
+```bash
+python3 scripts/build_theme_lexicon.py
+```
+
+`publish/publish_notes.sh`를 쓰면 배포 전에 자동으로 갱신된다.
 
 ## 운영 원칙
 

@@ -4,19 +4,19 @@
 
 ## 항해와 탐험
 
-### exploration
+### [[plore#exploration|exploration]]
 
 - 핵심 의미: 탐험, 탐사
 - 사용 맥락: `European exploration`, `age of exploration`
 - 주의: 미지의 지역을 조사한다는 중립적 표현이지만, 역사 맥락에서는 정복과 식민화로 이어지는 경우가 많음.
 
-### expedition
+### [[ped#expedition|expedition]]
 
 - 핵심 의미: 원정, 탐험대
 - 사용 맥락: `naval expedition`, `exploratory expedition`
 - 주의: 특정 목적을 위해 조직된 긴 여행이나 군사·탐사 활동.
 
-### voyage
+### [[via#voyage|voyage]]
 
 - 핵심 의미: 항해, 긴 여행
 - 사용 맥락: `transatlantic voyage`, `voyage of discovery`
@@ -34,7 +34,7 @@
 - 사용 맥락: `early modern cartography`, `cartographic knowledge`
 - 주의: 대항해시대의 탐험, 무역, 영토 주장과 긴밀하게 연결됨.
 
-### compass
+### [[pand#compass|compass]]
 
 - 핵심 의미: 나침반
 - 사용 맥락: `magnetic compass`, `use a compass for navigation`
@@ -72,19 +72,19 @@
 - 사용 맥락: `colonization of the Americas`, `settler colonization`
 - 주의: 외부 세력이 들어와 지배·정착 체제를 만드는 과정. 원주민의 토지 상실과 자주 연결됨.
 
-### imperialism
+### [[imper#imperialism|imperialism]]
 
 - 핵심 의미: 제국주의
 - 사용 맥락: `European imperialism`, `imperialist expansion`
 - 주의: 군사, 경제, 외교, 문화적 힘으로 다른 지역을 지배·종속시키는 정책이나 이념.
 
-### empire
+### [[imper#empire|empire]]
 
 - 핵심 의미: 제국
 - 사용 맥락: `Spanish Empire`, `Portuguese Empire`
 - 주의: 넓은 영토와 여러 민족을 중심 권력이 지배하는 체제.
 
-### settlement
+### [[set#settlement|settlement]]
 
 - 핵심 의미: 정착지, 정착
 - 사용 맥락: `colonial settlement`, `settler settlement`
@@ -96,7 +96,7 @@
 - 사용 맥락: `European settlers`, `settler colony`
 - 주의: 새 지역에 이주해 정착한 사람. 원주민의 토지 상실과 권리 침해와 연결될 수 있음.
 
-### plantation
+### [[plant#plantation|plantation]]
 
 - 핵심 의미: 플랜테이션, 대농장
 - 사용 맥락: `sugar plantation`, `plantation economy`
@@ -110,7 +110,7 @@
 - 사용 맥락: `mercantilist policy`, `European mercantilism`
 - 주의: 국가 부를 금·은, 무역 흑자, 식민지 통제로 늘리려 한 경제 사상.
 
-### monopoly
+### [[mono#monopoly|monopoly]]
 
 - 핵심 의미: 독점
 - 사용 맥락: `trade monopoly`, `monopoly company`
@@ -122,7 +122,7 @@
 - 사용 맥락: `chartered trading company`, `royal charter`
 - 주의: 왕실이나 정부가 독점 무역권과 통치 권한을 준 회사. 식민 지배와 연결됨.
 
-### commodity
+### [[merc#commodity|commodity]]
 
 - 핵심 의미: 원자재, 상품
 - 사용 맥락: `colonial commodities`, `commodity trade`
@@ -140,13 +140,13 @@
 - 사용 맥락: `Atlantic triangular trade`
 - 주의: 유럽, 아프리카, 아메리카를 잇는 상품·노예·원료 이동 구조.
 
-### exploitation
+### [[plic-explain#exploitation|exploitation]]
 
 - 핵심 의미: 착취, 이용
 - 사용 맥락: `colonial exploitation`, `exploit natural resources`
 - 주의: 자원과 노동을 불공정하게 이용해 이익을 얻는 것. 중립적으로 자원 활용이라는 뜻도 가능.
 
-### extraction
+### [[tract-pull#extraction|extraction]]
 
 - 핵심 의미: 추출, 수탈
 - 사용 맥락: `resource extraction`, `extractive colonial economy`
@@ -154,7 +154,7 @@
 
 ## 원주민, 노예제, 폭력
 
-### indigenous
+### [[gen#indigenous|indigenous]]
 
 - 핵심 의미: 토착의, 원주민의
 - 사용 맥락: `Indigenous peoples`, `indigenous communities`
@@ -202,7 +202,7 @@
 - 사용 맥락: `depopulation of Indigenous communities`
 - 주의: 전염병, 전쟁, 강제 노동, 이주로 인구가 크게 줄어드는 현상.
 
-### resistance
+### [[sist#resistance|resistance]]
 
 - 핵심 의미: 저항
 - 사용 맥락: `indigenous resistance`, `resistance to colonial rule`
@@ -216,13 +216,13 @@
 - 사용 맥락: `cultural exchange`, `Columbian Exchange`
 - 주의: 상품, 작물, 질병, 기술, 언어, 종교가 지역 사이로 이동하는 과정.
 
-### diffusion
+### [[fus#diffusion|diffusion]]
 
 - 핵심 의미: 확산, 전파
 - 사용 맥락: `cultural diffusion`, `diffusion of crops`
 - 주의: 문화·기술·작물이 사람과 교역망을 따라 퍼지는 것.
 
-### conversion
+### [[vers#conversion|conversion]]
 
 - 핵심 의미: 개종, 전환
 - 사용 맥락: `religious conversion`, `missionary conversion`
@@ -246,7 +246,7 @@
 - 사용 맥락: `cultural hybridity`, `colonial hybridity`
 - 주의: 서로 다른 문화가 접촉하며 새로운 혼합 형태가 생기는 현상.
 
-### diaspora
+### [[dia#diaspora|diaspora]]
 
 - 핵심 의미: 디아스포라, 흩어진 이주 공동체
 - 사용 맥락: `African diaspora`, `diasporic culture`
@@ -272,7 +272,7 @@
 - 사용 맥락: `political autonomy`, `regional autonomy`
 - 주의: 완전한 독립은 아니더라도 스스로 결정할 권한을 갖는 상태.
 
-### legacy
+### [[lect#legacy|legacy]]
 
 - 핵심 의미: 유산, 남긴 영향
 - 사용 맥락: `legacy of colonialism`, `colonial legacy`

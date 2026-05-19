@@ -16,7 +16,7 @@
 - 사용 맥락: `feudal lord`, `feudal obligations`
 - 주의: 중세 봉건 질서를 가리키지만, 현대에는 낡고 위계적인 관계를 비판할 때도 쓰임.
 
-### hierarchy
+### [[arch#hierarchy|hierarchy]]
 
 - 핵심 의미: 위계, 계층 구조
 - 사용 맥락: `social hierarchy`, `feudal hierarchy`
@@ -66,7 +66,7 @@
 - 사용 맥락: `the medieval nobility`, `noble birth`
 - 주의: 세습적 지위와 특권을 가진 상류 신분. 추상적으로는 고귀함도 뜻함.
 
-### aristocracy
+### [[crat#aristocracy|aristocracy]]
 
 - 핵심 의미: 귀족 계급, 귀족 정치
 - 사용 맥락: `landed aristocracy`, `aristocratic privilege`
@@ -78,19 +78,19 @@
 - 사용 맥락: `noble family`, `noble ideals`
 - 주의: 신분을 뜻할 수도 있고, 도덕적으로 훌륭하다는 뜻도 가능.
 
-### monarch
+### [[arch#monarch|monarch]]
 
 - 핵심 의미: 군주
 - 사용 맥락: `medieval monarch`, `absolute monarch`
 - 주의: 왕이나 여왕처럼 세습적 최고 통치자.
 
-### dynasty
+### [[dynam#dynasty|dynasty]]
 
 - 핵심 의미: 왕조, 지배 가문
 - 사용 맥락: `royal dynasty`, `dynastic succession`
 - 주의: 같은 가문이 여러 세대에 걸쳐 권력을 이어가는 체계.
 
-### succession
+### [[cess#succession|succession]]
 
 - 핵심 의미: 계승, 승계
 - 사용 맥락: `succession crisis`, `line of succession`
@@ -102,13 +102,13 @@
 - 사용 맥락: `heir to the throne`, `legal heir`
 - 주의: 왕위, 재산, 지위를 물려받을 사람.
 
-### privilege
+### [[leg#privilege|privilege]]
 
 - 핵심 의미: 특권
 - 사용 맥락: `aristocratic privilege`, `legal privileges`
 - 주의: 특정 신분이나 집단에만 주어진 권리·면제. 현대 사회비판에서도 자주 쓰임.
 
-### estate
+### [[stat#estate|estate]]
 
 - 핵심 의미: 신분, 영지, 재산
 - 사용 맥락: `the three estates`, `landed estate`
@@ -116,13 +116,13 @@
 
 ## 귀족 작위와 호칭
 
-### peerage
+### [[par#peerage|peerage]]
 
 - 핵심 의미: 귀족 작위 체계, 귀족 계급
 - 사용 맥락: `British peerage`, `hereditary peerage`
 - 주의: 특히 영국식 귀족 작위 체계를 가리킬 때 자주 쓰임. `peer`는 동등한 사람이라는 뜻도 있음.
 
-### duke
+### [[duc#duke|duke]]
 
 - 핵심 의미: 공작
 - 사용 맥락: `Duke of Normandy`, `ducal title`
@@ -134,7 +134,7 @@
 - 사용 맥락: `the Duchy of Lancaster`, `medieval duchy`
 - 주의: 공작이 다스리거나 작위와 연결된 영토·권리.
 
-### marquess
+### [[mark#marquess / marquis|marquess]]
 
 - 핵심 의미: 후작
 - 사용 맥락: `Marquess of Salisbury`, `marquessate`
@@ -146,13 +146,13 @@
 - 사용 맥락: `Earl of Warwick`, `earldom`
 - 주의: 영국식 작위. 대륙 유럽의 `count`와 대체로 대응함. 여성형은 `countess`.
 
-### count
+### [[comit#count|count]]
 
 - 핵심 의미: 백작, 세다
 - 사용 맥락: `Count Dracula`, `Count of Flanders`
 - 주의: 대륙 유럽식 백작 작위. 동사 `count`는 숫자를 세다이므로 문맥 구분 필요.
 
-### viscount
+### [[comit#viscount|viscount]]
 
 - 핵심 의미: 자작
 - 사용 맥락: `Viscount Melbourne`, `viscountcy`
@@ -170,7 +170,7 @@
 - 사용 맥락: `Baroness Thatcher`, `hereditary baroness`
 - 주의: `baron`의 여성형. 작위를 직접 가진 여성 또는 남작의 배우자를 가리킬 수 있음.
 
-### prince
+### [[prin#prince|prince]]
 
 - 핵심 의미: 왕자, 군주, 대공
 - 사용 맥락: `Prince of Wales`, `princely state`
@@ -190,7 +190,7 @@
 
 ## 농민과 장원제
 
-### manor
+### [[manere#manor|manor]]
 
 - 핵심 의미: 장원
 - 사용 맥락: `manorial system`, `lord of the manor`
@@ -214,7 +214,7 @@
 - 사용 맥락: `peasant life`, `peasant uprising`
 - 주의: 전통 농업 사회의 하층 농민. 현대 영어에서는 경멸적으로 들릴 수 있음.
 
-### tenant
+### [[ten#tenant|tenant]]
 
 - 핵심 의미: 소작인, 임차인
 - 사용 맥락: `tenant farmer`, `tenant obligations`
@@ -258,13 +258,13 @@
 - 사용 맥락: `heavy cavalry`, `cavalry charge`
 - 주의: 말을 타고 싸우는 군대. `chivalry`와 철자가 비슷하지만 뜻이 다름.
 
-### armor
+### [[arma#armor|armor]]
 
 - 핵심 의미: 갑옷, 장갑
 - 사용 맥락: `plate armor`, `armored knight`
 - 주의: 전투에서 몸이나 장비를 보호하는 방어구. 영국식 철자는 `armour`.
 
-### siege
+### [[sed-sess#siege|siege]]
 
 - 핵심 의미: 포위 공격
 - 사용 맥락: `lay siege to a castle`, `medieval siege warfare`
@@ -302,7 +302,7 @@
 - 사용 맥락: `medieval monk`, `monastic order`
 - 주의: 종교적 규율에 따라 공동체 생활을 하는 남성 수도자.
 
-### manuscript
+### [[manu#manuscript|manuscript]]
 
 - 핵심 의미: 필사본, 원고
 - 사용 맥락: `illuminated manuscript`, `medieval manuscript`
@@ -328,13 +328,13 @@
 
 ## 중세 도시와 변화
 
-### guild
+### [[yield#guild / geld|guild]]
 
 - 핵심 의미: 길드, 동업조합
 - 사용 맥락: `craft guild`, `merchant guild`
 - 주의: 장인이나 상인이 기술, 가격, 교육, 시장 진입을 관리한 조직.
 
-### apprentice
+### [[prehend#apprentice|apprentice]]
 
 - 핵심 의미: 견습생
 - 사용 맥락: `apprentice craftsman`, `apprenticeship`
@@ -346,7 +346,7 @@
 - 사용 맥락: `town charter`, `royal charter`
 - 주의: 군주나 권위자가 도시, 대학, 단체에 권리와 자치권을 부여한 문서.
 
-### commune
+### [[mun#commune|commune]]
 
 - 핵심 의미: 자치 공동체, 코뮌
 - 사용 맥락: `medieval commune`, `urban commune`
@@ -384,7 +384,7 @@
 - 사용 맥락: `Charlemagne's empire`, `Carolingian Renaissance`
 - 주의: 서유럽 중세 정치 질서와 신성로마제국의 전통을 설명할 때 자주 등장.
 
-### Magna Carta
+### [[mag-magn#Magna Carta|Magna Carta]]
 
 - 핵심 의미: 대헌장
 - 사용 맥락: `the Magna Carta of 1215`

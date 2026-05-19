@@ -22,7 +22,7 @@
 - 사용 맥락: `a misdemeanor offense`, `charged with a misdemeanor`
 - 주의: `felony`보다 가벼운 범죄. 그래도 법적 처벌 대상.
 
-### assault
+### [[sult#assault|assault]]
 
 - 핵심 의미: 폭행, 공격
 - 사용 맥락: `sexual assault`, `assault charges`
@@ -60,7 +60,7 @@
 
 ## 사람과 신분
 
-### suspect
+### [[spect#suspect|suspect]]
 
 - 핵심 의미: 용의자, 의심하다
 - 사용 맥락: `arrest a suspect`, `the prime suspect`
@@ -78,7 +78,7 @@
 - 사용 맥락: `identify the perpetrator`, `the perpetrator of the crime`
 - 주의: 실제 범죄를 저지른 사람을 가리킴. `suspect`보다 단정적.
 
-### victim
+### [[vict#victim|victim]]
 
 - 핵심 의미: 피해자, 희생자
 - 사용 맥락: `crime victim`, `victim of fraud`
@@ -104,13 +104,13 @@
 
 ## 수사와 증거
 
-### investigation
+### [[vestig#investigation|investigation]]
 
 - 핵심 의미: 수사, 조사
 - 사용 맥락: `criminal investigation`, `under investigation`
 - 주의: 경찰 수사뿐 아니라 공식 조사 전반에 쓰임.
 
-### inquiry
+### [[quest#inquiry|inquiry]]
 
 - 핵심 의미: 조사, 문의
 - 사용 맥락: `official inquiry`, `launch an inquiry`
@@ -122,7 +122,7 @@
 - 사용 맥락: `interrogate a suspect`
 - 주의: 단순히 질문하다보다 강하고 공식적인 수사 질문.
 
-### surveillance
+### [[vid-watch#surveillance|surveillance]]
 
 - 핵심 의미: 감시, 사찰
 - 사용 맥락: `police surveillance`, `surveillance footage`
@@ -152,7 +152,7 @@
 - 사용 맥락: `find a clue`, `crucial clue`
 - 주의: 수사나 추론을 앞으로 이끄는 정보. 일상에서는 "힌트"도 뜻함.
 
-### motive
+### [[mot#motive|motive]]
 
 - 핵심 의미: 동기
 - 사용 맥락: `establish a motive`, `possible motive`
@@ -166,7 +166,7 @@
 
 ## 체포와 구금
 
-### warrant
+### [[warrant#warrant|warrant]]
 
 - 핵심 의미: 영장, 정당화하다
 - 사용 맥락: `search warrant`, `arrest warrant`
@@ -184,7 +184,7 @@
 - 사용 맥락: `in police custody`, `take into custody`
 - 주의: 경찰 수사에서는 구금 상태. 가족법에서는 양육권.
 
-### detain
+### [[ten#detain|detain]]
 
 - 핵심 의미: 구금하다, 붙잡아 두다
 - 사용 맥락: `detain a suspect`, `be detained for questioning`
@@ -196,7 +196,7 @@
 - 사용 맥락: `police raid`, `raid a warehouse`
 - 주의: 경찰이나 군대가 갑자기 들어가 수색·체포하는 행동.
 
-### seizure
+### [[seize#seizure|seizure]]
 
 - 핵심 의미: 압수, 발작
 - 사용 맥락: `drug seizure`, `seizure of property`

@@ -4,13 +4,13 @@
 
 ## 문명의 발생과 환경
 
-### civilization
+### [[civ#civilization|civilization]]
 
 - 핵심 의미: 문명
 - 사용 맥락: `ancient civilization`, `the rise of civilization`
 - 주의: 도시, 문자, 행정, 사회 계층, 전문 직업, 복합적 문화가 발달한 사회를 가리킴.
 
-### settlement
+### [[set#settlement|settlement]]
 
 - 핵심 의미: 정착지, 정착
 - 사용 맥락: `early settlements`, `permanent settlement`
@@ -54,31 +54,31 @@
 - 사용 맥락: `Sumerian city-states`, `Greek city-state`
 - 주의: 하나의 도시와 주변 지역이 독립된 정치 단위처럼 기능하는 체제.
 
-### kingdom
+### [[dom#kingdom / -dom|kingdom]]
 
 - 핵심 의미: 왕국
 - 사용 맥락: `ancient kingdom`, `Old Kingdom Egypt`
 - 주의: 왕이나 여왕이 통치하는 국가. 생물 분류의 계도 `kingdom`.
 
-### empire
+### [[imper#empire|empire]]
 
 - 핵심 의미: 제국
 - 사용 맥락: `ancient empire`, `imperial expansion`
 - 주의: 여러 민족과 넓은 영토를 하나의 중심 권력이 지배하는 체제.
 
-### dynasty
+### [[dynam#dynasty|dynasty]]
 
 - 핵심 의미: 왕조, 지배 가문
 - 사용 맥락: `Egyptian dynasty`, `dynastic rule`
 - 주의: 같은 가문이나 혈통이 여러 세대에 걸쳐 권력을 이어가는 체계.
 
-### monarchy
+### [[arch#monarchy|monarchy]]
 
 - 핵심 의미: 군주제
 - 사용 맥락: `hereditary monarchy`, `ancient monarchy`
 - 주의: 왕이나 여왕 같은 군주가 최고 권력을 갖는 정치 체제.
 
-### bureaucracy
+### [[crat#bureaucracy|bureaucracy]]
 
 - 핵심 의미: 관료제
 - 사용 맥락: `imperial bureaucracy`, `bureaucratic administration`
@@ -104,19 +104,19 @@
 - 사용 맥락: `early writing system`, `development of writing systems`
 - 주의: 말과 정보를 기록하는 기호 체계. 행정과 기억의 범위를 넓힘.
 
-### script
+### [[scrib#script|script]]
 
 - 핵심 의미: 문자, 필기체, 대본
 - 사용 맥락: `ancient script`, `cuneiform script`
 - 주의: 특정 문자 체계를 뜻함. 영화·연극의 대본이라는 뜻도 있음.
 
-### inscription
+### [[scrib#inscription|inscription]]
 
 - 핵심 의미: 명문, 새겨진 글
 - 사용 맥락: `stone inscription`, `royal inscription`
 - 주의: 돌, 금속, 점토판 등에 새겨진 글. 고고학 증거로 중요함.
 
-### scribe
+### [[scrib#scribe|scribe]]
 
 - 핵심 의미: 서기관, 필경사
 - 사용 맥락: `Egyptian scribe`, `scribal class`
@@ -142,13 +142,13 @@
 
 ## 사회 계층과 노동
 
-### hierarchy
+### [[arch#hierarchy|hierarchy]]
 
 - 핵심 의미: 위계, 계층 구조
 - 사용 맥락: `social hierarchy`, `political hierarchy`
 - 주의: 권력, 부, 신분에 따라 사람과 집단이 층층이 배열된 구조.
 
-### elite
+### [[lect#elite|elite]]
 
 - 핵심 의미: 엘리트, 지배층
 - 사용 맥락: `ruling elite`, `elite burial`
@@ -160,13 +160,13 @@
 - 사용 맥락: `powerful priesthood`, `temple priesthood`
 - 주의: 신전 의례, 달력, 기록, 토지 관리와 연결된 종교적 지배층.
 
-### artisan
+### [[art#artisan|artisan]]
 
 - 핵심 의미: 장인
 - 사용 맥락: `skilled artisans`, `artisan workshops`
 - 주의: 도자기, 금속, 직물, 조각 등 전문 기술로 물건을 만드는 사람.
 
-### merchant
+### [[merc#merchant|merchant]]
 
 - 핵심 의미: 상인
 - 사용 맥락: `merchant class`, `long-distance merchants`
@@ -186,7 +186,7 @@
 
 ## 종교, 권력, 문화
 
-### polytheism
+### [[poly#polytheism|polytheism]]
 
 - 핵심 의미: 다신교
 - 사용 맥락: `ancient polytheism`, `polytheistic religion`
@@ -210,7 +210,7 @@
 - 사용 맥락: `funerary ritual`, `ritual practice`
 - 주의: 정해진 순서와 상징을 가진 반복적 행위.
 
-### sacrifice
+### [[fac-make#sacrifice|sacrifice]]
 
 - 핵심 의미: 제물, 희생, 희생하다
 - 사용 맥락: `animal sacrifice`, `ritual sacrifice`
@@ -248,7 +248,7 @@
 - 사용 맥락: `maritime trade`, `maritime power`
 - 주의: 해상 교역, 항해, 해군 활동과 연결됨.
 
-### diffusion
+### [[fus#diffusion|diffusion]]
 
 - 핵심 의미: 확산, 전파
 - 사용 맥락: `cultural diffusion`, `technological diffusion`
@@ -266,7 +266,7 @@
 - 사용 맥락: `military conquest`, `conquest of neighboring lands`
 - 주의: 군사력으로 영토나 사람들을 지배하게 되는 과정.
 
-### tribute
+### [[trib#tribute|tribute]]
 
 - 핵심 의미: 조공, 공물, 찬사
 - 사용 맥락: `pay tribute`, `tribute from conquered peoples`

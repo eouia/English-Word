@@ -10,7 +10,7 @@
 - 사용 맥락: `military alliance`, `alliance system`
 - 주의: 국가들이 상호 방어와 협력을 약속한 관계. 제1차 세계대전 전 유럽의 동맹 체제가 확전의 배경이 됨.
 
-### nationalism
+### [[nat-nation#nationalism|nationalism]]
 
 - 핵심 의미: 민족주의
 - 사용 맥락: `ethnic nationalism`, `nationalist movement`
@@ -22,7 +22,7 @@
 - 사용 맥락: `rise of militarism`, `militarist policy`
 - 주의: 군사력과 군대의 가치를 과도하게 중시하는 정치·사회 분위기.
 
-### imperialism
+### [[imper#imperialism|imperialism]]
 
 - 핵심 의미: 제국주의
 - 사용 맥락: `European imperialism`, `imperialist rivalry`
@@ -110,7 +110,7 @@
 - 사용 맥락: `wartime rationing`, `food rationing`
 - 주의: 전쟁 중 부족한 식량과 물자를 일정량씩 나누어 공급하는 제도.
 
-### propaganda
+### [[propag#propaganda|propaganda]]
 
 - 핵심 의미: 선전, 선동성 정보
 - 사용 맥락: `wartime propaganda`, `propaganda posters`
@@ -128,7 +128,7 @@
 - 사용 맥락: `military conscription`, `conscription during wartime`
 - 주의: 국가가 법으로 병역을 강제하는 제도. 미국식으로는 `draft`도 자주 씀.
 
-### civilian
+### [[civ#civilian|civilian]]
 
 - 핵심 의미: 민간인
 - 사용 맥락: `civilian casualties`, `civilian population`
@@ -160,7 +160,7 @@
 - 사용 맥락: `military dictatorship`, `dictatorial rule`
 - 주의: 한 사람이나 소수 집단이 권력을 집중해 통치하는 체제.
 
-### authoritarian
+### [[auctor#authoritarian|authoritarian]]
 
 - 핵심 의미: 권위주의적인
 - 사용 맥락: `authoritarian regime`, `authoritarian leader`
@@ -178,7 +178,7 @@
 - 사용 맥락: `persecution of Jews`, `religious persecution`
 - 주의: 집단의 정체성, 신앙, 사상을 이유로 조직적으로 탄압하는 것.
 
-### resistance
+### [[sist#resistance|resistance]]
 
 - 핵심 의미: 저항, 저항운동
 - 사용 맥락: `French Resistance`, `resistance movement`
@@ -186,13 +186,13 @@
 
 ## 외교, 종전, 전후 질서
 
-### armistice
+### [[arma#armistice|armistice]]
 
 - 핵심 의미: 휴전
 - 사용 맥락: `sign an armistice`, `Armistice Day`
 - 주의: 전투를 멈추는 합의. 평화조약 `peace treaty`와는 구분.
 
-### surrender
+### [[cumb#surrender|surrender]]
 
 - 핵심 의미: 항복, 항복하다
 - 사용 맥락: `unconditional surrender`, `surrender of Germany`

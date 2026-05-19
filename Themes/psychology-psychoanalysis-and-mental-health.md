@@ -4,19 +4,19 @@
 
 ## 심리학 기본 개념
 
-### psychology
+### [[logos#psychology|psychology]]
 
 - 핵심 의미: 심리학, 심리
 - 사용 맥락: `clinical psychology`, `social psychology`
 - 주의: 마음, 행동, 감정, 인지 과정을 연구하는 학문. 일상적으로는 사람의 심리 상태도 뜻함.
 
-### cognition
+### [[cogn#cognition|cognition]]
 
 - 핵심 의미: 인지
 - 사용 맥락: `human cognition`, `cognitive development`
 - 주의: 기억, 판단, 학습, 문제 해결처럼 정보를 처리하는 정신 과정.
 
-### perception
+### [[cap#perception|perception]]
 
 - 핵심 의미: 지각, 인식
 - 사용 맥락: `visual perception`, `public perception`
@@ -34,7 +34,7 @@
 - 사용 맥락: `external stimulus`, `stimulus and response`
 - 주의: 심리학에서는 반응을 유발하는 사건이나 신호. 경제에서는 경기부양책.
 
-### response
+### [[spond#response|response]]
 
 - 핵심 의미: 반응, 응답
 - 사용 맥락: `emotional response`, `response to stress`
@@ -46,7 +46,7 @@
 - 사용 맥락: `cognitive bias`, `confirmation bias`
 - 주의: 판단이 특정 방향으로 체계적으로 기울어지는 것. 사회적 편견에도 쓰임.
 
-### empathy
+### [[path#empathy|empathy]]
 
 - 핵심 의미: 공감
 - 사용 맥락: `empathy for others`, `lack of empathy`
@@ -54,13 +54,13 @@
 
 ## 학습, 기억, 행동
 
-### conditioning
+### [[dict#conditioning|conditioning]]
 
 - 핵심 의미: 조건형성, 훈련
 - 사용 맥락: `classical conditioning`, `operant conditioning`
 - 주의: 자극과 반응, 보상과 처벌을 통해 행동이 학습되는 과정.
 
-### reinforcement
+### [[fort#reinforcement|reinforcement]]
 
 - 핵심 의미: 강화, 보강
 - 사용 맥락: `positive reinforcement`, `reinforce behavior`
@@ -72,31 +72,31 @@
 - 사용 맥락: `punishment and behavior`, `avoid punishment`
 - 주의: 행동을 줄이기 위해 불쾌한 결과를 주거나 좋은 것을 제거하는 것.
 
-### habit
+### [[hab#habit|habit]]
 
 - 핵심 의미: 습관
 - 사용 맥락: `form a habit`, `habitual behavior`
 - 주의: 반복을 통해 자동화된 행동 방식.
 
-### memory
+### [[mem#memory|memory]]
 
 - 핵심 의미: 기억
 - 사용 맥락: `long-term memory`, `memory loss`
 - 주의: 정보를 저장하고 떠올리는 능력과 과정.
 
-### recall
+### [[call#recall|recall]]
 
 - 핵심 의미: 회상, 기억해내다, 회수
 - 사용 맥락: `recall a memory`, `memory recall`
 - 주의: 기억 속 정보를 떠올리는 것. 제품 회수도 `recall`.
 
-### attention
+### [[tend#attention|attention]]
 
 - 핵심 의미: 주의, 관심
 - 사용 맥락: `selective attention`, `attention span`
 - 주의: 여러 정보 중 일부에 정신적 자원을 집중하는 과정.
 
-### motivation
+### [[mot#motivation|motivation]]
 
 - 핵심 의미: 동기, 동기부여
 - 사용 맥락: `intrinsic motivation`, `motivation to learn`
@@ -122,7 +122,7 @@
 - 사용 맥락: `repressed memories`, `political repression`
 - 주의: 정신분석에서는 받아들이기 힘든 생각·욕망을 무의식으로 밀어내는 방어. 정치에서는 탄압.
 
-### projection
+### [[ject#projection|projection]]
 
 - 핵심 의미: 투사, 투영, 예상
 - 사용 맥락: `psychological projection`, `project one's feelings`
@@ -184,7 +184,7 @@
 - 사용 맥락: `personality traits`, `personality development`
 - 주의: 비교적 안정적인 사고, 감정, 행동 패턴.
 
-### trait
+### [[tract-trace#trait|trait]]
 
 - 핵심 의미: 특성, 형질
 - 사용 맥락: `personality trait`, `inherited trait`
@@ -196,7 +196,7 @@
 - 사용 맥락: `personal identity`, `identity formation`
 - 주의: 자신이 누구인지에 대한 감각. 법적 신원이라는 뜻도 있음.
 
-### self-esteem
+### [[estim#self-esteem|self-esteem]]
 
 - 핵심 의미: 자존감
 - 사용 맥락: `low self-esteem`, `build self-esteem`
@@ -216,19 +216,19 @@
 - 사용 맥락: `mental health care`, `mental health awareness`
 - 주의: 정신질환의 부재만이 아니라 감정 조절, 관계, 기능, 회복력을 포함하는 넓은 개념.
 
-### disorder
+### [[ord#disorder|disorder]]
 
 - 핵심 의미: 장애, 질환, 무질서
 - 사용 맥락: `anxiety disorder`, `mood disorder`
 - 주의: 정신 기능이나 행동 패턴이 고통과 기능 저하를 일으키는 상태. 일반 의미는 무질서.
 
-### anxiety
+### [[anx#anxiety|anxiety]]
 
 - 핵심 의미: 불안
 - 사용 맥락: `anxiety symptoms`, `social anxiety`
 - 주의: 걱정, 긴장, 위협 예감이 지속되거나 과도한 상태.
 
-### depression
+### [[press#depression|depression]]
 
 - 핵심 의미: 우울증, 침체
 - 사용 맥락: `clinical depression`, `depressive symptoms`
@@ -240,7 +240,7 @@
 - 사용 맥락: `childhood trauma`, `traumatic experience`
 - 주의: 신체적 손상뿐 아니라 심각한 위협이나 폭력 경험이 남긴 심리적 상처.
 
-### stress
+### [[strain#stress|stress]]
 
 - 핵심 의미: 스트레스, 압박, 강조
 - 사용 맥락: `chronic stress`, `stress response`
@@ -252,7 +252,7 @@
 - 사용 맥락: `occupational burnout`, `burnout symptoms`
 - 주의: 장기적 스트레스와 과로로 인한 정서적·신체적 고갈.
 
-### resilience
+### [[sult#resilience|resilience]]
 
 - 핵심 의미: 회복탄력성
 - 사용 맥락: `psychological resilience`, `build resilience`
@@ -260,13 +260,13 @@
 
 ## 진단과 치료
 
-### diagnosis
+### [[dia#diagnosis|diagnosis]]
 
 - 핵심 의미: 진단
 - 사용 맥락: `psychiatric diagnosis`, `clinical diagnosis`
 - 주의: 증상과 기준을 바탕으로 질환이나 문제를 판별하는 것. 복수형은 `diagnoses`.
 
-### symptom
+### [[sym#symptom|symptom]]
 
 - 핵심 의미: 증상
 - 사용 맥락: `psychological symptoms`, `severe symptoms`
@@ -284,13 +284,13 @@
 - 사용 맥락: `receive psychotherapy`, `psychotherapy session`
 - 주의: 약물보다 대화와 심리적 개입을 중심으로 하는 치료.
 
-### intervention
+### [[ven#intervention|intervention]]
 
 - 핵심 의미: 개입, 중재
 - 사용 맥락: `early intervention`, `therapeutic intervention`
 - 주의: 문제가 악화되기 전에 도움이나 치료를 제공하는 행위.
 
-### medication
+### [[med#medication|medication]]
 
 - 핵심 의미: 약물, 투약
 - 사용 맥락: `psychiatric medication`, `take medication`
@@ -322,7 +322,7 @@
 - 사용 맥락: `patient confidentiality`, `therapist confidentiality`
 - 주의: 상담과 치료에서 개인 정보와 대화 내용을 보호하는 윤리 원칙.
 
-### consent
+### [[con#consent|consent]]
 
 - 핵심 의미: 동의, 승낙
 - 사용 맥락: `informed consent`, `parental consent`

@@ -4,7 +4,7 @@
 
 ## 지질학과 지구 구조
 
-### geology
+### [[geo#geology|geology]]
 
 - 핵심 의미: 지질학
 - 사용 맥락: `geological evidence`, `study geology`
@@ -16,7 +16,7 @@
 - 사용 맥락: `Earth's crust`, `continental crust`
 - 주의: 지구의 가장 바깥 단단한 층. 빵 껍질도 같은 단어.
 
-### mantle
+### [[mantle#mantle|mantle]]
 
 - 핵심 의미: 맨틀, 덮개
 - 사용 맥락: `Earth's mantle`, `mantle convection`
@@ -104,19 +104,19 @@
 
 ## 지리와 지도
 
-### geography
+### [[geo#geography|geography]]
 
 - 핵심 의미: 지리학, 지리
 - 사용 맥락: `physical geography`, `human geography`
 - 주의: 지형, 기후, 자원, 인구, 도시, 경제 활동의 공간적 관계를 다룸.
 
-### topography
+### [[graph#topography|topography]]
 
 - 핵심 의미: 지형, 지세
 - 사용 맥락: `mountainous topography`, `topographic map`
 - 주의: 땅의 높낮이, 경사, 산맥, 계곡 같은 표면 형태.
 
-### terrain
+### [[terr#terrain|terrain]]
 
 - 핵심 의미: 지형, 지세
 - 사용 맥락: `rugged terrain`, `mountainous terrain`
@@ -134,13 +134,13 @@
 - 사용 맥락: `high latitude`, `latitude and climate`
 - 주의: 적도에서 남북으로 얼마나 떨어져 있는지 나타냄. 기후와 일조량에 영향.
 
-### longitude
+### [[long#longitude|longitude]]
 
 - 핵심 의미: 경도
 - 사용 맥락: `lines of longitude`, `longitude measurement`
 - 주의: 본초자오선에서 동서로 얼마나 떨어져 있는지 나타냄. 시간대와 항해에 중요함.
 
-### altitude
+### [[alt#altitude|altitude]]
 
 - 핵심 의미: 고도
 - 사용 맥락: `high altitude`, `altitude affects temperature`
@@ -178,7 +178,7 @@
 - 사용 맥락: `glacial erosion`, `retreating glacier`
 - 주의: 장기간 쌓인 눈이 압축되어 천천히 움직이는 얼음 덩어리.
 
-### current
+### [[come#current|current]]
 
 - 핵심 의미: 해류, 흐름, 현재의
 - 사용 맥락: `ocean current`, `warm current`
@@ -228,7 +228,7 @@
 - 사용 맥락: `high humidity`, `relative humidity`
 - 주의: 공기 중 수증기의 양. 체감 온도와 구름 형성에 영향.
 
-### pressure
+### [[press#pressure|pressure]]
 
 - 핵심 의미: 기압, 압력, 압박
 - 사용 맥락: `atmospheric pressure`, `low-pressure system`
@@ -258,7 +258,7 @@
 - 사용 맥락: `tropical cyclone`, `cyclone damage`
 - 주의: 지역에 따라 `hurricane`, `typhoon`, `cyclone` 명칭이 다르게 쓰임.
 
-### forecast
+### [[fore#forecast|forecast]]
 
 - 핵심 의미: 예보, 예측하다
 - 사용 맥락: `weather forecast`, `forecast rainfall`
@@ -278,7 +278,7 @@
 - 사용 맥락: `active volcano`, `volcanic eruption`
 - 주의: 마그마, 화산재, 가스가 지표로 분출되는 지형.
 
-### eruption
+### [[rupt#eruption|eruption]]
 
 - 핵심 의미: 분출, 폭발, 발진
 - 사용 맥락: `volcanic eruption`, `eruption of lava`

@@ -4,7 +4,7 @@
 
 ## 문화인류학 기본 개념
 
-### anthropology
+### [[anthrop#anthropology|anthropology]]
 
 - 핵심 의미: 인류학
 - 사용 맥락: `cultural anthropology`, `anthropological research`
@@ -78,7 +78,7 @@
 - 사용 맥락: `clan identity`, `clan membership`
 - 주의: 공통 조상이나 상징을 중심으로 한 집단. 일상에서는 폐쇄적 집단이라는 뜻도 가능.
 
-### tribe
+### [[trib#tribe|tribe]]
 
 - 핵심 의미: 부족, 원주민 정치 공동체
 - 사용 맥락: `tribal sovereignty`, `tribal council`
@@ -90,7 +90,7 @@
 - 사용 맥락: `caste system`, `caste discrimination`
 - 주의: 인도 사회 맥락이 대표적이지만, 세습적 위계 구조를 비유적으로 말할 때도 쓰임.
 
-### hierarchy
+### [[arch#hierarchy|hierarchy]]
 
 - 핵심 의미: 위계, 계층 구조
 - 사용 맥락: `social hierarchy`, `ritual hierarchy`
@@ -116,19 +116,19 @@
 
 ## 토착민과 식민화
 
-### Indigenous
+### [[gen#indigenous|Indigenous]]
 
 - 핵심 의미: 토착의, 원주민의
 - 사용 맥락: `Indigenous peoples`, `Indigenous rights`
 - 주의: 특정 땅에 식민화 이전부터 살아온 집단과 그 후손을 존중해 부르는 표현. 대문자로 쓰는 경우가 많음.
 
-### Native
+### [[nat-birth#native|Native]]
 
 - 핵심 의미: 원주민의, 태생의
 - 사용 맥락: `Native American`, `Native communities`
 - 주의: 지역에 따라 적절성이 다름. 미국에서는 `Native American`, `Indigenous`, 특정 부족명 사용이 맥락에 따라 다름.
 
-### Aboriginal
+### [[origin#aboriginal|Aboriginal]]
 
 - 핵심 의미: 원주민의, 호주 원주민의
 - 사용 맥락: `Aboriginal Australians`, `Aboriginal culture`
@@ -190,7 +190,7 @@
 - 사용 맥락: `right to self-determination`
 - 주의: 공동체가 정치적 지위, 문화, 토지, 발전 방향을 스스로 결정할 권리.
 
-### treaty
+### [[tract-handle#treaty|treaty]]
 
 - 핵심 의미: 조약, 협약
 - 사용 맥락: `treaty rights`, `broken treaties`
@@ -214,7 +214,7 @@
 - 사용 맥락: `cultural restitution`, `restitution of stolen artifacts`
 - 주의: 부당하게 빼앗긴 물건이나 권리를 돌려주거나 보상하는 조치.
 
-### preservation
+### [[serv#preservation|preservation]]
 
 - 핵심 의미: 보존
 - 사용 맥락: `language preservation`, `cultural preservation`
@@ -246,25 +246,25 @@
 - 사용 맥락: `cultural relativism in anthropology`
 - 주의: 문화는 그 사회의 맥락 안에서 이해해야 한다는 관점. 모든 행위를 무조건 정당화한다는 뜻은 아님.
 
-### appropriation
+### [[propri#appropriation|appropriation]]
 
 - 핵심 의미: 문화적 전유, 도용
 - 사용 맥락: `cultural appropriation`, `appropriation of sacred symbols`
 - 주의: 지배 집단이 소수 집단의 문화 요소를 맥락과 권리 없이 가져다 쓰는 문제.
 
-### authenticity
+### [[authent#authenticity|authenticity]]
 
 - 핵심 의미: 진정성, 원본성
 - 사용 맥락: `cultural authenticity`, `authentic tradition`
 - 주의: 문화가 고정된 순수 원형이라는 식으로 오해하면 위험함. 전통도 변화함.
 
-### representation
+### [[present#representation|representation]]
 
 - 핵심 의미: 재현, 대표성
 - 사용 맥락: `representation of Indigenous peoples`, `museum representation`
 - 주의: 누가 누구의 문화를 어떻게 말하고 보여 주는지가 권력 문제와 연결됨.
 
-### agency
+### [[ag#agency|agency]]
 
 - 핵심 의미: 주체성, 행위 능력
 - 사용 맥락: `Indigenous agency`, `local agency`
@@ -276,7 +276,7 @@
 - 사용 맥락: `land stewardship`, `environmental stewardship`
 - 주의: 땅과 자원을 소유물보다 돌보고 책임지는 대상으로 보는 관점과 연결.
 
-### reciprocity
+### [[reciproc#reciprocity|reciprocity]]
 
 - 핵심 의미: 상호성, 호혜
 - 사용 맥락: `principle of reciprocity`, `reciprocal exchange`

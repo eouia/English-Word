@@ -60,7 +60,7 @@
 - 사용 맥락: `carbon emissions`, `reduce emissions`
 - 주의: 기체나 물질을 밖으로 내보내는 것. 기후 글에서는 주로 온실가스 배출.
 
-### emit
+### [[em#emit|emit]]
 
 - 핵심 의미: 배출하다, 내뿜다
 - 사용 맥락: `emit carbon dioxide`, `emit pollutants`
@@ -172,13 +172,13 @@
 - 사용 맥락: `climate mitigation`, `mitigation strategies`
 - 주의: 기후 맥락에서는 온난화 원인인 배출을 줄이는 대응. 피해에 적응하는 것은 `adaptation`.
 
-### adaptation
+### [[apt#adaptation|adaptation]]
 
 - 핵심 의미: 적응
 - 사용 맥락: `climate adaptation`, `adaptation measures`
 - 주의: 이미 나타나거나 피하기 어려운 기후 영향에 맞춰 사회·생태계를 조정하는 것.
 
-### resilience
+### [[sult#resilience|resilience]]
 
 - 핵심 의미: 회복력, 탄력성
 - 사용 맥락: `climate resilience`, `resilient infrastructure`
@@ -202,7 +202,7 @@
 - 사용 맥락: `become carbon neutral`, `carbon-neutral economy`
 - 주의: 배출량과 흡수·상쇄량을 맞춰 순배출을 0에 가깝게 만드는 것.
 
-### offset
+### [[set#offset|offset]]
 
 - 핵심 의미: 상쇄하다, 상쇄분
 - 사용 맥락: `carbon offset`, `offset emissions`

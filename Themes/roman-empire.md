@@ -4,25 +4,25 @@
 
 ## 정치 제도와 권력
 
-### republic
+### [[popul#republic|republic]]
 
 - 핵심 의미: 공화국, 공화정
 - 사용 맥락: `the Roman Republic`, `republican institutions`
 - 주의: 왕이 아니라 시민과 대표 기관을 통해 통치되는 체제. 로마사는 공화정에서 제정으로 넘어가는 변화가 중요함.
 
-### empire
+### [[imper#empire|empire]]
 
 - 핵심 의미: 제국
 - 사용 맥락: `the Roman Empire`, `imperial expansion`
 - 주의: 한 중심 권력이 여러 민족과 넓은 영토를 지배하는 정치 체제.
 
-### imperial
+### [[imper#imperial|imperial]]
 
 - 핵심 의미: 제국의, 황제의
 - 사용 맥락: `imperial authority`, `imperial Rome`
 - 주의: 제국 통치, 황제권, 정복과 연결됨. 단위계 `imperial system`이라는 뜻도 있음.
 
-### emperor
+### [[imper#emperor|emperor]]
 
 - 핵심 의미: 황제
 - 사용 맥락: `Roman emperor`, `emperor Augustus`
@@ -34,25 +34,25 @@
 - 사용 맥락: `the Roman Senate`, `senatorial class`
 - 주의: 로마 공화정의 핵심 정치 기관. 현대 미국 상원도 `Senate`.
 
-### consul
+### [[concert#consul|consul]]
 
 - 핵심 의미: 집정관, 영사
 - 사용 맥락: `Roman consul`, `consular authority`
 - 주의: 로마 공화정의 최고 선출 관직. 현대 외교에서는 영사라는 뜻.
 
-### magistrate
+### [[mag-master#magistrate|magistrate]]
 
 - 핵심 의미: 행정관, 치안판사
 - 사용 맥락: `Roman magistrates`, `local magistrate`
 - 주의: 로마에서는 공적 권한을 가진 선출 관직자. 현대에는 하급 판사·치안판사.
 
-### autocracy
+### [[crat#autocracy|autocracy]]
 
 - 핵심 의미: 전제정, 독재적 통치
 - 사용 맥락: `imperial autocracy`, `autocratic rule`
 - 주의: 권력이 한 사람에게 집중된 체제. 로마 제정 후기로 갈수록 설명에 자주 쓰임.
 
-### succession
+### [[cess#succession|succession]]
 
 - 핵심 의미: 계승, 승계
 - 사용 맥락: `imperial succession`, `succession crisis`
@@ -84,7 +84,7 @@
 - 사용 맥락: `plebeian assembly`, `patricians and plebeians`
 - 주의: 로마의 일반 시민 계층. `patrician`과 대비됨.
 
-### aristocracy
+### [[crat#aristocracy|aristocracy]]
 
 - 핵심 의미: 귀족 계급, 귀족 정치
 - 사용 맥락: `Roman aristocracy`, `senatorial aristocracy`
@@ -134,7 +134,7 @@
 - 사용 맥락: `military campaign`, `Caesar's campaigns`
 - 주의: 전쟁에서 일정 목표를 가진 작전 묶음. 현대에는 선거·홍보 활동도 뜻함.
 
-### siege
+### [[sed-sess#siege|siege]]
 
 - 핵심 의미: 포위 공격
 - 사용 맥락: `siege warfare`, `lay siege to a city`
@@ -166,7 +166,7 @@
 - 사용 맥락: `Roman province`, `provincial administration`
 - 주의: 로마가 정복 후 행정적으로 관리한 지역. 현대에는 주·지방이라는 뜻.
 
-### governor
+### [[govern#governor|governor]]
 
 - 핵심 의미: 총독, 주지사
 - 사용 맥락: `provincial governor`, `Roman governor`
@@ -190,7 +190,7 @@
 - 사용 맥락: `Roman census`, `conduct a census`
 - 주의: 세금, 병역, 시민 지위 파악을 위해 인구와 재산을 조사하는 제도.
 
-### tribute
+### [[trib#tribute|tribute]]
 
 - 핵심 의미: 조공, 공물, 찬사
 - 사용 맥락: `pay tribute to Rome`, `tribute from conquered peoples`
@@ -222,19 +222,19 @@
 - 사용 맥락: `codification of Roman law`, `legal codification`
 - 주의: 관습·판례·규칙을 정리해 공식 법전으로 만드는 작업.
 
-### jurisprudence
+### [[jur#jurisprudence|jurisprudence]]
 
 - 핵심 의미: 법학, 법철학
 - 사용 맥락: `Roman jurisprudence`, `legal jurisprudence`
 - 주의: 법의 원리와 해석을 다루는 학문적 표현.
 
-### infrastructure
+### [[struct#infrastructure|infrastructure]]
 
 - 핵심 의미: 기반 시설
 - 사용 맥락: `Roman infrastructure`, `roads and aqueducts`
 - 주의: 도로, 수도교, 항구, 하수도처럼 사회 운영의 바탕이 되는 시설.
 
-### aqueduct
+### [[aqua#aqueduct|aqueduct]]
 
 - 핵심 의미: 수도교
 - 사용 맥락: `Roman aqueduct`, `aqueduct system`
@@ -252,7 +252,7 @@
 - 사용 맥락: `Roman urbanization`, `urban planning`
 - 주의: 도시 중심의 생활과 행정, 상업, 문화가 확대되는 과정.
 
-### amphitheater
+### [[amphi#amphitheater|amphitheater]]
 
 - 핵심 의미: 원형경기장
 - 사용 맥락: `Roman amphitheater`, `gladiatorial games`
@@ -278,13 +278,13 @@
 - 사용 맥락: `persecution of Christians`, `religious persecution`
 - 주의: 종교, 민족, 사상 등을 이유로 조직적으로 괴롭히거나 탄압하는 것.
 
-### conversion
+### [[vers#conversion|conversion]]
 
 - 핵심 의미: 개종, 전환
 - 사용 맥락: `Constantine's conversion`, `religious conversion`
 - 주의: 종교를 바꾸는 일. 일반적으로는 형태·용도의 전환도 뜻함.
 
-### decline
+### [[clin#decline|decline]]
 
 - 핵심 의미: 쇠퇴, 감소
 - 사용 맥락: `decline of the Roman Empire`, `economic decline`
@@ -296,7 +296,7 @@
 - 사용 맥락: `political fragmentation`, `fragmentation of authority`
 - 주의: 하나의 체계가 여러 부분으로 쪼개져 통일성을 잃는 것.
 
-### legacy
+### [[lect#legacy|legacy]]
 
 - 핵심 의미: 유산, 남긴 영향
 - 사용 맥락: `legacy of Rome`, `Roman legal legacy`

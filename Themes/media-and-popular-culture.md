@@ -4,7 +4,7 @@
 
 ## 언론과 방송
 
-### media
+### [[medi#media|media]]
 
 - 핵심 의미: 미디어, 매체
 - 사용 맥락: `mass media`, `digital media`
@@ -16,7 +16,7 @@
 - 사용 맥락: `investigative journalism`, `journalistic ethics`
 - 주의: 뉴스를 취재, 검증, 편집, 보도하는 활동과 직업.
 
-### press
+### [[fort#press|press]]
 
 - 핵심 의미: 언론, 신문, 압박하다
 - 사용 맥락: `freedom of the press`, `press coverage`
@@ -28,7 +28,7 @@
 - 사용 맥락: `broadcast news`, `live broadcast`
 - 주의: 라디오, TV, 인터넷을 통해 넓은 대중에게 송출하는 것.
 
-### coverage
+### [[cover#coverage|coverage]]
 
 - 핵심 의미: 보도, 취재 범위, 적용 범위
 - 사용 맥락: `media coverage`, `news coverage`
@@ -40,7 +40,7 @@
 - 사용 맥락: `news outlet`, `media outlet`
 - 주의: 뉴스나 콘텐츠를 내보내는 조직. 일반적으로는 콘센트나 배출구.
 
-### correspondent
+### [[spond#correspondent|correspondent]]
 
 - 핵심 의미: 특파원, 통신원
 - 사용 맥락: `foreign correspondent`, `war correspondent`
@@ -66,7 +66,7 @@
 - 사용 맥락: `recommendation algorithm`, `algorithmic bias`
 - 주의: 플랫폼에서 콘텐츠 노출, 추천, 검색 순위를 결정하는 규칙이나 모델.
 
-### engagement
+### [[gage#engagement|engagement]]
 
 - 핵심 의미: 참여도, 관여, 약혼
 - 사용 맥락: `user engagement`, `audience engagement`
@@ -128,31 +128,31 @@
 - 사용 맥락: `film franchise`, `media franchise`
 - 주의: 영화·게임·캐릭터가 여러 작품과 상품으로 확장되는 콘텐츠 브랜드. 사업 가맹점도 뜻함.
 
-### adaptation
+### [[apt#adaptation|adaptation]]
 
 - 핵심 의미: 각색, 적응
 - 사용 맥락: `film adaptation`, `adaptation of a novel`
 - 주의: 소설, 만화, 게임 등을 영화나 드라마 등 다른 매체로 옮기는 것. 생물학에서는 적응.
 
-### genre
+### [[gen#genre|genre]]
 
 - 핵심 의미: 장르
 - 사용 맥락: `literary genre`, `film genre`
 - 주의: 작품을 형식, 주제, 관습에 따라 나누는 범주. 발음은 프랑스어식에 가까움.
 
-### narrative
+### [[narr#narrative|narrative]]
 
 - 핵심 의미: 서사, 이야기
 - 사용 맥락: `media narrative`, `dominant narrative`
 - 주의: 사건을 의미 있는 흐름으로 엮는 방식. 정치·사회 담론에서도 자주 쓰임.
 
-### representation
+### [[present#representation|representation]]
 
 - 핵심 의미: 재현, 대표, 대의
 - 사용 맥락: `racial representation`, `media representation`
 - 주의: 미디어에서 특정 집단이 어떤 방식으로 보이고 말해지는지. 정치에서는 대표.
 
-### stereotype
+### [[typ#stereotype|stereotype]]
 
 - 핵심 의미: 고정관념, 정형화된 이미지
 - 사용 맥락: `gender stereotype`, `racial stereotype`
@@ -160,7 +160,7 @@
 
 ## 관객, 팬덤, 유명인
 
-### audience
+### [[aud#audience|audience]]
 
 - 핵심 의미: 관객, 청중, 수용자
 - 사용 맥락: `target audience`, `mass audience`
@@ -190,7 +190,7 @@
 - 사용 맥락: `public persona`, `online persona`
 - 주의: 실제 인물과 구분되는 사회적·미디어적 자아나 이미지.
 
-### authenticity
+### [[authent#authenticity|authenticity]]
 
 - 핵심 의미: 진정성, 진품성
 - 사용 맥락: `perceived authenticity`, `authentic voice`
@@ -204,13 +204,13 @@
 
 ## 광고와 소비문화
 
-### advertising
+### [[vers#advertising|advertising]]
 
 - 핵심 의미: 광고
 - 사용 맥락: `advertising campaign`, `digital advertising`
 - 주의: 상품, 서비스, 이미지, 정치 메시지를 홍보하는 활동.
 
-### publicity
+### [[popul#publicity|publicity]]
 
 - 핵심 의미: 홍보, 세간의 관심
 - 사용 맥락: `generate publicity`, `negative publicity`
@@ -234,7 +234,7 @@
 - 사용 맥락: `mass consumerism`, `consumerist culture`
 - 주의: 소비와 소유가 정체성, 행복, 사회적 지위와 연결되는 문화.
 
-### commercialization
+### [[merc#commercialization|commercialization]]
 
 - 핵심 의미: 상업화
 - 사용 맥락: `commercialization of culture`, `commercialized media`
@@ -254,7 +254,7 @@
 - 사용 맥락: `government censorship`, `media censorship`
 - 주의: 정부, 기업, 플랫폼, 기관이 표현이나 정보 유통을 제한하는 것.
 
-### propaganda
+### [[propag#propaganda|propaganda]]
 
 - 핵심 의미: 선전, 선동성 정보
 - 사용 맥락: `political propaganda`, `wartime propaganda`
@@ -272,13 +272,13 @@
 - 사용 맥락: `media bias`, `algorithmic bias`
 - 주의: 정보 선택, 표현, 추천 과정에서 특정 관점이나 집단에 치우치는 것.
 
-### agenda
+### [[ag#agenda|agenda]]
 
 - 핵심 의미: 의제, 숨은 목적
 - 사용 맥락: `media agenda`, `political agenda`
 - 주의: 논의할 문제의 목록. 비판적으로는 숨은 의도라는 뜻도 가능.
 
-### discourse
+### [[curr#discourse|discourse]]
 
 - 핵심 의미: 담론, 공식적 논의
 - 사용 맥락: `public discourse`, `media discourse`

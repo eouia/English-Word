@@ -34,7 +34,7 @@
 - 사용 맥락: `cabinet members`, `cabinet reshuffle`
 - 주의: 일반 의미로는 "수납장". 정부 맥락에서는 주요 장관들의 집합.
 
-### minister
+### [[min#minister|minister]]
 
 - 핵심 의미: 장관, 목사
 - 사용 맥락: `foreign minister`, `finance minister`
@@ -46,13 +46,13 @@
 - 사용 맥락: `Secretary of State`, `Secretary of Defense`
 - 주의: 미국 정부에서는 장관 직함. 일반 회사에서는 비서라는 뜻이 강함.
 
-### agency
+### [[ag#agency|agency]]
 
 - 핵심 의미: 정부 기관, 대행 기관
 - 사용 맥락: `federal agency`, `regulatory agency`
 - 주의: 일반 의미로는 "대행사". 정부 문맥에서는 특정 행정 기능을 맡은 기관.
 
-### department
+### [[part#department|department]]
 
 - 핵심 의미: 부처, 부서
 - 사용 맥락: `Department of Justice`, `education department`
@@ -72,7 +72,7 @@
 - 사용 맥락: `issue an executive order`
 - 주의: 의회가 새 법을 만드는 것이 아니라, 행정부 수반이 기존 권한 안에서 내리는 명령.
 
-### decree
+### [[cern#decree|decree]]
 
 - 핵심 의미: 법령, 포고령, 명령
 - 사용 맥락: `issue a decree`, `presidential decree`
@@ -84,13 +84,13 @@
 - 사용 맥락: `government directive`, `policy directive`
 - 주의: 세부 행동 방향을 지시하는 공식 문서나 명령.
 
-### mandate
+### [[mand#mandate|mandate]]
 
 - 핵심 의미: 권한 위임, 명령, 의무 규정
 - 사용 맥락: `a vaccine mandate`, `a democratic mandate`
 - 주의: 행정부 맥락에서는 특정 조치를 요구하는 의무 규정. 선거 맥락에서는 국민에게 받은 정치적 위임.
 
-### authorize
+### [[auctor#authorize|authorize]]
 
 - 핵심 의미: 권한을 부여하다, 승인하다
 - 사용 맥락: `authorize the use of funds`, `authorized personnel`
@@ -102,13 +102,13 @@
 - 사용 맥락: `appoint a minister`, `appoint a judge`
 - 주의: 선거로 뽑는 것이 아니라 권한 있는 사람이 직책에 앉히는 것.
 
-### nominate
+### [[nomin#nominate|nominate]]
 
 - 핵심 의미: 후보로 지명하다
 - 사용 맥락: `nominate a cabinet secretary`, `presidential nominee`
 - 주의: `appoint`가 최종 임명이라면, `nominate`는 임명이나 선거를 위한 후보 지명.
 
-### incumbent
+### [[cumb#incumbent|incumbent]]
 
 - 핵심 의미: 현직자
 - 사용 맥락: `the incumbent president`, `incumbent administration`
@@ -116,43 +116,43 @@
 
 ## 정책 집행과 행정
 
-### implement
+### [[ple#implement|implement]]
 
 - 핵심 의미: 시행하다, 실행하다
 - 사용 맥락: `implement a policy`, `implement reforms`
 - 주의: 정책을 발표하는 것이 아니라 실제 행정 절차로 옮기는 것.
 
-### enforce
+### [[fort#enforce|enforce]]
 
 - 핵심 의미: 집행하다, 시행을 강제하다
 - 사용 맥락: `enforce regulations`, `law enforcement`
 - 주의: 법이나 규칙을 사람들이 따르도록 강제하는 의미.
 
-### administer
+### [[min#administer|administer]]
 
 - 핵심 의미: 관리하다, 집행하다, 투여하다
 - 사용 맥락: `administer a program`, `administer benefits`
 - 주의: 정부 맥락에서는 제도나 프로그램을 운영·관리하는 것. 의료 맥락에서는 약을 투여하다.
 
-### oversee
+### [[over#oversee|oversee]]
 
 - 핵심 의미: 감독하다
 - 사용 맥락: `oversee federal programs`, `oversee implementation`
 - 주의: 직접 수행하기보다 전체 진행과 책임을 관리하는 느낌.
 
-### coordinate
+### [[ord#coordinate|coordinate]]
 
 - 핵심 의미: 조정하다, 협력시키다
 - 사용 맥락: `coordinate agencies`, `coordinate disaster response`
 - 주의: 여러 기관이나 부서의 활동을 맞물리게 하는 행정 동사.
 
-### allocate
+### [[loc#allocate|allocate]]
 
 - 핵심 의미: 배분하다, 할당하다
 - 사용 맥락: `allocate resources`, `allocate funding`
 - 주의: 예산, 인력, 자원을 특정 목적에 나누어 주는 것.
 
-### fiscal
+### [[fisc#fiscal|fiscal]]
 
 - 핵심 의미: 재정의, 회계의
 - 사용 맥락: `fiscal policy`, `fiscal year`
@@ -166,7 +166,7 @@
 
 ## 규제와 공공 행정
 
-### regulation
+### [[reg#regulation|regulation]]
 
 - 핵심 의미: 규제, 규정
 - 사용 맥락: `environmental regulations`, `government regulation`
@@ -184,7 +184,7 @@
 - 사용 맥락: `ensure compliance`, `regulatory compliance`
 - 주의: 법·규정·기준을 따르는 상태. 단순한 동의가 아니라 규정 이행.
 
-### bureaucracy
+### [[crat#bureaucracy|bureaucracy]]
 
 - 핵심 의미: 관료제, 관료 조직
 - 사용 맥락: `federal bureaucracy`, `bureaucratic delay`
@@ -208,13 +208,13 @@
 - 사용 맥락: `welfare policy`, `social welfare programs`
 - 주의: 일반 의미는 "안녕, 행복". 정부 맥락에서는 사회복지 제도나 지원금.
 
-### subsidy
+### [[sed-sess#subsidy|subsidy]]
 
 - 핵심 의미: 보조금
 - 사용 맥락: `agricultural subsidies`, `government subsidy`
 - 주의: 정부가 특정 산업, 단체, 개인을 지원하기 위해 지급하는 돈.
 
-### sanction
+### [[sanct#sanction|sanction]]
 
 - 핵심 의미: 제재, 승인하다
 - 사용 맥락: `economic sanctions`, `sanction a policy`

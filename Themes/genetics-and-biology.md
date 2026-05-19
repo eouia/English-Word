@@ -10,7 +10,7 @@
 - 사용 맥락: `living organisms`, `single-celled organisms`
 - 주의: 동물, 식물, 미생물처럼 생명 활동을 하는 개체 전체.
 
-### species
+### [[speci#species|species]]
 
 - 핵심 의미: 종
 - 사용 맥락: `endangered species`, `a new species`
@@ -22,19 +22,19 @@
 - 사용 맥락: `loss of biodiversity`, `biodiversity conservation`
 - 주의: 생태계 안의 종, 유전자, 서식지 다양성을 모두 포함함.
 
-### habitat
+### [[hab#habitat|habitat]]
 
 - 핵심 의미: 서식지
 - 사용 맥락: `natural habitat`, `habitat destruction`
 - 주의: 어떤 생물이 살고 번식하는 자연 환경.
 
-### ecosystem
+### [[sym#ecosystem|ecosystem]]
 
 - 핵심 의미: 생태계
 - 사용 맥락: `marine ecosystem`, `ecosystem balance`
 - 주의: 생물과 비생물 환경이 상호작용하는 전체 체계.
 
-### adaptation
+### [[apt#adaptation|adaptation]]
 
 - 핵심 의미: 적응, 각색
 - 사용 맥락: `biological adaptation`, `adaptation to climate`
@@ -84,7 +84,7 @@
 - 사용 맥락: `digestive enzyme`, `enzyme activity`
 - 주의: 생화학 반응을 빠르게 하는 단백질. 소화, 대사, DNA 복제와 연결됨.
 
-### photosynthesis
+### [[photo#photosynthesis|photosynthesis]]
 
 - 핵심 의미: 광합성
 - 사용 맥락: `photosynthesis in plants`, `photosynthetic organisms`
@@ -98,7 +98,7 @@
 - 사용 맥락: `the role of heredity`, `heredity and environment`
 - 주의: 부모의 형질이 자손에게 전달되는 현상.
 
-### gene
+### [[gen#gene|gene]]
 
 - 핵심 의미: 유전자
 - 사용 맥락: `gene expression`, `a defective gene`
@@ -116,7 +116,7 @@
 - 사용 맥락: `DNA evidence`, `DNA replication`
 - 주의: `deoxyribonucleic acid`. 유전정보를 저장하는 분자.
 
-### chromosome
+### [[chrom#chromosome|chromosome]]
 
 - 핵심 의미: 염색체
 - 사용 맥락: `sex chromosome`, `chromosomal abnormality`
@@ -128,19 +128,19 @@
 - 사용 맥락: `dominant allele`, `recessive allele`
 - 주의: 같은 유전자 자리에서 나타나는 서로 다른 형태.
 
-### trait
+### [[tract-trace#trait|trait]]
 
 - 핵심 의미: 형질, 특성
 - 사용 맥락: `inherited trait`, `personality trait`
 - 주의: 생물학에서는 유전되거나 관찰되는 특징. 성격 특성에도 쓰임.
 
-### mutation
+### [[mut#mutation|mutation]]
 
 - 핵심 의미: 돌연변이
 - 사용 맥락: `genetic mutation`, `mutation rate`
 - 주의: DNA 서열의 변화. 질병을 일으킬 수도 있고 진화의 재료가 될 수도 있음.
 
-### variation
+### [[vari#variation|variation]]
 
 - 핵심 의미: 변이, 차이
 - 사용 맥락: `genetic variation`, `variation among individuals`
@@ -154,7 +154,7 @@
 
 ## 진화와 생존
 
-### evolution
+### [[volv#evolution|evolution]]
 
 - 핵심 의미: 진화, 점진적 변화
 - 사용 맥락: `the theory of evolution`, `evolutionary biology`
@@ -172,7 +172,7 @@
 - 사용 맥락: `environmental selection pressure`
 - 주의: 특정 형질이 유리하거나 불리하게 작용하게 만드는 환경 요인.
 
-### survival
+### [[vit#survival|survival]]
 
 - 핵심 의미: 생존
 - 사용 맥락: `survival advantage`, `survival of the fittest`
@@ -184,7 +184,7 @@
 - 사용 맥락: `sexual reproduction`, `reproductive success`
 - 주의: 생명체가 자손을 만드는 과정. 예술·출판에서는 복제라는 뜻도 있음.
 
-### extinction
+### [[stinct#extinction|extinction]]
 
 - 핵심 의미: 멸종
 - 사용 맥락: `mass extinction`, `species extinction`
@@ -228,7 +228,7 @@
 - 사용 맥락: `develop a vaccine`, `vaccine efficacy`
 - 주의: 면역 반응을 유도해 질병을 예방하는 물질.
 
-### immunity
+### [[mun#immunity|immunity]]
 
 - 핵심 의미: 면역, 면제
 - 사용 맥락: `immune response`, `immunity to disease`
@@ -240,7 +240,7 @@
 - 사용 맥락: `pathogenic bacteria`, `pathogen transmission`
 - 주의: 질병을 일으키는 바이러스, 세균, 곰팡이, 기생생물 등.
 
-### diagnosis
+### [[dia#diagnosis|diagnosis]]
 
 - 핵심 의미: 진단
 - 사용 맥락: `genetic diagnosis`, `early diagnosis`

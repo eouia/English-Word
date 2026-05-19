@@ -22,7 +22,7 @@
 - 사용 맥락: `recommendation algorithm`, `algorithmic decision`
 - 주의: 단순한 공식이 아니라, 입력을 처리해 결과를 내는 절차나 규칙 집합.
 
-### model
+### [[mod#model|model]]
 
 - 핵심 의미: 모델, 학습된 예측·생성 시스템
 - 사용 맥락: `train a model`, `language model`
@@ -78,7 +78,7 @@
 - 사용 맥락: `model parameters`, `billions of parameters`
 - 주의: 모델이 학습 과정에서 조정하는 내부 값. 일반 의미로는 조건·한계.
 
-### feature
+### [[fac-make#feature|feature]]
 
 - 핵심 의미: 특징, 입력 특성
 - 사용 맥락: `extract features`, `feature representation`
@@ -90,13 +90,13 @@
 - 사용 맥락: `labeled data`, `data labeling`
 - 주의: 일반 의미는 이름표. 학습 데이터에서는 정답이나 분류 정보를 뜻함.
 
-### annotation
+### [[not#annotation|annotation]]
 
 - 핵심 의미: 주석, 데이터 표기
 - 사용 맥락: `human annotation`, `annotated dataset`
 - 주의: 데이터에 의미, 분류, 경계, 정답 등을 사람이 붙이는 작업.
 
-### corpus
+### [[corp#corpus|corpus]]
 
 - 핵심 의미: 말뭉치, 대규모 텍스트 자료
 - 사용 맥락: `text corpus`, `training corpus`
@@ -122,43 +122,43 @@
 - 사용 맥락: `model inference`, `inference time`
 - 주의: 일반 의미는 논리적 추론. AI에서는 학습된 모델이 입력을 받아 출력을 내는 단계.
 
-### prediction
+### [[dict#prediction|prediction]]
 
 - 핵심 의미: 예측
 - 사용 맥락: `make predictions`, `prediction accuracy`
 - 주의: 미래만 예측한다는 뜻이 아니라, 입력에 대해 답이나 분류를 추정하는 것도 포함.
 
-### classification
+### [[class#classification|classification]]
 
 - 핵심 의미: 분류
 - 사용 맥락: `image classification`, `text classification`
 - 주의: 입력을 미리 정해진 범주 중 하나로 나누는 작업.
 
-### recognition
+### [[cogn#recognition|recognition]]
 
 - 핵심 의미: 인식, 알아봄
 - 사용 맥락: `speech recognition`, `facial recognition`
 - 주의: 외교에서는 승인, 일반 의미는 인정. AI에서는 소리·얼굴·패턴을 식별하는 것.
 
-### accuracy
+### [[cura#accuracy|accuracy]]
 
 - 핵심 의미: 정확도
 - 사용 맥락: `improve accuracy`, `high accuracy`
 - 주의: 모든 성능을 대표하지 않음. 데이터가 불균형하면 정확도만으로는 부족할 수 있음.
 
-### benchmark
+### [[mark#benchmark|benchmark]]
 
 - 핵심 의미: 기준 시험, 성능 기준
 - 사용 맥락: `AI benchmark`, `benchmark results`
 - 주의: 일반 의미는 기준점. AI에서는 모델 성능을 비교하는 테스트나 데이터셋.
 
-### evaluation
+### [[val#evaluation|evaluation]]
 
 - 핵심 의미: 평가
 - 사용 맥락: `model evaluation`, `evaluation metrics`
 - 주의: 모델이 실제로 잘 작동하는지 시험 데이터나 기준으로 확인하는 과정.
 
-### latency
+### [[lat#latency|latency]]
 
 - 핵심 의미: 지연 시간
 - 사용 맥락: `low latency`, `inference latency`
@@ -202,7 +202,7 @@
 - 사용 맥락: `autonomous vehicle`, `autonomous agent`
 - 주의: 사람의 직접 조작 없이 스스로 판단·행동하는 정도를 나타냄.
 
-### agent
+### [[ag#agent|agent]]
 
 - 핵심 의미: 에이전트, 대리 수행 시스템
 - 사용 맥락: `AI agent`, `autonomous agent`
@@ -214,7 +214,7 @@
 - 사용 맥락: `multimodal model`, `multimodal input`
 - 주의: 텍스트, 이미지, 음성, 영상 등 여러 종류의 입력·출력을 다루는 것.
 
-### synthetic
+### [[sym#synthetic|synthetic]]
 
 - 핵심 의미: 합성의, 인공적인
 - 사용 맥락: `synthetic data`, `synthetic media`
@@ -240,7 +240,7 @@
 - 사용 맥락: `algorithmic transparency`, `transparency requirements`
 - 주의: 모델이나 의사결정 과정이 얼마나 설명 가능하고 검토 가능한지.
 
-### accountability
+### [[count#accountability|accountability]]
 
 - 핵심 의미: 책임성, 설명 책임
 - 사용 맥락: `AI accountability`, `hold developers accountable`
@@ -258,13 +258,13 @@
 - 사용 맥락: `privacy concerns`, `data privacy`
 - 주의: AI 학습과 서비스에서 개인 정보가 수집·노출·재식별될 위험과 관련.
 
-### surveillance
+### [[vid-watch#surveillance|surveillance]]
 
 - 핵심 의미: 감시
 - 사용 맥락: `AI surveillance`, `mass surveillance`
 - 주의: 경찰 수사뿐 아니라, AI로 사람의 행동·얼굴·위치를 대규모 추적하는 문제.
 
-### regulation
+### [[reg#regulation|regulation]]
 
 - 핵심 의미: 규제, 규정
 - 사용 맥락: `AI regulation`, `regulatory framework`

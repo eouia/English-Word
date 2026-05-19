@@ -16,7 +16,7 @@
 - 사용 맥락: `mechanization of textile production`, `agricultural mechanization`
 - 주의: 인간이나 동물의 노동을 기계가 대신하거나 보조하게 되는 변화.
 
-### manufacture
+### [[fac-make#manufacture|manufacture]]
 
 - 핵심 의미: 제조하다, 제조
 - 사용 맥락: `manufacture textiles`, `manufacturing industry`
@@ -34,13 +34,13 @@
 - 사용 맥락: `mass production of goods`, `mass-produced items`
 - 주의: 표준화된 상품을 많은 양으로 빠르게 생산하는 방식.
 
-### productivity
+### [[duc#productivity|productivity]]
 
 - 핵심 의미: 생산성
 - 사용 맥락: `increase productivity`, `labor productivity`
 - 주의: 투입한 노동·자본 대비 산출량. 산업혁명 지문에서 기술 변화의 효과를 설명할 때 중요함.
 
-### innovation
+### [[nov#innovation|innovation]]
 
 - 핵심 의미: 혁신
 - 사용 맥락: `technological innovation`, `industrial innovation`
@@ -66,7 +66,7 @@
 - 사용 맥락: `coal mining`, `coal-fired industry`
 - 주의: 산업혁명의 핵심 연료. 공해와 노동 위험도 함께 연결됨.
 
-### textile
+### [[tex#textile|textile]]
 
 - 핵심 의미: 직물, 섬유의
 - 사용 맥락: `textile industry`, `textile mills`
@@ -78,7 +78,7 @@
 - 사용 맥락: `advances in metallurgy`, `iron metallurgy`
 - 주의: 금속을 제련하고 가공하는 기술. 철도, 기계, 무기 생산과 연결됨.
 
-### locomotive
+### [[loc#locomotive|locomotive]]
 
 - 핵심 의미: 기관차
 - 사용 맥락: `steam locomotive`, `railway locomotive`
@@ -90,7 +90,7 @@
 - 사용 맥락: `railway network`, `railway expansion`
 - 주의: 영국식 표현. 미국식에서는 `railroad`가 흔함.
 
-### infrastructure
+### [[struct#infrastructure|infrastructure]]
 
 - 핵심 의미: 기반 시설
 - 사용 맥락: `transport infrastructure`, `industrial infrastructure`
@@ -110,7 +110,7 @@
 - 사용 맥락: `rural-to-urban migration`, `labor migration`
 - 주의: 산업화 과정에서는 농촌 인구가 공장 일자리를 찾아 도시로 이동하는 현상.
 
-### metropolis
+### [[polis#metropolis|metropolis]]
 
 - 핵심 의미: 대도시, 중심 도시
 - 사용 맥락: `industrial metropolis`, `modern metropolis`
@@ -148,13 +148,13 @@
 - 사용 맥락: `industrial capitalism`, `capitalist economy`
 - 주의: 사적 소유, 시장 경쟁, 이윤 추구, 임금 노동을 중심으로 한 경제 체제.
 
-### capital
+### [[capit#capital|capital]]
 
 - 핵심 의미: 자본
 - 사용 맥락: `industrial capital`, `accumulation of capital`
 - 주의: 생산에 투입되는 돈, 기계, 설비, 자산. 수도·대문자라는 뜻도 있음.
 
-### entrepreneur
+### [[prehend#entrepreneur|entrepreneur]]
 
 - 핵심 의미: 기업가
 - 사용 맥락: `industrial entrepreneur`, `entrepreneurial risk`
@@ -178,7 +178,7 @@
 - 사용 맥락: `wage labor system`, `depend on wage labor`
 - 주의: 토지나 길드가 아니라 임금을 받고 고용되어 일하는 근대적 노동 형태.
 
-### exploitation
+### [[plic-explain#exploitation|exploitation]]
 
 - 핵심 의미: 착취, 이용
 - 사용 맥락: `exploitation of workers`, `exploit labor`
@@ -222,13 +222,13 @@
 - 사용 맥락: `poor working conditions`, `improve working conditions`
 - 주의: 노동시간, 임금, 안전, 위생, 휴식, 감독 방식 등을 포함함.
 
-### regulation
+### [[reg#regulation|regulation]]
 
 - 핵심 의미: 규제, 규정
 - 사용 맥락: `factory regulation`, `labor regulation`
 - 주의: 정부가 산업과 노동 조건에 기준을 세우고 제한하는 것.
 
-### reform
+### [[form#reform|reform]]
 
 - 핵심 의미: 개혁
 - 사용 맥락: `social reform`, `factory reform`
@@ -248,19 +248,19 @@
 - 사용 맥락: `secularization of society`, `secular institutions`
 - 주의: 사회와 정치가 종교 권위에서 상대적으로 분리되는 과정.
 
-### rationalization
+### [[ratio#rationalization|rationalization]]
 
 - 핵심 의미: 합리화, 이성화
 - 사용 맥락: `bureaucratic rationalization`, `rationalization of production`
 - 주의: 규칙, 계산, 효율, 표준 절차로 사회와 생산을 조직하는 과정. 변명이라는 뜻도 있음.
 
-### bureaucracy
+### [[crat#bureaucracy|bureaucracy]]
 
 - 핵심 의미: 관료제
 - 사용 맥락: `modern bureaucracy`, `bureaucratic state`
 - 주의: 규칙, 문서, 전문 관료를 통해 국가와 조직을 운영하는 체계.
 
-### nationalism
+### [[nat-nation#nationalism|nationalism]]
 
 - 핵심 의미: 민족주의
 - 사용 맥락: `modern nationalism`, `nationalist movement`
@@ -272,7 +272,7 @@
 - 사용 맥락: `expanded suffrage`, `women's suffrage`
 - 주의: 선거권을 뜻함. 고통 `suffering`과 혼동하지 않기.
 
-### literacy
+### [[liter#literacy|literacy]]
 
 - 핵심 의미: 문해력, 읽고 쓰는 능력
 - 사용 맥락: `mass literacy`, `literacy rates`

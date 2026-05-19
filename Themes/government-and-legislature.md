@@ -28,31 +28,31 @@
 - 사용 맥락: `national sovereignty`, `popular sovereignty`
 - 주의: 국가가 외부 간섭 없이 스스로 다스릴 권한. `popular sovereignty`는 국민 주권.
 
-### republic
+### [[popul#republic|republic]]
 
 - 핵심 의미: 공화국
 - 사용 맥락: `a democratic republic`, `republican government`
 - 주의: 왕이 아닌 시민·대표를 중심으로 한 국가 형태. 미국 정당명 `Republican`과 구분.
 
-### parliament
+### [[parl#parliament|parliament]]
 
 - 핵심 의미: 의회, 국회
 - 사용 맥락: `British Parliament`, `a member of parliament`
 - 주의: 영국·캐나다 등 parliamentary system에서 핵심 의회. 미국의 `Congress`와 제도상 차이 있음.
 
-### congress
+### [[grad#congress|congress]]
 
 - 핵심 의미: 의회, 국회
 - 사용 맥락: `the U.S. Congress`, `an act of Congress`
 - 주의: 미국에서는 상원과 하원을 합친 연방 의회. 일반적으로는 공식 회의, 대회 뜻도 있음.
 
-### legislature
+### [[leg#legislature|legislature]]
 
 - 핵심 의미: 입법부, 의회
 - 사용 맥락: `state legislature`, `national legislature`
 - 주의: `legislation`은 "법률" 또는 "입법 행위", `legislature`는 법을 만드는 기관.
 
-### assembly
+### [[simil#assembly|assembly]]
 
 - 핵심 의미: 의회, 집회, 모임
 - 사용 맥락: `National Assembly`, `legislative assembly`
@@ -78,7 +78,7 @@
 - 사용 맥락: `a state senator`, `U.S. senator`
 - 주의: 미국에서는 연방 상원의원 또는 주 상원의원을 가리킬 수 있음.
 
-### representative
+### [[present#representative|representative]]
 
 - 핵심 의미: 대표자, 대의원의
 - 사용 맥락: `elected representative`, `representative government`
@@ -90,7 +90,7 @@
 - 사용 맥락: `a member of parliament`, `MP`
 - 주의: 영국·캐나다 등 의회제 국가에서 쓰는 표현. 약어 `MP`도 자주 등장.
 
-### delegate
+### [[lect#delegate|delegate]]
 
 - 핵심 의미: 대표, 대의원, 위임하다
 - 사용 맥락: `party delegates`, `delegate authority`
@@ -126,7 +126,7 @@
 - 사용 맥락: `appeal to the electorate`, `the national electorate`
 - 주의: 투표권을 가진 사람들의 집합. 개별 유권자는 `voter`.
 
-### incumbent
+### [[cumb#incumbent|incumbent]]
 
 - 핵심 의미: 현직자
 - 사용 맥락: `the incumbent senator`, `defeat an incumbent`
@@ -134,13 +134,13 @@
 
 ## 입법 절차
 
-### legislation
+### [[leg#legislation|legislation]]
 
 - 핵심 의미: 법률, 입법
 - 사용 맥락: `environmental legislation`, `pass legislation`
 - 주의: 하나의 특정 법이라기보다 법률 체계나 법 제정 과정을 넓게 가리킬 때가 많음.
 
-### statute
+### [[stat#statute|statute]]
 
 - 핵심 의미: 성문법, 법령
 - 사용 맥락: `under the statute`, `a federal statute`
@@ -158,13 +158,13 @@
 - 사용 맥락: `enact a law`, `enact reforms`
 - 주의: 단순히 제안하거나 논의하는 것이 아니라, 공식 절차를 거쳐 법으로 만드는 것.
 
-### amend
+### [[mend#amend|amend]]
 
 - 핵심 의미: 수정하다, 개정하다
 - 사용 맥락: `amend the constitution`, `amend a bill`
 - 주의: 글이나 법 조항을 고쳐 더 정확하거나 적절하게 만드는 느낌. `amendment`는 헌법 수정 조항도 가리킴.
 
-### amendment
+### [[mend#amendment|amendment]]
 
 - 핵심 의미: 수정안, 개정 조항
 - 사용 맥락: `the First Amendment`, `propose an amendment`
@@ -182,19 +182,19 @@
 - 사용 맥락: `ratify a treaty`, `ratify an amendment`
 - 주의: 이미 합의된 조약·헌법 수정안 등을 권한 있는 기관이 최종 승인하는 절차.
 
-### deliberate
+### [[libr#deliberate|deliberate]]
 
 - 핵심 의미: 숙의하다, 심의하다
 - 사용 맥락: `deliberate on a bill`, `deliberative body`
 - 주의: 형용사로는 "의도적인, 신중한". 의회 맥락에서는 충분히 논의하고 검토하는 절차.
 
-### convene
+### [[con#convene|convene]]
 
 - 핵심 의미: 회의를 소집하다, 모이다
 - 사용 맥락: `Congress convenes`, `convene a special session`
 - 주의: 공식 회의나 의회가 열릴 때 쓰는 격식 있는 동사.
 
-### session
+### [[sed-sedere#session|session]]
 
 - 핵심 의미: 회기, 회의 기간
 - 사용 맥락: `legislative session`, `special session`
@@ -214,13 +214,13 @@
 
 ## 권한과 통제
 
-### mandate
+### [[mand#mandate|mandate]]
 
 - 핵심 의미: 권한 위임, 명령, 의무 규정
 - 사용 맥락: `a legal mandate`, `a public mandate`
 - 주의: 선거 맥락에서는 "국민에게 받은 정치적 권한", 법·정책 맥락에서는 "의무화된 요구"의 뜻.
 
-### jurisdiction
+### [[jur#jurisdiction|jurisdiction]]
 
 - 핵심 의미: 관할권, 관할 구역
 - 사용 맥락: `within the court's jurisdiction`, `federal jurisdiction`
@@ -238,13 +238,13 @@
 - 사용 맥락: `override a veto`
 - 주의: 일반 의미로는 "우선하다, 무시하다". 입법 맥락에서는 거부권을 다시 표결로 뒤집는 절차.
 
-### appropriation
+### [[propri#appropriation|appropriation]]
 
 - 핵심 의미: 예산 배정, 세출 승인
 - 사용 맥락: `appropriation bill`, `government appropriation`
 - 주의: 일반 의미로는 "도용, 전용". 정부 맥락에서는 공적 자금의 사용 승인.
 
-### accountability
+### [[count#accountability|accountability]]
 
 - 핵심 의미: 책임성, 설명 책임
 - 사용 맥락: `government accountability`, `hold officials accountable`
@@ -262,7 +262,7 @@
 - 사용 맥락: `impeachment proceedings`, `vote for impeachment`
 - 주의: 일반 형사처벌이 아니라, 공직자의 위법·권한 남용을 문제 삼는 정치·헌법 절차.
 
-### bureaucracy
+### [[crat#bureaucracy|bureaucracy]]
 
 - 핵심 의미: 관료제, 관료 조직
 - 사용 맥락: `government bureaucracy`, `bureaucratic procedures`
@@ -270,7 +270,7 @@
 
 ## 주요 고유명사
 
-### Congress
+### [[grad#congress|Congress]]
 
 - 핵심 의미: 미국 연방 의회
 - 사용 맥락: `Congress passed the bill`
@@ -288,7 +288,7 @@
 - 사용 맥락: `the House of Representatives passed legislation`
 - 주의: 미국식 제도에서 국민 대표가 선출되는 하원.
 
-### Parliament
+### [[parl#parliament|Parliament]]
 
 - 핵심 의미: 의회, 국회
 - 사용 맥락: `British Parliament`, `member of Parliament`

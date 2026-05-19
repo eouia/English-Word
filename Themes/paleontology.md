@@ -34,7 +34,7 @@
 - 사용 맥락: `Mesozoic Era`, `the dinosaur era`
 - 주의: 일반 역사에서도 쓰이지만, 고생물학에서는 큰 지질 시간 단위를 뜻함.
 
-### chronology
+### [[chron#chronology|chronology]]
 
 - 핵심 의미: 연대, 시간 순서
 - 사용 맥락: `establish a chronology`, `fossil chronology`
@@ -54,7 +54,7 @@
 - 사용 맥락: `fossilized bones`, `fossilized footprints`
 - 주의: 비유적으로는 생각이나 제도가 굳어 변하지 않는다는 뜻도 가능.
 
-### specimen
+### [[speci#specimen|specimen]]
 
 - 핵심 의미: 표본, 견본
 - 사용 맥락: `fossil specimen`, `museum specimen`
@@ -84,7 +84,7 @@
 - 사용 맥락: `a fossil-bearing stratum`, `rock strata`
 - 주의: 복수형은 `strata`. 사회 계층이라는 뜻도 있음.
 
-### deposit
+### [[pos#deposit|deposit]]
 
 - 핵심 의미: 퇴적층, 매장물, 쌓다
 - 사용 맥락: `fossil deposits`, `mineral deposits`
@@ -122,7 +122,7 @@
 - 사용 맥락: `reconstruct a skeleton`, `reconstruct ancient ecosystems`
 - 주의: 남은 증거를 바탕으로 원래 모습이나 과거 환경을 추정해 다시 세우는 것.
 
-### infer
+### [[fer-carry#infer|infer]]
 
 - 핵심 의미: 추론하다
 - 사용 맥락: `infer behavior from fossils`
@@ -142,19 +142,19 @@
 
 ## 진화와 분류
 
-### evolution
+### [[volv#evolution|evolution]]
 
 - 핵심 의미: 진화
 - 사용 맥락: `evolutionary history`, `evidence for evolution`
 - 주의: 단순한 발전이 아니라, 생물 집단의 유전적 변화와 다양화.
 
-### adaptation
+### [[apt#adaptation|adaptation]]
 
 - 핵심 의미: 적응, 적응 형질
 - 사용 맥락: `evolutionary adaptation`, `adaptation to climate`
 - 주의: 일반 의미는 조정·각색. 생물학에서는 환경에 맞는 형질이나 과정.
 
-### morphology
+### [[morph#morphology|morphology]]
 
 - 핵심 의미: 형태학, 형태 구조
 - 사용 맥락: `skull morphology`, `comparative morphology`
@@ -172,7 +172,7 @@
 - 사용 맥락: `evolutionary lineage`, `human lineage`
 - 주의: 조상에서 후손으로 이어지는 생물학적 계열.
 
-### ancestor
+### [[ante#ancestor|ancestor]]
 
 - 핵심 의미: 조상, 선조
 - 사용 맥락: `common ancestor`, `ancestral species`
@@ -192,13 +192,13 @@
 
 ## 멸종과 생태
 
-### extinct
+### [[stinct#extinct|extinct]]
 
 - 핵심 의미: 멸종한
 - 사용 맥락: `extinct species`, `become extinct`
 - 주의: `extant`와 반대. 더 이상 살아 있는 개체가 없는 상태.
 
-### extinction
+### [[stinct#extinction|extinction]]
 
 - 핵심 의미: 멸종
 - 사용 맥락: `mass extinction`, `extinction event`
@@ -216,19 +216,19 @@
 - 사용 맥락: `species diversified`, `diversification of mammals`
 - 주의: 생물학에서는 한 계통이 여러 형태와 종으로 갈라져 늘어나는 것.
 
-### ecosystem
+### [[sym#ecosystem|ecosystem]]
 
 - 핵심 의미: 생태계
 - 사용 맥락: `ancient ecosystem`, `marine ecosystem`
 - 주의: 생물과 환경이 상호작용하는 전체 체계.
 
-### habitat
+### [[hab#habitat|habitat]]
 
 - 핵심 의미: 서식지
 - 사용 맥락: `ancient habitat`, `habitat reconstruction`
 - 주의: 생물이 살던 환경. 고생물학에서는 화석과 지층으로 추정함.
 
-### terrestrial
+### [[terr#terrestrial|terrestrial]]
 
 - 핵심 의미: 육상의, 지구의
 - 사용 맥락: `terrestrial vertebrates`, `terrestrial habitat`
@@ -302,25 +302,25 @@
 - 사용 맥락: `marine plesiosaur`, `plesiosaur fossils`
 - 주의: 긴 목과 지느러미 같은 사지를 가진 해양 파충류. 공룡이 아니라 바다 파충류.
 
-### carnivorous
+### [[carn#carnivorous|carnivorous]]
 
 - 핵심 의미: 육식성의
 - 사용 맥락: `carnivorous dinosaur`, `carnivorous predator`
 - 주의: 고기를 먹는 동물의 식성을 설명함. 명사는 `carnivore`.
 
-### herbivorous
+### [[herb#herbivorous|herbivorous]]
 
 - 핵심 의미: 초식성의
 - 사용 맥락: `herbivorous dinosaur`, `herbivorous species`
 - 주의: 식물을 먹는 동물의 식성. 명사는 `herbivore`.
 
-### predator
+### [[praed#predator|predator]]
 
 - 핵심 의미: 포식자
 - 사용 맥락: `apex predator`, `predator-prey relationship`
 - 주의: 다른 동물을 사냥해 먹는 동물. 사회적 맥락에서는 약자를 이용하는 사람도 뜻함.
 
-### prey
+### [[praed#prey|prey]]
 
 - 핵심 의미: 먹이, 사냥감
 - 사용 맥락: `prey species`, `predator and prey`

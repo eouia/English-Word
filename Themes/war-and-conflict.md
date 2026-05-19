@@ -46,7 +46,7 @@
 - 사용 맥락: `counter insurgency`, `insurgency movement`
 - 주의: 정부나 점령 세력에 맞선 조직적 무장 저항.
 
-### rebellion
+### [[bell#rebellion|rebellion]]
 
 - 핵심 의미: 반란, 저항
 - 사용 맥락: `armed rebellion`, `rebellion against the regime`
@@ -72,7 +72,7 @@
 - 사용 맥락: `deploy troops`, `withdraw troops`
 - 주의: 단수 `troop`은 한 명의 병사라기보다 집단 단위 느낌. 복수형 `troops`가 흔함.
 
-### force
+### [[fort#force|force]]
 
 - 핵심 의미: 군대, 병력, 힘
 - 사용 맥락: `armed forces`, `peacekeeping force`
@@ -90,7 +90,7 @@
 - 사용 맥락: `mobilize troops`, `mobilize resources`
 - 주의: 군사뿐 아니라 인력·자원·여론을 움직이게 하는 데도 쓰임.
 
-### operation
+### [[oper#operation|operation]]
 
 - 핵심 의미: 작전, 운영, 수술
 - 사용 맥락: `military operation`, `rescue operation`
@@ -102,7 +102,7 @@
 - 사용 맥락: `launch an offensive`, `offensive operation`
 - 주의: 일반 의미로는 모욕적인. 군사 맥락에서는 공격 작전.
 
-### siege
+### [[sed-sess#siege|siege]]
 
 - 핵심 의미: 포위 공격, 포위
 - 사용 맥락: `under siege`, `lay siege to a city`
@@ -178,7 +178,7 @@
 - 사용 맥락: `civilian casualties`, `casualty figures`
 - 주의: 사망자만이 아니라 부상자도 포함할 수 있음.
 
-### civilian
+### [[civ#civilian|civilian]]
 
 - 핵심 의미: 민간인
 - 사용 맥락: `civilian population`, `civilian casualties`
@@ -234,19 +234,19 @@
 - 사용 맥락: `declare a truce`, `fragile truce`
 - 주의: `ceasefire`와 비슷하지만 더 일시적이고 약한 합의 느낌.
 
-### armistice
+### [[arma#armistice|armistice]]
 
 - 핵심 의미: 정전 협정
 - 사용 맥락: `sign an armistice`, `armistice agreement`
 - 주의: 전투를 중지하는 공식 합의. 평화조약과는 다를 수 있음.
 
-### surrender
+### [[cumb#surrender|surrender]]
 
 - 핵심 의미: 항복하다, 항복
 - 사용 맥락: `unconditional surrender`, `surrender to enemy forces`
 - 주의: 권리·소유물을 포기하다라는 일반 의미도 있음.
 
-### withdrawal
+### [[draw#withdrawal|withdrawal]]
 
 - 핵심 의미: 철수, 철회
 - 사용 맥락: `troop withdrawal`, `withdrawal from occupied areas`

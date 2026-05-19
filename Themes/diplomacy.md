@@ -16,13 +16,13 @@
 - 사용 맥락: `diplomatic relations`, `diplomatic solution`
 - 주의: 사람에게 쓰면 "말을 조심스럽고 tactful하게 하는" 뜻도 가능.
 
-### foreign policy
+### [[polis#foreign policy|foreign policy]]
 
 - 핵심 의미: 외교 정책, 대외 정책
 - 사용 맥락: `shape foreign policy`, `foreign policy agenda`
 - 주의: 한 국가가 다른 국가와 국제 문제를 대하는 전체 방향.
 
-### bilateral
+### [[bi#bilateral|bilateral]]
 
 - 핵심 의미: 양자 간의, 양국 간의
 - 사용 맥락: `bilateral talks`, `bilateral agreement`
@@ -40,7 +40,7 @@
 - 사용 맥락: `respect sovereignty`, `national sovereignty`
 - 주의: 외교에서는 다른 국가가 독립적으로 결정할 권리를 인정한다는 뜻이 중요.
 
-### recognition
+### [[cogn#recognition|recognition]]
 
 - 핵심 의미: 승인, 인정
 - 사용 맥락: `diplomatic recognition`, `official recognition`
@@ -66,7 +66,7 @@
 - 사용 맥락: `special envoy`, `peace envoy`
 - 주의: 특정 목적이나 협상을 위해 파견된 대표. `ambassador`보다 임무 중심.
 
-### delegate
+### [[lect#delegate|delegate]]
 
 - 핵심 의미: 대표, 파견 대표
 - 사용 맥락: `UN delegates`, `delegate to a conference`
@@ -84,13 +84,13 @@
 - 사용 맥락: `the Korean embassy`, `embassy staff`
 - 주의: 외국 수도에 설치된 공식 외교 공관.
 
-### consulate
+### [[consul#consulate|consulate]]
 
 - 핵심 의미: 영사관
 - 사용 맥락: `apply at the consulate`, `consular services`
 - 주의: 대사관보다 실무적 영사 업무, 비자, 자국민 보호와 관련이 큼.
 
-### mission
+### [[miss#mission|mission]]
 
 - 핵심 의미: 외교 사절단, 임무
 - 사용 맥락: `diplomatic mission`, `UN mission`
@@ -116,19 +116,19 @@
 - 사용 맥락: `negotiate a treaty`, `negotiate terms`
 - 주의: 장애물을 "통과하다"라는 뜻도 있으나, 외교에서는 조건을 조율하는 행위.
 
-### treaty
+### [[tract-handle#treaty|treaty]]
 
 - 핵심 의미: 조약
 - 사용 맥락: `sign a treaty`, `peace treaty`
 - 주의: 국가 간 공식적이고 법적 구속력이 있는 합의.
 
-### accord
+### [[cord#accord|accord]]
 
 - 핵심 의미: 협정, 합의
 - 사용 맥락: `peace accord`, `climate accord`
 - 주의: `treaty`보다 넓게 정치적 합의나 협정을 가리킬 수 있음.
 
-### pact
+### [[grat#pact|pact]]
 
 - 핵심 의미: 협약, 조약
 - 사용 맥락: `defense pact`, `non-aggression pact`
@@ -140,13 +140,13 @@
 - 사용 맥락: `ratify a treaty`, `ratification process`
 - 주의: 서명만으로 끝나는 것이 아니라, 국내 절차를 거쳐 공식 효력을 인정하는 것.
 
-### provision
+### [[vid-provide#provision|provision]]
 
 - 핵심 의미: 조항, 규정, 공급
 - 사용 맥락: `treaty provision`, `under the provision`
 - 주의: 일반 의미는 제공·공급. 법률·외교 문서에서는 특정 조항.
 
-### concession
+### [[cess#concession|concession]]
 
 - 핵심 의미: 양보, concession
 - 사용 맥락: `make concessions`, `diplomatic concession`
@@ -160,7 +160,7 @@
 
 ## 갈등과 압박
 
-### sanction
+### [[sanct#sanction|sanction]]
 
 - 핵심 의미: 제재, 승인하다
 - 사용 맥락: `economic sanctions`, `impose sanctions`
@@ -178,13 +178,13 @@
 - 사용 맥락: `issue an ultimatum`
 - 주의: 조건을 받아들이지 않으면 강한 조치가 뒤따른다는 마지막 요구.
 
-### retaliation
+### [[tali#retaliation|retaliation]]
 
 - 핵심 의미: 보복, 응징
 - 사용 맥락: `military retaliation`, `retaliatory measures`
 - 주의: 상대의 행동에 대응해 되갚는 조치. 외교·군사·무역 맥락에서 자주 등장.
 
-### escalate
+### [[scale#escalate|escalate]]
 
 - 핵심 의미: 확대되다, 악화되다
 - 사용 맥락: `escalate tensions`, `conflict escalated`
@@ -196,7 +196,7 @@
 - 사용 맥락: `de-escalate the crisis`, `de-escalation talks`
 - 주의: 군사·외교 갈등의 강도를 낮추는 행위.
 
-### mediation
+### [[medi#mediation|mediation]]
 
 - 핵심 의미: 중재
 - 사용 맥락: `international mediation`, `mediation efforts`
@@ -228,7 +228,7 @@
 - 사용 맥락: `trade bloc`, `regional bloc`
 - 주의: 비슷한 이해관계를 가진 국가들의 묶음. `block`과 철자 구분.
 
-### summit
+### [[sum#summit|summit]]
 
 - 핵심 의미: 정상회담, 정상
 - 사용 맥락: `climate summit`, `leaders' summit`
@@ -240,7 +240,7 @@
 - 사용 맥락: `issue a communiqué`, `joint communiqué`
 - 주의: 외교 회담 뒤 발표되는 공식 문서. 프랑스어에서 온 말이라 철자와 발음에 주의.
 
-### resolution
+### [[solv#resolution|resolution]]
 
 - 핵심 의미: 결의안, 해결
 - 사용 맥락: `UN resolution`, `pass a resolution`

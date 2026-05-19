@@ -4,7 +4,7 @@
 
 ## 분야와 대상
 
-### archaeology
+### [[arch#archaeology|archaeology]]
 
 - 핵심 의미: 고고학
 - 사용 맥락: `archaeology fieldwork`, `archaeology museum`
@@ -16,7 +16,7 @@
 - 사용 맥락: `archaeological evidence`, `archaeological site`
 - 주의: 유물, 유적, 발굴, 과거 인간 활동과 관련된 학술 맥락.
 
-### artifact
+### [[art#artifact|artifact]]
 
 - 핵심 의미: 인공 유물
 - 사용 맥락: `ancient artifacts`, `stone artifact`
@@ -28,7 +28,7 @@
 - 사용 맥락: `religious relic`, `relics of an ancient civilization`
 - 주의: 역사적·종교적 가치가 있는 남은 물건. 비유적으로는 낡은 제도나 습관.
 
-### antiquity
+### [[ante#antiquity|antiquity]]
 
 - 핵심 의미: 고대, 고대 유물
 - 사용 맥락: `classical antiquity`, `antiquities trade`
@@ -40,7 +40,7 @@
 - 사용 맥락: `cultural heritage`, `heritage preservation`
 - 주의: 물려받은 문화·역사적 가치. 개인 상속보다 공동체의 유산으로 자주 쓰임.
 
-### civilization
+### [[civ#civilization|civilization]]
 
 - 핵심 의미: 문명
 - 사용 맥락: `ancient civilization`, `rise of civilization`
@@ -60,7 +60,7 @@
 - 사용 맥락: `archaeological site`, `excavation site`
 - 주의: 일반 의미는 장소. 고고학에서는 조사·발굴 대상이 되는 유적지.
 
-### settlement
+### [[set#settlement|settlement]]
 
 - 핵심 의미: 정착지, 거주지
 - 사용 맥락: `ancient settlement`, `Neolithic settlement`
@@ -96,13 +96,13 @@
 - 사용 맥락: `archaeological stratum`, `strata of occupation`
 - 주의: 복수형은 `strata`. 고고학에서는 시간 순서가 쌓인 생활 흔적의 층.
 
-### context
+### [[tex#context|context]]
 
 - 핵심 의미: 맥락, 출토 맥락
 - 사용 맥락: `archaeological context`, `found in context`
 - 주의: 유물이 어디서, 어떤 층과 함께 발견됐는지가 해석에 중요함.
 
-### deposit
+### [[pos#deposit|deposit]]
 
 - 핵심 의미: 퇴적층, 매장층, 쌓인 물질
 - 사용 맥락: `cultural deposits`, `refuse deposit`
@@ -128,7 +128,7 @@
 - 사용 맥락: `unearth a tomb`, `unearth evidence`
 - 주의: 땅에서 파내는 뜻에서 숨겨진 사실을 드러내다로 확장.
 
-### survey
+### [[vid-watch#survey|survey]]
 
 - 핵심 의미: 조사, 측량하다
 - 사용 맥락: `archaeological survey`, `survey the area`
@@ -140,13 +140,13 @@
 - 사용 맥락: `catalog artifacts`, `museum catalog`
 - 주의: 유물의 출처, 형태, 상태를 기록해 관리하는 것.
 
-### preserve
+### [[serv#preserve|preserve]]
 
 - 핵심 의미: 보존하다
 - 사용 맥락: `preserve artifacts`, `well-preserved remains`
 - 주의: 음식 보존뿐 아니라 문화재·유적을 손상 없이 유지하는 것.
 
-### conservation
+### [[serv#conservation|conservation]]
 
 - 핵심 의미: 보존, 보전
 - 사용 맥락: `artifact conservation`, `conservation work`
@@ -172,13 +172,13 @@
 - 사용 맥락: `radiocarbon dating of charcoal`
 - 주의: 유기물에 남은 탄소-14를 이용해 나이를 추정함. 암석 자체에는 보통 쓰지 않음.
 
-### chronology
+### [[chron#chronology|chronology]]
 
 - 핵심 의미: 연대기, 시간 순서
 - 사용 맥락: `establish a chronology`, `regional chronology`
 - 주의: 유적과 유물의 순서를 시간 축에 배열하는 틀.
 
-### period
+### [[peri#period|period]]
 
 - 핵심 의미: 시대, 시기
 - 사용 맥락: `Bronze Age period`, `Roman period`
@@ -240,19 +240,19 @@
 - 사용 맥락: `human migration`, `migration patterns`
 - 주의: 단순 여행이 아니라 집단의 장기적 이동과 확산.
 
-### diffusion
+### [[fus#diffusion|diffusion]]
 
 - 핵심 의미: 확산, 전파
 - 사용 맥락: `cultural diffusion`, `diffusion of technology`
 - 주의: 사람의 이동 없이도 기술, 사상, 양식이 퍼지는 현상.
 
-### hierarchy
+### [[arch#hierarchy|hierarchy]]
 
 - 핵심 의미: 위계, 계층 구조
 - 사용 맥락: `social hierarchy`, `political hierarchy`
 - 주의: 고고학에서는 무덤, 주거지, 유물 차이로 사회 계층을 추정할 때 사용.
 
-### inscription
+### [[scrib#inscription|inscription]]
 
 - 핵심 의미: 새겨진 글, 명문
 - 사용 맥락: `stone inscription`, `decipher an inscription`

@@ -4,7 +4,7 @@
 
 ## 천체와 우주 구조
 
-### astronomy
+### [[astr#astronomy|astronomy]]
 
 - 핵심 의미: 천문학
 - 사용 맥락: `modern astronomy`, `observational astronomy`
@@ -46,7 +46,7 @@
 - 사용 맥락: `communication satellite`, `natural satellite`
 - 주의: 달 같은 자연위성과 인간이 만든 인공위성 모두 가능.
 
-### asteroid
+### [[astr#asteroid|asteroid]]
 
 - 핵심 의미: 소행성
 - 사용 맥락: `asteroid belt`, `near-Earth asteroid`
@@ -66,13 +66,13 @@
 
 ## 물리 현상과 조건
 
-### gravity
+### [[grav#gravity|gravity]]
 
 - 핵심 의미: 중력, 심각성
 - 사용 맥락: `gravity pulls objects together`, `low gravity`
 - 주의: 일반 의미로는 사태의 심각성. 과학에서는 질량 사이의 끌어당기는 힘.
 
-### gravitational
+### [[grav#gravitational|gravitational]]
 
 - 핵심 의미: 중력의
 - 사용 맥락: `gravitational pull`, `gravitational waves`
@@ -114,7 +114,7 @@
 - 사용 맥락: `planet in the habitable zone`
 - 주의: 액체 물이 존재할 가능성이 있는 거리 범위. 생명 존재를 보장한다는 뜻은 아님.
 
-### exoplanet
+### [[planet#exoplanet|exoplanet]]
 
 - 핵심 의미: 외계행성
 - 사용 맥락: `detect exoplanets`, `potentially habitable exoplanet`
@@ -128,25 +128,25 @@
 
 ## 관측과 연구
 
-### telescope
+### [[scope#telescope|telescope]]
 
 - 핵심 의미: 망원경
 - 사용 맥락: `space telescope`, `radio telescope`
 - 주의: 가시광선뿐 아니라 전파, 적외선, X선 등을 관측하는 장비도 포함.
 
-### observatory
+### [[serv#observatory|observatory]]
 
 - 핵심 의미: 관측소, 천문대
 - 사용 맥락: `astronomical observatory`, `mountain observatory`
 - 주의: 천체 관측 장비와 연구 시설이 있는 곳.
 
-### observation
+### [[serv#observation|observation]]
 
 - 핵심 의미: 관측, 관찰
 - 사용 맥락: `astronomical observation`, `direct observation`
 - 주의: 단순히 보는 것이 아니라 자료를 얻기 위한 체계적 관찰.
 
-### probe
+### [[prob#probe|probe]]
 
 - 핵심 의미: 탐사선, 조사하다
 - 사용 맥락: `space probe`, `probe the atmosphere of Venus`
@@ -178,7 +178,7 @@
 
 ## 우주비행과 개발
 
-### spacecraft
+### [[space#spacecraft|spacecraft]]
 
 - 핵심 의미: 우주선, 우주비행체
 - 사용 맥락: `crewed spacecraft`, `uncrewed spacecraft`
@@ -226,7 +226,7 @@
 - 사용 맥락: `atmospheric reentry`, `reentry capsule`
 - 주의: 우주선이 대기권으로 다시 들어오는 단계. 높은 열과 감속이 핵심.
 
-### propulsion
+### [[pel#propulsion|propulsion]]
 
 - 핵심 의미: 추진, 추진력
 - 사용 맥락: `rocket propulsion`, `ion propulsion`
@@ -252,7 +252,7 @@
 - 사용 맥락: `vacuum of space`, `space vacuum`
 - 주의: 청소기라는 뜻도 있음. 우주에서는 공기가 거의 없는 상태.
 
-### lunar
+### [[moon#lunar|lunar]]
 
 - 핵심 의미: 달의
 - 사용 맥락: `lunar surface`, `lunar mission`
@@ -282,7 +282,7 @@
 - 사용 맥락: `interstellar space`, `interstellar medium`
 - 주의: 별과 별 사이의 공간이나 물질과 관련.
 
-### extraterrestrial
+### [[extra#extraterrestrial|extraterrestrial]]
 
 - 핵심 의미: 지구 밖의, 외계의
 - 사용 맥락: `extraterrestrial life`, `extraterrestrial material`
