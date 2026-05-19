@@ -21,6 +21,7 @@
 | [[cultural-anthropology-and-indigenous-peoples]] | 문화인류학, 민족지, 친족과 의례, 토착민·원주민, 식민화와 권리 관련 어휘 |
 | [[diplomacy]]                      | 외교 관계, 대사관과 외교관, 협상과 조약, 제재와 갈등 완화 관련 어휘      |
 | [[disease-and-medicine]]           | 질병과 증상, 감염과 면역, 진단과 예후, 치료와 예방, 공중보건과 의료 윤리 관련 어휘 |
+| [[education-school-and-university]] | 학교 교육, 대학 제도, 수업과 공부, 학업 평가 관련 어휘 |
 | [[feudalism-nobility-and-the-middle-ages]] | 봉건제도, 귀족과 신분 질서, 장원제, 기사 문화, 중세 교회와 도시 관련 어휘 |
 | [[folklore-customs-and-legends]]   | 민속, 풍습, 의례, 민간신앙, 구전 전통, 설화와 전설, 신화적 상징 관련 어휘 |
 | [[genetics-and-biology]]           | 생명체와 세포, 유전과 변이, 진화와 적응, 생태계, 생명공학과 윤리 관련 어휘 |
