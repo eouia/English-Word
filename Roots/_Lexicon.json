@@ -360,6 +360,12 @@
       "mtime": 1779082510.3338368,
       "root": "charact"
     },
+    "Roots/chart.md": {
+      "doc": "Roots/chart.md",
+      "heading_count": 14,
+      "mtime": 1779171423.027689,
+      "root": "chart"
+    },
     "Roots/choose.md": {
       "doc": "Roots/choose.md",
       "heading_count": 11,
@@ -3157,7 +3163,7 @@
       "root": "yield"
     }
   },
-  "generated_at": "2026-05-19T05:16:28.794663+00:00",
+  "generated_at": "2026-05-19T06:17:12.358186+00:00",
   "root": "/Users/macmini/Library/Mobile Documents/com~apple~CloudDocs/Obsidian/MyObsidian/English-Word",
   "schema": 1,
   "terms": {
@@ -10265,6 +10271,16 @@
         "term": "capture"
       }
     ],
+    "card": [
+      {
+        "doc": "Roots/chart.md",
+        "heading": "card",
+        "line": 64,
+        "root": "chart",
+        "section": "단어들",
+        "term": "card"
+      }
+    ],
     "cardiac": [
       {
         "doc": "Roots/cord.md",
@@ -10463,6 +10479,66 @@
         "root": "carn",
         "section": "단어들",
         "term": "carnivorous"
+      }
+    ],
+    "cart": [
+      {
+        "doc": "Roots/chart.md",
+        "heading": "cart",
+        "line": 122,
+        "root": "chart",
+        "section": "비교 단어",
+        "term": "cart"
+      }
+    ],
+    "cartographer": [
+      {
+        "doc": "Roots/chart.md",
+        "heading": "cartographer",
+        "line": 50,
+        "root": "chart",
+        "section": "단어들",
+        "term": "cartographer"
+      }
+    ],
+    "cartographic": [
+      {
+        "doc": "Roots/chart.md",
+        "heading": "cartographic",
+        "line": 57,
+        "root": "chart",
+        "section": "단어들",
+        "term": "cartographic"
+      }
+    ],
+    "cartography": [
+      {
+        "doc": "Roots/chart.md",
+        "heading": "cartography",
+        "line": 42,
+        "root": "chart",
+        "section": "단어들",
+        "term": "cartography"
+      }
+    ],
+    "carton": [
+      {
+        "doc": "Roots/chart.md",
+        "heading": "carton",
+        "line": 85,
+        "root": "chart",
+        "section": "단어들",
+        "term": "carton"
+      }
+    ],
+    "cartoon": [
+      {
+        "doc": "Roots/chart.md",
+        "heading": "cartoon",
+        "line": 92,
+        "root": "chart",
+        "section": "단어들",
+        "term": "cartoon"
       }
     ],
     "cas": [
@@ -11053,6 +11129,26 @@
         "root": "charact",
         "section": "비교 단어",
         "term": "charisma"
+      }
+    ],
+    "chart": [
+      {
+        "doc": "Roots/chart.md",
+        "heading": "chart",
+        "line": 20,
+        "root": "chart",
+        "section": "단어들",
+        "term": "chart"
+      }
+    ],
+    "charter": [
+      {
+        "doc": "Roots/chart.md",
+        "heading": "charter",
+        "line": 27,
+        "root": "chart",
+        "section": "단어들",
+        "term": "charter"
       }
     ],
     "chemical element": [
@@ -18899,6 +18995,16 @@
         "term": "disaster"
       }
     ],
+    "discard": [
+      {
+        "doc": "Roots/chart.md",
+        "heading": "discard",
+        "line": 78,
+        "root": "chart",
+        "section": "단어들",
+        "term": "discard"
+      }
+    ],
     "discern": [
       {
         "doc": "Roots/cern.md",
@@ -26573,6 +26679,14 @@
         "term": "graph"
       },
       {
+        "doc": "Roots/chart.md",
+        "heading": "graph",
+        "line": 112,
+        "root": "chart",
+        "section": "비교 단어",
+        "term": "graph"
+      },
+      {
         "doc": "Roots/gram.md",
         "heading": "graph",
         "line": 88,
@@ -33997,6 +34111,14 @@
     ],
     "magna carta": [
       {
+        "doc": "Roots/chart.md",
+        "heading": "Magna Carta",
+        "line": 34,
+        "root": "chart",
+        "section": "단어들",
+        "term": "Magna Carta"
+      },
+      {
         "doc": "Roots/mag-magn.md",
         "heading": "Magna Carta",
         "line": 53,
@@ -34533,6 +34655,16 @@
         "root": "scrib",
         "section": "단어들",
         "term": "manuscript"
+      }
+    ],
+    "map": [
+      {
+        "doc": "Roots/chart.md",
+        "heading": "map",
+        "line": 117,
+        "root": "chart",
+        "section": "비교 단어",
+        "term": "map"
       }
     ],
     "march": [
@@ -42629,6 +42761,16 @@
         "root": "pot",
         "section": "단어들",
         "term": "possible"
+      }
+    ],
+    "postcard": [
+      {
+        "doc": "Roots/chart.md",
+        "heading": "postcard",
+        "line": 71,
+        "root": "chart",
+        "section": "단어들",
+        "term": "postcard"
       }
     ],
     "postmortem": [
