@@ -1140,6 +1140,12 @@
       "mtime": 1778920435.0,
       "root": "hes"
     },
+    "Roots/hetero.md": {
+      "doc": "Roots/hetero.md",
+      "heading_count": 7,
+      "mtime": 1779187015.0,
+      "root": "hetero"
+    },
     "Roots/hibern.md": {
       "doc": "Roots/hibern.md",
       "heading_count": 5,
@@ -1163,6 +1169,12 @@
       "heading_count": 4,
       "mtime": 1779088673.0,
       "root": "hoard"
+    },
+    "Roots/homo.md": {
+      "doc": "Roots/homo.md",
+      "heading_count": 9,
+      "mtime": 1779187015.0,
+      "root": "homo"
     },
     "Roots/honor.md": {
       "doc": "Roots/honor.md",
@@ -3199,7 +3211,7 @@
       "root": "yield"
     }
   },
-  "generated_at": "2026-05-19T10:28:53.278566+00:00",
+  "generated_at": "2026-05-19T10:37:34.928304+00:00",
   "root": "/Users/seongnohyi/Workspace/English-Word",
   "schema": 1,
   "terms": {
@@ -23913,6 +23925,14 @@
         "root": "dox",
         "section": "단어들",
         "term": "heterodox"
+      },
+      {
+        "doc": "Roots/hetero.md",
+        "heading": "heterodox",
+        "line": 20,
+        "root": "hetero",
+        "section": "단어들",
+        "term": "heterodox"
       }
     ],
     "heterodoxy": [
@@ -23923,6 +23943,64 @@
         "root": "dox",
         "section": "단어들",
         "term": "heterodoxy"
+      },
+      {
+        "doc": "Roots/hetero.md",
+        "heading": "heterodoxy",
+        "line": 27,
+        "root": "hetero",
+        "section": "단어들",
+        "term": "heterodoxy"
+      }
+    ],
+    "heterogeneity": [
+      {
+        "doc": "Roots/hetero.md",
+        "heading": "heterogeneity",
+        "line": 41,
+        "root": "hetero",
+        "section": "단어들",
+        "term": "heterogeneity"
+      }
+    ],
+    "heterogeneous": [
+      {
+        "doc": "Roots/hetero.md",
+        "heading": "heterogeneous",
+        "line": 34,
+        "root": "hetero",
+        "section": "단어들",
+        "term": "heterogeneous"
+      }
+    ],
+    "heteronym": [
+      {
+        "doc": "Roots/hetero.md",
+        "heading": "heteronym",
+        "line": 55,
+        "root": "hetero",
+        "section": "단어들",
+        "term": "heteronym"
+      }
+    ],
+    "heterosexual": [
+      {
+        "doc": "Roots/hetero.md",
+        "heading": "heterosexual",
+        "line": 48,
+        "root": "hetero",
+        "section": "단어들",
+        "term": "heterosexual"
+      }
+    ],
+    "heterozygous": [
+      {
+        "doc": "Roots/hetero.md",
+        "heading": "heterozygous",
+        "line": 62,
+        "root": "hetero",
+        "section": "단어들",
+        "term": "heterozygous"
       }
     ],
     "hibernaculum": [
@@ -24145,7 +24223,55 @@
         "term": "hoarding"
       }
     ],
+    "homogeneity": [
+      {
+        "doc": "Roots/homo.md",
+        "heading": "homogeneity",
+        "line": 27,
+        "root": "homo",
+        "section": "단어들",
+        "term": "homogeneity"
+      }
+    ],
+    "homogeneous": [
+      {
+        "doc": "Roots/homo.md",
+        "heading": "homogeneous",
+        "line": 20,
+        "root": "homo",
+        "section": "단어들",
+        "term": "homogeneous"
+      }
+    ],
+    "homogenize": [
+      {
+        "doc": "Roots/homo.md",
+        "heading": "homogenize",
+        "line": 34,
+        "root": "homo",
+        "section": "단어들",
+        "term": "homogenize"
+      }
+    ],
+    "homologous": [
+      {
+        "doc": "Roots/homo.md",
+        "heading": "homologous",
+        "line": 55,
+        "root": "homo",
+        "section": "단어들",
+        "term": "homologous"
+      }
+    ],
     "homonym": [
+      {
+        "doc": "Roots/homo.md",
+        "heading": "homonym",
+        "line": 41,
+        "root": "homo",
+        "section": "단어들",
+        "term": "homonym"
+      },
       {
         "doc": "Roots/onym.md",
         "heading": "homonym",
@@ -24157,6 +24283,14 @@
     ],
     "homophobia": [
       {
+        "doc": "Roots/homo.md",
+        "heading": "homophobia",
+        "line": 76,
+        "root": "homo",
+        "section": "단어들",
+        "term": "homophobia"
+      },
+      {
         "doc": "Roots/phob.md",
         "heading": "homophobia",
         "line": 55,
@@ -24167,12 +24301,40 @@
     ],
     "homophone": [
       {
+        "doc": "Roots/homo.md",
+        "heading": "homophone",
+        "line": 48,
+        "root": "homo",
+        "section": "단어들",
+        "term": "homophone"
+      },
+      {
         "doc": "Roots/phone.md",
         "heading": "homophone",
         "line": 55,
         "root": "phone",
         "section": "단어들",
         "term": "homophone"
+      }
+    ],
+    "homosexual": [
+      {
+        "doc": "Roots/homo.md",
+        "heading": "homosexual",
+        "line": 69,
+        "root": "homo",
+        "section": "단어들",
+        "term": "homosexual"
+      }
+    ],
+    "homozygous": [
+      {
+        "doc": "Roots/homo.md",
+        "heading": "homozygous",
+        "line": 62,
+        "root": "homo",
+        "section": "단어들",
+        "term": "homozygous"
       }
     ],
     "honest": [
