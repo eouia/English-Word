@@ -28,7 +28,7 @@
 - 사용 맥락: `import raw materials`, `imports from abroad`
 - 주의: 외국에서 상품·서비스를 들여오는 것. 일반 의미로는 중요성 `importance`와 연결된 용법도 있음.
 
-### [[merc#commodity|commodity]]
+### [[mod#commodity|commodity]]
 
 - 핵심 의미: 원자재, 상품
 - 사용 맥락: `agricultural commodities`, `commodity prices`
@@ -116,7 +116,7 @@
 - 사용 맥락: `sign a trade agreement`, `regional trade agreement`
 - 주의: 국가들이 관세, 기준, 시장 접근 등을 정하는 공식 합의.
 
-### [[grat#pact|pact]]
+### [[pact#pact|pact]]
 
 - 핵심 의미: 협약, 조약
 - 사용 맥락: `trade pact`, `regional trade pact`

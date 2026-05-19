@@ -93,6 +93,7 @@ def process_file(
     terms: dict[str, list[dict[str, Any]]],
     *,
     write: bool,
+    skip_ambiguous: bool,
 ) -> tuple[int, int]:
     lines = path.read_text(encoding="utf-8").splitlines()
     changed = 0
@@ -116,6 +117,21 @@ def process_file(
 
         hit, ambiguous = choose_hit(rows)
         if hit is None:
+            output.append(line)
+            continue
+
+        if ambiguous and skip_ambiguous:
+            roots = sorted(
+                {
+                    str(row.get("root"))
+                    for row in rows
+                    if isinstance(row.get("root"), str)
+                }
+            )
+            print(
+                f"skip ambiguous: {display_path(path)}:{line_no}: "
+                f"{lookup_title} (candidates: {', '.join(roots)})"
+            )
             output.append(line)
             continue
 
@@ -168,13 +184,23 @@ def main() -> int:
         action="store_true",
         help="modify files in place; default is dry-run only",
     )
+    parser.add_argument(
+        "--skip-ambiguous",
+        action="store_true",
+        help="leave headings unchanged when a term appears in more than one root",
+    )
     args = parser.parse_args()
 
     terms = load_lexicon()
     total_changed = 0
     total_ambiguous = 0
     for path in iter_theme_paths(args):
-        changed, ambiguous = process_file(path, terms, write=args.write)
+        changed, ambiguous = process_file(
+            path,
+            terms,
+            write=args.write,
+            skip_ambiguous=args.skip_ambiguous,
+        )
         total_changed += changed
         total_ambiguous += ambiguous
 

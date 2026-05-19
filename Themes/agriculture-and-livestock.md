@@ -28,7 +28,7 @@
 - 사용 맥락: `harvest season`, `harvest grain`
 - 주의: 농작물 수확에서, 데이터·에너지 등을 모으는 비유로도 확장.
 
-### [[cumb#yield|yield]]
+### [[yield#yield|yield]]
 
 - 핵심 의미: 수확량, 산출량, 생산하다
 - 사용 맥락: `crop yield`, `high-yield varieties`

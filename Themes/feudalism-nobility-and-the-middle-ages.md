@@ -340,7 +340,7 @@
 - 사용 맥락: `apprentice craftsman`, `apprenticeship`
 - 주의: 숙련공 밑에서 기술을 배우는 사람.
 
-### charter
+### [[chart#charter|charter]]
 
 - 핵심 의미: 특허장, 헌장, 허가하다
 - 사용 맥락: `town charter`, `royal charter`

@@ -128,7 +128,7 @@
 - 사용 맥락: `peace accord`, `climate accord`
 - 주의: `treaty`보다 넓게 정치적 합의나 협정을 가리킬 수 있음.
 
-### [[grat#pact|pact]]
+### [[pact#pact|pact]]
 
 - 핵심 의미: 협약, 조약
 - 사용 맥락: `defense pact`, `non-aggression pact`

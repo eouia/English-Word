@@ -146,7 +146,7 @@
 - 사용 맥락: `high altitude`, `altitude affects temperature`
 - 주의: 해수면으로부터의 높이. 고도가 높아지면 보통 기온과 산소 농도가 낮아짐.
 
-### cartography
+### [[chart#cartography|cartography]]
 
 - 핵심 의미: 지도 제작, 지도학
 - 사용 맥락: `modern cartography`, `cartographic projection`
@@ -178,7 +178,7 @@
 - 사용 맥락: `glacial erosion`, `retreating glacier`
 - 주의: 장기간 쌓인 눈이 압축되어 천천히 움직이는 얼음 덩어리.
 
-### [[come#current|current]]
+### [[curr#current|current]]
 
 - 핵심 의미: 해류, 흐름, 현재의
 - 사용 맥락: `ocean current`, `warm current`

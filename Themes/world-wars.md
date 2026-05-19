@@ -192,7 +192,7 @@
 - 사용 맥락: `sign an armistice`, `Armistice Day`
 - 주의: 전투를 멈추는 합의. 평화조약 `peace treaty`와는 구분.
 
-### [[cumb#surrender|surrender]]
+### [[render#surrender|surrender]]
 
 - 핵심 의미: 항복, 항복하다
 - 사용 맥락: `unconditional surrender`, `surrender of Germany`

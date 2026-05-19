@@ -166,7 +166,7 @@
 - 사용 맥락: `the Enlightenment`, `Enlightenment thinkers`
 - 주의: 이성, 과학, 진보, 권리, 자유, 사회계약을 강조한 18세기 지적 운동.
 
-### [[caus#reason|reason]]
+### [[ratio#reason|reason]]
 
 - 핵심 의미: 이성, 이유
 - 사용 맥락: `the age of reason`, `use reason`

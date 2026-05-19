@@ -54,7 +54,7 @@
 - 사용 맥락: `Sumerian city-states`, `Greek city-state`
 - 주의: 하나의 도시와 주변 지역이 독립된 정치 단위처럼 기능하는 체제.
 
-### [[dom#kingdom / -dom|kingdom]]
+### [[doom#kingdom|kingdom]]
 
 - 핵심 의미: 왕국
 - 사용 맥락: `ancient kingdom`, `Old Kingdom Egypt`

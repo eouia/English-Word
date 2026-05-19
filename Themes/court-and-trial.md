@@ -96,7 +96,7 @@
 - 사용 맥락: `jury trial`, `the jury reached a verdict`
 - 주의: `juror`는 배심원 개인, `jury`는 배심원단.
 
-### [[cern#judge|judge]]
+### [[jud#judge|judge]]
 
 - 핵심 의미: 판사, 판단하다
 - 사용 맥락: `federal judge`, `the judge ruled`

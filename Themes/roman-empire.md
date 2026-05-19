@@ -34,7 +34,7 @@
 - 사용 맥락: `the Roman Senate`, `senatorial class`
 - 주의: 로마 공화정의 핵심 정치 기관. 현대 미국 상원도 `Senate`.
 
-### [[concert#consul|consul]]
+### [[consul#consul|consul]]
 
 - 핵심 의미: 집정관, 영사
 - 사용 맥락: `Roman consul`, `consular authority`

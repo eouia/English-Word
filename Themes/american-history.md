@@ -204,7 +204,7 @@
 - 사용 맥락: `railroad monopoly`, `break up monopolies`
 - 주의: 한 기업이나 집단이 시장을 지배하는 상태. 19세기 말 대기업 규제 논의와 연결됨.
 
-### [[cred#trust|trust]]
+### [[trust#trust|trust]]
 
 - 핵심 의미: 트러스트, 신탁, 신뢰
 - 사용 맥락: `antitrust laws`, `business trusts`

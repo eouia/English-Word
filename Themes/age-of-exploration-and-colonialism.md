@@ -22,13 +22,13 @@
 - 사용 맥락: `transatlantic voyage`, `voyage of discovery`
 - 주의: 특히 바다를 건너는 긴 여행에 자주 쓰임.
 
-### navigation
+### [[nav#navigation|navigation]]
 
 - 핵심 의미: 항해술, 길 찾기
 - 사용 맥락: `navigation techniques`, `celestial navigation`
 - 주의: 별, 지도, 나침반, 해류 등을 이용해 위치와 방향을 찾는 기술.
 
-### cartography
+### [[chart#cartography|cartography]]
 
 - 핵심 의미: 지도 제작, 지도학
 - 사용 맥락: `early modern cartography`, `cartographic knowledge`
@@ -122,7 +122,7 @@
 - 사용 맥락: `chartered trading company`, `royal charter`
 - 주의: 왕실이나 정부가 독점 무역권과 통치 권한을 준 회사. 식민 지배와 연결됨.
 
-### [[merc#commodity|commodity]]
+### [[mod#commodity|commodity]]
 
 - 핵심 의미: 원자재, 상품
 - 사용 맥락: `colonial commodities`, `commodity trade`

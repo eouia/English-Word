@@ -16,7 +16,7 @@
 - 사용 맥락: `investigative journalism`, `journalistic ethics`
 - 주의: 뉴스를 취재, 검증, 편집, 보도하는 활동과 직업.
 
-### [[fort#press|press]]
+### [[press#press|press]]
 
 - 핵심 의미: 언론, 신문, 압박하다
 - 사용 맥락: `freedom of the press`, `press coverage`

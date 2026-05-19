@@ -240,7 +240,7 @@
 - 사용 맥락: `sign an armistice`, `armistice agreement`
 - 주의: 전투를 중지하는 공식 합의. 평화조약과는 다를 수 있음.
 
-### [[cumb#surrender|surrender]]
+### [[render#surrender|surrender]]
 
 - 핵심 의미: 항복하다, 항복
 - 사용 맥락: `unconditional surrender`, `surrender to enemy forces`

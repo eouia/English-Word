@@ -98,7 +98,7 @@
 
 ## 생산, 비용, 수익
 
-### [[come#revenue|revenue]]
+### [[ven#revenue|revenue]]
 
 - 핵심 의미: 매출, 수입
 - 사용 맥락: `annual revenue`, `revenue growth`
