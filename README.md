@@ -77,7 +77,7 @@ npx quartz build --serve
 
 ## 테마 단어를 어근 문서와 연결
 
-`Roots/_Lexicon.json`을 기준으로 `Themes/*.md`의 `### word` 항목 제목을 어근 문서 링크로 바꿀 수 있다.
+`Roots/_Lexicon.json`을 기준으로 `Themes/*.md`의 `### word` 항목 제목을 어근 문서의 해당 단어 heading 링크로 바꿀 수 있다.
 
 먼저 dry-run으로 확인한다.
 
@@ -97,7 +97,9 @@ python3 scripts/link_theme_roots.py --write Themes/education-school-and-universi
 python3 scripts/link_theme_roots.py
 ```
 
-여러 어근 후보가 있는 단어는 `ambiguous`로 표시하고 자동 수정하지 않는다.
+예: `### curriculum` -> `### [[curr#curriculum|curriculum]]`
+
+여러 어근 후보가 있는 단어도 첫 번째 후보로 연결한다. 이 경우 출력에 `ambiguous chose`로 후보 목록을 남긴다.
 
 ## 운영 원칙
 

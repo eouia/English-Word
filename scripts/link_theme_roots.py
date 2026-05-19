@@ -19,6 +19,7 @@ LEXICON_PATH = ROOT / "Roots" / "_Lexicon.json"
 
 ENTRY_HEADING_RE = re.compile(r"^(###)\s+(.+?)\s*$")
 WIKI_LINK_RE = re.compile(r"\[\[.+?\]\]")
+WIKI_LINK_FULL_RE = re.compile(r"^\[\[(?P<target>[^|\]]+)(?:\|(?P<alias>[^\]]+))?\]\]$")
 
 
 def normalize(value: str) -> str:
@@ -42,13 +43,15 @@ def load_lexicon() -> dict[str, list[dict[str, Any]]]:
     return terms
 
 
-def choose_hit(rows: list[dict[str, Any]]) -> dict[str, Any] | None:
-    """Pick a single target if the lexicon points to one root document."""
+def choose_hit(rows: list[dict[str, Any]]) -> tuple[dict[str, Any] | None, bool]:
+    """Pick the first target, flagging when more than one root exists."""
 
-    docs = {row.get("doc") for row in rows if isinstance(row.get("doc"), str)}
-    if len(docs) != 1:
-        return None
-    return rows[0]
+    valid_rows = [row for row in rows if isinstance(row.get("doc"), str)]
+    if not valid_rows:
+        return None, False
+
+    docs = {row.get("doc") for row in valid_rows}
+    return valid_rows[0], len(docs) > 1
 
 
 def iter_theme_paths(args: argparse.Namespace) -> list[Path]:
@@ -68,9 +71,21 @@ def iter_theme_paths(args: argparse.Namespace) -> list[Path]:
     )
 
 
+def heading_lookup_title(title: str) -> str:
+    match = WIKI_LINK_FULL_RE.match(title)
+    if not match:
+        return title
+    alias = match.group("alias")
+    if alias:
+        return alias.strip()
+    target = match.group("target")
+    return target.split("#", 1)[0].split("/", 1)[-1].strip()
+
+
 def link_heading(title: str, hit: dict[str, Any]) -> str:
     root = str(hit["root"])
-    return f"[[{root}|{title}]]"
+    heading = str(hit.get("heading") or title)
+    return f"[[{root}#{heading}|{title}]]"
 
 
 def process_file(
@@ -81,7 +96,7 @@ def process_file(
 ) -> tuple[int, int]:
     lines = path.read_text(encoding="utf-8").splitlines()
     changed = 0
-    skipped_ambiguous = 0
+    chose_ambiguous = 0
     output: list[str] = []
 
     for line_no, line in enumerate(lines, start=1):
@@ -92,39 +107,40 @@ def process_file(
 
         marker, title = match.groups()
         title = clean_heading(title)
-        if WIKI_LINK_RE.search(title):
-            output.append(line)
-            continue
+        lookup_title = heading_lookup_title(title)
 
-        rows = terms.get(normalize(title), [])
+        rows = terms.get(normalize(lookup_title), [])
         if not rows:
             output.append(line)
             continue
 
-        hit = choose_hit(rows)
+        hit, ambiguous = choose_hit(rows)
         if hit is None:
-            skipped_ambiguous += 1
-            roots = sorted(
-                {
-                    str(row.get("root"))
-                    for row in rows
-                    if isinstance(row.get("root"), str)
-                }
-            )
-            print(
-                f"ambiguous: {display_path(path)}:{line_no}: {title} -> "
-                + ", ".join(roots)
-            )
             output.append(line)
             continue
 
-        new_line = f"{marker} {link_heading(title, hit)}"
+        new_line = f"{marker} {link_heading(lookup_title, hit)}"
         if new_line != line:
             changed += 1
-            print(
-                f"link: {display_path(path)}:{line_no}: "
-                f"{title} -> [[{hit['root']}|{title}]]"
-            )
+            if ambiguous:
+                chose_ambiguous += 1
+                roots = sorted(
+                    {
+                        str(row.get("root"))
+                        for row in rows
+                        if isinstance(row.get("root"), str)
+                    }
+                )
+                print(
+                    f"ambiguous chose: {display_path(path)}:{line_no}: "
+                    f"{lookup_title} -> [[{hit['root']}#{hit.get('heading') or lookup_title}|{lookup_title}]] "
+                    f"(candidates: {', '.join(roots)})"
+                )
+            else:
+                print(
+                    f"link: {display_path(path)}:{line_no}: "
+                    f"{lookup_title} -> [[{hit['root']}#{hit.get('heading') or lookup_title}|{lookup_title}]]"
+                )
             output.append(new_line)
         else:
             output.append(line)
@@ -132,7 +148,7 @@ def process_file(
     if write and changed:
         path.write_text("\n".join(output) + "\n", encoding="utf-8")
 
-    return changed, skipped_ambiguous
+    return changed, chose_ambiguous
 
 
 def main() -> int:
@@ -163,7 +179,7 @@ def main() -> int:
         total_ambiguous += ambiguous
 
     mode = "updated" if args.write else "would update"
-    print(f"{mode} {total_changed} headings; skipped {total_ambiguous} ambiguous headings")
+    print(f"{mode} {total_changed} headings; chose {total_ambiguous} ambiguous headings")
     if not args.write and total_changed:
         print("Run again with --write to apply these links.")
     return 0

@@ -4,13 +4,13 @@
 
 ## 교육 제도와 과정
 
-### [[curr|curriculum]]
+### [[curr#curriculum|curriculum]]
 
 - 핵심 의미: 교육과정, 학교가 가르치도록 짠 전체 학습 내용
 - 사용 맥락: `a national curriculum`, `revise the curriculum`
 - 주의: 한 과목의 일정표보다 더 큰 교육 내용 체계.
 
-### [[sym|syllabus]]
+### [[sym#syllabus|syllabus]]
 
 - 핵심 의미: 한 과목의 강의 계획서, 수업 개요
 - 사용 맥락: `The syllabus lists the readings and assignments.`
@@ -22,7 +22,7 @@
 - 사용 맥락: `innovative pedagogy`, `student-centered pedagogy`
 - 주의: 단순히 가르치는 행위가 아니라 교육 철학과 방법.
 
-### [[struct|instruction]]
+### [[struct#instruction|instruction]]
 
 - 핵심 의미: 수업, 지도, 교수 활동
 - 사용 맥락: `classroom instruction`, `direct instruction`
@@ -34,7 +34,7 @@
 - 사용 맥락: `an academic discipline`, `school discipline`
 - 주의: 대학 맥락에서는 `history`, `biology` 같은 학문 분야를 뜻할 수 있음.
 
-### [[liter|literacy]]
+### [[liter#literacy|literacy]]
 
 - 핵심 의미: 읽고 쓰는 능력; 특정 분야를 이해하고 다루는 능력
 - 사용 맥락: `digital literacy`, `financial literacy`
@@ -86,19 +86,19 @@
 
 ## 입학과 등록
 
-### admission
+### [[miss#admission|admission]]
 
 - 핵심 의미: 입학 허가, 입학 절차
 - 사용 맥락: `college admissions`, `gain admission to a university`
 - 주의: `admission`은 입장 허가·인정이라는 일반 의미도 있음.
 
-### [[roll|enrollment]]
+### [[roll#enrollment|enrollment]]
 
 - 핵심 의미: 등록, 재학생 수
 - 사용 맥락: `student enrollment increased.`
 - 주의: 과정에 이름을 올리는 행위와 등록 학생 수 둘 다 가능.
 
-### [[matr|matriculate]]
+### [[matr#matriculate|matriculate]]
 
 - 핵심 의미: 대학에 정식 입학하다, 등록하다
 - 사용 맥락: `She matriculated at Oxford.`
@@ -110,7 +110,7 @@
 - 사용 맥락: `tuition fees`, `pay tuition`
 - 주의: 영국식 영어에서는 과외·개인지도 의미도 가능.
 
-### [[schol|scholarship]]
+### [[schol#scholarship|scholarship]]
 
 - 핵심 의미: 장학금; 학문 연구
 - 사용 맥락: `receive a scholarship`, `classical scholarship`
@@ -124,7 +124,7 @@
 
 ## 수업과 학업 활동
 
-### [[lect|lecture]]
+### [[lect#lecture|lecture]]
 
 - 핵심 의미: 강의
 - 사용 맥락: `attend a lecture`, `give a lecture`
@@ -142,7 +142,7 @@
 - 사용 맥락: `weekly tutorials`
 - 주의: 영국 대학 맥락에서 특히 중요. 온라인에서는 사용법을 알려 주는 안내 자료도 뜻함.
 
-### [[sign|assignment]]
+### [[sign#assignment|assignment]]
 
 - 핵심 의미: 과제
 - 사용 맥락: `submit an assignment`
@@ -154,7 +154,7 @@
 - 사용 맥락: `Calculus is a prerequisite for this course.`
 - 주의: 어떤 과목이나 프로그램을 듣기 전에 필요한 조건.
 
-### [[thes|thesis]]
+### [[thes#thesis|thesis]]
 
 - 핵심 의미: 학위논문; 주장
 - 사용 맥락: `a master's thesis`, `the central thesis of the essay`
@@ -168,19 +168,19 @@
 
 ## 평가와 자격
 
-### [[sed-sess|assessment]]
+### [[sed-sess#assessment|assessment]]
 
 - 핵심 의미: 평가, 사정
 - 사용 맥락: `student assessment`, `formative assessment`
 - 주의: 시험 하나보다 넓은 평가 체계. 의학·세금 맥락에서도 쓰임.
 
-### [[grad|grade]]
+### [[grad#grade|grade]]
 
 - 핵심 의미: 성적, 등급; 학년
 - 사용 맥락: `receive a good grade`, `third grade`
 - 주의: 미국식 학교에서는 `grade`가 학년을 뜻함.
 
-### [[scrib|transcript]]
+### [[scrib#transcript|transcript]]
 
 - 핵심 의미: 성적 증명서, 기록 사본
 - 사용 맥락: `submit an official transcript`
@@ -192,13 +192,13 @@
 - 사용 맥락: `university accreditation`, `an accredited program`
 - 주의: 학교나 프로그램이 일정 기준을 충족했다는 공식 인정.
 
-### [[qual|qualification]]
+### [[qual#qualification|qualification]]
 
 - 핵심 의미: 자격, 자격증명; 조건 제한
 - 사용 맥락: `academic qualifications`, `professional qualifications`
 - 주의: `qualification`은 "단서, 조건"이라는 뜻도 있음.
 
-### [[ten|tenure]]
+### [[ten#tenure|tenure]]
 
 - 핵심 의미: 종신 재직권, 장기 고용 보장
 - 사용 맥락: `grant tenure`, `a tenured professor`
