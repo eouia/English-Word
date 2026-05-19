@@ -45,6 +45,8 @@ cd ~/Workspace/English-Word
 publish/publish_notes.sh "Update notes"
 ```
 
+`Roots/`, `Themes/`, `scripts/`, `AGENTS.md`, `RTK.md`, `index.md`를 수정한 작업은 이 스크립트 실행까지가 완료 조건이다. 사용자가 명시적으로 배포나 커밋을 금지하지 않은 한, 노트 수정 후에는 최종 응답 전에 반드시 실행한다.
+
 이 스크립트는 다음 작업을 수행한다.
 
 1. GitHub 최신 변경을 `git pull --ff-only`로 가져옴
