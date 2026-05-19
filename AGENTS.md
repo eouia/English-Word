@@ -89,6 +89,16 @@
 - 문서 편집 자체는 여전히 로컬 Markdown 파일을 직접 수정하는 방식을 기본으로 한다. CLI의 `append`, `create`, `delete`, `move`는 사용자가 명시하거나 Obsidian 상태 반영이 꼭 필요할 때만 쓴다.
 - 작업 후 수정한 노트를 Obsidian에서 열어볼 때는 `python3 scripts/open_in_obsidian.py Roots/대표어근.md`를 사용할 수 있다.
 
+## 여러 컴퓨터 작업 원칙
+
+- 사용자는 여러 Mac에서 번갈아 작업할 수 있다. 스크립트, 배포 방식, 운영 규칙을 바꾸면 해당 변경을 GitHub 배포 저장소에도 반드시 반영한다.
+- 작업 지침이 바뀌면 iCloud 원본의 `AGENTS.md`에 남기고, 다른 Mac 사용자가 따라야 하는 실행 절차는 Workspace 저장소의 `README.md`에 남긴다.
+- `scripts/` 안의 도구를 고치거나 새로 만들면 예시 명령, dry-run 여부, 주의할 점을 `README.md`나 스크립트 help에 같이 기록한다.
+- 테마 heading을 어근 문서와 연결할 때는 먼저 `python3 scripts/link_theme_roots.py --skip-ambiguous`로 dry-run을 보고, 확실한 항목만 `python3 scripts/link_theme_roots.py --write --skip-ambiguous`로 적용한다.
+- 복수 어근 후보가 나오는 항목은 자동으로 고르지 말고, 학습 흐름에 맞는 링크를 사람이 판단한다.
+- 배포 전에는 Workspace 저장소에서 `git pull --ff-only`가 선행되어야 한다. `publish/publish_notes.sh`도 이 단계를 수행한다.
+- 작업이 끝나면 가능하면 `publish/publish_notes.sh "설명적인 커밋 메시지"`로 GitHub 저장소와 GitHub Pages까지 갱신한다.
+
 ## 문서 스타일
 
 - 한국어 설명을 기본으로 한다.
