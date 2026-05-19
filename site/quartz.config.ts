@@ -16,6 +16,7 @@ const config: QuartzConfig = {
     locale: "ko-KR",
     ignorePatterns: [
       "site",
+      "publish",
       "scripts",
       "AGENTS.md",
       "RTK.md",
@@ -64,7 +65,7 @@ const config: QuartzConfig = {
     transformers: [
       Plugin.FrontMatter(),
       Plugin.CreatedModifiedDate({
-        priority: ["frontmatter", "git", "filesystem"],
+        priority: ["frontmatter", "filesystem"],
       }),
       Plugin.SyntaxHighlighting({
         theme: {
