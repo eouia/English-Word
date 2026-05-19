@@ -2,6 +2,49 @@
 
 // put your custom CSS here!
 
+.explorer-content ul li > a,
+ul.toc-content.overflow > li > a,
+.backlinks > ul.overflow > li > a {
+  display: block;
+  line-height: 1.35;
+  overflow-wrap: anywhere;
+  text-indent: -0.65rem;
+  padding-left: 0.65rem;
+}
+
+.explorer-content ul li > a {
+  margin: 0.08rem 0;
+  padding-top: 0.08rem;
+  padding-bottom: 0.08rem;
+}
+
+.explorer-content ul li + li,
+ul.toc-content.overflow > li + li,
+.backlinks > ul.overflow > li + li {
+  margin-top: 0.22rem;
+}
+
+ul.toc-content.overflow > li,
+.backlinks > ul.overflow > li {
+  padding-top: 0.2rem;
+}
+
+ul.toc-content.overflow > li + li,
+.backlinks > ul.overflow > li + li {
+  border-top: 1px solid color-mix(in srgb, var(--lightgray) 70%, transparent);
+}
+
+.folder-container {
+  line-height: 1.35;
+  margin: 0.12rem 0;
+
+  & div > a,
+  & div > button span {
+    line-height: 1.35;
+    overflow-wrap: anywhere;
+  }
+}
+
 @media all and (min-width: 1200px) {
   body .page > #quartz-body > .right.sidebar {
     max-height: 100vh;
