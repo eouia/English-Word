@@ -2928,6 +2928,12 @@
       "mtime": 1779211367.0,
       "root": "tact"
     },
+    "Roots/taille.md": {
+      "doc": "Roots/taille.md",
+      "heading_count": 8,
+      "mtime": 1779358246.0,
+      "root": "taille"
+    },
     "Roots/take.md": {
       "doc": "Roots/take.md",
       "heading_count": 8,
@@ -3331,8 +3337,8 @@
       "root": "yield"
     }
   },
-  "generated_at": "2026-05-19T17:58:13.547413+00:00",
-  "root": "/Users/macmini/Workspace/English-Word",
+  "generated_at": "2026-05-21T10:11:11.284847+00:00",
+  "root": "/Users/seongnohyi/Workspace/English-Word",
   "schema": 1,
   "terms": {
     "-cide": [
@@ -16371,6 +16377,16 @@
         "term": "desultory"
       }
     ],
+    "detail": [
+      {
+        "doc": "Roots/taille.md",
+        "heading": "detail",
+        "line": 50,
+        "root": "taille",
+        "section": "단어들",
+        "term": "detail"
+      }
+    ],
     "detain": [
       {
         "doc": "Roots/ten.md",
@@ -19763,6 +19779,16 @@
         "root": "simil",
         "section": "단어들",
         "term": "ensemble"
+      }
+    ],
+    "entail": [
+      {
+        "doc": "Roots/taille.md",
+        "heading": "entail",
+        "line": 71,
+        "root": "taille",
+        "section": "단어들",
+        "term": "entail"
       }
     ],
     "enterprise": [
@@ -43271,6 +43297,26 @@
         "term": "resumption"
       }
     ],
+    "retail": [
+      {
+        "doc": "Roots/taille.md",
+        "heading": "retail",
+        "line": 57,
+        "root": "taille",
+        "section": "단어들",
+        "term": "retail"
+      }
+    ],
+    "retailer": [
+      {
+        "doc": "Roots/taille.md",
+        "heading": "retailer",
+        "line": 64,
+        "root": "taille",
+        "section": "단어들",
+        "term": "retailer"
+      }
+    ],
     "retain": [
       {
         "doc": "Roots/ten.md",
@@ -48611,6 +48657,26 @@
         "term": "tactile"
       }
     ],
+    "tailor": [
+      {
+        "doc": "Roots/taille.md",
+        "heading": "tailor",
+        "line": 36,
+        "root": "taille",
+        "section": "단어들",
+        "term": "tailor"
+      }
+    ],
+    "tailored": [
+      {
+        "doc": "Roots/taille.md",
+        "heading": "tailored",
+        "line": 43,
+        "root": "taille",
+        "section": "단어들",
+        "term": "tailored"
+      }
+    ],
     "take": [
       {
         "doc": "Roots/take.md",
@@ -48629,6 +48695,26 @@
         "root": "take",
         "section": "단어들",
         "term": "take for"
+      }
+    ],
+    "tally": [
+      {
+        "doc": "Roots/taille.md",
+        "heading": "tally",
+        "line": 22,
+        "root": "taille",
+        "section": "단어들",
+        "term": "tally"
+      }
+    ],
+    "tally stick": [
+      {
+        "doc": "Roots/taille.md",
+        "heading": "tally stick",
+        "line": 29,
+        "root": "taille",
+        "section": "단어들",
+        "term": "tally stick"
       }
     ],
     "tangent": [
