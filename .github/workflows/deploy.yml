@@ -35,7 +35,7 @@ jobs:
 
       - name: Build Quartz
         working-directory: site
-        run: npx quartz build
+        run: npx quartz build -d ..
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v5

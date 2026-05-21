@@ -71,14 +71,14 @@ publish/sync_from_icloud.sh
 
 ```bash
 cd site
-npx quartz build
+npx quartz build -d ..
 ```
 
 로컬 미리보기:
 
 ```bash
 cd site
-npx quartz build --serve
+npx quartz build --serve -d ..
 ```
 
 ## 테마 단어를 어근 문서와 연결

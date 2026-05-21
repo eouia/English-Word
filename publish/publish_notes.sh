@@ -44,7 +44,7 @@ cd "$ROOT/site"
 if [ ! -d node_modules ]; then
   npm ci
 fi
-npx quartz build
+npx quartz build -d ..
 
 cd "$ROOT"
 if git diff --quiet --exit-code && [ -z "$(git status --short)" ]; then
