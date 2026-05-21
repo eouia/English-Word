@@ -79,10 +79,13 @@ def find_term_in_lexicon(
 
 def score_line(term: str, line: str) -> int:
     lowered = normalize(line)
+    heading_exact = re.search(rf"^###\s+{re.escape(term)}\s*$", lowered)
     exact_code = re.search(rf"`{re.escape(term)}`", lowered)
     word_boundary = re.search(rf"\b{re.escape(term)}\b", lowered)
 
     score = 0
+    if heading_exact:
+        score += 10
     if exact_code:
         score += 5
     if word_boundary:
