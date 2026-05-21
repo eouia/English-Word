@@ -476,7 +476,7 @@
 | [[stanc]]        | 서 있는 경우, 자세, 실체, 거리 계열                                                                                                          | `instance`, `instant`, `stance`, `distance`, `constant`, `substance`, `circumstance`                                                                            |
 | [[stand]]        | 서다, 버티다, 입장을 취하다 계열                                                                                                             | `stand`, `standing`, `standpoint`, `standard`, `outstanding`, `withstand`, `understand`                                                                         |
 | [[stark]] | 강하고 뻣뻣해 완충 없이 드러나는 삭막함과 극명함 계열 | `stark`, `starkly`, `starkness`, `stark naked`, `stark contrast`, `stark reality` |
-| [[stat]] | 서 있는 상태, 공식적으로 세운 기준과 제도 계열 | `state`, `statement`, `status`, `statute`, `constitution`, `constitutional`, `unconstitutional`, `constitutionalism`, `statue`, `station` |
+| [[stat]] | 서 있는 상태, 공식적으로 세운 기준과 제도 계열 | `state`, `statement`, `status`, `statute`, `constitute`, `constitution`, `constituent`, `constitutional`, `unconstitutional`, `constitutionalism`, `statue`, `station` |
 | [[stinct]] | 찌르거나 눌러 표시·자극·소멸시킴 계열 | `distinct`, `distinction`, `distinctive`, `distinguish`, `distinguished`, `indistinct`, `instinct`, `instinctive`, `extinct`, `extinction`, `extinguish` |
 | [[strain]] | 묶다, 조이다, 제한하다, 압박을 주다 계열 | `restrain`, `constrain`, `restrict`, `strict`, `stringent`, `strain`, `stress`, `distress`, `distressed`, `district` |
 | [[strenu]] | 힘을 다해 적극적으로 밀어붙이는 격한 노력과 활력 계열 | `strenuous`, `strenuously`, `strenuousness`, `strenuosity` |

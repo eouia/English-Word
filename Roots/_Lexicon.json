@@ -2828,8 +2828,8 @@
     },
     "Roots/stat.md": {
       "doc": "Roots/stat.md",
-      "heading_count": 23,
-      "mtime": 1779210319.0,
+      "heading_count": 25,
+      "mtime": 1779367447.0,
       "root": "stat"
     },
     "Roots/stinct.md": {
@@ -3349,7 +3349,7 @@
       "root": "yield"
     }
   },
-  "generated_at": "2026-05-21T12:17:28.920761+00:00",
+  "generated_at": "2026-05-21T12:44:34.604816+00:00",
   "root": "/Users/seongnohyi/Workspace/English-Word",
   "schema": 1,
   "terms": {
@@ -13079,11 +13079,31 @@
         "term": "constant"
       }
     ],
+    "constituent": [
+      {
+        "doc": "Roots/stat.md",
+        "heading": "constituent",
+        "line": 61,
+        "root": "stat",
+        "section": "단어들",
+        "term": "constituent"
+      }
+    ],
+    "constitute": [
+      {
+        "doc": "Roots/stat.md",
+        "heading": "constitute",
+        "line": 46,
+        "root": "stat",
+        "section": "단어들",
+        "term": "constitute"
+      }
+    ],
     "constitution": [
       {
         "doc": "Roots/stat.md",
         "heading": "constitution",
-        "line": 46,
+        "line": 53,
         "root": "stat",
         "section": "단어들",
         "term": "constitution"
@@ -13093,7 +13113,7 @@
       {
         "doc": "Roots/stat.md",
         "heading": "constitutional",
-        "line": 54,
+        "line": 68,
         "root": "stat",
         "section": "단어들",
         "term": "constitutional"
@@ -13103,7 +13123,7 @@
       {
         "doc": "Roots/stat.md",
         "heading": "constitutionalism",
-        "line": 68,
+        "line": 82,
         "root": "stat",
         "section": "단어들",
         "term": "constitutionalism"
@@ -16373,7 +16393,7 @@
       {
         "doc": "Roots/stat.md",
         "heading": "destabilize",
-        "line": 159,
+        "line": 173,
         "root": "stat",
         "section": "단어들",
         "term": "destabilize"
@@ -20371,7 +20391,7 @@
       {
         "doc": "Roots/stat.md",
         "heading": "establish",
-        "line": 110,
+        "line": 124,
         "root": "stat",
         "section": "단어들",
         "term": "establish"
@@ -20381,7 +20401,7 @@
       {
         "doc": "Roots/stat.md",
         "heading": "established",
-        "line": 117,
+        "line": 131,
         "root": "stat",
         "section": "단어들",
         "term": "established"
@@ -20391,7 +20411,7 @@
       {
         "doc": "Roots/stat.md",
         "heading": "establishment",
-        "line": 124,
+        "line": 138,
         "root": "stat",
         "section": "단어들",
         "term": "establishment"
@@ -20401,7 +20421,7 @@
       {
         "doc": "Roots/stat.md",
         "heading": "estate",
-        "line": 173,
+        "line": 187,
         "root": "stat",
         "section": "단어들",
         "term": "estate"
@@ -46841,7 +46861,7 @@
       {
         "doc": "Roots/stat.md",
         "heading": "stability",
-        "line": 131,
+        "line": 145,
         "root": "stat",
         "section": "단어들",
         "term": "stability"
@@ -46851,7 +46871,7 @@
       {
         "doc": "Roots/stat.md",
         "heading": "stabilization",
-        "line": 145,
+        "line": 159,
         "root": "stat",
         "section": "단어들",
         "term": "stabilization"
@@ -46861,7 +46881,7 @@
       {
         "doc": "Roots/stat.md",
         "heading": "stabilize",
-        "line": 138,
+        "line": 152,
         "root": "stat",
         "section": "단어들",
         "term": "stabilize"
@@ -46871,7 +46891,7 @@
       {
         "doc": "Roots/stat.md",
         "heading": "stable",
-        "line": 103,
+        "line": 117,
         "root": "stat",
         "section": "단어들",
         "term": "stable"
@@ -47021,7 +47041,7 @@
       {
         "doc": "Roots/stat.md",
         "heading": "station",
-        "line": 82,
+        "line": 96,
         "root": "stat",
         "section": "단어들",
         "term": "station"
@@ -47031,7 +47051,7 @@
       {
         "doc": "Roots/stat.md",
         "heading": "stationary",
-        "line": 89,
+        "line": 103,
         "root": "stat",
         "section": "단어들",
         "term": "stationary"
@@ -47041,7 +47061,7 @@
       {
         "doc": "Roots/stat.md",
         "heading": "stationery",
-        "line": 96,
+        "line": 110,
         "root": "stat",
         "section": "단어들",
         "term": "stationery"
@@ -47051,7 +47071,7 @@
       {
         "doc": "Roots/stat.md",
         "heading": "statistics",
-        "line": 166,
+        "line": 180,
         "root": "stat",
         "section": "단어들",
         "term": "statistics"
@@ -47061,7 +47081,7 @@
       {
         "doc": "Roots/stat.md",
         "heading": "statue",
-        "line": 75,
+        "line": 89,
         "root": "stat",
         "section": "단어들",
         "term": "statue"
@@ -50897,7 +50917,7 @@
       {
         "doc": "Roots/stat.md",
         "heading": "unconstitutional",
-        "line": 61,
+        "line": 75,
         "root": "stat",
         "section": "단어들",
         "term": "unconstitutional"
@@ -51453,7 +51473,7 @@
       {
         "doc": "Roots/stat.md",
         "heading": "unstable",
-        "line": 152,
+        "line": 166,
         "root": "stat",
         "section": "단어들",
         "term": "unstable"

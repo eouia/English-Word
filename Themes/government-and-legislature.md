@@ -108,7 +108,7 @@
 - 사용 맥락: `state legislators`, `a senior legislator`
 - 주의: 법을 만드는 역할의 사람. `legislature`는 기관, `legislator`는 사람.
 
-### constituent
+### [[stat#constituent|constituent]]
 
 - 핵심 의미: 선거구민, 구성원
 - 사용 맥락: `listen to constituents`

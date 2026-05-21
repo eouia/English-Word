@@ -43,6 +43,13 @@
 - 어원적 연결: 공식적으로 세워 둔 규칙
 - 사용 맥락: `a federal statute` = 연방법
 
+### constitute
+
+- 구성: `con-` = together + Latin `statuere` = set up, establish
+- 의미: 구성하다, ~이 되다, 설립하다
+- 어원적 연결: 여러 요소를 함께 세워 하나의 구조나 상태를 이룸
+- 사용 맥락: `Women constitute a majority of the workforce.` = 여성이 노동력의 다수를 이룬다, `constitute a threat` = 위협이 되다
+
 ### constitution
 
 - 구성: Latin `constituere` = set up, establish
@@ -50,6 +57,13 @@
 - 어원적 연결: 국가나 조직의 기본 구조를 함께 세워 둔 것
 - 사용 맥락: `the U.S. Constitution` = 미국 헌법
 - 주의: 정치·법 맥락에서는 헌법. 일반적으로는 사물의 구성이나 사람의 체질도 뜻함.
+
+### constituent
+
+- 구성: Latin `constituens` ← `constituere`
+- 의미: 구성 요소, 선거구민
+- 어원적 연결: 전체를 함께 세우는 일부. 정치에서는 대표를 세우는 지역 유권자
+- 사용 맥락: `constituent parts` = 구성 요소들, `listen to constituents` = 유권자들의 말을 듣다
 
 ### constitutional
 
@@ -183,7 +197,9 @@
 - `statement`: 세워 둔 말
 - `status`: 사회 안에서 서 있는 자리
 - `statute`: 세워 둔 법
+- `constitute`: 함께 세워 하나를 이룸
 - `constitution`: 기본 구조나 헌법을 세워 둠
+- `constituent`: 전체를 세우는 구성 요소나 유권자
 - `station`: 서 있는 자리
 - `stable`: 흔들리지 않고 섬
 - `stabilize`: 흔들리지 않게 세움
