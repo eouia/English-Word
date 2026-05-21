@@ -22,7 +22,7 @@
 - 사용 맥락: `court jurisdiction`, `legal jurisdiction`
 - 주의: 어떤 법원이나 기관이 사건을 다룰 권한.
 
-### entitlement
+### [[titl#entitlement|entitlement]]
 
 - 핵심 의미: 권리, 자격
 - 사용 맥락: `legal entitlement`, `entitlement to benefits`

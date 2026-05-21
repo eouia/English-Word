@@ -3030,6 +3030,12 @@
       "mtime": 1778910773.0,
       "root": "tir"
     },
+    "Roots/titl.md": {
+      "doc": "Roots/titl.md",
+      "heading_count": 7,
+      "mtime": 1779365250.0,
+      "root": "titl"
+    },
     "Roots/tol.md": {
       "doc": "Roots/tol.md",
       "heading_count": 7,
@@ -3337,7 +3343,7 @@
       "root": "yield"
     }
   },
-  "generated_at": "2026-05-21T10:36:11.380992+00:00",
+  "generated_at": "2026-05-21T12:07:53.009620+00:00",
   "root": "/Users/seongnohyi/Workspace/English-Word",
   "schema": 1,
   "terms": {
@@ -19849,6 +19855,36 @@
         "root": "enth",
         "section": "단어들",
         "term": "enthusiastic"
+      }
+    ],
+    "entitle": [
+      {
+        "doc": "Roots/titl.md",
+        "heading": "entitle",
+        "line": 29,
+        "root": "titl",
+        "section": "단어들",
+        "term": "entitle"
+      }
+    ],
+    "entitled": [
+      {
+        "doc": "Roots/titl.md",
+        "heading": "entitled",
+        "line": 36,
+        "root": "titl",
+        "section": "단어들",
+        "term": "entitled"
+      }
+    ],
+    "entitlement": [
+      {
+        "doc": "Roots/titl.md",
+        "heading": "entitlement",
+        "line": 43,
+        "root": "titl",
+        "section": "단어들",
+        "term": "entitlement"
       }
     ],
     "entity": [
@@ -47641,6 +47677,16 @@
         "term": "subtilize"
       }
     ],
+    "subtitle": [
+      {
+        "doc": "Roots/titl.md",
+        "heading": "subtitle",
+        "line": 50,
+        "root": "titl",
+        "section": "단어들",
+        "term": "subtitle"
+      }
+    ],
     "subtle": [
       {
         "doc": "Roots/subtil.md",
@@ -49447,6 +49493,26 @@
         "root": "tir",
         "section": "단어들",
         "term": "tirade"
+      }
+    ],
+    "title": [
+      {
+        "doc": "Roots/titl.md",
+        "heading": "title",
+        "line": 22,
+        "root": "titl",
+        "section": "단어들",
+        "term": "title"
+      }
+    ],
+    "titular": [
+      {
+        "doc": "Roots/titl.md",
+        "heading": "titular",
+        "line": 57,
+        "root": "titl",
+        "section": "단어들",
+        "term": "titular"
       }
     ],
     "tolerable": [
@@ -51315,6 +51381,16 @@
         "root": "stat",
         "section": "단어들",
         "term": "unstable"
+      }
+    ],
+    "untitled": [
+      {
+        "doc": "Roots/titl.md",
+        "heading": "untitled",
+        "line": 64,
+        "root": "titl",
+        "section": "단어들",
+        "term": "untitled"
       }
     ],
     "unveil": [

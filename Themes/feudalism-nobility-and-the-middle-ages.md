@@ -176,7 +176,7 @@
 - 사용 맥락: `Prince of Wales`, `princely state`
 - 주의: 왕의 아들만 뜻하지 않음. 유럽사에서는 작은 영토를 다스리는 군주도 `prince`.
 
-### title
+### [[titl#title|title]]
 
 - 핵심 의미: 작위, 칭호, 제목
 - 사용 맥락: `hereditary title`, `noble title`
