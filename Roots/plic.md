@@ -4,7 +4,7 @@
 - 핵심 어원: Latin `plicare` = 접다, 접어 붙이다
 - 변형: `plic`, `ply`, `plex`, `ploit`
 - 핵심 이미지: 접다, 접어 넣다, 접힌 것을 펴다, 여러 겹으로 얽히다
-- 하위 문서: [[plic-apply]], [[plic-explain]], [[plic-fold]]
+- 하위 문서: [[plic-apply]], [[plic-explain]], [[plic-fold]], [[plic-display]]
 - 관련 문서: [[ple]], [[clud]], [[pos]]
 - 주의: `supply`는 `plic`이 아니라 Latin `plere` = fill 계열. `comply`도 핵심 `plic` 단어로 암기하지 않는 편이 안전.
 
@@ -34,6 +34,11 @@
 - 핵심 이미지: 여러 겹으로 접히거나 다시 접힘
 - 대표 단어: `complicated`, `duplicate`, `duplicity`, `replicate`, `reply`, `pliable`, `pliant`
 
+### [[plic-display]]
+
+- 핵심 이미지: 접힌 것을 펴서 보이게 하거나 목적에 맞게 배치함
+- 대표 단어: `display`, `deploy`, `deployment`, `splay`, `splayed`
+
 ## 기억 포인트
 
 `plic`의 중심은 "접다".
@@ -41,6 +46,8 @@
 - `apply`: 접어 붙여 적용함
 - `imply`: 뜻이 안에 접혀 있음
 - `explicit`: 접힌 것을 펴서 드러냄
+- `display`: 접힌 것을 펼쳐 보임
+- `deploy`: 접힌 대열이나 장비를 펼쳐 배치함
 - `complicate`: 여러 겹으로 접혀 복잡해짐
 - `duplicate`: 두 겹으로 만듦
 - `reply`: 다시 접어 응답함

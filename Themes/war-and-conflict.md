@@ -78,7 +78,7 @@
 - 사용 맥락: `armed forces`, `peacekeeping force`
 - 주의: 일반 의미는 힘. 군사 맥락에서는 조직된 군사력.
 
-### deployment
+### [[plic-display#deployment|deployment]]
 
 - 핵심 의미: 배치, 전개
 - 사용 맥락: `troop deployment`, `military deployment`

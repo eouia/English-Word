@@ -2112,6 +2112,12 @@
       "mtime": 1779042744.0,
       "root": "plic-apply"
     },
+    "Roots/plic-display.md": {
+      "doc": "Roots/plic-display.md",
+      "heading_count": 6,
+      "mtime": 1779365815.0,
+      "root": "plic-display"
+    },
     "Roots/plic-explain.md": {
       "doc": "Roots/plic-explain.md",
       "heading_count": 12,
@@ -2126,8 +2132,8 @@
     },
     "Roots/plic.md": {
       "doc": "Roots/plic.md",
-      "heading_count": 3,
-      "mtime": 1779042744.0,
+      "heading_count": 4,
+      "mtime": 1779365828.0,
       "root": "plic"
     },
     "Roots/plore.md": {
@@ -3343,7 +3349,7 @@
       "root": "yield"
     }
   },
-  "generated_at": "2026-05-21T12:07:53.009620+00:00",
+  "generated_at": "2026-05-21T12:17:28.920761+00:00",
   "root": "/Users/seongnohyi/Workspace/English-Word",
   "schema": 1,
   "terms": {
@@ -3505,6 +3511,16 @@
         "root": "plic",
         "section": "갈래",
         "term": "[[plic-apply]]"
+      }
+    ],
+    "[[plic-display]]": [
+      {
+        "doc": "Roots/plic.md",
+        "heading": "[[plic-display]]",
+        "line": 37,
+        "root": "plic",
+        "section": "갈래",
+        "term": "[[plic-display]]"
       }
     ],
     "[[plic-explain]]": [
@@ -15883,6 +15899,26 @@
         "term": "deplore"
       }
     ],
+    "deploy": [
+      {
+        "doc": "Roots/plic-display.md",
+        "heading": "deploy",
+        "line": 26,
+        "root": "plic-display",
+        "section": "단어들",
+        "term": "deploy"
+      }
+    ],
+    "deployment": [
+      {
+        "doc": "Roots/plic-display.md",
+        "heading": "deployment",
+        "line": 33,
+        "root": "plic-display",
+        "section": "단어들",
+        "term": "deployment"
+      }
+    ],
     "deport": [
       {
         "doc": "Roots/port.md",
@@ -17649,6 +17685,26 @@
         "root": "spers",
         "section": "단어들",
         "term": "dispersion"
+      }
+    ],
+    "display": [
+      {
+        "doc": "Roots/plic-display.md",
+        "heading": "display",
+        "line": 12,
+        "root": "plic-display",
+        "section": "단어들",
+        "term": "display"
+      }
+    ],
+    "displayable": [
+      {
+        "doc": "Roots/plic-display.md",
+        "heading": "displayable",
+        "line": 19,
+        "root": "plic-display",
+        "section": "단어들",
+        "term": "displayable"
       }
     ],
     "dispose": [
@@ -46609,6 +46665,26 @@
         "root": "spect",
         "section": "단어들",
         "term": "spite"
+      }
+    ],
+    "splay": [
+      {
+        "doc": "Roots/plic-display.md",
+        "heading": "splay",
+        "line": 40,
+        "root": "plic-display",
+        "section": "단어들",
+        "term": "splay"
+      }
+    ],
+    "splayed": [
+      {
+        "doc": "Roots/plic-display.md",
+        "heading": "splayed",
+        "line": 47,
+        "root": "plic-display",
+        "section": "단어들",
+        "term": "splayed"
       }
     ],
     "sponsor": [
