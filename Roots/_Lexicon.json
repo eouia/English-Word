@@ -1260,6 +1260,12 @@
       "mtime": 1779039918.0,
       "root": "iatr"
     },
+    "Roots/idea.md": {
+      "doc": "Roots/idea.md",
+      "heading_count": 7,
+      "mtime": 1779367977.0,
+      "root": "idea"
+    },
     "Roots/imag.md": {
       "doc": "Roots/imag.md",
       "heading_count": 8,
@@ -3349,7 +3355,7 @@
       "root": "yield"
     }
   },
-  "generated_at": "2026-05-21T12:49:37.029710+00:00",
+  "generated_at": "2026-05-21T12:53:22.678100+00:00",
   "root": "/Users/seongnohyi/Workspace/English-Word",
   "schema": 1,
   "terms": {
@@ -25697,7 +25703,95 @@
         "term": "iatrogenic"
       }
     ],
+    "idea": [
+      {
+        "doc": "Roots/idea.md",
+        "heading": "idea",
+        "line": 24,
+        "root": "idea",
+        "section": "단어들",
+        "term": "idea"
+      }
+    ],
+    "ideal": [
+      {
+        "doc": "Roots/idea.md",
+        "heading": "ideal / ideals",
+        "line": 31,
+        "root": "idea",
+        "section": "단어들",
+        "term": "ideal"
+      }
+    ],
+    "ideal / ideals": [
+      {
+        "doc": "Roots/idea.md",
+        "heading": "ideal / ideals",
+        "line": 31,
+        "root": "idea",
+        "section": "단어들",
+        "term": "ideal / ideals"
+      }
+    ],
+    "idealism": [
+      {
+        "doc": "Roots/idea.md",
+        "heading": "idealism",
+        "line": 38,
+        "root": "idea",
+        "section": "단어들",
+        "term": "idealism"
+      }
+    ],
+    "idealist": [
+      {
+        "doc": "Roots/idea.md",
+        "heading": "idealist",
+        "line": 45,
+        "root": "idea",
+        "section": "단어들",
+        "term": "idealist"
+      }
+    ],
+    "idealize": [
+      {
+        "doc": "Roots/idea.md",
+        "heading": "idealize",
+        "line": 52,
+        "root": "idea",
+        "section": "단어들",
+        "term": "idealize"
+      }
+    ],
+    "ideals": [
+      {
+        "doc": "Roots/idea.md",
+        "heading": "ideal / ideals",
+        "line": 31,
+        "root": "idea",
+        "section": "단어들",
+        "term": "ideals"
+      }
+    ],
+    "ideological": [
+      {
+        "doc": "Roots/idea.md",
+        "heading": "ideological",
+        "line": 59,
+        "root": "idea",
+        "section": "단어들",
+        "term": "ideological"
+      }
+    ],
     "ideology": [
+      {
+        "doc": "Roots/idea.md",
+        "heading": "ideology",
+        "line": 66,
+        "root": "idea",
+        "section": "단어들",
+        "term": "ideology"
+      },
       {
         "doc": "Roots/logos.md",
         "heading": "ideology",
