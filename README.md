@@ -138,8 +138,22 @@ python3 scripts/build_theme_lexicon.py
 - Workspace/GitHub 내용을 iCloud Vault에 역으로 덮어쓰지 않는다. Vault 파일 삭제나 복구는 사용자가 명시적으로 요청한 경우에만 한다.
 - iCloud Vault 안에는 `.git`, `site/`, `node_modules/`를 두지 않는다.
 - Git/Quartz 작업은 `~/Workspace/English-Word`에서만 한다.
+- 새 작업 세션을 시작할 때, 노트 데이터 동기화가 아니라 스크립트·설정 최신화만 필요하면 아래 명령을 먼저 실행한다.
+
+```bash
+cd ~/Workspace/English-Word
+publish/update_workspace_tools.sh
+```
+
+빌드까지 확인하려면:
+
+```bash
+publish/update_workspace_tools.sh --build
+```
+
+이 스크립트는 `git pull --ff-only`, Python 스크립트 문법 검사, shell 스크립트 문법 검사를 수행한다. `--build`를 붙인 경우에만 Quartz 빌드를 실행한다. iCloud Obsidian Vault에서 Workspace로 노트 본문을 동기화하지 않고, Vault 파일도 쓰지 않는다.
 - 여러 Mac에서 작업할 때는 배포 전 항상 `git pull --ff-only`를 먼저 한다.
 - 두 Mac에서 동시에 서로 다른 노트를 수정했다면 iCloud 동기화가 끝난 뒤 배포한다.
 - 스크립트, 배포 방식, 작업 규칙이 바뀌면 변경한 Mac에서 즉시 `publish/publish_notes.sh "설명적인 커밋 메시지"`로 GitHub 저장소까지 갱신한다.
-- 다른 Mac에서 작업을 시작할 때는 먼저 `cd ~/Workspace/English-Word && git pull --ff-only`를 실행해 최신 스크립트와 README를 받는다.
+- 다른 Mac에서 작업을 시작할 때는 먼저 `cd ~/Workspace/English-Word && publish/update_workspace_tools.sh`를 실행해 최신 스크립트와 README를 받는다.
 - iCloud 원본 노트와 GitHub 저장소의 역할을 구분한다. 노트 본문은 iCloud가 원본이고, Quartz 설정·README·Git 이력은 Workspace 저장소가 원본이다.
