@@ -19,6 +19,7 @@
 
 ### schizophrenia
 
+- 발음: /ˌskɪtsəˈfriniə/
 - 구성: Greek `schizein` = split + `phren` = mind
 - 뜻: 조현병
 - 어원적 연결: 문자 그대로는 "마음의 분열". 현대 의학 의미와 단순히 같지는 않음
@@ -26,6 +27,7 @@
 
 ### schizophrenic
 
+- 발음: /ˌʃɪzəˈfrɛnɪk/
 - 구성: `schizophrenia` + `-ic`
 - 뜻: 조현병의, 조현병 환자
 - 어원적 연결: 조현병과 관련됨

@@ -10,6 +10,7 @@
 
 ### nation
 
+- 발음: /ˈneɪʃən/
 - 구성: Latin `natio` = birth, people
 - 뜻: 국가, 국민, 민족
 - 어원적 연결: 같은 출신으로 태어난 사람들의 집단
@@ -17,6 +18,7 @@
 
 ### national
 
+- 발음: /ˈnæʃənəl/
 - 구성: `nation` + `-al`
 - 뜻: 국가의, 국민의, 전국적인
 - 어원적 연결: 한 nation 전체에 속함
@@ -24,6 +26,7 @@
 
 ### nationality
 
+- 발음: /ˌnæʃəˈnæləti/
 - 구성: `national` + `-ity`
 - 뜻: 국적, 민족성
 - 어원적 연결: 어떤 nation에 속한 상태
@@ -31,6 +34,7 @@
 
 ### nationalism
 
+- 발음: /ˈnæʃənəˌlɪzəm/
 - 구성: `national` + `-ism`
 - 뜻: 민족주의, 국가주의
 - 어원적 연결: 같은 출신·국가 집단에 대한 강한 소속 의식
@@ -38,6 +42,7 @@
 
 ### nationalist
 
+- 발음: /ˈnæʃənələst/
 - 구성: `nationalism` + `-ist`
 - 뜻: 민족주의자, 국가주의자
 - 어원적 연결: nation 중심의 정체성을 강조하는 사람
@@ -45,6 +50,7 @@
 
 ### international
 
+- 발음: /ˌɪntɚˈnæʃənəl/
 - 구성: `inter-` = between + `national`
 - 뜻: 국제적인
 - 어원적 연결: 여러 nation 사이에 있음
@@ -52,6 +58,7 @@
 
 ### multinational
 
+- 발음: /ˌmʌˌltaɪˈnæʃənəl/
 - 구성: `multi-` = many + `national`
 - 뜻: 다국적의
 - 어원적 연결: 여러 nation에 걸침

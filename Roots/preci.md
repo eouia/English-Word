@@ -9,6 +9,7 @@
 
 ### praise
 
+- 발음: /ˈpreɪz/
 - 구성: Old French `preisier`, `prisier` = value, esteem, praise
 - 뜻: 칭찬하다, 찬양하다; 칭찬
 - 어원적 연결: 어떤 대상의 가치를 높이 평가함
@@ -16,6 +17,7 @@
 
 ### praised
 
+- 발음: /ˈpreɪzd/
 - 구성: `praise` + `-ed`
 - 뜻: 칭찬받은, 찬양받은
 - 어원적 연결: 가치가 인정되어 높이 평가된 상태
@@ -23,6 +25,7 @@
 
 ### praising
 
+- 발음: /ˈpreɪzɪŋ/
 - 구성: `praise` + `-ing`
 - 뜻: 칭찬하는, 찬양하는
 - 어원적 연결: 가치를 말로 높이 평가하는 행위
@@ -30,6 +33,7 @@
 
 ### price
 
+- 발음: /ˈpraɪs/
 - 구성: Old French `pris` < Latin `pretium`
 - 뜻: 가격, 대가
 - 어원적 연결: 어떤 것에 매겨진 가치
@@ -37,6 +41,7 @@
 
 ### prize
 
+- 발음: /ˈpraɪz/
 - 구성: Old French `pris` = reward, value
 - 뜻: 상, 상품; 귀하게 여기다
 - 어원적 연결: 가치 있는 보상이나 귀하게 여기는 것
@@ -44,6 +49,7 @@
 
 ### precious
 
+- 발음: /ˈprɛʃəs/
 - 구성: Latin `pretiosus` = valuable, costly
 - 뜻: 귀중한, 소중한
 - 어원적 연결: 값지고 가치가 높음
@@ -51,6 +57,7 @@
 
 ### appreciate
 
+- 발음: /əˈpriʃiˌeɪt/
 - 구성: `ad-` = to + Latin `pretium` = value
 - 뜻: 진가를 알아보다, 감사하다; 가치가 오르다
 - 어원적 연결: 대상의 가치를 향해 평가함
@@ -58,6 +65,7 @@
 
 ### appreciation
 
+- 발음: /əˌpriʃiˈeɪʃən/
 - 구성: `appreciate` + `-ion`
 - 뜻: 감사, 감상, 진가 인식; 가치 상승
 - 어원적 연결: 가치를 알아보고 인정하는 행위
@@ -65,6 +73,7 @@
 
 ### appraise
 
+- 발음: /əˈpreɪz/
 - 구성: Old French `apreisier` = set a price on
 - 뜻: 평가하다, 감정하다
 - 어원적 연결: 가치를 매김
@@ -72,6 +81,7 @@
 
 ### appraisal
 
+- 발음: /əˈpreɪzəl/
 - 구성: `appraise` + `-al`
 - 뜻: 평가, 감정
 - 어원적 연결: 대상의 가치를 따져 매긴 결과

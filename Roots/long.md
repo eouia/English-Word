@@ -17,6 +17,7 @@ Old English `lang` / `long`은 물리적으로 "긴" 상태를 뜻했고, 시간
 
 ### long
 
+- 발음: /ˈlɔŋ/
 - 구성: Old English `long`
 - 의미: 긴, 오래
 - 어원적 연결: 공간이나 시간이 길게 뻗음
@@ -24,6 +25,7 @@ Old English `lang` / `long`은 물리적으로 "긴" 상태를 뜻했고, 시간
 
 ### length
 
+- 발음: /ˈlɛŋkθ/
 - 구성: `long` 계열 + 명사형
 - 의미: 길이, 기간
 - 어원적 연결: 길게 뻗은 정도
@@ -31,6 +33,7 @@ Old English `lang` / `long`은 물리적으로 "긴" 상태를 뜻했고, 시간
 
 ### lengthy
 
+- 발음: /ˈlɛŋθi/
 - 구성: `length` + `-y`
 - 의미: 긴, 장황한
 - 어원적 연결: 길이가 길거나 시간이 오래 걸림
@@ -38,6 +41,7 @@ Old English `lang` / `long`은 물리적으로 "긴" 상태를 뜻했고, 시간
 
 ### lengthen
 
+- 발음: /ˈlɛŋθən/
 - 구성: `length` + `-en`
 - 의미: 길게 하다, 길어지다
 - 어원적 연결: 길이를 더 늘림
@@ -45,6 +49,7 @@ Old English `lang` / `long`은 물리적으로 "긴" 상태를 뜻했고, 시간
 
 ### longitude
 
+- 발음: /ˈlɑndʒəˌtud/
 - 구성: Latin `longus` = long + `-itude`
 - 의미: 경도
 - 어원적 연결: 지구를 세로 방향으로 길게 재는 좌표
@@ -52,6 +57,7 @@ Old English `lang` / `long`은 물리적으로 "긴" 상태를 뜻했고, 시간
 
 ### longitudinal
 
+- 발음: /ˌlɑndʒəˈtudənəl/
 - 구성: `longitude` / Latin `longus` + `-al`
 - 의미: 세로의, 장기적인
 - 어원적 연결: 길이 방향을 따라 이어짐
@@ -59,6 +65,7 @@ Old English `lang` / `long`은 물리적으로 "긴" 상태를 뜻했고, 시간
 
 ### prolong
 
+- 발음: /prəˈlɔŋ/
 - 구성: `pro-` = forward + Latin `longus`
 - 의미: 연장하다, 오래 끌다
 - 어원적 연결: 앞으로 더 길게 늘림
@@ -66,6 +73,7 @@ Old English `lang` / `long`은 물리적으로 "긴" 상태를 뜻했고, 시간
 
 ### prolonged
 
+- 발음: /prəˈlɔŋd/
 - 구성: `prolong` + `-ed`
 - 의미: 오래 계속된, 장기적인
 - 어원적 연결: 길게 늘어진 상태
@@ -73,6 +81,7 @@ Old English `lang` / `long`은 물리적으로 "긴" 상태를 뜻했고, 시간
 
 ### belong
 
+- 발음: /bɪˈlɔŋ/
 - 구성: Old English `be-` + `longen`
 - 의미: 속하다
 - 어원적 연결: 현대 형태상 `long`처럼 보이지만 "길다"와 직접 연결해 외우기 어려움

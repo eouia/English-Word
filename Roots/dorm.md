@@ -20,6 +20,7 @@
 
 ### dormant
 
+- 발음: /ˈdɔrmənt/
 - 구성: Latin `dormire` = sleep + `-ant`
 - 뜻: 휴면 상태의, 잠복한, 활동하지 않는
 - 어원적 연결: 살아 있거나 존재하지만 잠자듯 활동하지 않음
@@ -27,6 +28,7 @@
 
 ### dormancy
 
+- 발음: /ˈdɔrmənsi/
 - 구성: `dormant` + `-cy`
 - 뜻: 휴면, 비활동 상태
 - 어원적 연결: 잠든 듯 활동을 멈춘 상태
@@ -34,6 +36,7 @@
 
 ### dormitory
 
+- 발음: /ˈdɔrməˌtɔri/
 - 구성: Latin `dormitorium` = sleeping place
 - 뜻: 기숙사, 공동 침실
 - 어원적 연결: 잠자는 장소
@@ -41,6 +44,7 @@
 
 ### dorm
 
+- 발음: /ˈdɔrm/
 - 구성: short for `dormitory`
 - 뜻: 기숙사
 - 어원적 연결: `dormitory`의 줄임말
@@ -48,6 +52,7 @@
 
 ### dormer
 
+- 발음: /ˈdɔrmɚ/
 - 구성: Old French `dormoir` = sleeping room, later roof window
 - 뜻: 지붕창, 도머 창
 - 어원적 연결: 원래 지붕 아래 잠자는 방과 연결된 창

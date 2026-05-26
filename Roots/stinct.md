@@ -20,6 +20,7 @@
 
 ### distinct
 
+- 발음: /dɪˈstɪŋkt/
 - 구성: Latin `dis-` = apart + `stinguere` = prick, mark
 - 뜻: 뚜렷한, 별개의, 분명한
 - 어원적 연결: 표시를 내어 서로 갈라 구별된 상태
@@ -27,6 +28,7 @@
 
 ### distinction
 
+- 발음: /dɪˈstɪŋkʃən/
 - 구성: `distinct` + `-ion`
 - 뜻: 구별, 차이; 탁월함
 - 어원적 연결: 서로 다르다고 표시해 나누는 것. 남들과 구별될 만큼 뛰어남으로도 확장
@@ -34,6 +36,7 @@
 
 ### distinctive
 
+- 발음: /dɪˈstɪŋktɪv/
 - 구성: `distinct` + `-ive`
 - 뜻: 독특한, 특징적인
 - 어원적 연결: 다른 것과 구별되게 만드는 표시나 성질
@@ -41,6 +44,7 @@
 
 ### distinguish
 
+- 발음: /dɪˈstɪŋgwɪʃ/
 - 구성: Latin `distinguere` = separate, mark off, distinguish
 - 뜻: 구별하다, 식별하다; 돋보이게 하다
 - 어원적 연결: 표시를 내어 서로 다른 것을 알아봄
@@ -48,6 +52,7 @@
 
 ### distinguished
 
+- 발음: /dɪˈstɪŋgwɪʃt/
 - 구성: `distinguish` + `-ed`
 - 뜻: 저명한, 뛰어난
 - 어원적 연결: 다른 사람과 뚜렷이 구별될 만큼 두드러짐
@@ -55,6 +60,7 @@
 
 ### indistinct
 
+- 발음: /ˌɪndɪˈstɪŋkt/
 - 구성: `in-` = not + `distinct`
 - 뜻: 불분명한, 희미한
 - 어원적 연결: 경계나 표시가 또렷하지 않아 구별하기 어려움
@@ -62,6 +68,7 @@
 
 ### instinct
 
+- 발음: /ˈɪnstɪŋkt/
 - 구성: Latin `in-` = in + `stinguere` = prick, goad
 - 뜻: 본능, 직감
 - 어원적 연결: 안에서 찌르듯 밀어붙이는 자연스러운 충동
@@ -69,6 +76,7 @@
 
 ### instinctive
 
+- 발음: /ˌɪˈnstɪŋktɪv/
 - 구성: `instinct` + `-ive`
 - 뜻: 본능적인, 직감적인
 - 어원적 연결: 의식적 계산보다 안쪽 충동에 의해 움직임
@@ -76,6 +84,7 @@
 
 ### extinct
 
+- 발음: /ɪˈkstɪŋkt/
 - 구성: Latin `ex-` = out + `stinguere` = quench, put out
 - 뜻: 멸종한, 사라진, 꺼진
 - 어원적 연결: 불을 꺼뜨리듯 생명이나 존재가 사라짐
@@ -83,6 +92,7 @@
 
 ### extinction
 
+- 발음: /ɪˈkstɪŋkʃən/
 - 구성: `extinct` + `-ion`
 - 뜻: 멸종, 소멸
 - 어원적 연결: 존재의 불이 꺼져 사라지는 과정
@@ -90,6 +100,7 @@
 
 ### extinguish
 
+- 발음: /ɪˈkstɪŋgwɪʃ/
 - 구성: Latin `ex-` = out + `stinguere` = quench
 - 뜻: 불을 끄다, 없애다
 - 어원적 연결: 눌러 꺼뜨려 더 이상 타지 않게 함

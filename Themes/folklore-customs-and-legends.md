@@ -6,42 +6,49 @@
 
 ### folklore
 
+- 발음: /ˈfoʊˌklɔr/
 - 핵심 의미: 민속, 민간전승
 - 사용 맥락: `local folklore`, `folklore studies`
 - 주의: 한 공동체 안에서 전해지는 이야기, 노래, 믿음, 관습, 속담 등을 넓게 가리킴.
 
 ### tradition
 
+- 발음: /trəˈdɪʃən/
 - 핵심 의미: 전통
 - 사용 맥락: `oral tradition`, `cultural tradition`
 - 주의: 세대를 거쳐 이어지는 관습이나 믿음. 항상 오래되었다고 고정된 것은 아님.
 
 ### custom
 
+- 발음: /ˈkʌstəm/
 - 핵심 의미: 관습, 풍습
 - 사용 맥락: `local customs`, `traditional customs`
 - 주의: 특정 사회나 집단에서 반복적으로 지켜지는 행동 방식. `customs`는 세관이라는 뜻도 있음.
 
 ### heritage
 
+- 발음: /ˈhɛrətədʒ/
 - 핵심 의미: 유산, 전통문화
 - 사용 맥락: `cultural heritage`, `intangible heritage`
 - 주의: 과거로부터 물려받은 문화, 건축, 언어, 예술, 관습을 포함함.
 
 ### [[lect#legacy|legacy]]
 
+- 발음: /ˈlɛgəsi/
 - 핵심 의미: 유산, 남긴 영향
 - 사용 맥락: `historical legacy`, `legacy of colonialism`
 - 주의: 물려받은 긍정적·부정적 영향. 법률에서는 유증 재산.
 
 ### [[serv#preservation|preservation]]
 
+- 발음: /ˌprɛzɚˈveɪʃən/
 - 핵심 의미: 보존
 - 사용 맥락: `preservation of folk traditions`, `heritage preservation`
 - 주의: 사라질 위험이 있는 문화, 장소, 기록을 유지하려는 활동.
 
 ### [[miss#transmission|transmission]]
 
+- 발음: /træˈnsmɪʃən/
 - 핵심 의미: 전승, 전달, 전파
 - 사용 맥락: `cultural transmission`, `oral transmission`
 - 주의: 문화나 이야기가 세대·집단 사이로 옮겨가는 과정. 의학에서는 병 전파.
@@ -50,30 +57,35 @@
 
 ### myth
 
+- 발음: /ˈmɪθ/
 - 핵심 의미: 신화, 통념
 - 사용 맥락: `creation myth`, `Greek myth`
 - 주의: 신성한 존재, 세계의 기원, 질서의 근거를 설명하는 이야기. 현대 영어에서는 근거 없는 통념도 뜻함.
 
 ### mythology
 
+- 발음: /məˈθɑləˌdʒi/
 - 핵심 의미: 신화 체계, 신화학
 - 사용 맥락: `Norse mythology`, `comparative mythology`
 - 주의: 한 문화의 신화 전체 또는 신화를 연구하는 분야.
 
 ### [[lect#legend|legend]]
 
+- 발음: /ˈlɛdʒənd/
 - 핵심 의미: 전설, 전설적 인물
 - 사용 맥락: `urban legend`, `legend of King Arthur`
 - 주의: 역사적 사실처럼 전해지지만 과장과 상상이 섞인 이야기.
 
 ### folktale
 
+- 발음: /ˈfoʊˌkteɪl/
 - 핵심 의미: 민담
 - 사용 맥락: `traditional folktale`, `African folktales`
 - 주의: 민중 사이에서 구전으로 전해진 이야기. 교훈, 반복 구조, 전형적 인물이 많음.
 
 ### [[fari#fable|fable]]
 
+- 발음: /ˈfeɪbəl/
 - 핵심 의미: 우화
 - 사용 맥락: `Aesop's fables`, `moral fable`
 - 주의: 동물이나 사물을 등장시켜 교훈을 전달하는 짧은 이야기.
@@ -86,18 +98,21 @@
 
 ### saga
 
+- 발음: /ˈsɑgə/
 - 핵심 의미: 영웅담, 장대한 이야기
 - 사용 맥락: `Icelandic saga`, `family saga`
 - 주의: 북유럽 전승의 장편 서사에서 출발. 현대에는 긴 가족사나 대하서사도 뜻함.
 
 ### epic
 
+- 발음: /ˈɛpɪk/
 - 핵심 의미: 서사시, 장대한 이야기
 - 사용 맥락: `ancient epic`, `epic hero`
 - 주의: 영웅의 모험과 공동체의 운명을 다루는 긴 시·서사.
 
 ### [[narr#narrative|narrative]]
 
+- 발음: /ˈnærətɪv/
 - 핵심 의미: 서사, 이야기
 - 사용 맥락: `mythic narrative`, `historical narrative`
 - 주의: 사건을 의미 있는 순서로 엮어 전달하는 방식. 정치·사회 담론에서도 자주 씀.
@@ -112,42 +127,49 @@
 
 ### [[verb#proverb|proverb]]
 
+- 발음: /ˈprɑvɚb/
 - 핵심 의미: 속담
 - 사용 맥락: `traditional proverb`, `African proverb`
 - 주의: 공동체의 경험과 교훈을 짧게 압축한 말.
 
 ### motif
 
+- 발음: /moʊˈtif/
 - 핵심 의미: 모티프, 반복 요소
 - 사용 맥락: `recurring motif`, `folkloric motif`
 - 주의: 이야기나 예술에서 반복되는 장면, 이미지, 주제. 음악·미술에서도 쓰임.
 
 ### archetype ([[arch#archetype|arch]], [[typ#archetype|typ]])
 
+- 발음: /ˈɑrkɪˌtaɪp/
 - 핵심 의미: 원형, 전형
 - 사용 맥락: `hero archetype`, `archetypal figure`
 - 주의: 여러 문화의 이야기에서 반복되는 보편적 인물·상황·상징.
 
 ### symbolism
 
+- 발음: /ˈsɪmbəˌlɪzəm/
 - 핵심 의미: 상징성, 상징주의
 - 사용 맥락: `religious symbolism`, `symbolism in folklore`
 - 주의: 사물이나 행위가 직접 의미를 넘어 문화적·종교적 의미를 갖는 것.
 
 ### taboo
 
+- 발음: /tæˈbu/
 - 핵심 의미: 금기
 - 사용 맥락: `social taboo`, `cultural taboo`
 - 주의: 특정 사회에서 말하거나 행해서는 안 된다고 여겨지는 것.
 
 ### [[omen#omen|omen]]
 
+- 발음: /ˈoʊmən/
 - 핵심 의미: 징조, 전조
 - 사용 맥락: `bad omen`, `interpret an omen`
 - 주의: 미래의 좋은 일이나 나쁜 일을 예고한다고 여겨지는 사건이나 표시.
 
 ### superstition
 
+- 발음: /ˌsupɚˈstɪʃən/
 - 핵심 의미: 미신
 - 사용 맥락: `popular superstition`, `superstitious belief`
 - 주의: 합리적 근거보다 전통적 믿음이나 두려움에 바탕을 둔 믿음.
@@ -156,42 +178,49 @@
 
 ### [[rit#ritual|ritual]]
 
+- 발음: /ˈrɪtʃuəl/
 - 핵심 의미: 의례, 의식
 - 사용 맥락: `religious ritual`, `initiation ritual`
 - 주의: 정해진 순서와 상징을 가진 반복적 행위. 일상 습관에도 비유적으로 쓰임.
 
 ### ceremony
 
+- 발음: /ˈsɛrəˌmoʊni/
 - 핵심 의미: 의식, 행사
 - 사용 맥락: `wedding ceremony`, `award ceremony`
 - 주의: 공식적이고 형식이 있는 행사. `ritual`보다 세속적 행사에도 넓게 쓰임.
 
 ### [[rit#rite|rite]]
 
+- 발음: /ˈraɪt/
 - 핵심 의미: 의례, 의식
 - 사용 맥락: `funeral rites`, `rite of passage`
 - 주의: 종교·문화적으로 정해진 의식. `rite of passage`는 통과의례.
 
 ### [[init#initiation|initiation]]
 
+- 발음: /ˌɪˌnɪʃiˈeɪʃən/
 - 핵심 의미: 입문, 시작
 - 사용 맥락: `initiation ceremony`, `initiation into adulthood`
 - 주의: 어떤 집단이나 새로운 사회적 지위에 들어가는 과정.
 
 ### pilgrimage
 
+- 발음: /ˈpɪlgrəmədʒ/
 - 핵심 의미: 순례
 - 사용 맥락: `religious pilgrimage`, `pilgrimage site`
 - 주의: 종교적·영적 의미가 있는 장소로 떠나는 여행.
 
 ### festival
 
+- 발음: /ˈfɛstəvəl/
 - 핵심 의미: 축제
 - 사용 맥락: `harvest festival`, `folk festival`
 - 주의: 공동체의 계절, 종교, 역사, 수확 등을 기념하는 행사.
 
 ### commemoration
 
+- 발음: /kəˌmɛmɚˈeɪʃən/
 - 핵심 의미: 기념, 추모
 - 사용 맥락: `annual commemoration`, `commemorative ceremony`
 - 주의: 과거의 사건이나 인물을 기억하기 위한 공식·비공식 행위.
@@ -200,42 +229,49 @@
 
 ### deity
 
+- 발음: /ˈdiəti/
 - 핵심 의미: 신, 신격
 - 사용 맥락: `local deity`, `ancient deities`
 - 주의: 종교나 신화 속 신적 존재. `god`보다 격식 있음.
 
 ### [[spir#spirit|spirit]]
 
+- 발음: /ˈspɪrət/
 - 핵심 의미: 영혼, 정신, 분위기
 - 사용 맥락: `ancestral spirits`, `spirit world`
 - 주의: 민속·종교에서는 눈에 보이지 않는 영적 존재. 일반적으로는 정신·태도.
 
 ### [[ante#ancestor|ancestor]]
 
+- 발음: /ˈæˌnsɛstɚ/
 - 핵심 의미: 조상
 - 사용 맥락: `ancestor worship`, `ancestral tradition`
 - 주의: 가족이나 집단의 앞선 세대. 조상 숭배와 구전 전통에서 중요함.
 
 ### shaman
 
+- 발음: /ˈʃeɪmən/
 - 핵심 의미: 샤먼, 무당
 - 사용 맥락: `shamanic ritual`, `traditional shaman`
 - 주의: 영적 세계와 인간 세계를 매개한다고 여겨지는 종교적 인물.
 
 ### curse
 
+- 발음: /ˈkɝs/
 - 핵심 의미: 저주, 저주하다
 - 사용 맥락: `ancient curse`, `curse in folklore`
 - 주의: 초자연적 힘으로 불행을 불러온다는 말이나 행위. 욕설이라는 뜻도 있음.
 
 ### blessing
 
+- 발음: /ˈblɛsɪŋ/
 - 핵심 의미: 축복
 - 사용 맥락: `ritual blessing`, `receive a blessing`
 - 주의: 신성한 힘이나 좋은 운을 빌어주는 말·행위.
 
 ### prophecy
 
+- 발음: /ˈprɑfəsi/
 - 핵심 의미: 예언
 - 사용 맥락: `ancient prophecy`, `fulfill a prophecy`
 - 주의: 미래에 대한 신적·초자연적 선언. `prediction`보다 종교적·문학적 느낌이 강함.
@@ -250,6 +286,7 @@
 
 ### Aesop
 
+- 발음: /ˈiˌsɑp/
 - 핵심 의미: 우화 작가로 전해지는 고대 인물
 - 사용 맥락: `Aesop's fables`, `the moral of an Aesop fable`
 - 주의: 동물을 등장시켜 교훈을 주는 짧은 우화와 연결됨.
@@ -268,12 +305,14 @@
 
 ### Odyssey
 
+- 발음: /ˈɑdəsi/
 - 핵심 의미: 호메로스의 고대 그리스 서사시
 - 사용 맥락: `Homer's Odyssey`, `an epic journey`
 - 주의: 긴 여행과 귀환 서사의 대표적 원형. 현대 영어에서 `odyssey`는 긴 모험도 뜻함.
 
 ### Beowulf
 
+- 발음: /ˈbeɪəˌwʊlf/
 - 핵심 의미: 고대 영어 영웅 서사시
 - 사용 맥락: `the epic Beowulf`, `Beowulf and Grendel`
 - 주의: 영웅, 괴물, 명예, 운명 같은 서사 원형을 설명할 때 등장함.

@@ -9,6 +9,7 @@
 
 ### omnipotent
 
+- 발음: /ɑˈmnɪpətənt/
 - 구성: `omni-` = all + Latin `potens` = powerful
 - 뜻: 전능한, 모든 힘을 가진
 - 어원적 연결: 모든 것을 할 수 있는 힘
@@ -16,6 +17,7 @@
 
 ### omnipotence
 
+- 발음: /ɑˈmnɪpətəns/
 - 구성: `omni-` + `potence`
 - 뜻: 전능, 절대적 권능
 - 어원적 연결: 모든 힘을 가진 상태
@@ -23,6 +25,7 @@
 
 ### potent
 
+- 발음: /ˈpoʊtənt/
 - 구성: Latin `potens` = powerful
 - 뜻: 강력한, 효력이 큰
 - 어원적 연결: 실제 효과를 낼 힘이 있음
@@ -30,6 +33,7 @@
 
 ### potency
 
+- 발음: /ˈpoʊtənsi/
 - 구성: `potent` + `-cy`
 - 뜻: 힘, 효력, 영향력
 - 어원적 연결: 힘이 작동하는 정도
@@ -37,6 +41,7 @@
 
 ### potential
 
+- 발음: /pəˈtɛnʃəl/
 - 구성: Latin `potentialis` = possible, powerful
 - 뜻: 잠재적인; 가능성
 - 어원적 연결: 아직 드러나지 않았지만 할 수 있는 힘
@@ -44,6 +49,7 @@
 
 ### potentially
 
+- 발음: /pəˈtɛnʃəli/
 - 구성: `potential` + `-ly`
 - 뜻: 잠재적으로, 가능성 있게
 - 어원적 연결: 어떤 일이 일어날 힘이나 가능성이 있음
@@ -51,6 +57,7 @@
 
 ### impotent
 
+- 발음: /ˈɪmpətənt/
 - 구성: `im-` = not + Latin `potens`
 - 뜻: 무력한, 힘이 없는
 - 어원적 연결: 일을 해낼 힘이 없음
@@ -58,6 +65,7 @@
 
 ### possible
 
+- 발음: /ˈpɑsəbəl/
 - 구성: Latin `possibilis` < `posse` = be able
 - 뜻: 가능한
 - 어원적 연결: 할 수 있는 상태
@@ -65,6 +73,7 @@
 
 ### impossible
 
+- 발음: /ˌɪˈmpɑsəbəl/
 - 구성: `im-` = not + `possible`
 - 뜻: 불가능한
 - 어원적 연결: 할 수 있는 힘이나 조건이 없음
@@ -72,6 +81,7 @@
 
 ### possibility
 
+- 발음: /ˌpɑsəˈbɪləˌti/
 - 구성: `possible` + `-ity`
 - 뜻: 가능성
 - 어원적 연결: 일이 일어날 수 있는 상태
@@ -79,6 +89,7 @@
 
 ### power
 
+- 발음: /ˈpaʊɚ/
 - 구성: Old French `poeir`, `povoir` < Latin `potere`
 - 뜻: 힘, 권력, 능력
 - 어원적 연결: 무엇을 할 수 있는 능력
@@ -86,6 +97,7 @@
 
 ### potentate
 
+- 발음: /ˈpoʊtəˌnteɪt/
 - 구성: Latin `potentatus` = rulership, power
 - 뜻: 권력자, 군주
 - 어원적 연결: 힘과 권력을 가진 사람

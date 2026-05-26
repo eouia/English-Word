@@ -20,6 +20,7 @@
 
 ### corroborate
 
+- 발음: /kɚˈɑbɚˌeɪt/
 - 구성: Latin `cor-` = together/intensive + `roborare` = strengthen
 - 뜻: 확증하다, 뒷받침하다
 - 어원적 연결: 주장이나 진술에 힘을 더해 단단하게 만듦
@@ -27,6 +28,7 @@
 
 ### corroboration
 
+- 발음: /kɚˌɔbɚˈeɪʃən/
 - 구성: `corroborate` + `-ion`
 - 뜻: 확증, 뒷받침
 - 어원적 연결: 다른 증거가 힘을 보태 신뢰성을 높임
@@ -34,6 +36,7 @@
 
 ### corroborative
 
+- 발음: /kɚˈɑbɚəˌtɪv/
 - 구성: `corroborate` + `-ive`
 - 뜻: 확증하는, 뒷받침하는
 - 어원적 연결: 주장에 힘을 더해 주는 성질
@@ -41,6 +44,7 @@
 
 ### robust
 
+- 발음: /roʊˈbʌst/
 - 구성: Latin `robustus` = strong, hard, oak-like
 - 뜻: 튼튼한, 강건한, 견고한
 - 어원적 연결: 참나무처럼 단단하고 힘 있음
@@ -48,6 +52,7 @@
 
 ### robustly
 
+- 발음: /ˌroʊˈbʌstli/
 - 구성: `robust` + `-ly`
 - 뜻: 튼튼하게, 강력하게
 - 어원적 연결: 강하고 단단한 방식
@@ -55,6 +60,7 @@
 
 ### robustness
 
+- 발음: /roʊˈbʌstnəs/
 - 구성: `robust` + `-ness`
 - 뜻: 견고함, 강건함
 - 어원적 연결: 쉽게 무너지지 않는 힘과 단단함

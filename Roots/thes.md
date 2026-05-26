@@ -19,6 +19,7 @@
 
 ### hypothetical
 
+- 발음: /ˌhaɪpəˈθɛtəkəl/
 - 구성: `hypo-` = under + `thesis` = placing, proposition + `-ical`
 - 뜻: 가상의, 가정의, 가설적인
 - 연결: 실제로 확정한 것이 아니라 아래에 임시 전제로 놓은 상태
@@ -26,6 +27,7 @@
 
 ### hypothesis
 
+- 발음: /haɪˈpɑθəsəs/
 - 구성: Greek `hypo-` = under + `thesis` = placing
 - 뜻: 가설, 가정
 - 연결: 논의나 실험을 위해 밑에 깔아 두는 전제
@@ -33,6 +35,7 @@
 
 ### hypothesize
 
+- 발음: /haɪˈpɑθəˌsaɪz/
 - 구성: `hypothesis` + `-ize`
 - 뜻: 가설을 세우다
 - 연결: 설명을 위해 임시 전제를 놓음
@@ -40,6 +43,7 @@
 
 ### thesis
 
+- 발음: /ˈθisəs/
 - 구성: Greek `thesis` = placing, proposition
 - 뜻: 논제, 학위 논문, 주장
 - 연결: 토론이나 연구의 중심에 놓인 주장
@@ -47,6 +51,7 @@
 
 ### antithesis
 
+- 발음: /æˈntɪθəsəs/
 - 구성: `anti-` = against + `thesis`
 - 뜻: 정반대, 대조되는 것
 - 연결: 어떤 주장 맞은편에 놓인 반대 주장
@@ -54,6 +59,7 @@
 
 ### synthesis
 
+- 발음: /ˈsɪnθəsəs/
 - 구성: `syn-` = together + `thesis`
 - 뜻: 종합, 합성
 - 연결: 여러 요소를 함께 놓아 하나로 만듦
@@ -61,6 +67,7 @@
 
 ### synthetic
 
+- 발음: /sɪˈnθɛtɪk/
 - 구성: `synthesis` + `-etic`
 - 뜻: 합성의, 인조의
 - 연결: 여러 요소를 함께 놓아 만들어 낸 것
@@ -68,6 +75,7 @@
 
 ### parenthesis
 
+- 발음: /pɚˈɛnθəsɪs/
 - 구성: `para-` = beside + `en-` = in + `thesis`
 - 뜻: 괄호, 삽입구
 - 연결: 본문 옆이나 안에 덧붙여 놓은 말

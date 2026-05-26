@@ -6,48 +6,56 @@
 
 ### [[liter#literature|literature]]
 
+- 발음: /ˈlɪtɚətʃɚ/
 - 핵심 의미: 문학, 문헌
 - 사용 맥락: `English literature`, `scientific literature`
 - 주의: 예술로서의 글뿐 아니라 특정 분야의 연구 문헌 전체도 뜻함.
 
 ### [[gen#genre|genre]]
 
+- 발음: /ˈʒɑnrə/
 - 핵심 의미: 장르
 - 사용 맥락: `literary genre`, `genre fiction`
 - 주의: 작품을 형식, 주제, 관습에 따라 나누는 범주. 발음은 프랑스어식에 가까움.
 
 ### [[fig#fiction|fiction]]
 
+- 발음: /ˈfɪkʃən/
 - 핵심 의미: 소설, 허구
 - 사용 맥락: `literary fiction`, `works of fiction`
 - 주의: 사실 기록이 아니라 상상으로 구성된 이야기. 거짓이라는 뜻도 가능.
 
 ### nonfiction
 
+- 발음: /nɑˈnfɪkʃən/
 - 핵심 의미: 논픽션, 사실 기반 글
 - 사용 맥락: `nonfiction prose`, `creative nonfiction`
 - 주의: 역사, 전기, 에세이, 르포처럼 실제 사실을 바탕으로 한 글.
 
 ### [[pros#prose|prose]]
 
+- 발음: /ˈproʊz/
 - 핵심 의미: 산문
 - 사용 맥락: `prose style`, `fictional prose`
 - 주의: 운문이 아닌 일반 문장 형식의 글. 소설, 에세이, 비평 등이 포함됨.
 
 ### poetry
 
+- 발음: /ˈpoʊətri/
 - 핵심 의미: 시, 운문
 - 사용 맥락: `Romantic poetry`, `poetic language`
 - 주의: 리듬, 이미지, 압축된 언어를 통해 의미와 감정을 표현하는 문학 형식.
 
 ### drama
 
+- 발음: /ˈdrɑmə/
 - 핵심 의미: 희곡, 연극, 극적 사건
 - 사용 맥락: `Elizabethan drama`, `modern drama`
 - 주의: 무대 공연을 전제로 한 문학 형식. 일상에서는 과장된 갈등도 뜻함.
 
 ### canon
 
+- 발음: /ˈkænən/
 - 핵심 의미: 정전, 권위 있는 작품 목록, 경전 목록
 - 사용 맥락: `literary canon`, `Western canon`
 - 주의: 문학에서 중요하다고 인정된 작품 목록. 종교에서는 공식 경전 목록.
@@ -56,60 +64,70 @@
 
 ### [[narr#narrative|narrative]]
 
+- 발음: /ˈnærətɪv/
 - 핵심 의미: 서사, 이야기
 - 사용 맥락: `narrative structure`, `first-person narrative`
 - 주의: 사건을 의미 있는 순서와 관점으로 엮어 전달하는 방식.
 
 ### [[narr#narrator|narrator]]
 
+- 발음: /ˈnɛreɪtɚ/
 - 핵심 의미: 화자, 서술자
 - 사용 맥락: `unreliable narrator`, `first-person narrator`
 - 주의: 이야기를 전달하는 목소리. 작가와 항상 같지 않음.
 
 ### [[spect#perspective|perspective]]
 
+- 발음: /pɚˈspɛktɪv/
 - 핵심 의미: 관점, 원근법
 - 사용 맥락: `narrative perspective`, `shift in perspective`
 - 주의: 문학에서는 사건을 바라보고 서술하는 위치와 시각.
 
 ### plot
 
+- 발음: /ˈplɑt/
 - 핵심 의미: 줄거리, 음모
 - 사용 맥락: `plot development`, `complex plot`
 - 주의: 사건이 배열되고 전개되는 구조. 정치·범죄 맥락에서는 음모.
 
 ### [[set#setting|setting]]
 
+- 발음: /ˈsɛtɪŋ/
 - 핵심 의미: 배경, 설정
 - 사용 맥락: `historical setting`, `rural setting`
 - 주의: 작품의 시간, 장소, 사회적 환경.
 
 ### [[charact#character|character]]
 
+- 발음: /ˈkɛrɪktɚ/
 - 핵심 의미: 인물, 성격, 문자
 - 사용 맥락: `main character`, `character development`
 - 주의: 문학에서는 작품 속 인물. 사람의 성품이나 글자도 뜻함.
 
 ### [[agon#protagonist|protagonist]]
 
+- 발음: /proʊˈtægənəst/
 - 핵심 의미: 주인공, 중심 인물
 - 사용 맥락: `female protagonist`, `protagonist's conflict`
 - 주의: 이야기의 중심에서 목표와 갈등을 이끄는 인물.
 
 ### [[agon#antagonist|antagonist]]
 
+- 발음: /æˈntægənəst/
 - 핵심 의미: 적대자, 반대자
 - 사용 맥락: `central antagonist`, `antagonistic force`
 - 주의: 주인공의 목표를 방해하는 인물이나 힘. 반드시 악당일 필요는 없음.
 
 ### conflict
 
+- 발음: n. /ˈkɑnflɪkt/, v. /kəˈnflɪkt/
 - 핵심 의미: 갈등, 충돌
 - 사용 맥락: `internal conflict`, `social conflict`
 - 주의: 인물, 사회, 자연, 자기 자신 사이의 대립. 이야기 전개의 핵심 동력.
 
 ### [[solv#resolution|resolution]]
 
+- 발음: /ˌrɛzəˈluʃən/
 - 핵심 의미: 해결, 결말, 결의안
 - 사용 맥락: `narrative resolution`, `resolution of conflict`
 - 주의: 작품의 갈등이 정리되는 부분. 정치에서는 결의안.
@@ -118,54 +136,63 @@
 
 ### [[imag#imagery|imagery]]
 
+- 발음: /ˈɪmədʒri/
 - 핵심 의미: 심상, 이미지 표현
 - 사용 맥락: `visual imagery`, `nature imagery`
 - 주의: 감각적 언어로 독자의 머릿속에 장면과 느낌을 만드는 표현.
 
 ### metaphor
 
+- 발음: /ˈmɛtəfɔr/
 - 핵심 의미: 은유
 - 사용 맥락: `extended metaphor`, `metaphorical language`
 - 주의: 어떤 것을 다른 것처럼 말해 의미를 옮기는 표현. `like/as`를 쓰는 직유는 `simile`.
 
 ### symbolism
 
+- 발음: /ˈsɪmbəˌlɪzəm/
 - 핵심 의미: 상징성, 상징주의
 - 사용 맥락: `religious symbolism`, `symbolism in poetry`
 - 주의: 사물, 인물, 색, 장소가 직접 의미를 넘어 추상적 의미를 지니는 것.
 
 ### irony
 
+- 발음: /ˈaɪrəni/
 - 핵심 의미: 아이러니, 반어
 - 사용 맥락: `dramatic irony`, `verbal irony`
 - 주의: 겉으로 보이는 것과 실제 의미·결과 사이의 어긋남.
 
 ### satire
 
+- 발음: /ˈsæˌtaɪɚ/
 - 핵심 의미: 풍자
 - 사용 맥락: `political satire`, `satirical novel`
 - 주의: 사회, 정치, 인간의 어리석음을 비판하기 위해 웃음과 과장을 사용하는 방식.
 
 ### allegory
 
+- 발음: /ˈæləˌgɔri/
 - 핵심 의미: 우화적 비유, 알레고리
 - 사용 맥락: `political allegory`, `religious allegory`
 - 주의: 이야기 전체가 다른 추상적 의미나 사상 체계를 가리키는 구조.
 
 ### [[lud#allusion|allusion]]
 
+- 발음: /əˈluʒən/
 - 핵심 의미: 암시, 간접적 언급
 - 사용 맥락: `biblical allusion`, `classical allusion`
 - 주의: 신화, 성경, 역사, 다른 작품을 직접 설명하지 않고 살짝 불러오는 표현.
 
 ### tone
 
+- 발음: /ˈtoʊn/
 - 핵심 의미: 어조, 분위기, 음색
 - 사용 맥락: `ironic tone`, `melancholic tone`
 - 주의: 작가나 화자가 대상에 대해 보이는 태도와 감정의 결.
 
 ### ambiguity ([[ag#ambiguity|ag]], [[ambi#ambiguity|ambi]])
 
+- 발음: /ˌæmbɪˈgjuəti/
 - 핵심 의미: 모호성, 중의성
 - 사용 맥락: `deliberate ambiguity`, `moral ambiguity`
 - 주의: 한 표현이나 상황이 여러 의미로 해석될 수 있는 성질.
@@ -174,48 +201,56 @@
 
 ### [[pros#verse|verse]]
 
+- 발음: /ˈvɝs/
 - 핵심 의미: 운문, 시구
 - 사용 맥락: `blank verse`, `verse drama`
 - 주의: 시의 줄이나 운문 형식. 성경의 절도 `verse`.
 
 ### stanza
 
+- 발음: /ˈstænzə/
 - 핵심 의미: 연
 - 사용 맥락: `four-line stanza`, `final stanza`
 - 주의: 시에서 여러 행이 묶인 단위.
 
 ### [[metr#meter|meter]]
 
+- 발음: /ˈmitɚ/
 - 핵심 의미: 운율, 박자, 계량기
 - 사용 맥락: `iambic meter`, `regular meter`
 - 주의: 시에서 강세와 음절이 반복되는 리듬 구조. 길이 단위 미터도 같은 철자.
 
 ### rhyme
 
+- 발음: /ˈraɪm/
 - 핵심 의미: 운, 압운
 - 사용 맥락: `rhyme scheme`, `end rhyme`
 - 주의: 시에서 소리가 비슷하게 반복되는 것.
 
 ### soliloquy ([[loqu#soliloquy|loqu]], [[solus#soliloquy|solus]])
 
+- 발음: /səˈlɪləkwi/
 - 핵심 의미: 독백
 - 사용 맥락: `Hamlet's soliloquy`, `dramatic soliloquy`
 - 주의: 무대에서 인물이 혼자 자기 생각을 말하는 장면.
 
 ### monologue ([[logos#monologue|logos]], [[mono#monologue|mono]])
 
+- 발음: /ˈmɑnəˌlɔg/
 - 핵심 의미: 독백, 긴 발화
 - 사용 맥락: `dramatic monologue`, `interior monologue`
 - 주의: 한 인물이 길게 말하는 형식. `soliloquy`보다 넓은 표현.
 
 ### tragedy
 
+- 발음: /ˈtrædʒədi/
 - 핵심 의미: 비극
 - 사용 맥락: `Shakespearean tragedy`, `tragic hero`
 - 주의: 주인공의 결함, 운명, 사회적 갈등이 파국으로 이어지는 극·서사 형식.
 
 ### comedy
 
+- 발음: /ˈkɑmədi/
 - 핵심 의미: 희극, 코미디
 - 사용 맥락: `romantic comedy`, `Shakespearean comedy`
 - 주의: 웃음뿐 아니라 갈등이 화해와 결혼 등으로 정리되는 극 형식도 가리킴.
@@ -224,36 +259,42 @@
 
 ### [[crit#criticism|criticism]]
 
+- 발음: /ˈkrɪtɪˌsɪzəm/
 - 핵심 의미: 비평, 비판
 - 사용 맥락: `literary criticism`, `critical essay`
 - 주의: 문학에서는 작품을 분석하고 해석하는 학문적 활동. 단순한 비난만은 아님.
 
 ### [[interpres#interpretation|interpretation]]
 
+- 발음: /ˌɪˌntɝprɪˈteɪʃən/
 - 핵심 의미: 해석, 통역
 - 사용 맥락: `interpretation of a poem`, `multiple interpretations`
 - 주의: 작품의 의미를 읽어내는 방식. 언어 통역도 뜻함.
 
 ### theme
 
+- 발음: /ˈθim/
 - 핵심 의미: 주제
 - 사용 맥락: `central theme`, `theme of alienation`
 - 주의: 작품이 반복적으로 다루는 핵심 생각이나 문제의식.
 
 ### motif
 
+- 발음: /moʊˈtif/
 - 핵심 의미: 모티프, 반복 요소
 - 사용 맥락: `recurring motif`, `motif of light and darkness`
 - 주의: 작품 안에서 반복되는 이미지, 장면, 소리, 주제 단위.
 
 ### [[tex#context|context]]
 
+- 발음: /ˈkɑntɛkst/
 - 핵심 의미: 맥락
 - 사용 맥락: `historical context`, `cultural context`
 - 주의: 작품이 만들어지고 읽히는 역사적·문화적·언어적 배경.
 
 ### [[tex#subtext|subtext]]
 
+- 발음: /ˈsʌˌbtɛkst/
 - 핵심 의미: 숨은 의미, 서브텍스트
 - 사용 맥락: `political subtext`, `emotional subtext`
 - 주의: 직접 말하지 않았지만 장면과 대사 밑에 깔린 의미.
@@ -266,6 +307,7 @@
 
 ### [[cap#reception|reception]]
 
+- 발음: /rɪˈsɛpʃən/
 - 핵심 의미: 수용, 반응, 접수
 - 사용 맥락: `critical reception`, `reader reception`
 - 주의: 작품이 독자와 비평가에게 어떻게 받아들여졌는지. 호텔 접수도 뜻함.
@@ -274,30 +316,35 @@
 
 ### [[medi#medieval|medieval]]
 
+- 발음: /mɪˈdivəl/
 - 핵심 의미: 중세의
 - 사용 맥락: `medieval literature`, `medieval romance`
 - 주의: 영문학에서는 고대 영어와 중세 영어 문학, 기사 서사, 종교 문학과 연결됨.
 
 ### Elizabethan
 
+- 발음: /ˌɛlɪzəˈbiθən/
 - 핵심 의미: 엘리자베스 시대의
 - 사용 맥락: `Elizabethan drama`, `Elizabethan theater`
 - 주의: 엘리자베스 1세 시대의 영국 문화와 연극을 가리킴.
 
 ### Romanticism
 
+- 발음: /roʊˈmæntəˌsɪzəm/
 - 핵심 의미: 낭만주의
 - 사용 맥락: `English Romanticism`, `Romantic poets`
 - 주의: 자연, 상상력, 개인 감정, 숭고함, 산업화 비판과 연결된 문학·예술 사조.
 
 ### Victorian
 
+- 발음: /vɪˈktɔriən/
 - 핵심 의미: 빅토리아 시대의
 - 사용 맥락: `Victorian novel`, `Victorian morality`
 - 주의: 빅토리아 여왕 시대의 사회, 산업화, 제국, 도덕관과 연결됨.
 
 ### Modernism
 
+- 발음: /ˈmɑdɚˌnɪzəm/
 - 핵심 의미: 모더니즘
 - 사용 맥락: `literary Modernism`, `modernist fiction`
 - 주의: 전통적 서사 형식을 깨고 의식의 흐름, 단절, 주관적 시간, 실험적 언어를 중시함.
@@ -312,6 +359,7 @@
 
 ### Beowulf
 
+- 발음: /ˈbeɪəˌwʊlf/
 - 핵심 의미: 고대 영어 영웅 서사시
 - 사용 맥락: `the epic Beowulf`, `Old English literature`
 - 주의: 영웅, 괴물, 명예, 운명 같은 중세 서사 원형과 연결됨.

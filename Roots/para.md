@@ -19,6 +19,7 @@
 
 ### para
 
+- 발음: /ˈpɛrə/
 - 구성: Greek `para` = beside, alongside, beyond
 - 뜻: 옆에, 곁에; 넘어서; 반대로
 - 연결: 기준 바로 옆, 또는 기준에서 벗어난 위치
@@ -26,6 +27,7 @@
 
 ### parallel
 
+- 발음: /ˈpɛrəˌlɛl/
 - 구성: `para-` = beside + Greek `allelos` = one another
 - 뜻: 평행한, 유사한; 평행선
 - 연결: 서로 옆에 나란히 놓여 같은 방향으로 감
@@ -33,6 +35,7 @@
 
 ### paragraph
 
+- 발음: /ˈpærəˌgræf/
 - 구성: Greek `para-` = beside + `graphein` = write
 - 뜻: 문단
 - 연결: 원래는 글 옆에 표시를 해 새 단락을 알린 것
@@ -40,6 +43,7 @@
 
 ### paraphrase
 
+- 발음: /ˈpɛrəˌfreɪz/
 - 구성: `para-` = beside + `phrase`
 - 뜻: 바꾸어 말하다, 의역하다
 - 연결: 원문 옆에 놓을 수 있는 다른 표현
@@ -47,6 +51,7 @@
 
 ### paradox
 
+- 발음: /ˈpɛrəˌdɑks/
 - 구성: `para-` = contrary to + `doxa` = opinion
 - 뜻: 역설
 - 연결: 일반 의견 옆으로 벗어나 반대처럼 보이나 생각할 가치가 있는 말
@@ -54,6 +59,7 @@
 
 ### paramedic
 
+- 발음: /ˌpɛrəˈmɛdɪk/
 - 구성: `para-` = alongside + `medic`
 - 뜻: 응급구조사
 - 연결: 의사나 의료 체계 곁에서 응급 처치를 돕는 사람
@@ -61,6 +67,7 @@
 
 ### parasite
 
+- 발음: /ˈpɛrəˌsaɪt/
 - 구성: Greek `para-` = beside + `sitos` = food
 - 뜻: 기생 생물, 기생충; 기생하는 사람
 - 연결: 남의 식탁 옆에 붙어 먹는 이미지에서 출발
@@ -68,6 +75,7 @@
 
 ### paralysis
 
+- 발음: /pɚˈæləsəs/
 - 구성: `para-` = beside/beyond + `lysis` = loosening
 - 뜻: 마비
 - 연결: 힘이 정상적으로 풀려 움직이지 못하는 상태
@@ -75,6 +83,7 @@
 
 ### parenthesis
 
+- 발음: /pɚˈɛnθəsɪs/
 - 구성: `para-` = beside + `en-` = in + `thesis` = placing
 - 뜻: 괄호, 삽입구
 - 연결: 본문 옆이나 안에 덧붙여 놓은 말
@@ -82,6 +91,7 @@
 
 ### paradigm
 
+- 발음: /ˈpɛrəˌdaɪm/
 - 구성: Greek `para-` = beside + `deiknynai` = show
 - 뜻: 전형, 모형, 사고의 틀
 - 연결: 옆에 놓고 보여 주는 예시나 모델

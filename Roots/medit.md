@@ -9,6 +9,7 @@
 
 ### premeditated
 
+- 발음: /priˈmɛdəˌteɪtɪd/
 - 구성: `pre-` = before + `meditate` + `-ed`
 - 뜻: 사전에 계획된, 계획적인
 - 어원적 연결: 행동하기 전에 미리 깊이 생각하고 준비함
@@ -16,6 +17,7 @@
 
 ### premeditate
 
+- 발음: /priˈmɛdəˌteɪt/
 - 구성: Latin `prae-` = before + `meditari` = think over
 - 뜻: 미리 계획하다, 사전에 숙고하다
 - 어원적 연결: 실행 전에 먼저 생각해 둠
@@ -23,6 +25,7 @@
 
 ### premeditation
 
+- 발음: /priˌmɛdəˈteɪʃən/
 - 구성: `premeditate` + `-ion`
 - 뜻: 사전 계획, 예모
 - 어원적 연결: 행동 전에 마음속으로 계획하고 검토하는 행위
@@ -30,6 +33,7 @@
 
 ### meditate
 
+- 발음: /ˈmɛdəˌteɪt/
 - 구성: Latin `meditari` = think over, reflect
 - 뜻: 명상하다, 깊이 생각하다
 - 어원적 연결: 마음속으로 되풀이해 숙고함
@@ -37,6 +41,7 @@
 
 ### meditation
 
+- 발음: /ˌmɛdəˈteɪʃən/
 - 구성: `meditate` + `-ion`
 - 뜻: 명상, 숙고
 - 어원적 연결: 마음을 모아 생각하거나 성찰하는 행위
@@ -44,6 +49,7 @@
 
 ### meditative
 
+- 발음: /ˈmɛdəˌteɪtɪv/
 - 구성: `meditate` + `-ive`
 - 뜻: 명상적인, 사색적인
 - 어원적 연결: 깊이 생각하는 성질

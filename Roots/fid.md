@@ -22,6 +22,7 @@
 
 ### fidelity
 
+- 발음: /fəˈdɛləti/
 - 구성: Latin `fidelitas`
 - 뜻: 충실함, 신의, 정확도
 - 어원적 연결: 믿음을 지키는 성질
@@ -29,6 +30,7 @@
 
 ### infidelity
 
+- 발음: /ˌɪnfɪˈdɛlɪti/
 - 구성: `in-` = not + `fidelity`
 - 뜻: 불충실, 부정, 배신
 - 어원적 연결: 믿음이나 약속을 지키지 않음
@@ -36,6 +38,7 @@
 
 ### faithful
 
+- 발음: /ˈfeɪθfəl/
 - 구성: `faith` + `-ful`
 - 뜻: 충실한, 신실한, 정확한
 - 어원적 연결: 믿음을 가득 지니고 지킴
@@ -43,6 +46,7 @@
 
 ### faithfully
 
+- 발음: /ˈfeɪθfəli/
 - 구성: `faithful` + `-ly`
 - 뜻: 충실하게, 정확하게
 - 어원적 연결: 믿음과 약속에 맞게 행동함
@@ -50,6 +54,7 @@
 
 ### faith
 
+- 발음: /ˈfeɪθ/
 - 구성: Old French `feid/foi` ← Latin `fides`
 - 뜻: 믿음, 신앙, 신뢰
 - 어원적 연결: 믿고 의지하는 마음
@@ -64,6 +69,7 @@
 
 ### affidavit
 
+- 발음: /ˌæfəˈdeɪvət/
 - 구성: Medieval Latin `affidare` = 맹세하여 보증하다
 - 뜻: 진술서, 선서 진술서
 - 어원적 연결: 믿음과 맹세로 보증한 문서
@@ -71,6 +77,7 @@
 
 ### fiduciary
 
+- 발음: /fəˈduʃiˌɛri/
 - 구성: Latin `fiducia` = trust
 - 뜻: 신탁의, 수탁자의, 신뢰 관계의
 - 어원적 연결: 믿고 맡긴 재산이나 책임을 다루는 관계
@@ -78,6 +85,7 @@
 
 ### confident
 
+- 발음: /ˈkɑnfədənt/
 - 구성: `con-` = with + Latin `fidere` = trust
 - 뜻: 확신하는, 자신 있는
 - 어원적 연결: 함께 믿고 의지함 → 확신을 가짐
@@ -85,6 +93,7 @@
 
 ### confidence
 
+- 발음: /ˈkɑnfədəns/
 - 구성: `confident` + `-ence`
 - 뜻: 자신감, 신뢰, 확신
 - 어원적 연결: 믿고 기대는 마음
@@ -92,6 +101,7 @@
 
 ### confidential
 
+- 발음: /ˌkɑnfəˈdɛnʃəl/
 - 구성: `confidence` + `-al`
 - 뜻: 비밀의, 기밀의
 - 어원적 연결: 믿고 맡겨 말한 것
@@ -99,6 +109,7 @@
 
 ### confide
 
+- 발음: /kəˈnfaɪd/
 - 구성: `con-` = with + `fidere` = trust
 - 뜻: 털어놓다, 믿고 맡기다
 - 어원적 연결: 믿고 마음속 말을 맡김
@@ -113,6 +124,7 @@
 
 ### perfidy
 
+- 발음: /ˈpɝfɪdi/
 - 구성: Latin `perfidia` = faithlessness
 - 뜻: 배신, 불충
 - 어원적 연결: 믿음을 저버림

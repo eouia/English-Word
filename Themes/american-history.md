@@ -6,42 +6,49 @@
 
 ### [[colon#colony|colony]]
 
+- 발음: /ˈkɑləni/
 - 핵심 의미: 식민지
 - 사용 맥락: `British colonies in North America`, `colonial society`
 - 주의: 본국의 지배를 받는 해외 정착지. 미국사에서는 영국령 13개 식민지가 출발점.
 
 ### settler
 
+- 발음: /ˈsɛtəlɚ/
 - 핵심 의미: 정착민
 - 사용 맥락: `European settlers`, `settler colonialism`
 - 주의: 새 땅에 이주해 정착한 사람. 원주민의 토지 상실과 연결될 수 있음.
 
 ### frontier
 
+- 발음: /frəˈntɪr/
 - 핵심 의미: 변경, 개척지
 - 사용 맥락: `the American frontier`, `frontier settlement`
 - 주의: 미국사에서는 동부 정착지와 서부 미개척지 사이의 경계·상상 공간.
 
 ### independence
 
+- 발음: /ˌɪndɪˈpɛndəns/
 - 핵심 의미: 독립
 - 사용 맥락: `declare independence`, `the struggle for independence`
 - 주의: 정치적으로 외부 지배에서 벗어나는 것. 미국사는 영국으로부터의 독립이 핵심.
 
 ### [[volv#revolution|revolution]]
 
+- 발음: /ˌrɛvəˈluʃən/
 - 핵심 의미: 혁명
 - 사용 맥락: `the American Revolution`, `revolutionary ideals`
 - 주의: 정치 체제나 권력 질서의 급격한 변화. 산업혁명은 `Industrial Revolution`.
 
 ### [[bell#rebellion|rebellion]]
 
+- 발음: /rɪˈbɛljən/
 - 핵심 의미: 반란, 저항
 - 사용 맥락: `armed rebellion`, `colonial rebellion`
 - 주의: 지배 권력에 맞서는 집단적 저항. 관점에 따라 혁명으로 평가되기도 함.
 
 ### taxation
 
+- 발음: /tæˈkseɪʃən/
 - 핵심 의미: 과세
 - 사용 맥락: `taxation without representation`
 - 주의: 미국 독립 전 식민지 불만의 핵심 표현과 연결됨.
@@ -50,36 +57,42 @@
 
 ### [[stat#constitution|constitution]]
 
+- 발음: /ˌkɑnstəˈtuʃən/
 - 핵심 의미: 헌법
 - 사용 맥락: `the U.S. Constitution`, `constitutional rights`
 - 주의: 국가 권력의 구조와 시민의 기본 권리를 정하는 최고 규범.
 
 ### federalism
 
+- 발음: /ˈfɛdɚəˌlɪzəm/
 - 핵심 의미: 연방주의
 - 사용 맥락: `American federalism`, `federal and state powers`
 - 주의: 중앙정부와 주정부가 권한을 나누는 제도.
 
 ### republic ([[popul#republic|popul]], [[res#republic|res]])
 
+- 발음: /riˈpʌblək/
 - 핵심 의미: 공화국
 - 사용 맥락: `a constitutional republic`, `the early republic`
 - 주의: 군주가 아니라 시민이 뽑은 대표가 통치하는 정치 체제.
 
 ### [[mend#amendment|amendment]]
 
+- 발음: /əˈmɛndmənt/
 - 핵심 의미: 수정 조항, 개정
 - 사용 맥락: `the First Amendment`, `constitutional amendment`
 - 주의: 미국 헌법의 조항 변경·추가. 권리장전은 첫 10개 수정 조항.
 
 ### [[present#representation|representation]]
 
+- 발음: /ˌrɛprəzɛˈnteɪʃən/
 - 핵심 의미: 대표, 대의
 - 사용 맥락: `political representation`, `taxation without representation`
 - 주의: 시민이나 지역의 이해를 의회에서 대신 표현하는 구조.
 
 ### ratification
 
+- 발음: /ˌrætəfəˈkeɪʃən/
 - 핵심 의미: 비준, 승인
 - 사용 맥락: `ratification of the Constitution`, `ratify a treaty`
 - 주의: 조약·헌법·개정안 등을 공식적으로 승인하는 절차.
@@ -94,36 +107,42 @@
 
 ### [[pand#expansion|expansion]]
 
+- 발음: /ɪˈkspænʃən/
 - 핵심 의미: 확장, 팽창
 - 사용 맥락: `westward expansion`, `territorial expansion`
 - 주의: 미국사에서는 서부로 영토와 정착지가 넓어지는 과정.
 
 ### [[migr#migration|migration]]
 
+- 발음: /maɪˈgreɪʃən/
 - 핵심 의미: 이주
 - 사용 맥락: `westward migration`, `internal migration`
 - 주의: 사람들이 지역을 옮겨 사는 현상. 강제 이동은 `forced removal`처럼 따로 표현.
 
 ### removal
 
+- 발음: /rɪˈmuvəl/
 - 핵심 의미: 제거, 강제 이주
 - 사용 맥락: `Indian removal`, `forced removal`
 - 주의: 미국사에서는 원주민을 조상 대대로 살던 땅에서 내쫓은 정책과 연결됨.
 
 ### [[serv#reservation|reservation]]
 
+- 발음: /ˌrɛzɚˈveɪʃən/
 - 핵심 의미: 보호구역, 예약
 - 사용 맥락: `Native American reservation`
 - 주의: 일반적으로는 예약. 미국사에서는 원주민에게 배정된 제한된 거주 지역.
 
 ### [[simil#assimilation|assimilation]]
 
+- 발음: /əˌsɪməˈleɪʃən/
 - 핵심 의미: 동화
 - 사용 맥락: `forced assimilation`, `assimilation policy`
 - 주의: 소수 집단이 지배 문화에 맞추도록 압박받는 과정. 원주민 교육 정책과 자주 연결됨.
 
 ### [[sovereign#sovereignty|sovereignty]]
 
+- 발음: /ˈsɑvrənti/
 - 핵심 의미: 주권
 - 사용 맥락: `tribal sovereignty`, `national sovereignty`
 - 주의: 독자적으로 통치하고 결정할 권리. 원주민 부족의 법적 지위 논의에서 중요함.
@@ -132,48 +151,56 @@
 
 ### slavery
 
+- 발음: /ˈsleɪvɚi/
 - 핵심 의미: 노예제
 - 사용 맥락: `the institution of slavery`, `abolish slavery`
 - 주의: 사람을 재산처럼 소유하고 강제 노동시키는 제도. 미국 남부 경제와 깊게 연결됨.
 
 ### abolition
 
+- 발음: /ˌæbəˈlɪʃən/
 - 핵심 의미: 폐지
 - 사용 맥락: `abolition of slavery`, `abolitionist movement`
 - 주의: 미국사에서는 노예제 폐지 운동과 가장 자주 연결됨.
 
 ### abolitionist
 
+- 발음: /ˌæbəˈlɪʃənəst/
 - 핵심 의미: 노예제 폐지론자
 - 사용 맥락: `abolitionist newspaper`, `abolitionist activists`
 - 주의: 노예제 폐지를 주장한 사람이나 집단.
 
 ### secession
 
+- 발음: /sɪˈsɛʃən/
 - 핵심 의미: 탈퇴, 분리
 - 사용 맥락: `Southern secession`, `secede from the Union`
 - 주의: 남북전쟁 전 남부 주들이 연방에서 이탈한 사건과 연결됨.
 
 ### confederacy
 
+- 발음: /kəˈnfɛdɚəsi/
 - 핵심 의미: 연합, 남부연합
 - 사용 맥락: `the Confederacy`, `Confederate states`
 - 주의: 일반적으로는 느슨한 국가·집단 연합. 미국사에서는 남북전쟁기의 남부연합.
 
 ### emancipation
 
+- 발음: /ɪˌmænsəˈpeɪʃən/
 - 핵심 의미: 해방, 해방령
 - 사용 맥락: `emancipation of enslaved people`, `Emancipation Proclamation`
 - 주의: 법적·사회적 구속에서 벗어남. 미국사에서는 노예 해방과 연결됨.
 
 ### reconstruction
 
+- 발음: /ˌrikəˈnstrʌkʃən/
 - 핵심 의미: 재건
 - 사용 맥락: `Reconstruction era`, `postwar reconstruction`
 - 주의: 미국사에서는 남북전쟁 후 남부 재편과 흑인 시민권 확대·반발의 시기.
 
 ### [[greg#segregation|segregation]]
 
+- 발음: /ˌsɛgrəˈgeɪʃən/
 - 핵심 의미: 분리, 인종분리
 - 사용 맥락: `racial segregation`, `school segregation`
 - 주의: 특히 흑인과 백인을 법적·사회적으로 분리한 제도.
@@ -182,42 +209,49 @@
 
 ### industrialization
 
+- 발음: /ˌɪˌndʌstriəlɪˈzeɪʃən/
 - 핵심 의미: 산업화
 - 사용 맥락: `rapid industrialization`, `industrialization after the Civil War`
 - 주의: 농업 중심 사회가 공장, 기계, 대량생산 중심으로 바뀌는 과정.
 
 ### [[urban#urbanization|urbanization]]
 
+- 발음: /ˌɝbənəˈzeɪʃən/
 - 핵심 의미: 도시화
 - 사용 맥락: `urbanization and immigration`, `rapid urbanization`
 - 주의: 인구와 경제 활동이 도시로 집중되는 현상.
 
 ### immigration
 
+- 발음: /ˌɪməˈgreɪʃən/
 - 핵심 의미: 이민
 - 사용 맥락: `waves of immigration`, `immigration policy`
 - 주의: 다른 나라에서 들어와 사는 것. 미국사는 이민의 역사와 긴밀함.
 
 ### [[mono#monopoly|monopoly]]
 
+- 발음: /məˈnɑpəli/
 - 핵심 의미: 독점
 - 사용 맥락: `railroad monopoly`, `break up monopolies`
 - 주의: 한 기업이나 집단이 시장을 지배하는 상태. 19세기 말 대기업 규제 논의와 연결됨.
 
 ### [[trust#trust|trust]]
 
+- 발음: /ˈtrʌst/
 - 핵심 의미: 트러스트, 신탁, 신뢰
 - 사용 맥락: `antitrust laws`, `business trusts`
 - 주의: 미국 경제사에서는 독점적 기업 결합. `trust`의 일반 의미는 신뢰.
 
 ### [[form#reform|reform]]
 
+- 발음: /rəˈfɔrm/
 - 핵심 의미: 개혁
 - 사용 맥락: `Progressive reform`, `social reform`
 - 주의: 제도를 완전히 뒤엎기보다 문제를 고쳐 개선하려는 움직임.
 
 ### suffrage
 
+- 발음: /ˈsʌfrɪdʒ/
 - 핵심 의미: 참정권, 투표권
 - 사용 맥락: `women's suffrage`, `universal suffrage`
 - 주의: 고통 `suffering`과 혼동하지 않기. 선거권을 뜻함.
@@ -226,30 +260,35 @@
 
 ### [[press#depression|depression]]
 
+- 발음: /dɪˈprɛʃən/
 - 핵심 의미: 대공황, 심각한 불황, 우울증
 - 사용 맥락: `the Great Depression`, `economic depression`
 - 주의: 미국사에서는 1930년대의 장기 경제 위기를 가리키는 경우가 많음.
 
 ### [[lev#relief|relief]]
 
+- 발음: /rɪˈlif/
 - 핵심 의미: 구호, 완화
 - 사용 맥락: `relief programs`, `economic relief`
 - 주의: 대공황 맥락에서는 실업자와 빈곤층을 돕는 정부 지원.
 
 ### mobilization
 
+- 발음: /ˌmoʊbələˈzeɪʃən/
 - 핵심 의미: 동원
 - 사용 맥락: `wartime mobilization`, `economic mobilization`
 - 주의: 전쟁이나 위기 때 인력, 산업, 자원을 조직적으로 투입하는 것.
 
 ### containment
 
+- 발음: /kəˈnteɪnmənt/
 - 핵심 의미: 봉쇄, 억제
 - 사용 맥락: `containment policy`, `contain communism`
 - 주의: 냉전기 미국의 대소련·반공 외교 전략.
 
 ### [[urban#suburb|suburb]]
 
+- 발음: /ˈsʌbɚb/
 - 핵심 의미: 교외
 - 사용 맥락: `postwar suburbs`, `suburban growth`
 - 주의: 제2차 세계대전 이후 미국 중산층 생활과 주택 개발을 설명할 때 자주 등장.
@@ -262,6 +301,7 @@
 
 ### counterculture
 
+- 발음: /ˈkaʊntɚˌkʌltʃɚ/
 - 핵심 의미: 반문화
 - 사용 맥락: `1960s counterculture`, `counterculture movement`
 - 주의: 주류 사회의 가치, 전쟁, 소비주의 등에 반발한 문화·사회 운동.
@@ -270,6 +310,7 @@
 
 ### Mayflower
 
+- 발음: /ˈmeɪˌflaʊɚ/
 - 핵심 의미: 1620년 청교도 이주민을 실은 배
 - 사용 맥락: `the Mayflower Compact`, `Pilgrims on the Mayflower`
 - 주의: 초기 영국계 정착과 자치 전통의 상징으로 등장.

@@ -20,6 +20,7 @@
 
 ### force
 
+- 발음: /ˈfɔrs/
 - 구성: Old French `force` ← Latin `fortis`
 - 뜻: 힘, 무력, 강제하다
 - 어원적 연결: 강한 힘으로 밀어붙임
@@ -27,6 +28,7 @@
 
 ### forceful
 
+- 발음: /ˈfɔrsfəl/
 - 구성: `force` + `-ful`
 - 뜻: 강력한, 단호한
 - 어원적 연결: 힘이 강하게 드러남
@@ -34,6 +36,7 @@
 
 ### forcible
 
+- 발음: /ˈfɔrsəbəl/
 - 구성: `force` + `-ible`
 - 뜻: 강제적인, 힘으로 하는
 - 어원적 연결: 물리적 힘이나 강제로 이루어짐
@@ -41,6 +44,7 @@
 
 ### enforce
 
+- 발음: /ɛˈnfɔrs/
 - 구성: `en-` = make, put into + `force`
 - 뜻: 시행하다, 집행하다, 강제하다
 - 어원적 연결: 규칙에 힘을 실어 실제로 따르게 함
@@ -48,6 +52,7 @@
 
 ### enforcement
 
+- 발음: /ɛˈnfɔrsmənt/
 - 구성: `enforce` + `-ment`
 - 뜻: 집행, 시행
 - 어원적 연결: 힘을 실어 규칙을 작동하게 하는 행위
@@ -55,6 +60,7 @@
 
 ### reinforce
 
+- 발음: /ˌriɪˈnfɔrs/
 - 구성: `re-` = again, back + `enforce`
 - 뜻: 강화하다, 보강하다
 - 어원적 연결: 힘을 다시 더해 튼튼하게 함
@@ -62,6 +68,7 @@
 
 ### reinforcement
 
+- 발음: /ˌriɪˈnfɔrsmənt/
 - 구성: `reinforce` + `-ment`
 - 뜻: 보강, 강화, 지원 병력
 - 어원적 연결: 힘을 더해 버티게 만드는 것
@@ -69,6 +76,7 @@
 
 ### fort
 
+- 발음: /ˈfɔrt/
 - 구성: Latin `fortis`
 - 뜻: 요새
 - 어원적 연결: 강하게 만든 방어 장소
@@ -76,6 +84,7 @@
 
 ### fortress
 
+- 발음: /ˈfɔrtrəs/
 - 구성: `fort` + `-ress`
 - 뜻: 요새, 견고한 장소
 - 어원적 연결: 공격에 버틸 만큼 강한 곳
@@ -83,6 +92,7 @@
 
 ### fortify
 
+- 발음: /ˈfɔrtɪˌfaɪ/
 - 구성: `fortis` = strong + `-fy` = make
 - 뜻: 강화하다, 요새화하다
 - 어원적 연결: 강하게 만들거나 방어력을 더함
@@ -90,6 +100,7 @@
 
 ### fortitude
 
+- 발음: /ˈfɔrtɪˌtud/
 - 구성: Latin `fortitudo` = strength
 - 뜻: 용기, 인내력
 - 어원적 연결: 어려움을 버티는 마음의 힘
@@ -97,6 +108,7 @@
 
 ### effort
 
+- 발음: /ˈɛfɚt/
 - 구성: Old French `esforcier` = exert force
 - 뜻: 노력
 - 어원적 연결: 힘을 밖으로 내어 씀

@@ -20,6 +20,7 @@
 
 ### demonstrate
 
+- 발음: /ˈdɛməˌnstreɪt/
 - 구성: `de-` + Latin `monstrare` = show
 - 뜻: 보여 주다, 입증하다, 시위하다
 - 어원적 연결: 눈앞에 분명히 드러내 보임
@@ -27,6 +28,7 @@
 
 ### demonstration
 
+- 발음: /ˌdɛməˈnstreɪʃən/
 - 구성: `demonstrate` + `-ion`
 - 뜻: 시위, 시연, 입증
 - 어원적 연결: 생각·요구·방법을 공개적으로 보여 주는 행위
@@ -35,6 +37,7 @@
 
 ### demonstrative
 
+- 발음: /dɪˈmɑnstrətɪv/
 - 구성: `demonstrate` + `-ive`
 - 뜻: 드러내 보이는, 감정을 잘 표현하는; 지시형의
 - 어원적 연결: 감정이나 대상을 밖으로 뚜렷이 보여 줌
@@ -42,6 +45,7 @@
 
 ### demonstrable
 
+- 발음: /ˈdɛmənstrəbəl/
 - 구성: `demonstrate` + `-able`
 - 뜻: 입증 가능한
 - 어원적 연결: 증거로 보여 줄 수 있음
@@ -64,6 +68,7 @@
 
 ### monster
 
+- 발음: /ˈmɑnstɚ/
 - 구성: Latin `monstrum` = omen, warning, strange sign
 - 뜻: 괴물, 잔혹한 사람
 - 어원적 연결: 자연 질서에서 벗어나 경고나 징조처럼 보이는 존재
@@ -71,6 +76,7 @@
 
 ### monstrous
 
+- 발음: /ˈmɑnstrəs/
 - 구성: `monster` + `-ous`
 - 뜻: 괴물 같은, 터무니없는, 잔혹한
 - 어원적 연결: 정상 범위를 벗어나 두드러지게 이상하거나 끔찍함
@@ -78,6 +84,7 @@
 
 ### monstrosity
 
+- 발음: /mɑˈnstrɑsəti/
 - 구성: `monstrous` + `-ity`
 - 뜻: 기괴한 것, 괴물 같은 것, 잔혹 행위
 - 어원적 연결: 이상하게 두드러져 경고처럼 보이는 존재나 행위

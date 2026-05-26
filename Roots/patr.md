@@ -10,6 +10,7 @@
 
 ### paternal
 
+- 발음: /pəˈtɝnəl/
 - 구성: Latin `pater` + `-nal`
 - 뜻: 아버지의, 부계의
 - 어원적 연결: 아버지 쪽에 속함
@@ -17,6 +18,7 @@
 
 ### paternity
 
+- 발음: /pəˈtɝnɪti/
 - 구성: `pater` + `-ity`
 - 뜻: 아버지임, 친자 관계
 - 어원적 연결: 아버지의 신분이나 관계
@@ -24,6 +26,7 @@
 
 ### patriarch
 
+- 발음: /ˈpeɪtriˌɑrk/
 - 구성: `patri-` = father + Greek `archein` = rule
 - 뜻: 가장, 족장
 - 어원적 연결: 아버지처럼 집단을 지배하는 사람
@@ -31,6 +34,7 @@
 
 ### patriarchy
 
+- 발음: /ˈpeɪtriˌɑrki/
 - 구성: `patriarch` + `-y`
 - 뜻: 가부장제
 - 어원적 연결: 아버지·남성 중심의 지배 구조
@@ -38,6 +42,7 @@
 
 ### patriot
 
+- 발음: /ˈpeɪtriət/
 - 구성: Greek `patrios` = of one's fathers
 - 뜻: 애국자
 - 어원적 연결: 조상의 땅, 아버지들의 나라를 사랑함
@@ -45,6 +50,7 @@
 
 ### expatriate
 
+- 발음: /ɛˈkspeɪtriˌeɪt/
 - 구성: `ex-` = out + Latin `patria` = fatherland
 - 뜻: 국외 거주자, 국외로 이주하다
 - 어원적 연결: 조국 밖으로 나감

@@ -21,6 +21,7 @@
 
 ### accident
 
+- 발음: /ˈæksədənt/
 - 구성: Latin `ad-` = to + `cadere` = fall, happen
 - 뜻: 사고, 우연한 일
 - 어원적 연결: 의도하지 않은 일이 닥쳐옴
@@ -28,6 +29,7 @@
 
 ### accidental
 
+- 발음: /ˌæksəˈdɛntəl/
 - 구성: `accident` + `-al`
 - 뜻: 우연한, 뜻밖의, 사고의
 - 어원적 연결: 계획한 것이 아니라 우연히 일어남
@@ -35,6 +37,7 @@
 
 ### accidentally
 
+- 발음: /ˌæksəˈdɛntəli/
 - 구성: `accidental` + `-ly`
 - 뜻: 우연히, 실수로
 - 어원적 연결: 의도하지 않고 일이 일어남
@@ -42,6 +45,7 @@
 
 ### incident
 
+- 발음: /ˈɪnsədənt/
 - 구성: Latin `in-` = into, upon + `cadere` = fall
 - 뜻: 사건, 일어난 일
 - 어원적 연결: 어떤 상황 안으로 떨어져 발생한 일
@@ -49,6 +53,7 @@
 
 ### case
 
+- 발음: /ˈkeɪs/
 - 구성: Latin `casus` = fall, event
 - 뜻: 경우, 사건, 사례; 소송 사건
 - 어원적 연결: 실제로 떨어져 닥친 일, 발생한 사건
@@ -57,6 +62,7 @@
 
 ### casual
 
+- 발음: /ˈkæʒəwəl/
 - 구성: Latin `casualis` = by chance
 - 뜻: 우연한, 격식 없는
 - 어원적 연결: 계획보다 우연히 생긴 일에서 출발. 이후 엄격하지 않은 태도·복장으로 확장
@@ -64,6 +70,7 @@
 
 ### casually
 
+- 발음: /ˈkæʒəwəli/
 - 구성: `casual` + `-ly`
 - 뜻: 우연히; 격식 없이, 대수롭지 않게
 - 어원적 연결: 정해진 형식이나 계획에 얽매이지 않는 방식
@@ -71,6 +78,7 @@
 
 ### incidental
 
+- 발음: /ˌɪnsɪˈdɛntəl/
 - 구성: `incident` + `-al`
 - 뜻: 부수적인, 우연히 따르는
 - 어원적 연결: 중심 사건에 딸려 일어남
@@ -78,6 +86,7 @@
 
 ### coincidence
 
+- 발음: /koʊˈɪnsɪdəns/
 - 구성: `co-` = together + `incidence`
 - 뜻: 우연의 일치
 - 어원적 연결: 여러 일이 함께 떨어져 맞아떨어짐
@@ -85,6 +94,7 @@
 
 ### coincide
 
+- 발음: /ˌkoʊɪˈnsaɪd/
 - 구성: `co-` = together + `incidere` = fall upon
 - 뜻: 동시에 일어나다, 일치하다
 - 어원적 연결: 두 일이 같은 지점에 함께 떨어짐
@@ -92,6 +102,7 @@
 
 ### decadent
 
+- 발음: /ˈdɛkədənt/
 - 구성: `de-` = down + `cadere` = fall
 - 뜻: 퇴폐적인, 쇠퇴한
 - 어원적 연결: 아래로 떨어져 쇠퇴함
@@ -99,6 +110,7 @@
 
 ### decay
 
+- 발음: /dɪˈkeɪ/
 - 구성: Old French `decair` ← Latin `de-` + `cadere`
 - 뜻: 썩다, 쇠퇴하다
 - 어원적 연결: 아래로 떨어져 무너지고 상함
@@ -106,6 +118,7 @@
 
 ### cascade
 
+- 발음: /kæˈskeɪd/
 - 구성: Italian `cascata` ← Latin `cadere`
 - 뜻: 폭포처럼 쏟아지다, 연쇄적으로 이어지다
 - 어원적 연결: 물이 떨어져 내려감
@@ -113,6 +126,7 @@
 
 ### cadaver
 
+- 발음: /kəˈdævɚ/
 - 구성: Latin `cadaver`, 전통적으로 `cadere`와 연결됨
 - 뜻: 시체, 해부용 사체
 - 어원적 연결: 쓰러져 죽은 몸이라는 이미지

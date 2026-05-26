@@ -20,6 +20,7 @@
 
 ### dermatology
 
+- 발음: /ˌdɝməˈtɑlədʒi/
 - 구성: `dermat` = skin + [[logos]] = study
 - 뜻: 피부과학, 피부과
 - 어원적 연결: 피부와 피부 질환을 연구하는 분야
@@ -27,6 +28,7 @@
 
 ### dermatologist
 
+- 발음: /ˌdɝməˈtɑlədʒɪst/
 - 구성: `dermatology` + `-ist`
 - 뜻: 피부과 의사
 - 어원적 연결: 피부를 전문적으로 연구하고 치료하는 사람
@@ -34,6 +36,7 @@
 
 ### dermatological
 
+- 발음: /ˌdɝmətəˈlɑdʒɪkəl/
 - 구성: `dermatology` + `-ical`
 - 뜻: 피부과의, 피부학의
 - 어원적 연결: 피부 연구나 치료와 관련됨
@@ -41,6 +44,7 @@
 
 ### dermatitis
 
+- 발음: /ˌdɝməˈtaɪtɪs/
 - 구성: `dermat` = skin + `-itis` = inflammation
 - 뜻: 피부염
 - 어원적 연결: 피부에 생긴 염증
@@ -48,6 +52,7 @@
 
 ### dermis
 
+- 발음: /ˈdɝməs/
 - 구성: Greek `derma`
 - 뜻: 진피
 - 어원적 연결: 피부의 안쪽 층
@@ -55,6 +60,7 @@
 
 ### epidermis
 
+- 발음: /ˌɛpəˈdɝməs/
 - 구성: `epi-` = upon + `dermis`
 - 뜻: 표피
 - 어원적 연결: 피부 위쪽 바깥층
@@ -62,6 +68,7 @@
 
 ### epidermal
 
+- 발음: /ˌɛpəˈdɝməl/
 - 구성: `epidermis` + `-al`
 - 뜻: 표피의
 - 어원적 연결: 피부의 바깥층에 관련됨
@@ -69,6 +76,7 @@
 
 ### hypodermic
 
+- 발음: /ˌhaɪpəˈdɝmɪk/
 - 구성: `hypo-` = under + `derm`
 - 뜻: 피하의, 피하 주사의
 - 어원적 연결: 피부 아래로 들어감
@@ -83,6 +91,7 @@
 
 ### taxidermy
 
+- 발음: /ˈtæksəˌdɝmi/
 - 구성: Greek `taxis` = arrangement + `derma` = skin
 - 뜻: 박제술
 - 어원적 연결: 벗긴 가죽을 배열해 동물 모습을 보존함
@@ -90,6 +99,7 @@
 
 ### scleroderma
 
+- 발음: /ˌsklɪrəˈdɝmə/
 - 구성: Greek `skleros` = hard + `derma` = skin
 - 뜻: 경피증
 - 어원적 연결: 피부가 단단해지는 질환

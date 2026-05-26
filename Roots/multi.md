@@ -19,6 +19,7 @@
 
 ### multifaceted
 
+- 발음: /ˌmʌltiˈfæsətɪd/
 - 구성: `multi-` = many + `facet` = side, face
 - 뜻: 다면적인, 여러 측면을 가진
 - 연결: 여러 면을 가진 보석처럼, 문제나 사람이 여러 측면을 가짐
@@ -26,6 +27,7 @@
 
 ### multiple
 
+- 발음: /ˈmʌltəpəl/
 - 구성: Latin `multiplus` = manifold
 - 뜻: 여러 개의, 다수의; 배수
 - 연결: 하나보다 많은 수나 경우
@@ -33,6 +35,7 @@
 
 ### multiply
 
+- 발음: /ˈmʌltəˌplaɪ/
 - 구성: `multi-` = many + `-ply` = fold
 - 뜻: 곱하다, 증가하다
 - 연결: 수를 여러 겹으로 늘림
@@ -40,6 +43,7 @@
 
 ### multiplication
 
+- 발음: /ˌmʌltəpləˈkeɪʃən/
 - 구성: `multiply` + `-ation`
 - 뜻: 곱셈, 증식
 - 연결: 수나 개체가 여러 배로 늘어남
@@ -47,6 +51,7 @@
 
 ### multitude
 
+- 발음: /ˈmʌltəˌtud/
 - 구성: Latin `multitudo` = great number
 - 뜻: 다수, 군중
 - 연결: 많은 수가 모인 상태
@@ -54,6 +59,7 @@
 
 ### multinational
 
+- 발음: /ˌmʌˌltaɪˈnæʃənəl/
 - 구성: `multi-` = many + `national`
 - 뜻: 다국적의
 - 연결: 여러 나라에 걸쳐 있음
@@ -61,6 +67,7 @@
 
 ### multimedia
 
+- 발음: /ˌmʌltiˈmidiə/
 - 구성: `multi-` = many + `media`
 - 뜻: 멀티미디어
 - 연결: 여러 매체를 함께 사용함

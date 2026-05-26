@@ -19,6 +19,7 @@
 
 ### amplify
 
+- 발음: /ˈæmpləˌfaɪ/
 - 구성: Latin `amplus` = large, spacious + `-ify`
 - 뜻: 증폭하다, 확대하다, 자세히 설명하다
 - 어원적 연결: 소리·효과·설명을 더 크고 넓게 만듦
@@ -26,6 +27,7 @@
 
 ### amplification
 
+- 발음: /ˌæmpləfəˈkeɪʃən/
 - 구성: `amplify` + `-ation`
 - 뜻: 증폭, 확대, 부연 설명
 - 어원적 연결: 더 크게 만들거나 더 넓게 설명하는 과정
@@ -33,6 +35,7 @@
 
 ### amplifier
 
+- 발음: /ˈæmpləˌfaɪɚ/
 - 구성: `amplify` + `-er`
 - 뜻: 증폭기, 앰프
 - 어원적 연결: 소리나 신호를 크게 만드는 장치
@@ -40,6 +43,7 @@
 
 ### ample
 
+- 발음: /ˈæmpəl/
 - 구성: Latin `amplus` = large, abundant
 - 뜻: 충분한, 넉넉한, 넓은
 - 어원적 연결: 크고 넓어 부족하지 않음
@@ -47,6 +51,7 @@
 
 ### amply
 
+- 발음: /ˈæmpli/
 - 구성: `ample` + `-ly`
 - 뜻: 충분히, 넉넉히
 - 어원적 연결: 부족하지 않을 만큼 넓고 많게
@@ -54,6 +59,7 @@
 
 ### amplitude
 
+- 발음: /ˈæmpləˌtud/
 - 구성: Latin `amplitudo` = largeness, breadth
 - 뜻: 진폭, 크기, 넓이
 - 어원적 연결: 움직임이나 파동의 크기

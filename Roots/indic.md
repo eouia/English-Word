@@ -20,6 +20,7 @@
 
 ### index
 
+- 발음: /ˈɪndɛks/
 - 구성: Latin `index` = pointer, sign
 - 뜻: 색인, 지표, 지수; 색인을 만들다
 - 어원적 연결: 찾을 곳이나 상태를 가리켜 주는 표시
@@ -27,6 +28,7 @@
 
 ### indices
 
+- 발음: /ˈɪndɪˌsiz/
 - 구성: Latin plural of `index`
 - 뜻: 지표들, 지수들, 색인들
 - 어원적 연결: 여러 개의 가리키는 표시
@@ -34,6 +36,7 @@
 
 ### indexes
 
+- 발음: /ˈɪndɛksɪz/
 - 구성: English plural of `index`
 - 뜻: 색인들, 지표들
 - 어원적 연결: `indices`보다 일반적·실용적 복수형
@@ -41,6 +44,7 @@
 
 ### indicate
 
+- 발음: /ˈɪndəˌkeɪt/
 - 구성: `in-` + `dicare`
 - 뜻: 나타내다, 가리키다
 - 어원적 연결: 말이나 표시로 가리켜 알려 줌
@@ -48,6 +52,7 @@
 
 ### indication
 
+- 발음: /ˌɪndəˈkeɪʃən/
 - 구성: `indicate` + `-ion`
 - 뜻: 표시, 징후, 암시
 - 어원적 연결: 어떤 사실을 가리키는 신호
@@ -55,6 +60,7 @@
 
 ### indicator
 
+- 발음: /ˈɪndəˌkeɪtɚ/
 - 구성: `indicate` + `-or`
 - 뜻: 지표, 표시기
 - 어원적 연결: 상태나 방향을 가리키는 것
@@ -62,6 +68,7 @@
 
 ### indicative
 
+- 발음: /ˌɪˈndɪkətɪv/
 - 구성: `indicate` + `-ive`
 - 뜻: 나타내는, 암시하는; 직설법의
 - 어원적 연결: 어떤 사실을 가리켜 보임
@@ -76,6 +83,7 @@
 
 ### indict
 
+- 발음: /ˌɪˈndaɪt/
 - 구성: Vulgar Latin `indictare` = declare, accuse in writing
 - 뜻: 기소하다
 - 어원적 연결: 공식적으로 말해 혐의를 가리킴
@@ -83,6 +91,7 @@
 
 ### indictment
 
+- 발음: /ˌɪˈndaɪtmənt/
 - 구성: `indict` + `-ment`
 - 뜻: 기소, 기소장
 - 어원적 연결: 혐의를 공식적으로 적어 가리킨 문서
@@ -90,6 +99,7 @@
 
 ### indite
 
+- 발음: /ˌɪˈndaɪt/
 - 구성: same source as `indict`
 - 뜻: 글을 짓다, 쓰다
 - 어원적 연결: 말로 불러 쓰게 하거나 글로 선언함

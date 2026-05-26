@@ -20,6 +20,7 @@
 
 ### dominance
 
+- 발음: /ˈdɑmənəns/
 - 구성: `dominant` 계열 + `-ance`
 - 뜻: 지배, 우세, 우월성
 - 어원적 연결: 주인처럼 위에서 통제하거나 더 강한 위치를 차지함
@@ -27,6 +28,7 @@
 
 ### dominant
 
+- 발음: /ˈdɑmənənt/
 - 구성: Latin `dominans` = ruling
 - 뜻: 지배적인, 우세한; 우성의
 - 어원적 연결: 다른 것 위에 주인처럼 영향력을 행사함
@@ -34,6 +36,7 @@
 
 ### dominate
 
+- 발음: /ˈdɑməˌneɪt/
 - 구성: Latin `dominari` = rule, govern
 - 뜻: 지배하다, 장악하다, 압도하다
 - 어원적 연결: 주인처럼 통제권을 가짐
@@ -41,6 +44,7 @@
 
 ### domination
 
+- 발음: /ˌdɑməˈneɪʃən/
 - 구성: `dominate` + `-ion`
 - 뜻: 지배, 통제
 - 어원적 연결: 한쪽이 주인처럼 힘을 행사하는 상태
@@ -48,6 +52,7 @@
 
 ### dominion
 
+- 발음: /dəˈmɪnjən/
 - 구성: Latin `dominium` = ownership, rule
 - 뜻: 지배권, 영토, 통치권
 - 어원적 연결: 주인이 소유하고 다스리는 영역
@@ -55,6 +60,7 @@
 
 ### domain
 
+- 발음: /doʊˈmeɪn/
 - 구성: Old French `domaine` ← Latin `dominium` = ownership, property
 - 뜻: 영역, 분야, 영토; 도메인
 - 어원적 연결: 주인이 소유하거나 통제하는 범위
@@ -62,6 +68,7 @@
 
 ### domestic
 
+- 발음: /dəˈmɛstɪk/
 - 구성: Latin `domesticus` ← `domus` = house
 - 뜻: 가정의, 국내의
 - 어원적 연결: 집 안에 속한 것. 국가에서는 나라 안쪽으로 확장
@@ -69,6 +76,7 @@
 
 ### domesticate
 
+- 발음: /dəˈmɛstəˌkeɪt/
 - 구성: `domestic` + `-ate`
 - 뜻: 길들이다, 가축화하다
 - 어원적 연결: 야생의 것을 집 안의 관리 영역으로 들임
@@ -83,6 +91,7 @@
 
 ### condominium
 
+- 발음: /ˌkɑndəˈmɪniəm/
 - 구성: Latin `con-` = together + `dominium` = ownership
 - 뜻: 콘도미니엄, 공동 소유 주택
 - 어원적 연결: 함께 소유하는 주거 영역
@@ -90,6 +99,7 @@
 
 ### domineer
 
+- 발음: /ˌdɑməˈnɪr/
 - 구성: `domineer` ← `domineer`/`domineer over`, from `domin-`
 - 뜻: 거만하게 지배하다, 군림하다
 - 어원적 연결: 주인처럼 과도하게 통제하려 함

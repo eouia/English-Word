@@ -18,36 +18,42 @@
 
 ### [[liber#liberty|liberty]]
 
+- 발음: /ˈlɪbɚˌti/
 - 핵심 의미: 자유
 - 사용 맥락: `civil liberties`, `individual liberty`
 - 주의: `freedom`보다 격식 있고 정치·법적 권리의 느낌이 강함.
 
 ### [[equ#equality|equality]]
 
+- 발음: /ɪˈkwɑləti/
 - 핵심 의미: 평등
 - 사용 맥락: `racial equality`, `equality before the law`
 - 주의: 모두를 똑같이 대한다는 뜻뿐 아니라, 법적·사회적 지위의 동등함.
 
 ### [[equ#equity|equity]]
 
+- 발음: /ˈɛkwəti/
 - 핵심 의미: 형평성, 공정한 조정
 - 사용 맥락: `racial equity`, `equity in education`
 - 주의: `equality`가 같은 대우라면, `equity`는 출발점 차이를 고려해 공정한 결과를 추구하는 느낌.
 
 ### [[dign#dignity|dignity]]
 
+- 발음: /ˈdɪgnəti/
 - 핵심 의미: 존엄, 품위
 - 사용 맥락: `human dignity`, `dignity and respect`
 - 주의: 인권 담론에서는 인간이 모욕·박탈 없이 대우받아야 한다는 핵심 가치.
 
 ### [[jur#justice|justice]]
 
+- 발음: /ˈdʒʌstəs/
 - 핵심 의미: 정의, 사법
 - 사용 맥락: `social justice`, `racial justice`
 - 주의: 법원·사법이라는 뜻도 있지만, 인권운동에서는 불평등을 바로잡는 정의의 의미.
 
 ### [[clud#inclusion|inclusion]]
 
+- 발음: /ˌɪˈnkluʒən/
 - 핵심 의미: 포용, 포함
 - 사용 맥락: `social inclusion`, `inclusion policies`
 - 주의: 배제된 집단이 제도와 공동체 안에 실질적으로 참여하도록 하는 것.
@@ -56,54 +62,63 @@
 
 ### discrimination
 
+- 발음: /dɪˌskrɪməˈneɪʃən/
 - 핵심 의미: 차별
 - 사용 맥락: `racial discrimination`, `discrimination against minorities`
 - 주의: 일반 의미로는 구별 능력. 사회 맥락에서는 특정 집단을 불리하게 대우하는 것.
 
 ### [[jud#prejudice|prejudice]]
 
+- 발음: /ˈprɛdʒədɪs/
 - 핵심 의미: 편견
 - 사용 맥락: `racial prejudice`, `prejudice against immigrants`
 - 주의: 행동보다 태도·선입견에 초점. 차별 행동으로 이어질 수 있음.
 
 ### [[greg#segregation|segregation]]
 
+- 발음: /ˌsɛgrəˈgeɪʃən/
 - 핵심 의미: 분리, 인종 분리
 - 사용 맥락: `racial segregation`, `school segregation`
 - 주의: 단순 분리보다, 특정 집단을 제도적으로 따로 떼어 불평등하게 만드는 역사적 맥락이 강함.
 
 ### marginalize
 
+- 발음: /ˈmɑrdʒənəˌlaɪz/
 - 핵심 의미: 주변화하다, 소외시키다
 - 사용 맥락: `marginalized communities`, `be marginalized`
 - 주의: 사회의 중심 의사결정과 자원 접근에서 밀려나게 되는 것.
 
 ### oppression
 
+- 발음: /əˈprɛʃən/
 - 핵심 의미: 억압, 탄압
 - 사용 맥락: `political oppression`, `systemic oppression`
 - 주의: 개인적 불친절보다 권력과 제도가 지속적으로 누르는 상태.
 
 ### [[sequ#persecution|persecution]]
 
+- 발음: /ˌpɝsəˈkjuʃən/
 - 핵심 의미: 박해
 - 사용 맥락: `religious persecution`, `political persecution`
 - 주의: 신념, 정체성, 집단 소속 때문에 지속적으로 괴롭히거나 처벌하는 것.
 
 ### [[plic-explain#exploitation|exploitation]]
 
+- 발음: /ˌɛˌksplɔɪˈteɪʃən/
 - 핵심 의미: 착취, 이용
 - 사용 맥락: `labor exploitation`, `economic exploitation`
 - 주의: 일반 의미로는 활용. 사회운동 맥락에서는 약자의 노동·자원·처지를 부당하게 이용하는 것.
 
 ### inequality
 
+- 발음: /ˌɪnɪˈkwɑləti/
 - 핵심 의미: 불평등
 - 사용 맥락: `income inequality`, `structural inequality`
 - 주의: 단순 차이가 아니라 자원, 권리, 기회가 불공정하게 분배된 상태.
 
 ### [[par#disparity|disparity]]
 
+- 발음: /dɪˈspɛrəti/
 - 핵심 의미: 격차, 불균형
 - 사용 맥락: `racial disparities`, `health disparities`
 - 주의: 통계적·사회적 차이를 비교적 분석적으로 말할 때 자주 쓰임.
@@ -112,48 +127,56 @@
 
 ### advocacy
 
+- 발음: /ˈædvəkəsi/
 - 핵심 의미: 옹호, 지지 활동
 - 사용 맥락: `human rights advocacy`, `advocacy group`
 - 주의: 단순한 찬성보다, 정책·제도 변화를 위해 공개적으로 주장하고 행동하는 것.
 
 ### activist
 
+- 발음: /ˈæktəvəst/
 - 핵심 의미: 활동가
 - 사용 맥락: `civil rights activist`, `human rights activist`
 - 주의: 특정 사회·정치적 변화를 위해 조직적으로 행동하는 사람.
 
 ### grassroots
 
+- 발음: /ˈgræˈsruts/
 - 핵심 의미: 풀뿌리의, 대중 기반의
 - 사용 맥락: `grassroots movement`, `grassroots organizing`
 - 주의: 지도층이나 기관이 아니라 지역 주민과 보통 사람들에서 시작되는 운동.
 
 ### campaign
 
+- 발음: /kæˈmpeɪn/
 - 핵심 의미: 운동, 캠페인, 선거운동
 - 사용 맥락: `awareness campaign`, `campaign for equality`
 - 주의: 군사 작전이나 선거운동도 뜻함. 사회운동에서는 특정 목표를 위한 조직적 활동.
 
 ### mobilize
 
+- 발음: /ˈmoʊbəˌlaɪz/
 - 핵심 의미: 동원하다, 움직이게 하다
 - 사용 맥락: `mobilize supporters`, `mobilize public opinion`
 - 주의: 군사 동원뿐 아니라 사람, 자원, 여론을 행동하게 만드는 것.
 
 ### solidarity
 
+- 발음: /ˌsɑləˈdɛrəti/
 - 핵심 의미: 연대
 - 사용 맥락: `show solidarity`, `solidarity with workers`
 - 주의: 단순 동정이 아니라, 같은 목표를 위해 함께 서는 집단적 지지.
 
 ### coalition
 
+- 발음: /ˌkoʊəˈlɪʃən/
 - 핵심 의미: 연합, 연대체
 - 사용 맥락: `civil rights coalition`, `build a coalition`
 - 주의: 서로 다른 단체나 집단이 공동 목표를 위해 결합한 것.
 
 ### ally
 
+- 발음: /ˈælaɪ/
 - 핵심 의미: 동맹자, 지지자
 - 사용 맥락: `an ally of the movement`, `ally with marginalized groups`
 - 주의: 외교·전쟁의 동맹국뿐 아니라, 특정 권리 운동을 지지하는 사람이나 집단.
@@ -162,36 +185,42 @@
 
 ### protest
 
+- 발음: n. /ˈproʊˌtɛst/, v. /prəˈtɛst/
 - 핵심 의미: 시위, 항의하다
 - 사용 맥락: `peaceful protest`, `protest against injustice`
 - 주의: 단순 불평보다 공개적이고 정치·사회적 항의의 느낌.
 
 ### [[monstr#demonstration|demonstration]]
 
+- 발음: /ˌdɛməˈnstreɪʃən/
 - 핵심 의미: 시위, 시연, 증명
 - 사용 맥락: `mass demonstration`, `public demonstration`
 - 주의: 과학 실험 시연이나 증명이라는 뜻도 있음. 사회운동에서는 집회·시위.
 
 ### rally
 
+- 발음: /ˈræli/
 - 핵심 의미: 집회, 결집하다
 - 사용 맥락: `hold a rally`, `rally support`
 - 주의: 스포츠 반격이나 주가 회복도 뜻함. 운동 맥락에서는 지지자를 모으는 집회.
 
 ### [[mark#march|march]]
 
+- 발음: /ˈmɑrtʃ/
 - 핵심 의미: 행진, 행진하다
 - 사용 맥락: `civil rights march`, `march for justice`
 - 주의: 군사 행진도 가능하지만, 인권운동에서는 공개적 시위 행진.
 
 ### boycott
 
+- 발음: /ˈbɔɪˌkɑt/
 - 핵심 의미: 보이콧, 불매 운동
 - 사용 맥락: `boycott a company`, `consumer boycott`
 - 주의: 구매·참여를 거부해 압박하는 비폭력적 저항 방식.
 
 ### strike
 
+- 발음: /ˈstraɪk/
 - 핵심 의미: 파업, 공격하다
 - 사용 맥락: `labor strike`, `go on strike`
 - 주의: 전쟁 맥락에서는 타격. 노동·인권운동에서는 일을 중단해 요구를 관철하는 행동.
@@ -204,6 +233,7 @@
 
 ### [[sist#resistance|resistance]]
 
+- 발음: /rɪˈzɪstəns/
 - 핵심 의미: 저항
 - 사용 맥락: `nonviolent resistance`, `resistance movement`
 - 주의: 물리학의 저항도 뜻함. 사회운동에서는 권력이나 억압에 맞서는 행동.
@@ -212,48 +242,56 @@
 
 ### [[form#reform|reform]]
 
+- 발음: /rəˈfɔrm/
 - 핵심 의미: 개혁, 개혁하다
 - 사용 맥락: `legal reform`, `police reform`
 - 주의: 기존 제도를 완전히 없애기보다 고쳐 개선하는 의미가 강함.
 
 ### [[leg#legislation|legislation]]
 
+- 발음: /ˌlɛdʒəˈsleɪʃən/
 - 핵심 의미: 법률, 입법
 - 사용 맥락: `civil rights legislation`, `anti-discrimination legislation`
 - 주의: 특정 권리를 제도적으로 보장하거나 차별을 금지하는 법률 맥락에서 중요.
 
 ### enfranchise
 
+- 발음: /ɪˈnfræˌntʃaɪz/
 - 핵심 의미: 선거권을 주다, 권리를 부여하다
 - 사용 맥락: `enfranchise formerly excluded groups`
 - 주의: 특히 투표권을 부여한다는 뜻. 반대는 `disenfranchise`.
 
 ### disenfranchise
 
+- 발음: /dɪsɪˈnfræˌntʃaɪz/
 - 핵심 의미: 선거권을 박탈하다, 권리를 빼앗다
 - 사용 맥락: `disenfranchised voters`, `voter disenfranchisement`
 - 주의: 공식 박탈뿐 아니라 제도적으로 투표를 어렵게 만드는 경우에도 쓰임.
 
 ### [[present#representation|representation]]
 
+- 발음: /ˌrɛprəzɛˈnteɪʃən/
 - 핵심 의미: 대표성, 대변
 - 사용 맥락: `political representation`, `minority representation`
 - 주의: 단순 묘사라는 뜻도 있지만, 인권운동에서는 집단이 정치·문화적으로 대변되는 문제.
 
 ### [[em#empowerment|empowerment]]
 
+- 발음: /ɪˈmpaʊɚmənt/
 - 핵심 의미: 권한 부여, 역량 강화
 - 사용 맥락: `community empowerment`, `women's empowerment`
 - 주의: 약자나 공동체가 스스로 결정하고 행동할 힘을 갖게 되는 것.
 
 ### [[count#accountability|accountability]]
 
+- 발음: /əˈkaʊntəˌbɪlɪti/
 - 핵심 의미: 책임성, 설명 책임
 - 사용 맥락: `police accountability`, `government accountability`
 - 주의: 권한을 가진 기관이나 사람이 잘못에 대해 설명하고 책임지는 제도적 의미.
 
 ### [[rect#redress|redress]]
 
+- 발음: /rɪˈdrɛs/
 - 핵심 의미: 시정, 보상, 바로잡음
 - 사용 맥락: `seek redress`, `legal redress`
 - 주의: 피해나 부당함을 바로잡는 공식적 조치. 동사로도 쓰임.
@@ -292,6 +330,7 @@
 
 ### Apartheid
 
+- 발음: /əˈpɑˌrtaɪt/
 - 핵심 의미: 남아프리카공화국의 인종분리 정책
 - 사용 맥락: `the end of Apartheid`
 - 주의: 제도화된 인종분리와 백인 지배 체제를 뜻하는 고유 역사 용어.

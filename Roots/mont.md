@@ -9,6 +9,7 @@
 
 ### paramount
 
+- 발음: /ˈpɛrəˌmaʊnt/
 - 구성: Anglo-French `paramont` = above, superior < Old French `par` + `amont`
 - 뜻: 최고의, 가장 중요한, 우선적인
 - 어원적 연결: `amont`는 Latin `ad montem` = to the mountain, upward에서 옴. "위에 있음"에서 최고 지위나 중요성으로 확장
@@ -23,6 +24,7 @@
 
 ### mount
 
+- 발음: /ˈmaʊnt/
 - 구성: Old French `monter` < Latin `mons`, `montem`
 - 뜻: 오르다, 올라타다; 설치하다
 - 어원적 연결: 산이나 높은 곳으로 올라감
@@ -30,6 +32,7 @@
 
 ### mountain
 
+- 발음: /ˈmaʊntən/
 - 구성: Old French `montaigne` < Latin `montanea`
 - 뜻: 산
 - 어원적 연결: 높이 솟은 지형
@@ -37,6 +40,7 @@
 
 ### amount
 
+- 발음: /əˈmaʊnt/
 - 구성: Old French `amonter` = go up, rise, amount to
 - 뜻: 총액, 양; ~에 달하다
 - 어원적 연결: 수나 가치가 위로 올라가 어떤 총량에 이름
@@ -44,6 +48,7 @@
 
 ### surmount
 
+- 발음: /sɚˈmaʊnt/
 - 구성: `sur-` = over, above + `mount`
 - 뜻: 극복하다, 넘다
 - 어원적 연결: 산이나 장애물 위로 올라 넘어감

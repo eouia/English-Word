@@ -17,6 +17,7 @@
 
 ### brief
 
+- 발음: /ˈbrif/
 - 구성: Latin `brevis` = short
 - 뜻: 짧은, 간단한; 요약 보고서
 - 어원적 연결: 길게 늘이지 않고 짧게 정리함
@@ -24,6 +25,7 @@
 
 ### briefly
 
+- 발음: /ˈbrifli/
 - 구성: `brief` + `-ly`
 - 뜻: 간단히, 잠시
 - 어원적 연결: 짧은 방식으로 말하거나 짧은 시간 동안 일어남
@@ -31,6 +33,7 @@
 
 ### brevity
 
+- 발음: /ˈbrɛvəti/
 - 구성: Latin `brevitas` = shortness
 - 뜻: 간결함, 짧음
 - 어원적 연결: 말이나 글이 짧고 압축되어 있음
@@ -38,6 +41,7 @@
 
 ### abbreviate
 
+- 발음: /əˈbriviˌeɪt/
 - 구성: `ad-` = to + Latin `brevis` = short
 - 뜻: 축약하다, 줄여 쓰다
 - 어원적 연결: 긴 표현을 더 짧게 만듦
@@ -45,6 +49,7 @@
 
 ### abbreviation
 
+- 발음: /əˌbriviˈeɪʃən/
 - 구성: `abbreviate` + `-ion`
 - 뜻: 약어, 축약형
 - 어원적 연결: 짧게 줄인 말
@@ -52,6 +57,7 @@
 
 ### abridge
 
+- 발음: /əˈbrɪdʒ/
 - 구성: Old French `abregier` ← Latin `abbreviare`
 - 뜻: 줄이다, 축약하다
 - 어원적 연결: 긴 글이나 권리를 짧게 줄이거나 제한함
@@ -60,6 +66,7 @@
 
 ### unabridged
 
+- 발음: /ˌʌnəˈbrɪdʒd/
 - 구성: `un-` = not + `abridged`
 - 뜻: 축약하지 않은, 완전판의
 - 어원적 연결: 짧게 줄이지 않은 상태

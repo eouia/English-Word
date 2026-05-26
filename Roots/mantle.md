@@ -20,6 +20,7 @@
 
 ### dismantle
 
+- 발음: /dɪˈsmæntəl/
 - 구성: French `des-` = off + `manteler` = cloak
 - 뜻: 해체하다, 분해하다, 철거하다
 - 어원적 연결: 덮개나 방어물을 벗겨 내어 기능을 없앰
@@ -27,6 +28,7 @@
 
 ### dismantling
 
+- 발음: /dɪˈsmæntəlɪŋ/
 - 구성: `dismantle` + `-ing`
 - 뜻: 해체, 철거, 분해
 - 어원적 연결: 장비나 제도를 하나씩 벗겨 내는 과정
@@ -34,6 +36,7 @@
 
 ### dismantled
 
+- 발음: /dɪˈsmæntəld/
 - 구성: `dismantle` + `-ed`
 - 뜻: 해체된, 분해된
 - 어원적 연결: 덮개와 구조물이 벗겨져 기능을 잃은 상태
@@ -41,6 +44,7 @@
 
 ### mantle
 
+- 발음: /ˈmæntəl/
 - 구성: Old French `mantel` = cloak
 - 뜻: 망토, 덮개; 지위나 책임
 - 어원적 연결: 몸이나 사물을 덮는 것 → 맡아 걸치는 역할
@@ -48,6 +52,7 @@
 
 ### mantel
 
+- 발음: /ˈmæntəl/
 - 구성: Middle English `mantel` = mantle
 - 뜻: 벽난로 선반
 - 어원적 연결: 원래 벽난로 위를 덮거나 받치는 구조물

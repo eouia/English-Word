@@ -17,6 +17,7 @@
 
 ### fragment
 
+- 발음: /ˈfrægmənt/
 - 구성: Latin `fragmentum` < `frangere`
 - 의미: 조각, 파편
 - 어원적 연결: 깨져 나온 작은 부분
@@ -24,6 +25,7 @@
 
 ### fraction
 
+- 발음: /ˈfrækʃən/
 - 구성: Latin `fractio` = breaking
 - 의미: 분수, 일부
 - 어원적 연결: 전체를 깨듯 나누어 놓은 부분
@@ -31,6 +33,7 @@
 
 ### fracture
 
+- 발음: /ˈfræktʃɚ/
 - 구성: Latin `fractura`
 - 의미: 골절, 균열, 부러뜨리다
 - 어원적 연결: 뼈나 물체가 깨져 갈라짐
@@ -38,6 +41,7 @@
 
 ### fragile
 
+- 발음: /ˈfrædʒəl/
 - 구성: Latin `fragilis` < `frangere`
 - 의미: 깨지기 쉬운, 취약한
 - 어원적 연결: 쉽게 부서질 수 있음
@@ -52,6 +56,7 @@
 
 ### infraction
 
+- 발음: /ˌɪˈnfrækʃən/
 - 구성: `in-` = into/against + `fract`
 - 의미: 위반, 규칙 위반
 - 어원적 연결: 규칙을 깨뜨림

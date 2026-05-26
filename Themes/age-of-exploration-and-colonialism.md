@@ -6,24 +6,28 @@
 
 ### [[plore#exploration|exploration]]
 
+- 발음: /ˌɛksplɚˈeɪʃən/
 - 핵심 의미: 탐험, 탐사
 - 사용 맥락: `European exploration`, `age of exploration`
 - 주의: 미지의 지역을 조사한다는 중립적 표현이지만, 역사 맥락에서는 정복과 식민화로 이어지는 경우가 많음.
 
 ### [[ped#expedition|expedition]]
 
+- 발음: /ˌɛkspəˈdɪʃən/
 - 핵심 의미: 원정, 탐험대
 - 사용 맥락: `naval expedition`, `exploratory expedition`
 - 주의: 특정 목적을 위해 조직된 긴 여행이나 군사·탐사 활동.
 
 ### [[via#voyage|voyage]]
 
+- 발음: /ˈvɔɪədʒ/
 - 핵심 의미: 항해, 긴 여행
 - 사용 맥락: `transatlantic voyage`, `voyage of discovery`
 - 주의: 특히 바다를 건너는 긴 여행에 자주 쓰임.
 
 ### [[nav#navigation|navigation]]
 
+- 발음: /ˈnævəˈgeɪʃən/
 - 핵심 의미: 항해술, 길 찾기
 - 사용 맥락: `navigation techniques`, `celestial navigation`
 - 주의: 별, 지도, 나침반, 해류 등을 이용해 위치와 방향을 찾는 기술.
@@ -36,12 +40,14 @@
 
 ### [[pand#compass|compass]]
 
+- 발음: /ˈkʌmpəs/
 - 핵심 의미: 나침반
 - 사용 맥락: `magnetic compass`, `use a compass for navigation`
 - 주의: 항해 방향을 잡는 핵심 도구. 일반적으로는 범위라는 뜻도 있음.
 
 ### maritime
 
+- 발음: /ˈmɛrəˌtaɪm/
 - 핵심 의미: 해상의, 바다의
 - 사용 맥락: `maritime empire`, `maritime trade`
 - 주의: 바다와 관련된 무역, 항해, 해군, 제국을 설명할 때 쓰임.
@@ -56,48 +62,56 @@
 
 ### [[colon#colony|colony]]
 
+- 발음: /ˈkɑləni/
 - 핵심 의미: 식민지
 - 사용 맥락: `overseas colony`, `colonial settlement`
 - 주의: 본국이 정치·경제적으로 지배하는 해외 지역. 정착민과 원주민 관계를 함께 봐야 함.
 
 ### [[colon#colonialism|colonialism]]
 
+- 발음: /kəˈloʊniəˌlɪzəm/
 - 핵심 의미: 식민주의
 - 사용 맥락: `European colonialism`, `legacy of colonialism`
 - 주의: 한 나라가 다른 지역을 지배하고 자원, 노동, 정치 질서를 통제하는 체제와 이념.
 
 ### [[colon#colonization|colonization]]
 
+- 발음: /ˌkɑlənɪˈzeɪʃən/
 - 핵심 의미: 식민화, 개척 정착
 - 사용 맥락: `colonization of the Americas`, `settler colonization`
 - 주의: 외부 세력이 들어와 지배·정착 체제를 만드는 과정. 원주민의 토지 상실과 자주 연결됨.
 
 ### [[imper#imperialism|imperialism]]
 
+- 발음: /ˌɪˈmpɪriəˌlɪzəm/
 - 핵심 의미: 제국주의
 - 사용 맥락: `European imperialism`, `imperialist expansion`
 - 주의: 군사, 경제, 외교, 문화적 힘으로 다른 지역을 지배·종속시키는 정책이나 이념.
 
 ### [[imper#empire|empire]]
 
+- 발음: /ˈɛmpaɪɚ/
 - 핵심 의미: 제국
 - 사용 맥락: `Spanish Empire`, `Portuguese Empire`
 - 주의: 넓은 영토와 여러 민족을 중심 권력이 지배하는 체제.
 
 ### [[set#settlement|settlement]]
 
+- 발음: /ˈsɛtəlmənt/
 - 핵심 의미: 정착지, 정착
 - 사용 맥락: `colonial settlement`, `settler settlement`
 - 주의: 식민지 맥락에서는 외부 정착민의 거주지. 법률에서는 합의·배상금도 뜻함.
 
 ### settler
 
+- 발음: /ˈsɛtəlɚ/
 - 핵심 의미: 정착민
 - 사용 맥락: `European settlers`, `settler colony`
 - 주의: 새 지역에 이주해 정착한 사람. 원주민의 토지 상실과 권리 침해와 연결될 수 있음.
 
 ### [[plant#plantation|plantation]]
 
+- 발음: /ˌplæˈnteɪʃən/
 - 핵심 의미: 플랜테이션, 대농장
 - 사용 맥락: `sugar plantation`, `plantation economy`
 - 주의: 수출용 작물을 대규모로 재배하는 농장. 노예 노동과 강하게 연결됨.
@@ -106,12 +120,14 @@
 
 ### mercantilism
 
+- 발음: /mɚˈkæntəˌlɪzəm/
 - 핵심 의미: 중상주의
 - 사용 맥락: `mercantilist policy`, `European mercantilism`
 - 주의: 국가 부를 금·은, 무역 흑자, 식민지 통제로 늘리려 한 경제 사상.
 
 ### [[mono#monopoly|monopoly]]
 
+- 발음: /məˈnɑpəli/
 - 핵심 의미: 독점
 - 사용 맥락: `trade monopoly`, `monopoly company`
 - 주의: 특정 상품이나 지역 무역을 한 회사·국가가 장악하는 상태.
@@ -124,6 +140,7 @@
 
 ### [[mod#commodity|commodity]]
 
+- 발음: /kəˈmɑdəti/
 - 핵심 의미: 원자재, 상품
 - 사용 맥락: `colonial commodities`, `commodity trade`
 - 주의: 설탕, 담배, 면화, 향신료, 은처럼 대량 거래되는 표준화된 상품.
@@ -142,12 +159,14 @@
 
 ### [[plic-explain#exploitation|exploitation]]
 
+- 발음: /ˌɛˌksplɔɪˈteɪʃən/
 - 핵심 의미: 착취, 이용
 - 사용 맥락: `colonial exploitation`, `exploit natural resources`
 - 주의: 자원과 노동을 불공정하게 이용해 이익을 얻는 것. 중립적으로 자원 활용이라는 뜻도 가능.
 
 ### [[tract-pull#extraction|extraction]]
 
+- 발음: /ɛˈkstrækʃən/
 - 핵심 의미: 추출, 수탈
 - 사용 맥락: `resource extraction`, `extractive colonial economy`
 - 주의: 광물, 작물, 노동, 세금을 식민지에서 빼내 본국 이익으로 돌리는 구조를 설명할 때 중요함.
@@ -156,12 +175,14 @@
 
 ### [[gen#indigenous|indigenous]]
 
+- 발음: /ˌɪˈndɪdʒənəs/
 - 핵심 의미: 토착의, 원주민의
 - 사용 맥락: `Indigenous peoples`, `indigenous communities`
 - 주의: 특정 지역에 외부 지배 이전부터 살아온 사람들과 문화를 가리킴. 대문자 `Indigenous`는 정체성 표현에 자주 쓰임.
 
 ### [[quest#conquest|conquest]]
 
+- 발음: /ˈkɑŋkwɛst/
 - 핵심 의미: 정복
 - 사용 맥락: `Spanish conquest`, `conquest of the Americas`
 - 주의: 군사력으로 지역과 사람을 지배하게 되는 과정.
@@ -174,12 +195,14 @@
 
 ### displacement
 
+- 발음: /dɪˈspleɪsmənt/
 - 핵심 의미: 추방, 이주 강요, 대체
 - 사용 맥락: `displacement of Indigenous peoples`
 - 주의: 사람들이 살던 땅에서 밀려나거나 강제로 이동되는 것.
 
 ### enslavement
 
+- 발음: /ɛˈnsleɪvmənt/
 - 핵심 의미: 노예화
 - 사용 맥락: `enslavement of Africans`, `forced enslavement`
 - 주의: 사람을 자유 없는 재산처럼 만들고 강제 노동시키는 과정.
@@ -198,12 +221,14 @@
 
 ### depopulation
 
+- 발음: /dɪˌpɑpjəˈleɪʃən/
 - 핵심 의미: 인구 감소, 인구 격감
 - 사용 맥락: `depopulation of Indigenous communities`
 - 주의: 전염병, 전쟁, 강제 노동, 이주로 인구가 크게 줄어드는 현상.
 
 ### [[sist#resistance|resistance]]
 
+- 발음: /rɪˈzɪstəns/
 - 핵심 의미: 저항
 - 사용 맥락: `indigenous resistance`, `resistance to colonial rule`
 - 주의: 식민 통치, 수탈, 강제 개종, 토지 상실에 맞서는 다양한 행동.
@@ -212,30 +237,35 @@
 
 ### exchange
 
+- 발음: /ɪˈkstʃeɪndʒ/
 - 핵심 의미: 교환, 교류
 - 사용 맥락: `cultural exchange`, `Columbian Exchange`
 - 주의: 상품, 작물, 질병, 기술, 언어, 종교가 지역 사이로 이동하는 과정.
 
 ### [[fus#diffusion|diffusion]]
 
+- 발음: /dɪˈfjuʒən/
 - 핵심 의미: 확산, 전파
 - 사용 맥락: `cultural diffusion`, `diffusion of crops`
 - 주의: 문화·기술·작물이 사람과 교역망을 따라 퍼지는 것.
 
 ### [[vers#conversion|conversion]]
 
+- 발음: /kəˈnvɝʒən/
 - 핵심 의미: 개종, 전환
 - 사용 맥락: `religious conversion`, `missionary conversion`
 - 주의: 식민지 맥락에서는 기독교 선교와 강제·압박의 문제를 함께 볼 수 있음.
 
 ### missionary
 
+- 발음: /ˈmɪʃəˌnɛri/
 - 핵심 의미: 선교사
 - 사용 맥락: `Christian missionary`, `missionary activity`
 - 주의: 종교 전파를 목적으로 활동한 사람. 교육·의료와 함께 식민 권력과 얽히기도 함.
 
 ### [[simil#assimilation|assimilation]]
 
+- 발음: /əˌsɪməˈleɪʃən/
 - 핵심 의미: 동화
 - 사용 맥락: `forced assimilation`, `cultural assimilation`
 - 주의: 지배 문화에 맞추도록 언어, 종교, 생활 방식을 바꾸게 하는 과정.
@@ -248,6 +278,7 @@
 
 ### [[dia#diaspora|diaspora]]
 
+- 발음: /daɪˈæspɚə/
 - 핵심 의미: 디아스포라, 흩어진 이주 공동체
 - 사용 맥락: `African diaspora`, `diasporic culture`
 - 주의: 강제 이주나 이민으로 고향 밖에 흩어진 사람들과 그 후손 공동체.
@@ -262,18 +293,21 @@
 
 ### [[sovereign#sovereignty|sovereignty]]
 
+- 발음: /ˈsɑvrənti/
 - 핵심 의미: 주권
 - 사용 맥락: `national sovereignty`, `Indigenous sovereignty`
 - 주의: 스스로 통치하고 결정할 권리. 식민지 독립과 원주민 권리 논의에서 중요함.
 
 ### autonomy
 
+- 발음: /ɔˈtɑnəmi/
 - 핵심 의미: 자치, 자율성
 - 사용 맥락: `political autonomy`, `regional autonomy`
 - 주의: 완전한 독립은 아니더라도 스스로 결정할 권한을 갖는 상태.
 
 ### [[lect#legacy|legacy]]
 
+- 발음: /ˈlɛgəsi/
 - 핵심 의미: 유산, 남긴 영향
 - 사용 맥락: `legacy of colonialism`, `colonial legacy`
 - 주의: 식민 지배가 남긴 언어, 국경, 경제 구조, 불평등, 문화적 상처를 가리킬 수 있음.

@@ -18,6 +18,7 @@
 
 ### concrete
 
+- 발음: /kəˈnkrit/
 - 구성: `con-` + `crescere`
 - 뜻: 구체적인, 콘크리트
 - 어원적 연결: 여러 요소가 함께 자라거나 굳어 한 덩어리가 됨
@@ -32,6 +33,7 @@
 
 ### increase
 
+- 발음: n. /ˈɪˌnkris/, v. /ˌɪˈnkris/
 - 구성: `in-` + `crescere`
 - 뜻: 증가하다
 - 어원적 연결: 안에서 자라 커짐
@@ -39,6 +41,7 @@
 
 ### decrease
 
+- 발음: n. /ˈdiˌkris/, v. /dɪˈkris/
 - 구성: `de-` + `crescere`
 - 뜻: 감소하다
 - 어원적 연결: 성장이나 크기가 아래로 줄어듦
@@ -46,6 +49,7 @@
 
 ### crescent
 
+- 발음: /ˈkrɛsənt/
 - 구성: 라틴어 `crescens` = 자라는
 - 뜻: 초승달, 초승달 모양
 - 어원적 연결: 점점 커지는 달
@@ -53,6 +57,7 @@
 
 ### crescendo
 
+- 발음: /krɪˈʃɛndoʊ/
 - 구성: Italian `crescendo` = growing
 - 뜻: 점점 커짐, 최고조
 - 어원적 연결: 소리나 강도가 점점 자람
@@ -60,6 +65,7 @@
 
 ### accrue
 
+- 발음: /əˈkru/
 - 구성: Old French `acreue`, Latin `accrescere`
 - 뜻: 쌓이다, 발생하다
 - 어원적 연결: 시간이 지나며 더해져 자람
@@ -67,6 +73,7 @@
 
 ### accretion
 
+- 발음: /əˈkriʃən/
 - 구성: Latin `accrescere` 계열
 - 뜻: 축적, 부착 성장
 - 어원적 연결: 조금씩 붙어 자라 커짐
@@ -74,6 +81,7 @@
 
 ### recruit
 
+- 발음: /rəˈkrut/
 - 구성: French `recrue`, Latin `recrescere`
 - 뜻: 신입, 모집하다
 - 어원적 연결: 다시 자라 보충됨

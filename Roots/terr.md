@@ -9,6 +9,7 @@
 
 ### terrain
 
+- 발음: /tɚˈeɪn/
 - 구성: Latin `terra`
 - 뜻: 지형, 지세
 - 어원적 연결: 땅의 모양과 상태
@@ -16,6 +17,7 @@
 
 ### territory
 
+- 발음: /ˈtɛrɪˌtɔri/
 - 구성: Latin `terra` + `-ory`
 - 뜻: 영토, 영역
 - 어원적 연결: 특정 땅의 범위
@@ -23,6 +25,7 @@
 
 ### terrestrial
 
+- 발음: /tɚˈɛstriəl/
 - 구성: Latin `terra` + `-ial`
 - 뜻: 지구의, 육지의
 - 어원적 연결: 하늘이나 바다가 아니라 땅에 속함
@@ -30,6 +33,7 @@
 
 ### subterranean
 
+- 발음: /səbtɚˈeɪniən/
 - 구성: `sub-` = under + Latin `terra`
 - 뜻: 지하의
 - 어원적 연결: 땅 아래에 있음
@@ -37,6 +41,7 @@
 
 ### Mediterranean
 
+- 발음: /ˌmɛdətɚˈeɪniən/
 - 구성: Latin `medius` = middle + `terra`
 - 뜻: 지중해의
 - 어원적 연결: 땅들 사이에 있는 바다

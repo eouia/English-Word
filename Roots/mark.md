@@ -28,6 +28,7 @@
 
 ### demarcation
 
+- 발음: /ˌdimɑˈrkeɪʃən/
 - 구성: `demarcate` + `-ion`
 - 뜻: 경계 설정, 구분선
 - 어원적 연결: 표시로 갈라 놓은 경계
@@ -35,6 +36,7 @@
 
 ### mark
 
+- 발음: /ˈmɑrk/
 - 구성: Germanic `marka` = boundary, sign
 - 뜻: 표시, 자국; 표시하다
 - 어원적 연결: 알아볼 수 있도록 남긴 흔적이나 경계 표식
@@ -42,6 +44,7 @@
 
 ### march
 
+- 발음: /ˈmɑrtʃ/
 - 구성: Old French `marche` = boundary, frontier
 - 뜻: 변경, 접경지, 국경 지대
 - 어원적 연결: 나라나 영지의 가장자리를 표시하는 경계 지역
@@ -49,6 +52,7 @@
 
 ### marcher
 
+- 발음: /ˈmɑrtʃɚ/
 - 구성: `march` = borderland + `-er`
 - 뜻: 변경 지대의, 접경 지역의
 - 어원적 연결: 중심부가 아니라 경계에 놓인 지역을 가리킴
@@ -56,6 +60,7 @@
 
 ### marquess / marquis
 
+- 발음: `marquess` /ˈmɑrkwəs/; `marquis` /ˌmɑˈrki/
 - 구성: Old French `marchis` = ruler of a border area
 - 뜻: 후작
 - 어원적 연결: 원래는 왕국의 변경 지대를 맡은 귀족
@@ -63,6 +68,7 @@
 
 ### margrave
 
+- 발음: /ˈmɑˌrgreɪv/
 - 구성: German `Markgraf` = count of the march
 - 뜻: 변경백
 - 어원적 연결: 접경지 `Mark`를 다스리던 백작급 영주
@@ -70,6 +76,7 @@
 
 ### marker
 
+- 발음: /ˈmɑrkɚ/
 - 구성: `mark` + `-er`
 - 뜻: 표시물, 표지; 마커펜
 - 어원적 연결: 위치나 의미를 알아보게 하는 표시
@@ -77,6 +84,7 @@
 
 ### landmark
 
+- 발음: /ˈlæˌndmɑrk/
 - 구성: `land` + `mark`
 - 뜻: 주요 지형지물, 획기적 사건
 - 어원적 연결: 땅에서 위치를 알아보게 하는 표시
@@ -84,6 +92,7 @@
 
 ### benchmark
 
+- 발음: /ˈbɛˌntʃmɑrk/
 - 구성: `bench` + `mark`
 - 뜻: 기준점, 벤치마크
 - 어원적 연결: 원래는 측량 기준으로 삼는 표식. 이후 성과 비교 기준으로 확장
@@ -91,6 +100,7 @@
 
 ### trademark
 
+- 발음: /ˈtreɪˌdmɑrk/
 - 구성: `trade` + `mark`
 - 뜻: 상표; 특징
 - 어원적 연결: 상품이나 회사를 알아보게 하는 거래상의 표시
@@ -98,6 +108,7 @@
 
 ### hallmark
 
+- 발음: /ˈhɑˌlmɑrk/
 - 구성: `hall` + `mark`
 - 뜻: 특징, 품질 보증 표시
 - 어원적 연결: 원래 금은 제품의 품질을 보증하는 공식 표시
@@ -105,6 +116,7 @@
 
 ### remarkable
 
+- 발음: /rɪˈmɑrkəbəl/
 - 구성: `remark` + `-able`
 - 뜻: 주목할 만한, 놀라운
 - 어원적 연결: 특별히 표시하거나 언급할 만큼 눈에 띔
@@ -112,6 +124,7 @@
 
 ### remark
 
+- 발음: /rɪˈmɑrk/
 - 구성: `re-` = again/intensively + `mark`
 - 뜻: 말하다, 언급하다; 발언
 - 어원적 연결: 눈에 띄는 점을 표시하듯 말로 짚음

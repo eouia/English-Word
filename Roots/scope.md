@@ -19,6 +19,7 @@
 
 ### telescope
 
+- 발음: /ˈtɛləˌskoʊp/
 - 구성: Greek `tele-` = far + `scope` = look
 - 뜻: 망원경
 - 연결: 멀리 있는 것을 보게 해 주는 도구
@@ -26,6 +27,7 @@
 
 ### telescopic
 
+- 발음: /ˌtɛləˈskɔpɪk/
 - 구성: `telescope` + `-ic`
 - 뜻: 망원경의; 접이식의
 - 연결: 멀리 보는 도구와 관련되거나, 망원경처럼 접고 펼 수 있음
@@ -33,6 +35,7 @@
 
 ### scope
 
+- 발음: /ˈskoʊp/
 - 구성: Greek `skopein` = look at, examine
 - 뜻: 범위, 시야; 살펴보다
 - 연결: 살펴볼 수 있는 시야나 범위
@@ -40,6 +43,7 @@
 
 ### microscope
 
+- 발음: /ˈmaɪkrəˌskoʊp/
 - 구성: `micro-` = small + `scope`
 - 뜻: 현미경
 - 연결: 작은 것을 살펴보는 도구
@@ -47,6 +51,7 @@
 
 ### microscopic
 
+- 발음: /ˌmaɪkrəˈskɑpɪk/
 - 구성: `microscope` + `-ic`
 - 뜻: 현미경의, 아주 작은
 - 연결: 현미경으로 봐야 할 만큼 작음
@@ -54,6 +59,7 @@
 
 ### periscope
 
+- 발음: /ˈpɛrəˌskoʊp/
 - 구성: `peri-` = around + `scope`
 - 뜻: 잠망경
 - 연결: 주변을 둘러볼 수 있게 해 주는 도구
@@ -61,6 +67,7 @@
 
 ### horoscope
 
+- 발음: /ˈhɔrəˌskoʊp/
 - 구성: Greek `hora` = hour, time + `scope`
 - 뜻: 별자리 운세, 점성술 도표
 - 연결: 태어난 시간의 별자리 배치를 살펴봄
@@ -68,6 +75,7 @@
 
 ### kaleidoscope
 
+- 발음: /kəˈlaɪdəˌskoʊp/
 - 구성: Greek `kalos` = beautiful + `eidos` = form + `scope`
 - 뜻: 만화경, 계속 변하는 장면
 - 연결: 아름다운 모양을 들여다보는 도구

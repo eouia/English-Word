@@ -20,6 +20,7 @@
 
 ### imminent
 
+- 발음: /ˈɪmənənt/
 - 구성: Latin `imminere` = overhang, impend
 - 뜻: 임박한, 곧 닥칠
 - 어원적 연결: 무언가가 머리 위로 드리워져 곧 닥칠 듯한 상태
@@ -27,6 +28,7 @@
 
 ### imminence
 
+- 발음: /ˈɪmənəns/
 - 구성: `imminent` + `-ence`
 - 뜻: 임박함, 절박하게 다가옴
 - 어원적 연결: 사건이 가까이 드리워진 상태
@@ -34,6 +36,7 @@
 
 ### imminently
 
+- 발음: /ˈɪmənəntli/
 - 구성: `imminent` + `-ly`
 - 뜻: 곧, 임박하여
 - 어원적 연결: 거의 닥쳐온 방식
@@ -41,6 +44,7 @@
 
 ### eminent
 
+- 발음: /ˈɛmənənt/
 - 구성: Latin `eminere` = stand out, project
 - 뜻: 저명한, 뛰어난
 - 어원적 연결: 남들 위로 튀어나와 두드러짐
@@ -48,6 +52,7 @@
 
 ### eminence
 
+- 발음: /ˈɛmənəns/
 - 구성: `eminent` + `-ence`
 - 뜻: 저명함, 탁월함; 높은 곳
 - 어원적 연결: 높이 솟아 두드러진 상태
@@ -55,6 +60,7 @@
 
 ### prominent
 
+- 발음: /ˈprɑmənənt/
 - 구성: Latin `prominere` = jut forward, stand out
 - 뜻: 두드러진, 저명한
 - 어원적 연결: 앞쪽으로 튀어나와 눈에 잘 띔
@@ -62,6 +68,7 @@
 
 ### prominence
 
+- 발음: /ˈprɑmənəns/
 - 구성: `prominent` + `-ence`
 - 뜻: 두드러짐, 중요성, 명성
 - 어원적 연결: 표면이나 무리에서 앞으로 튀어나와 눈에 띄는 상태
@@ -69,6 +76,7 @@
 
 ### menace
 
+- 발음: /ˈmɛnəs/
 - 구성: Old French `menace` ← Latin `minacia` = threat
 - 뜻: 위협, 위협하다
 - 어원적 연결: 돌출한 위협이 가까이 다가오는 느낌

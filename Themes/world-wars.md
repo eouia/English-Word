@@ -6,42 +6,49 @@
 
 ### alliance
 
+- 발음: /əˈlaɪəns/
 - 핵심 의미: 동맹
 - 사용 맥락: `military alliance`, `alliance system`
 - 주의: 국가들이 상호 방어와 협력을 약속한 관계. 제1차 세계대전 전 유럽의 동맹 체제가 확전의 배경이 됨.
 
 ### [[nat-nation#nationalism|nationalism]]
 
+- 발음: /ˈnæʃənəˌlɪzəm/
 - 핵심 의미: 민족주의
 - 사용 맥락: `ethnic nationalism`, `nationalist movement`
 - 주의: 민족의 독립, 영광, 국가 정체성을 강조하는 이념. 식민지 독립운동과 침략적 팽창 모두와 연결될 수 있음.
 
 ### militarism
 
+- 발음: /ˈmɪlətɚˌɪzəm/
 - 핵심 의미: 군국주의
 - 사용 맥락: `rise of militarism`, `militarist policy`
 - 주의: 군사력과 군대의 가치를 과도하게 중시하는 정치·사회 분위기.
 
 ### [[imper#imperialism|imperialism]]
 
+- 발음: /ˌɪˈmpɪriəˌlɪzəm/
 - 핵심 의미: 제국주의
 - 사용 맥락: `European imperialism`, `imperialist rivalry`
 - 주의: 식민지와 자원을 둘러싼 경쟁이 세계대전의 배경 중 하나로 자주 설명됨.
 
 ### appeasement
 
+- 발음: /əˈpizmənt/
 - 핵심 의미: 유화 정책
 - 사용 맥락: `policy of appeasement`, `appease an aggressor`
 - 주의: 침략적 국가의 요구를 일부 받아들여 전쟁을 피하려는 정책. 제2차 세계대전 전 영국·프랑스 정책과 연결됨.
 
 ### aggression
 
+- 발음: /əˈgrɛʃən/
 - 핵심 의미: 침략, 공격성
 - 사용 맥락: `military aggression`, `acts of aggression`
 - 주의: 국제정치에서는 다른 나라를 무력으로 위협하거나 공격하는 행위.
 
 ### mobilization
 
+- 발음: /ˌmoʊbələˈzeɪʃən/
 - 핵심 의미: 동원
 - 사용 맥락: `military mobilization`, `wartime mobilization`
 - 주의: 병력, 산업, 자원, 국민을 전쟁 수행에 맞게 조직하는 것.
@@ -56,42 +63,49 @@
 
 ### stalemate
 
+- 발음: /ˈsteɪˌlmeɪt/
 - 핵심 의미: 교착 상태
 - 사용 맥락: `military stalemate`, `break the stalemate`
 - 주의: 어느 쪽도 결정적 승리를 얻지 못하고 상황이 멈춘 상태.
 
 ### attrition
 
+- 발음: /əˈtrɪʃən/
 - 핵심 의미: 소모, 소모전
 - 사용 맥락: `war of attrition`, `attrition strategy`
 - 주의: 상대의 병력과 자원을 계속 소모시켜 이기려는 방식.
 
 ### offensive
 
+- 발음: /əˈfɛnsɪv/
 - 핵심 의미: 공세, 공격적인
 - 사용 맥락: `launch an offensive`, `military offensive`
 - 주의: 군사적으로는 공격 작전. 일반적으로는 불쾌감을 주는이라는 뜻도 있음.
 
 ### front
 
+- 발음: /ˈfrʌnt/
 - 핵심 의미: 전선, 앞면, 기상 전선
 - 사용 맥락: `Western Front`, `Eastern Front`
 - 주의: 전쟁에서는 적과 맞서는 전투 지역. 기상학에서는 기단 경계.
 
 ### blockade
 
+- 발음: /ˌblɑˈkeɪd/
 - 핵심 의미: 봉쇄
 - 사용 맥락: `naval blockade`, `blockade of ports`
 - 주의: 항구나 해상 교통을 막아 물자와 식량 공급을 차단하는 전략.
 
 ### blitzkrieg
 
+- 발음: /ˈblɪˌtskrig/
 - 핵심 의미: 전격전
 - 사용 맥락: `German blitzkrieg`, `blitzkrieg tactics`
 - 주의: 항공기, 전차, 기계화 부대의 빠른 집중 공격으로 적 방어를 무너뜨리는 전략.
 
 ### invasion
 
+- 발음: /ˌɪˈnveɪʒən/
 - 핵심 의미: 침공, 침입
 - 사용 맥락: `invasion of Poland`, `Allied invasion`
 - 주의: 군대가 다른 나라나 지역에 들어가 공격하는 것.
@@ -106,36 +120,42 @@
 
 ### rationing
 
+- 발음: /ˈræʃənɪŋ/
 - 핵심 의미: 배급제
 - 사용 맥락: `wartime rationing`, `food rationing`
 - 주의: 전쟁 중 부족한 식량과 물자를 일정량씩 나누어 공급하는 제도.
 
 ### [[propag#propaganda|propaganda]]
 
+- 발음: /ˌprɑpəˈgændə/
 - 핵심 의미: 선전, 선동성 정보
 - 사용 맥락: `wartime propaganda`, `propaganda posters`
 - 주의: 국민 동원, 적대감 조성, 사기 유지 등을 위해 정보를 조직적으로 조작하거나 강조하는 것.
 
 ### censorship
 
+- 발음: /ˈsɛnsɚˌʃɪp/
 - 핵심 의미: 검열
 - 사용 맥락: `wartime censorship`, `press censorship`
 - 주의: 군사 정보, 반전 여론, 정부 비판이 퍼지는 것을 막기 위해 표현과 보도를 제한하는 것.
 
 ### conscription
 
+- 발음: /kəˈnskrɪpʃən/
 - 핵심 의미: 징병
 - 사용 맥락: `military conscription`, `conscription during wartime`
 - 주의: 국가가 법으로 병역을 강제하는 제도. 미국식으로는 `draft`도 자주 씀.
 
 ### [[civ#civilian|civilian]]
 
+- 발음: /səˈvɪljən/
 - 핵심 의미: 민간인
 - 사용 맥락: `civilian casualties`, `civilian population`
 - 주의: 군인이 아닌 사람. 세계대전에서는 민간인 피해가 전쟁의 핵심 주제가 됨.
 
 ### casualty
 
+- 발음: /ˈkæʒəwəlti/
 - 핵심 의미: 사상자, 피해자
 - 사용 맥락: `civilian casualties`, `casualty figures`
 - 주의: 죽은 사람만이 아니라 부상자, 실종자까지 포함할 수 있음.
@@ -144,42 +164,49 @@
 
 ### fascism
 
+- 발음: /ˈfæˌʃɪzəm/
 - 핵심 의미: 파시즘
 - 사용 맥락: `Italian fascism`, `fascist regime`
 - 주의: 극단적 민족주의, 권위주의, 반공주의, 지도자 숭배, 폭력적 정치 동원을 특징으로 함.
 
 ### totalitarianism
 
+- 발음: /ˌtoʊˌtæləˈtɛriəˌnɪzəm/
 - 핵심 의미: 전체주의
 - 사용 맥락: `totalitarian state`, `totalitarian control`
 - 주의: 국가가 정치, 사회, 문화, 사상, 개인 생활까지 광범위하게 통제하려는 체제.
 
 ### dictatorship
 
+- 발음: /dɪˈkteɪtɚˌʃɪp/
 - 핵심 의미: 독재, 독재정권
 - 사용 맥락: `military dictatorship`, `dictatorial rule`
 - 주의: 한 사람이나 소수 집단이 권력을 집중해 통치하는 체제.
 
 ### [[auctor#authoritarian|authoritarian]]
 
+- 발음: /əˌθɔrəˈtɛriən/
 - 핵심 의미: 권위주의적인
 - 사용 맥락: `authoritarian regime`, `authoritarian leader`
 - 주의: 자유로운 정치 참여와 비판을 억누르고 권위와 질서를 강조하는 통치 방식.
 
 ### genocide
 
+- 발음: /ˈdʒɛnəˌsaɪd/
 - 핵심 의미: 집단학살
 - 사용 맥락: `genocide during wartime`, `prevent genocide`
 - 주의: 특정 민족, 인종, 종교 집단을 의도적으로 파괴하려는 범죄.
 
 ### [[sequ#persecution|persecution]]
 
+- 발음: /ˌpɝsəˈkjuʃən/
 - 핵심 의미: 박해
 - 사용 맥락: `persecution of Jews`, `religious persecution`
 - 주의: 집단의 정체성, 신앙, 사상을 이유로 조직적으로 탄압하는 것.
 
 ### [[sist#resistance|resistance]]
 
+- 발음: /rɪˈzɪstəns/
 - 핵심 의미: 저항, 저항운동
 - 사용 맥락: `French Resistance`, `resistance movement`
 - 주의: 점령군이나 독재 정권에 맞서는 비밀·공개 저항 활동.
@@ -188,36 +215,42 @@
 
 ### [[arma#armistice|armistice]]
 
+- 발음: /ˈɑrməstəs/
 - 핵심 의미: 휴전
 - 사용 맥락: `sign an armistice`, `Armistice Day`
 - 주의: 전투를 멈추는 합의. 평화조약 `peace treaty`와는 구분.
 
 ### [[render#surrender|surrender]]
 
+- 발음: /sɚˈɛndɚ/
 - 핵심 의미: 항복, 항복하다
 - 사용 맥락: `unconditional surrender`, `surrender of Germany`
 - 주의: 군사적 저항을 포기하고 상대 조건을 받아들이는 것.
 
 ### reparations
 
+- 발음: /ˌrɛpɚˈeɪʃənz/
 - 핵심 의미: 배상금, 전쟁 배상
 - 사용 맥락: `war reparations`, `German reparations`
 - 주의: 전쟁 피해에 대해 패전국이 지불하도록 요구받은 돈이나 보상.
 
 ### occupation
 
+- 발음: /ˌɑkjəˈpeɪʃən/
 - 핵심 의미: 점령, 직업
 - 사용 맥락: `military occupation`, `occupation of Germany`
 - 주의: 군대가 다른 지역을 통제하는 것. 일반적으로는 직업이라는 뜻도 있음.
 
 ### demilitarization
 
+- 발음: /diˌmɪlətɚəˈzeɪʃən/
 - 핵심 의미: 비무장화, 군사력 해체
 - 사용 맥락: `demilitarization after the war`
 - 주의: 군사 시설, 무기, 병력을 줄이거나 제거하는 정책.
 
 ### reconstruction
 
+- 발음: /ˌrikəˈnstrʌkʃən/
 - 핵심 의미: 재건
 - 사용 맥락: `postwar reconstruction`, `economic reconstruction`
 - 주의: 전쟁으로 파괴된 도시, 경제, 정치 제도를 다시 세우는 과정.
@@ -230,6 +263,7 @@
 
 ### superpower
 
+- 발음: /ˌsupɚˈpaʊɚ/
 - 핵심 의미: 초강대국
 - 사용 맥락: `the two superpowers`, `superpower rivalry`
 - 주의: 제2차 세계대전 이후 미국과 소련처럼 군사·경제·외교 영향력이 압도적인 국가.
@@ -274,6 +308,7 @@
 
 ### Holocaust
 
+- 발음: /ˈhɑləˌkɔst/
 - 핵심 의미: 홀로코스트
 - 사용 맥락: `the Holocaust under Nazi Germany`
 - 주의: 나치 독일이 유대인과 여러 집단을 조직적으로 학살한 사건. 단순한 전쟁 피해와 구분되는 집단학살.

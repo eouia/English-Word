@@ -17,6 +17,7 @@ Greek `algos`는 고통.
 
 ### nostalgia
 
+- 발음: /nɔˈstældʒə/
 - 구성: Greek `nostos` = return home + `algos` = pain
 - 뜻: 향수, 과거에 대한 그리움
 - 연결: 돌아갈 수 없는 집이나 과거를 그리워하며 느끼는 아픔
@@ -24,6 +25,7 @@ Greek `algos`는 고통.
 
 ### nostalgic
 
+- 발음: /nɔˈstældʒɪk/
 - 구성: `nostalgia` + `-ic`
 - 뜻: 향수를 불러일으키는, 그리워하는
 - 연결: 과거나 고향을 떠올리게 하여 그리움을 일으킴

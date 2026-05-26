@@ -20,6 +20,7 @@
 
 ### diminish
 
+- 발음: /dɪˈmɪnɪʃ/
 - 구성: Latin `di-/de-` = apart/down + `minuere` = lessen
 - 뜻: 줄이다, 감소시키다; 줄어들다
 - 어원적 연결: 크기나 힘을 더 작은 상태로 낮춤
@@ -27,6 +28,7 @@
 
 ### diminution
 
+- 발음: /ˌdɪməˈnuʃən/
 - 구성: Latin `diminutio` = lessening
 - 뜻: 감소, 축소
 - 어원적 연결: 작아지는 과정이나 결과
@@ -34,6 +36,7 @@
 
 ### diminutive
 
+- 발음: /dɪˈmɪnjətɪv/
 - 구성: Latin `diminutivus` = pertaining to lessening
 - 뜻: 아주 작은; 지소사
 - 어원적 연결: 작게 줄인 형태
@@ -41,6 +44,7 @@
 
 ### minor
 
+- 발음: /ˈmaɪnɚ/
 - 구성: Latin `minor` = smaller, less
 - 뜻: 작은, 덜 중요한; 미성년자; 부전공
 - 어원적 연결: 더 작은 쪽, 더 낮은 중요도
@@ -48,6 +52,7 @@
 
 ### minority
 
+- 발음: /maɪˈnɔrəti/
 - 구성: `minor` + `-ity`
 - 뜻: 소수, 소수 집단
 - 어원적 연결: 수가 더 적은 쪽
@@ -55,6 +60,7 @@
 
 ### minus
 
+- 발음: /ˈmaɪnəs/
 - 구성: Latin `minus` = less
 - 뜻: 빼기, 음의; ~이 없는
 - 어원적 연결: 어떤 양에서 덜어 낸 상태
@@ -62,6 +68,7 @@
 
 ### minimum
 
+- 발음: /ˈmɪnəməm/
 - 구성: Latin `minimum` = smallest
 - 뜻: 최저, 최소
 - 어원적 연결: 가장 작은 한계
@@ -69,6 +76,7 @@
 
 ### minimal
 
+- 발음: /ˈmɪnəməl/
 - 구성: `minimum` 계열 + `-al`
 - 뜻: 최소의, 아주 적은
 - 어원적 연결: 필요한 양을 가장 작게 줄인 상태
@@ -76,6 +84,7 @@
 
 ### minimize
 
+- 발음: /ˈmɪnəˌmaɪz/
 - 구성: `minimum` 계열 + `-ize`
 - 뜻: 최소화하다, 축소하다
 - 어원적 연결: 가능한 한 작게 만듦
@@ -83,6 +92,7 @@
 
 ### minute
 
+- 발음: n. /ˈmɪnət/, adj. /maɪˈnut/
 - 구성: Latin `minuta` = small part
 - 뜻: 분; 아주 작은
 - 어원적 연결: 시간을 잘게 나눈 작은 단위, 또는 매우 작은 것
@@ -90,6 +100,7 @@
 
 ### minutiae
 
+- 발음: /mɪˈnuʃiə/
 - 구성: Latin `minutiae` = small details
 - 뜻: 사소한 세부 사항들
 - 어원적 연결: 아주 작게 나뉜 세부
@@ -97,6 +108,7 @@
 
 ### minister
 
+- 발음: /ˈmɪnəstɚ/
 - 구성: Latin `minister` = servant, attendant; from `minus` = less
 - 뜻: 장관, 목사; 돌보다, 봉사하다
 - 어원적 연결: 원래 "더 낮은 위치에서 섬기는 사람" 이미지
@@ -104,6 +116,7 @@
 
 ### administer
 
+- 발음: /əˈdmɪnəstɚ/
 - 구성: `ad-` = to + `minister`
 - 뜻: 관리하다, 집행하다, 투여하다
 - 어원적 연결: 맡은 일을 섬기듯 처리하고 운영함

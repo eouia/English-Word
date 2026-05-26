@@ -15,6 +15,7 @@
 
 ### sum
 
+- 발음: /ˈsʌm/
 - 구성: Latin `summa`
 - 의미: 합계, 총액
 - 어원적 연결: 여러 값을 하나로 모은 전체
@@ -22,6 +23,7 @@
 
 ### summary
 
+- 발음: /ˈsʌmɚi/
 - 구성: Latin `summarium` < `summa`
 - 의미: 요약, 개요
 - 어원적 연결: 전체 내용을 핵심만 모아 놓음
@@ -29,6 +31,7 @@
 
 ### summarize
 
+- 발음: /ˈsʌmɚˌaɪz/
 - 구성: `summary` + `-ize`
 - 의미: 요약하다
 - 어원적 연결: 긴 내용을 핵심 합계처럼 모음
@@ -36,6 +39,7 @@
 
 ### summation
 
+- 발음: /səˈmeɪʃən/
 - 구성: `sum` + `-ation`
 - 의미: 합산, 요약
 - 어원적 연결: 여러 항목을 더해 하나로 모음
@@ -43,6 +47,7 @@
 
 ### summit
 
+- 발음: /ˈsʌmət/
 - 구성: Old French `sommet` < Latin `summum` = highest
 - 의미: 정상, 정상 회담
 - 어원적 연결: 가장 높은 지점
@@ -50,6 +55,7 @@
 
 ### consummate
 
+- 발음: /ˈkɑnsəmət/
 - 구성: `con-` = completely + Latin `summa`
 - 의미: 완성하다, 완전한
 - 어원적 연결: 모든 것을 합쳐 끝까지 완성함

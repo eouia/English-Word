@@ -19,6 +19,7 @@
 
 ### adept
 
+- 발음: /əˈdɛpt/
 - 구성: Latin `adeptus` = having attained
 - 뜻: 능숙한, 숙련자
 - 어원적 연결: 어떤 기술 수준에 도달해 익숙해진 사람

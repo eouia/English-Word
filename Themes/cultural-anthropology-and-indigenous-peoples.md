@@ -6,6 +6,7 @@
 
 ### [[anthrop#anthropology|anthropology]]
 
+- 발음: /ˌænθrəˈpɑlədʒi/
 - 핵심 의미: 인류학
 - 사용 맥락: `cultural anthropology`, `anthropological research`
 - 주의: 인간의 생물학적, 문화적, 사회적 특징을 연구하는 학문. 문화인류학은 생활양식과 의미 체계에 초점.
@@ -18,6 +19,7 @@
 
 ### fieldwork
 
+- 발음: /ˈfiˌldwɝk/
 - 핵심 의미: 현지조사
 - 사용 맥락: `conduct fieldwork`, `fieldwork among Indigenous communities`
 - 주의: 책상 위 연구가 아니라 실제 현장에서 관찰, 면담, 참여를 통해 자료를 모으는 과정.
@@ -30,30 +32,35 @@
 
 ### culture
 
+- 발음: /ˈkʌltʃɚ/
 - 핵심 의미: 문화, 생활양식과 의미 체계
 - 사용 맥락: `material culture`, `cultural values`
 - 주의: 예술만 뜻하지 않음. 언어, 관습, 신념, 도구, 제도, 일상 실천까지 포함.
 
 ### custom
 
+- 발음: /ˈkʌstəm/
 - 핵심 의미: 관습, 풍습
 - 사용 맥락: `local customs`, `customary law`
 - 주의: 무역의 `customs`는 세관. 인류학에서는 공동체가 반복해 온 사회적 관행.
 
 ### tradition
 
+- 발음: /trəˈdɪʃən/
 - 핵심 의미: 전통
 - 사용 맥락: `oral tradition`, `traditional knowledge`
 - 주의: 고정된 과거의 잔재가 아니라, 현재에 맞게 재해석되고 이어지는 경우가 많음.
 
 ### norm
 
+- 발음: /ˈnɔrm/
 - 핵심 의미: 규범, 표준
 - 사용 맥락: `social norms`, `cultural norms`
 - 주의: 사회가 기대하는 행동 기준. 통계에서는 평균적 기준이라는 뜻도 있음.
 
 ### taboo
 
+- 발음: /tæˈbu/
 - 핵심 의미: 금기
 - 사용 맥락: `food taboo`, `social taboo`
 - 주의: 종교·문화·사회적 이유로 피하거나 금지되는 행위나 주제.
@@ -62,54 +69,63 @@
 
 ### kinship
 
+- 발음: /ˈkɪˌnʃɪp/
 - 핵심 의미: 친족 관계
 - 사용 맥락: `kinship system`, `kinship ties`
 - 주의: 혈연만이 아니라 결혼, 입양, 의례적 관계까지 포함할 수 있음.
 
 ### lineage
 
+- 발음: /ˈlɪniədʒ/
 - 핵심 의미: 혈통, 계통
 - 사용 맥락: `maternal lineage`, `lineage group`
 - 주의: 조상에서 후손으로 이어지는 사회적·생물학적 계열.
 
 ### clan
 
+- 발음: /ˈklæn/
 - 핵심 의미: 씨족, 친족 집단
 - 사용 맥락: `clan identity`, `clan membership`
 - 주의: 공통 조상이나 상징을 중심으로 한 집단. 일상에서는 폐쇄적 집단이라는 뜻도 가능.
 
 ### [[trib#tribe|tribe]]
 
+- 발음: /ˈtraɪb/
 - 핵심 의미: 부족, 원주민 정치 공동체
 - 사용 맥락: `tribal sovereignty`, `tribal council`
 - 주의: 맥락에 따라 식민주의적·낡은 표현으로 느껴질 수 있음. 미국 원주민 법·정치에서는 공식 용어로도 쓰임.
 
 ### caste
 
+- 발음: /ˈkæst/
 - 핵심 의미: 카스트, 세습적 신분 집단
 - 사용 맥락: `caste system`, `caste discrimination`
 - 주의: 인도 사회 맥락이 대표적이지만, 세습적 위계 구조를 비유적으로 말할 때도 쓰임.
 
 ### [[arch#hierarchy|hierarchy]]
 
+- 발음: /ˈhaɪɚˌɑrki/
 - 핵심 의미: 위계, 계층 구조
 - 사용 맥락: `social hierarchy`, `ritual hierarchy`
 - 주의: 권력, 지위, 나이, 성별, 혈통 등에 따라 사회적 위치가 나뉘는 구조.
 
 ### [[rit#ritual|ritual]]
 
+- 발음: /ˈrɪtʃuəl/
 - 핵심 의미: 의례, 의식
 - 사용 맥락: `initiation ritual`, `ritual practice`
 - 주의: 종교 행사뿐 아니라 공동체 질서와 정체성을 확인하는 반복적 상징 행위.
 
 ### myth
 
+- 발음: /ˈmɪθ/
 - 핵심 의미: 신화, 통념
 - 사용 맥락: `creation myth`, `myth and ritual`
 - 주의: "거짓말"이라는 뜻도 있지만, 인류학에서는 세계관과 가치가 담긴 이야기 체계.
 
 ### cosmology
 
+- 발음: /kɔˈzmɔlədʒi/
 - 핵심 의미: 우주관, 세계관
 - 사용 맥락: `Indigenous cosmology`, `religious cosmology`
 - 주의: 천문학의 우주론뿐 아니라, 세계가 어떻게 구성되고 인간이 어디에 있는지에 대한 문화적 설명.
@@ -118,18 +134,21 @@
 
 ### [[gen#indigenous|Indigenous]]
 
+- 발음: /ˌɪˈndɪdʒənəs/
 - 핵심 의미: 토착의, 원주민의
 - 사용 맥락: `Indigenous peoples`, `Indigenous rights`
 - 주의: 특정 땅에 식민화 이전부터 살아온 집단과 그 후손을 존중해 부르는 표현. 대문자로 쓰는 경우가 많음.
 
 ### [[nat-birth#native|Native]]
 
+- 발음: /ˈneɪtɪv/
 - 핵심 의미: 원주민의, 태생의
 - 사용 맥락: `Native American`, `Native communities`
 - 주의: 지역에 따라 적절성이 다름. 미국에서는 `Native American`, `Indigenous`, 특정 부족명 사용이 맥락에 따라 다름.
 
 ### [[origin#aboriginal|Aboriginal]]
 
+- 발음: /ˌæbɚˈɪdʒənəl/
 - 핵심 의미: 원주민의, 호주 원주민의
 - 사용 맥락: `Aboriginal Australians`, `Aboriginal culture`
 - 주의: 특히 호주 원주민 맥락에서 자주 쓰임. 지역별 선호 표현을 존중해야 함.
@@ -142,12 +161,14 @@
 
 ### [[colon#colonization|colonization]]
 
+- 발음: /ˌkɑlənɪˈzeɪʃən/
 - 핵심 의미: 식민화
 - 사용 맥락: `European colonization`, `effects of colonization`
 - 주의: 단순 이주가 아니라 외부 세력이 땅, 자원, 정치, 문화를 지배하는 과정.
 
 ### [[colon#colonialism|colonialism]]
 
+- 발음: /kəˈloʊniəˌlɪzəm/
 - 핵심 의미: 식민주의
 - 사용 맥락: `legacy of colonialism`, `settler colonialism`
 - 주의: 식민 지배를 정당화하고 유지한 제도와 이념.
@@ -160,12 +181,14 @@
 
 ### [[simil#assimilation|assimilation]]
 
+- 발음: /əˌsɪməˈleɪʃən/
 - 핵심 의미: 동화, 흡수
 - 사용 맥락: `forced assimilation`, `assimilation policy`
 - 주의: 소수 집단이 지배 문화에 맞추도록 강요받는 맥락에서 중요.
 
 ### displacement
 
+- 발음: /dɪˈspleɪsmənt/
 - 핵심 의미: 강제 이주, 추방, 대체
 - 사용 맥락: `displacement of Indigenous communities`
 - 주의: 개발, 전쟁, 식민화로 살던 땅에서 밀려나는 것.
@@ -180,18 +203,21 @@
 
 ### [[sovereign#sovereignty|sovereignty]]
 
+- 발음: /ˈsɑvrənti/
 - 핵심 의미: 주권, 자치권
 - 사용 맥락: `tribal sovereignty`, `Indigenous sovereignty`
 - 주의: 국가 주권뿐 아니라 원주민 공동체가 스스로 통치하고 결정할 권리를 뜻함.
 
 ### self-determination
 
+- 발음: /ˈsɛlfdɪˌtɝməˈneɪʃən/
 - 핵심 의미: 자기결정권
 - 사용 맥락: `right to self-determination`
 - 주의: 공동체가 정치적 지위, 문화, 토지, 발전 방향을 스스로 결정할 권리.
 
 ### [[tract-handle#treaty|treaty]]
 
+- 발음: /ˈtriti/
 - 핵심 의미: 조약, 협약
 - 사용 맥락: `treaty rights`, `broken treaties`
 - 주의: 원주민 맥락에서는 정부와 원주민 국가·부족 사이의 약속과 권리 문제로 자주 등장.
@@ -204,24 +230,28 @@
 
 ### repatriation
 
+- 발음: /riˌpeɪtriˈeɪʃən/
 - 핵심 의미: 반환, 본국 송환
 - 사용 맥락: `repatriation of artifacts`, `repatriation of ancestral remains`
 - 주의: 박물관이나 연구기관에 있던 유물·유해를 원 공동체로 돌려보내는 것.
 
 ### restitution
 
+- 발음: /ˌrɛstɪˈtuʃən/
 - 핵심 의미: 반환, 배상, 원상회복
 - 사용 맥락: `cultural restitution`, `restitution of stolen artifacts`
 - 주의: 부당하게 빼앗긴 물건이나 권리를 돌려주거나 보상하는 조치.
 
 ### [[serv#preservation|preservation]]
 
+- 발음: /ˌprɛzɚˈveɪʃən/
 - 핵심 의미: 보존
 - 사용 맥락: `language preservation`, `cultural preservation`
 - 주의: 문화, 언어, 유적, 지식이 사라지지 않도록 지키는 것.
 
 ### revitalization
 
+- 발음: /ˌriˌvaɪtələˈzeɪʃən/
 - 핵심 의미: 부흥, 되살리기
 - 사용 맥락: `language revitalization`, `cultural revitalization`
 - 주의: 약화되거나 억압된 언어·문화·관습을 다시 활발히 쓰게 하는 노력.
@@ -236,6 +266,7 @@
 
 ### ethnocentrism
 
+- 발음: /ˌɛθnoʊˈsɛntrɪzəm/
 - 핵심 의미: 자문화중심주의
 - 사용 맥락: `avoid ethnocentrism`
 - 주의: 자기 문화의 기준으로 다른 문화를 낮게 보거나 판단하는 태도.
@@ -248,36 +279,42 @@
 
 ### [[propri#appropriation|appropriation]]
 
+- 발음: /əˌproʊpriˈeɪʃən/
 - 핵심 의미: 문화적 전유, 도용
 - 사용 맥락: `cultural appropriation`, `appropriation of sacred symbols`
 - 주의: 지배 집단이 소수 집단의 문화 요소를 맥락과 권리 없이 가져다 쓰는 문제.
 
 ### [[authent#authenticity|authenticity]]
 
+- 발음: /ˌɔθəˈntɪsɪti/
 - 핵심 의미: 진정성, 원본성
 - 사용 맥락: `cultural authenticity`, `authentic tradition`
 - 주의: 문화가 고정된 순수 원형이라는 식으로 오해하면 위험함. 전통도 변화함.
 
 ### [[present#representation|representation]]
 
+- 발음: /ˌrɛprəzɛˈnteɪʃən/
 - 핵심 의미: 재현, 대표성
 - 사용 맥락: `representation of Indigenous peoples`, `museum representation`
 - 주의: 누가 누구의 문화를 어떻게 말하고 보여 주는지가 권력 문제와 연결됨.
 
 ### [[ag#agency|agency]]
 
+- 발음: /ˈeɪdʒənsi/
 - 핵심 의미: 주체성, 행위 능력
 - 사용 맥락: `Indigenous agency`, `local agency`
 - 주의: 사람이나 공동체가 단순 피해자가 아니라 스스로 선택하고 행동하는 능력을 뜻함.
 
 ### stewardship
 
+- 발음: /ˈstuɚˌdʃɪp/
 - 핵심 의미: 관리 책임, 돌봄
 - 사용 맥락: `land stewardship`, `environmental stewardship`
 - 주의: 땅과 자원을 소유물보다 돌보고 책임지는 대상으로 보는 관점과 연결.
 
 ### [[reciproc#reciprocity|reciprocity]]
 
+- 발음: /ˌrɛsɪˈprɑsɪti/
 - 핵심 의미: 상호성, 호혜
 - 사용 맥락: `principle of reciprocity`, `reciprocal exchange`
 - 주의: 주고받음, 관계 유지, 공동체 의무를 설명할 때 중요한 개념.
@@ -328,6 +365,7 @@
 
 ### Inuit
 
+- 발음: /ˈɪnut/
 - 핵심 의미: 이누이트
 - 사용 맥락: `Inuit communities`, `Inuit knowledge of Arctic environments`
 - 주의: 북극권 원주민 집단. `Eskimo`는 부적절하거나 선호되지 않는 표현일 수 있음.

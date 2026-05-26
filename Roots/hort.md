@@ -20,6 +20,7 @@
 
 ### horticulture
 
+- 발음: /ˈhɔrtɪˌkʌltʃɚ/
 - 구성: `hort` = garden + `culture` = cultivation
 - 뜻: 원예, 원예학
 - 어원적 연결: 정원과 작물을 가꾸는 일
@@ -27,6 +28,7 @@
 
 ### horticultural
 
+- 발음: /ˌhɔrtəˈkʌltʃɚəl/
 - 구성: `horticulture` + `-al`
 - 뜻: 원예의, 원예학의
 - 어원적 연결: 정원 재배와 관련됨
@@ -34,6 +36,7 @@
 
 ### horticulturist
 
+- 발음: /ˌhɔrtɪˈkʌltʃɚɪst/
 - 구성: `horticulture` + `-ist`
 - 뜻: 원예가, 원예학자
 - 어원적 연결: 정원 재배를 전문으로 하는 사람

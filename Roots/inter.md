@@ -20,6 +20,7 @@
 
 ### inter
 
+- 발음: /ˌɪˈntɝ/
 - 구성: Latin `inter` = between, among
 - 뜻: 사이에, 서로 사이에서
 - 연결: 둘 이상의 대상 사이에 놓임
@@ -27,6 +28,7 @@
 
 ### interest
 
+- 발음: /ˈɪntrəst/
 - 구성: `inter-` = between + `esse` = be
 - 뜻: 관심, 흥미; 이익; 이자
 - 연결: 어떤 일 사이에 걸려 있어 관련됨
@@ -34,6 +36,7 @@
 
 ### interact
 
+- 발음: /ˌɪntɚˈækt/
 - 구성: `inter-` = between + `act`
 - 뜻: 상호작용하다
 - 연결: 서로 사이에서 행동이 오감
@@ -41,6 +44,7 @@
 
 ### international
 
+- 발음: /ˌɪntɚˈnæʃənəl/
 - 구성: `inter-` = between + `national`
 - 뜻: 국제적인
 - 연결: 나라들 사이에 걸침
@@ -48,6 +52,7 @@
 
 ### interview
 
+- 발음: /ˈɪntɚˌvju/
 - 구성: `inter-` = between + `view`
 - 뜻: 면접, 인터뷰
 - 연결: 서로 마주 보고 질문과 답을 주고받음
@@ -55,6 +60,7 @@
 
 ### intercept
 
+- 발음: /ˌɪntɚˈsɛpt/
 - 구성: `inter-` = between + `cept` = catch
 - 뜻: 가로채다, 차단하다
 - 연결: 중간에서 잡음
@@ -62,6 +68,7 @@
 
 ### interface
 
+- 발음: /ˈɪntɚˌfeɪs/
 - 구성: `inter-` = between + `face`
 - 뜻: 접점, 인터페이스
 - 연결: 두 면이나 시스템 사이에서 만나는 지점
@@ -69,6 +76,7 @@
 
 ### intermediate
 
+- 발음: /ˌɪntɚˈmidiɪt/
 - 구성: `inter-` = between + `medi` = middle
 - 뜻: 중간의, 중급의
 - 연결: 두 단계 사이에 있음

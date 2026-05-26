@@ -19,6 +19,7 @@
 
 ### investigate
 
+- 발음: /ˌɪˈnvɛstəˌgeɪt/
 - 구성: `in-` = into + `vestig` + `-ate`
 - 뜻: 조사하다, 수사하다
 - 어원적 연결: 흔적을 따라 들어가 사실을 밝힘
@@ -26,6 +27,7 @@
 
 ### investigation
 
+- 발음: /ˌɪˌnvɛstəˈgeɪʃən/
 - 구성: `investigate` + `-ion`
 - 뜻: 조사, 수사
 - 어원적 연결: 단서와 흔적을 따라 사실을 밝히는 과정
@@ -33,6 +35,7 @@
 
 ### investigator
 
+- 발음: /ˌɪˈnvɛstəˌgeɪtɚ/
 - 구성: `investigate` + `-or`
 - 뜻: 조사관, 수사관
 - 어원적 연결: 흔적을 추적하는 사람
@@ -40,6 +43,7 @@
 
 ### investigative
 
+- 발음: /ˌɪˈnvɛstəˌgeɪtɪv/
 - 구성: `investigate` + `-ive`
 - 뜻: 조사의, 탐사 보도의
 - 어원적 연결: 숨은 사실을 추적해 밝히는 성격
@@ -47,6 +51,7 @@
 
 ### vestige
 
+- 발음: /ˈvɛstɪdʒ/
 - 구성: Latin `vestigium`
 - 뜻: 흔적, 자취
 - 어원적 연결: 남아 있는 발자국이나 흔적
@@ -54,6 +59,7 @@
 
 ### vestigial
 
+- 발음: /vəˈstɪdʒiəl/
 - 구성: `vestige` + `-ial`
 - 뜻: 흔적만 남은, 퇴화한
 - 어원적 연결: 예전 기능의 자취만 남음

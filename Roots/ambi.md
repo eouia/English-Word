@@ -20,6 +20,7 @@
 
 ### ambiguous
 
+- 발음: /æˈmbɪgjuəs/
 - 구성: `ambi-` = both sides + [[ag]] = move
 - 뜻: 모호한, 여러 의미로 해석 가능한
 - 어원적 연결: 의미가 한쪽으로 고정되지 않고 양쪽으로 움직임
@@ -27,6 +28,7 @@
 
 ### ambiguity
 
+- 발음: /ˌæmbɪˈgjuəti/
 - 구성: `ambiguous` + `-ity`
 - 뜻: 모호함, 애매함
 - 어원적 연결: 의미가 두 방향 이상으로 갈 수 있는 상태
@@ -34,6 +36,7 @@
 
 ### ambivalent
 
+- 발음: /æˈmbɪvələnt/
 - 구성: `ambi-` = both + [[val]] = strength, value
 - 뜻: 양가적인, 상반된 감정을 함께 가진
 - 어원적 연결: 두 방향의 힘이나 가치가 동시에 작용함
@@ -41,6 +44,7 @@
 
 ### ambivalence
 
+- 발음: /æˈmbɪvələns/
 - 구성: `ambivalent` + `-ence`
 - 뜻: 양가감정, 양면성
 - 어원적 연결: 서로 다른 두 평가가 함께 있음
@@ -48,6 +52,7 @@
 
 ### ambidextrous
 
+- 발음: /ˌæmbəˈdɛkstrəs/
 - 구성: `ambi-` = both + Latin `dexter` = right hand
 - 뜻: 양손잡이의, 양쪽을 능숙하게 쓰는
 - 어원적 연결: 양쪽 모두 오른손처럼 능숙함
@@ -62,6 +67,7 @@
 
 ### ambient
 
+- 발음: /ˈæmbiənt/
 - 구성: Latin `ambiens` ← `ambire` = go around
 - 뜻: 주변의, 둘러싼
 - 어원적 연결: 주위를 돌아 둘러싸고 있음
@@ -69,6 +75,7 @@
 
 ### ambience
 
+- 발음: /ˈæmbiəns/
 - 구성: French `ambiance` ← `ambient`
 - 뜻: 분위기, 환경
 - 어원적 연결: 사람을 둘러싼 주변 느낌
@@ -83,6 +90,7 @@
 
 ### ambition
 
+- 발음: /æˈmbɪʃən/
 - 구성: Latin `ambire` = go around
 - 뜻: 야망, 포부
 - 어원적 연결: 원래는 지지를 얻으려고 주변을 돌아다님. 이후 높은 지위를 얻으려는 욕망
@@ -90,6 +98,7 @@
 
 ### ambitious
 
+- 발음: /æˈmbɪʃəs/
 - 구성: `ambition` + `-ous`
 - 뜻: 야심 있는, 목표가 큰
 - 어원적 연결: 더 높은 것을 얻으려는 움직임

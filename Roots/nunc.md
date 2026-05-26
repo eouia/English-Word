@@ -20,6 +20,7 @@
 
 ### announce
 
+- 발음: /əˈnaʊns/
 - 구성: Latin `annuntiare` = report, announce
 - 뜻: 발표하다, 알리다
 - 어원적 연결: 소식을 공식적으로 전함
@@ -27,6 +28,7 @@
 
 ### announcement
 
+- 발음: /əˈnaʊnsmənt/
 - 구성: `announce` + `-ment`
 - 뜻: 발표, 공지, 안내 방송
 - 어원적 연결: 공식적으로 알린 내용
@@ -34,6 +36,7 @@
 
 ### announcer
 
+- 발음: /əˈnaʊnsɚ/
 - 구성: `announce` + `-er`
 - 뜻: 아나운서, 방송 진행자
 - 어원적 연결: 소식이나 정보를 말로 전하는 사람
@@ -41,6 +44,7 @@
 
 ### pronounce
 
+- 발음: /prəˈnaʊns/
 - 구성: `pro-` = forth + Latin `nuntiare` 계열
 - 뜻: 발음하다, 선언하다
 - 어원적 연결: 소리나 판단을 밖으로 말해 냄
@@ -48,6 +52,7 @@
 
 ### pronunciation
 
+- 발음: /proʊˌnʌnsiˈeɪʃən/
 - 구성: `pronounce` + `-iation`
 - 뜻: 발음
 - 어원적 연결: 밖으로 말해 내는 방식
@@ -55,6 +60,7 @@
 
 ### denounce
 
+- 발음: /dɪˈnaʊns/
 - 구성: `de-` = down, away + Latin `nuntiare`
 - 뜻: 공개적으로 비난하다, 고발하다
 - 어원적 연결: 나쁜 것으로 공식적으로 말해 알림
@@ -62,6 +68,7 @@
 
 ### denunciation
 
+- 발음: /dɪˌnʌnsiˈeɪʃən/
 - 구성: `denounce` + `-iation`
 - 뜻: 공개 비난, 고발
 - 어원적 연결: 공식적으로 비난해 알리는 행위
@@ -69,6 +76,7 @@
 
 ### renounce
 
+- 발음: /rɪˈnaʊns/
 - 구성: `re-` = back, away + Latin `nuntiare`
 - 뜻: 포기하다, 단념하다, 관계를 끊겠다고 선언하다
 - 어원적 연결: 더 이상 따르지 않겠다고 공식적으로 말함
@@ -76,6 +84,7 @@
 
 ### renunciation
 
+- 발음: /rɪˌnʌnsiˈeɪʃən/
 - 구성: `renounce` + `-iation`
 - 뜻: 포기, 단념, 관계 단절 선언
 - 어원적 연결: 공식적으로 버리겠다고 말하는 행위

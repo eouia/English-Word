@@ -19,6 +19,7 @@
 
 ### oration
 
+- 발음: /ɔˈreɪʃən/
 - 구성: Latin `oratio`
 - 뜻: 공식 연설
 - 어원적 연결: 격식을 갖춰 말함
@@ -26,6 +27,7 @@
 
 ### orator
 
+- 발음: /ˈɔrətɚ/
 - 구성: Latin `orator`
 - 뜻: 연설가, 웅변가
 - 어원적 연결: 공식적으로 말하는 사람
@@ -33,6 +35,7 @@
 
 ### oratory
 
+- 발음: /ˈɔrəˌtɔri/
 - 구성: Latin `oratorius`
 - 뜻: 웅변술, 예배당
 - 어원적 연결: 말하고 기도하는 장소나 기술
@@ -47,6 +50,7 @@
 
 ### oracle
 
+- 발음: /ˈɔrəkəl/
 - 구성: Latin `oraculum` ← `orare`
 - 뜻: 신탁, 예언자, 현명한 조언자
 - 어원적 연결: 신이 말해 준다고 여겨진 말
@@ -54,6 +58,7 @@
 
 ### inexorable
 
+- 발음: /ˌɪˈnɛksɚəbəl/
 - 구성: `in-` = not + Latin `exorare` = persuade by pleading
 - 뜻: 막을 수 없는, 냉혹한
 - 어원적 연결: 간청해도 마음을 돌릴 수 없음

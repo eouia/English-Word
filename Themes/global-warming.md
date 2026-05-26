@@ -36,6 +36,7 @@
 
 ### methane
 
+- 발음: /ˈmɛˌθeɪn/
 - 핵심 의미: 메탄
 - 사용 맥락: `methane emissions`, `methane leakage`
 - 주의: 양은 CO2보다 적어도 단기 온난화 효과가 강한 온실가스.
@@ -48,6 +49,7 @@
 
 ### anthropogenic
 
+- 발음: /ˌænθrəpəˈdʒɛnɪk/
 - 핵심 의미: 인간 활동에서 비롯된
 - 사용 맥락: `anthropogenic climate change`, `anthropogenic emissions`
 - 주의: 자연적 변화가 아니라 인간 활동이 원인임을 강조하는 과학 용어.
@@ -56,12 +58,14 @@
 
 ### emission
 
+- 발음: /ɪˈmɪʃən/
 - 핵심 의미: 배출, 배출물
 - 사용 맥락: `carbon emissions`, `reduce emissions`
 - 주의: 기체나 물질을 밖으로 내보내는 것. 기후 글에서는 주로 온실가스 배출.
 
 ### emit ([[em#emit|em]], [[ex#emit|ex]], [[mit#emit|mit]])
 
+- 발음: /ɪˈmɪt/
 - 핵심 의미: 배출하다, 내뿜다
 - 사용 맥락: `emit carbon dioxide`, `emit pollutants`
 - 주의: 빛·소리·가스 등을 내보낸다는 넓은 뜻.
@@ -74,18 +78,21 @@
 
 ### concentration
 
+- 발음: /ˌkɑnsəˈntreɪʃən/
 - 핵심 의미: 농도, 집중
 - 사용 맥락: `atmospheric CO2 concentration`
 - 주의: 일반 의미는 집중. 과학 맥락에서는 일정 부피나 양 안에 들어 있는 물질의 정도.
 
 ### [[sphere#atmospheric|atmospheric]]
 
+- 발음: /ˌætməˈsfɛrɪk/
 - 핵심 의미: 대기의
 - 사용 맥락: `atmospheric carbon dioxide`, `atmospheric warming`
 - 주의: 분위기 있는이라는 뜻도 있지만, 과학에서는 지구 대기와 관련.
 
 ### threshold
 
+- 발음: /ˈθrɛˌʃoʊld/
 - 핵심 의미: 임계점, 문턱
 - 사용 맥락: `temperature threshold`, `critical threshold`
 - 주의: 어떤 변화가 급격히 일어나기 시작하는 경계점.
@@ -106,6 +113,7 @@
 
 ### drought
 
+- 발음: /ˈdraʊt/
 - 핵심 의미: 가뭄
 - 사용 맥락: `severe drought`, `prolonged drought`
 - 주의: 단순히 비가 안 오는 날이 아니라 장기간 물 부족 상태.
@@ -118,12 +126,14 @@
 
 ### wildfire
 
+- 발음: /ˈwaɪˌldfaɪɚ/
 - 핵심 의미: 산불, 들불
 - 사용 맥락: `wildfire season`, `climate-driven wildfires`
 - 주의: 기후변화로 건조와 고온이 심해지면 위험이 커짐.
 
 ### precipitation
 
+- 발음: /prɪˌsɪpɪˈteɪʃən/
 - 핵심 의미: 강수, 침전
 - 사용 맥락: `changes in precipitation`, `heavy precipitation`
 - 주의: 기상에서는 비, 눈, 우박 등 하늘에서 떨어지는 물. 화학에서는 침전.
@@ -136,6 +146,7 @@
 
 ### glacier
 
+- 발음: /ˈgleɪʃɚ/
 - 핵심 의미: 빙하
 - 사용 맥락: `glacier retreat`, `melting glaciers`
 - 주의: 바다 얼음 `sea ice`와 다름. 육지 위의 오래된 얼음 덩어리.
@@ -154,6 +165,7 @@
 
 ### biodiversity
 
+- 발음: /ˌbaɪoʊdaɪˈvɝsəti/
 - 핵심 의미: 생물다양성
 - 사용 맥락: `loss of biodiversity`, `protect biodiversity`
 - 주의: 종의 수뿐 아니라 유전적 다양성과 생태계 다양성까지 포함.
@@ -168,24 +180,28 @@
 
 ### mitigation
 
+- 발음: /ˌmɪtɪˈgeɪʃən/
 - 핵심 의미: 완화, 감축
 - 사용 맥락: `climate mitigation`, `mitigation strategies`
 - 주의: 기후 맥락에서는 온난화 원인인 배출을 줄이는 대응. 피해에 적응하는 것은 `adaptation`.
 
 ### [[apt#adaptation|adaptation]]
 
+- 발음: /ˌædəˈpteɪʃən/
 - 핵심 의미: 적응
 - 사용 맥락: `climate adaptation`, `adaptation measures`
 - 주의: 이미 나타나거나 피하기 어려운 기후 영향에 맞춰 사회·생태계를 조정하는 것.
 
 ### [[sult#resilience|resilience]]
 
+- 발음: /rɪˈzɪliəns/
 - 핵심 의미: 회복력, 탄력성
 - 사용 맥락: `climate resilience`, `resilient infrastructure`
 - 주의: 충격을 받아도 버티고 회복하는 능력.
 
 ### renewable
 
+- 발음: /riˈnuəbəl/
 - 핵심 의미: 재생 가능한
 - 사용 맥락: `renewable energy`, `renewable resources`
 - 주의: 태양광, 풍력처럼 지속적으로 보충되는 에너지원을 가리킴.
@@ -204,6 +220,7 @@
 
 ### [[set#offset|offset]]
 
+- 발음: /ɔˈfsɛt/
 - 핵심 의미: 상쇄하다, 상쇄분
 - 사용 맥락: `carbon offset`, `offset emissions`
 - 주의: 직접 줄인 배출이 아니라 다른 곳의 감축·흡수로 보상하는 방식. 실효성 논쟁이 있음.
@@ -216,6 +233,7 @@
 
 ### sustainability
 
+- 발음: /səˌsteɪnəˈbɪlɪti/
 - 핵심 의미: 지속가능성
 - 사용 맥락: `environmental sustainability`, `sustainability goals`
 - 주의: 환경뿐 아니라 경제·사회적으로 오래 유지 가능한 방식이라는 넓은 뜻.
@@ -248,6 +266,7 @@
 
 ### COP
 
+- 발음: /ˈkɑp/
 - 핵심 의미: 유엔기후변화협약 당사국총회
 - 사용 맥락: `COP28`, `COP climate summit`
 - 주의: `Conference of the Parties`. 매년 기후 협상과 합의가 논의되는 회의.

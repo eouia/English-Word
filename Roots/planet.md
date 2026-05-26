@@ -18,6 +18,7 @@
 
 ### planet
 
+- 발음: /ˈplænət/
 - 구성: Greek `planetes` = wanderer, wandering star
 - 뜻: 행성
 - 연결: 붙박이별처럼 보이지 않고 하늘에서 위치가 움직이는 별
@@ -25,6 +26,7 @@
 
 ### planetary
 
+- 발음: /ˈplænəˌtɛri/
 - 구성: `planet` + `-ary`
 - 뜻: 행성의, 지구 전체의
 - 연결: 행성 규모나 행성과 관련됨
@@ -32,6 +34,7 @@
 
 ### planetarium
 
+- 발음: /ˌplænəˈtɛriəm/
 - 구성: `planet` + `-arium`
 - 뜻: 천문관, 플라네타륨
 - 연결: 행성과 별의 움직임을 보여 주는 장소

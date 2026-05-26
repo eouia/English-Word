@@ -9,6 +9,7 @@
 
 ### precarious
 
+- 발음: /priˈkɛriəs/
 - 구성: Latin `precarius` = obtained by entreaty, dependent on favor
 - 뜻: 불안정한, 위태로운
 - 어원적 연결: 간청해서 얻은 것처럼 자기 권리로 안정된 것이 아니라 남의 호의에 달림
@@ -16,6 +17,7 @@
 
 ### precariously
 
+- 발음: /prɪˈkɛriəsli/
 - 구성: `precarious` + `-ly`
 - 뜻: 위태롭게, 불안정하게
 - 어원적 연결: 안정된 기반 없이 간신히 유지되는 방식
@@ -37,6 +39,7 @@
 
 ### pray
 
+- 발음: /ˈpreɪ/
 - 구성: Old French `preier` < Latin `precari`
 - 뜻: 기도하다, 간청하다
 - 어원적 연결: 간절히 요청함
@@ -44,6 +47,7 @@
 
 ### prayer
 
+- 발음: /ˈprɛr/
 - 구성: `pray` + `-er`
 - 뜻: 기도, 간청
 - 어원적 연결: 간절한 요청이나 빎
@@ -51,6 +55,7 @@
 
 ### deprecate
 
+- 발음: /ˈdɛprəˌkeɪt/
 - 구성: Latin `de-` = away + `precari` = pray, entreat
 - 뜻: 반대하다, 비판하다; 낮추어 말하다
 - 어원적 연결: 원래는 기도하듯 재앙을 물리쳐 달라고 빎. 이후 반대하거나 못마땅하게 여김

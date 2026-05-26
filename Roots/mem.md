@@ -20,6 +20,7 @@
 
 ### memory
 
+- 발음: /ˈmɛmɚi/
 - 구성: Latin `memoria`
 - 뜻: 기억, 기억력, 추억
 - 어원적 연결: 마음속에 남아 다시 떠올릴 수 있는 것
@@ -27,6 +28,7 @@
 
 ### memorable
 
+- 발음: /ˈmɛmɚəbəl/
 - 구성: `memory` 계열 + `-able`
 - 뜻: 기억할 만한, 인상적인
 - 어원적 연결: 마음에 남을 만큼 두드러짐
@@ -34,6 +36,7 @@
 
 ### memorize
 
+- 발음: /ˈmɛmɚˌaɪz/
 - 구성: `memory` + `-ize`
 - 뜻: 암기하다
 - 어원적 연결: 마음속에 기억으로 넣음
@@ -41,6 +44,7 @@
 
 ### memorial
 
+- 발음: /məˈmɔriəl/
 - 구성: Latin `memorialis`
 - 뜻: 기념물, 추모의
 - 어원적 연결: 기억하게 만들기 위해 세운 것
@@ -48,6 +52,7 @@
 
 ### commemorate
 
+- 발음: /kəˈmɛmɚˌeɪt/
 - 구성: `com-` = together + `memorare` = remember
 - 뜻: 기념하다
 - 어원적 연결: 함께 기억 속에 되살림
@@ -55,6 +60,7 @@
 
 ### remembrance
 
+- 발음: /riˈmɛmbrəns/
 - 구성: `remember` + `-ance`
 - 뜻: 기억, 추모
 - 어원적 연결: 다시 마음에 떠올리는 행위
@@ -62,6 +68,7 @@
 
 ### remember
 
+- 발음: /rɪˈmɛmbɚ/
 - 구성: Old French `remembrer` ← Latin `rememorari`
 - 뜻: 기억하다
 - 어원적 연결: 다시 마음속에 떠올림
@@ -69,6 +76,7 @@
 
 ### memoir
 
+- 발음: /ˈmɛˌmwɑr/
 - 구성: French `memoire` = memory, written account
 - 뜻: 회고록
 - 어원적 연결: 기억을 글로 정리한 것
@@ -76,6 +84,7 @@
 
 ### memo
 
+- 발음: /ˈmɛˌmoʊ/
 - 구성: 줄임말, `memorandum`에서 옴
 - 뜻: 메모, 사내 문서
 - 어원적 연결: 기억하거나 알리기 위해 적은 것
@@ -83,6 +92,7 @@
 
 ### memorandum
 
+- 발음: /ˌmɛmɚˈændəm/
 - 구성: Latin `memorandum` = thing to be remembered
 - 뜻: 메모, 각서
 - 어원적 연결: 기억되어야 할 것

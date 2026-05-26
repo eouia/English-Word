@@ -18,6 +18,7 @@
 
 ### prime
 
+- 발음: /ˈpraɪm/
 - 구성: Latin `primus` = first
 - 뜻: 주요한, 최상의, 전성기, 소수
 - 어원적 연결: 첫째 자리에 있는 것 → 가장 중요하거나 가장 좋은 것
@@ -25,6 +26,7 @@
 
 ### primary
 
+- 발음: /ˈpraɪˌmɛri/
 - 구성: Latin `primarius` = of the first rank
 - 뜻: 주요한, 일차적인, 초등의
 - 어원적 연결: 첫 단계나 가장 중요한 위치
@@ -32,6 +34,7 @@
 
 ### primarily
 
+- 발음: /praɪˈmɛrəli/
 - 구성: `primary` + `-ly`
 - 뜻: 주로, 우선적으로
 - 어원적 연결: 첫째로 중요한 기준에서
@@ -39,6 +42,7 @@
 
 ### primitive
 
+- 발음: /ˈprɪmətɪv/
 - 구성: Latin `primitivus` = first, earliest
 - 뜻: 원시의, 초기의, 단순한
 - 어원적 연결: 가장 이른 단계에 속함
@@ -46,6 +50,7 @@
 
 ### primordial
 
+- 발음: /prɪˈmɔrdiəl/
 - 구성: Latin `primordialis` = first, original
 - 뜻: 원시의, 태초의, 근원적인
 - 어원적 연결: 맨 처음의 시작 단계
@@ -53,6 +58,7 @@
 
 ### primer
 
+- 발음: /ˈpraɪmɚ/
 - 구성: Latin `primarius` 계열
 - 뜻: 입문서, 기초 교재, 프라이머
 - 어원적 연결: 처음 배우는 사람을 위한 기본서
@@ -60,6 +66,7 @@
 
 ### primate
 
+- 발음: /ˈpraɪˌmeɪt/
 - 구성: Latin `primas` = one of the first rank
 - 뜻: 영장류, 대주교
 - 어원적 연결: 첫째 계급, 높은 지위에 있는 존재
@@ -67,6 +74,7 @@
 
 ### primacy
 
+- 발음: /ˈpraɪməsi/
 - 구성: `prim` = first + `-acy`
 - 뜻: 우위, 제일성, 최우선 지위
 - 어원적 연결: 첫째 자리에 있음
@@ -74,6 +82,7 @@
 
 ### primal
 
+- 발음: /ˈpraɪməl/
 - 구성: Latin `primus` 계열
 - 뜻: 원초적인, 근본적인
 - 어원적 연결: 가장 처음의 본능적·근원적 상태

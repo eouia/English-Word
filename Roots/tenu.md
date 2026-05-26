@@ -20,6 +20,7 @@
 
 ### tenuous
 
+- 발음: /ˈtɛnjəwəs/
 - 구성: Latin `tenuis` = thin, fine, slender
 - 뜻: 희박한, 빈약한, 근거가 약한
 - 어원적 연결: 연결이나 근거가 가느다란 실처럼 약함
@@ -41,6 +42,7 @@
 
 ### attenuate
 
+- 발음: /əˈtɛnjuˌeɪt/
 - 구성: `ad-` = to + Latin `tenuis` = thin
 - 뜻: 약화시키다, 줄이다, 묽게 하다
 - 어원적 연결: 더 얇고 약하게 만듦
@@ -48,6 +50,7 @@
 
 ### attenuation
 
+- 발음: /əˌtɛnjuˈeɪʃən/
 - 구성: `attenuate` + `-ion`
 - 뜻: 약화, 감쇠
 - 어원적 연결: 힘이나 밀도가 얇아짐
@@ -55,6 +58,7 @@
 
 ### extenuate
 
+- 발음: /ɪˈkstɛnjuˌeɪt/
 - 구성: `ex-` = out + Latin `tenuis` = thin
 - 뜻: 죄나 잘못을 가볍게 보이게 하다, 참작하다
 - 어원적 연결: 잘못의 무게를 얇게 줄여 보이게 함
@@ -62,6 +66,7 @@
 
 ### extenuating
 
+- 발음: /ɪˈkstɛnjuˌeɪtɪŋ/
 - 구성: `extenuate` + `-ing`
 - 뜻: 정상 참작이 되는, 죄를 가볍게 하는
 - 어원적 연결: 책임이나 잘못의 무게를 줄여 주는

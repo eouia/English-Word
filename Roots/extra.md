@@ -19,6 +19,7 @@
 
 ### extraneous
 
+- 발음: /ɛˈkstreɪniəs/
 - 구성: Latin `extraneus` ← `extra` = outside
 - 뜻: 관련 없는, 불필요한, 외부에서 온
 - 어원적 연결: 핵심 범위 밖에 있어 본질과 관계가 약함
@@ -26,6 +27,7 @@
 
 ### extra
 
+- 발음: /ˈɛkstrə/
 - 구성: Latin `extra` = outside, beyond
 - 뜻: 추가의, 여분의; 추가분
 - 어원적 연결: 기본 범위 밖에 더 붙은 것
@@ -33,6 +35,7 @@
 
 ### extraordinary
 
+- 발음: /ˌɛkstrəˈɔrdəˌnɛri/
 - 구성: `extra-` = beyond + `ordinary`
 - 뜻: 비범한, 놀라운, 특별한
 - 어원적 연결: 보통 질서나 수준의 바깥에 있음
@@ -41,6 +44,7 @@
 
 ### external
 
+- 발음: /ɪˈkstɝnəl/
 - 구성: Latin `externus` ← `extra`
 - 뜻: 외부의, 겉의
 - 어원적 연결: 안쪽이 아니라 바깥쪽에 있음
@@ -48,6 +52,7 @@
 
 ### exterior
 
+- 발음: /ɪˈkstɪriɚ/
 - 구성: Latin `exterior` = outer, outward
 - 뜻: 외부, 겉면; 외부의
 - 어원적 연결: 더 바깥쪽에 있는 부분
@@ -55,6 +60,7 @@
 
 ### extrinsic
 
+- 발음: /ɛˈkstrɪnsɪk/
 - 구성: Latin `extrinsecus` = from outside
 - 뜻: 외적인, 비본질적인
 - 어원적 연결: 내부 본질에서 나온 것이 아니라 바깥에서 붙은 성질
@@ -62,6 +68,7 @@
 
 ### extraterrestrial
 
+- 발음: /ˌɛkstrətɚˈɛstriəl/
 - 구성: `extra-` = beyond + `terrestrial` = earthly
 - 뜻: 지구 밖의, 외계의; 외계 생명체
 - 어원적 연결: 지구라는 범위의 바깥에 있음
@@ -70,6 +77,7 @@
 
 ### strange
 
+- 발음: /ˈstreɪndʒ/
 - 구성: Old French `estrange` ← Latin `extraneus`
 - 뜻: 이상한, 낯선
 - 어원적 연결: 자기 영역 밖에서 온 낯선 것
@@ -77,6 +85,7 @@
 
 ### stranger
 
+- 발음: /ˈstreɪndʒɚ/
 - 구성: `strange` + `-er`
 - 뜻: 낯선 사람, 이방인
 - 어원적 연결: 자기 공동체나 익숙한 범위 밖에서 온 사람

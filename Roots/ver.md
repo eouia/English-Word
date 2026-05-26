@@ -20,6 +20,7 @@
 
 ### verify
 
+- 발음: /ˈvɛrəˌfaɪ/
 - 구성: `verus` = true + [[fac]] = make
 - 뜻: 확인하다, 검증하다
 - 어원적 연결: 참인지 확인해 사실로 세움
@@ -27,6 +28,7 @@
 
 ### verification
 
+- 발음: /ˌvɛrəfəˈkeɪʃən/
 - 구성: `verify` + `-ication`
 - 뜻: 확인, 검증
 - 어원적 연결: 참임을 확인하는 과정
@@ -34,6 +36,7 @@
 
 ### verity
 
+- 발음: /ˈvɛrəti/
 - 구성: Latin `veritas` = truth
 - 뜻: 진리, 참
 - 어원적 연결: 참된 것
@@ -41,6 +44,7 @@
 
 ### veritable
 
+- 발음: /ˈvɛrɪtəbəl/
 - 구성: Latin `veritas` + `-able`
 - 뜻: 진정한, 그야말로
 - 어원적 연결: 참이라고 할 만함
@@ -48,6 +52,7 @@
 
 ### verisimilitude
 
+- 발음: /ˌvɛrəsəˈmɪləˌtud/
 - 구성: `veri-` = true + `similis` = similar
 - 뜻: 그럴듯함, 진실 같음
 - 어원적 연결: 참과 비슷해 보임
@@ -55,6 +60,7 @@
 
 ### aver
 
+- 발음: /ˈeɪvɚ/
 - 구성: Old French `averer` ← Latin `verus`
 - 뜻: 단언하다, 주장하다
 - 어원적 연결: 참이라고 강하게 말함
@@ -62,6 +68,7 @@
 
 ### verdict
 
+- 발음: /ˈvɝdɪkt/
 - 구성: `verus` = true + [[dict]] = say
 - 뜻: 평결
 - 어원적 연결: 배심원이 참이라고 말한 판단
@@ -69,6 +76,7 @@
 
 ### very
 
+- 발음: /ˈvɛri/
 - 구성: Old French `verai` ← Latin `verus`
 - 뜻: 매우, 바로 그
 - 어원적 연결: 참된 것에서 "정말로"의 강조 의미로 확장

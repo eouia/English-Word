@@ -9,6 +9,7 @@
 
 ### omnipotent
 
+- 발음: /ɑˈmnɪpətənt/
 - 구성: `omni-` = all + [[pot]] = power, be able
 - 뜻: 전능한, 모든 힘을 가진
 - 어원적 연결: 모든 것을 할 수 있는 힘
@@ -16,6 +17,7 @@
 
 ### omnipotence
 
+- 발음: /ɑˈmnɪpətəns/
 - 구성: `omni-` + `potence`
 - 뜻: 전능, 절대적 권능
 - 어원적 연결: 모든 힘을 가진 상태
@@ -23,6 +25,7 @@
 
 ### omniscient
 
+- 발음: /ɑˈmnɪʃənt/
 - 구성: `omni-` = all + Latin `scire` = know
 - 뜻: 전지한, 모든 것을 아는
 - 어원적 연결: 모든 지식을 가진 상태
@@ -37,6 +40,7 @@
 
 ### omnipresent
 
+- 발음: /ˌɑmnɪˈprɛzənt/
 - 구성: `omni-` = all + `present` = being at hand
 - 뜻: 어디에나 있는, 편재하는
 - 어원적 연결: 모든 장소에 존재함
@@ -44,6 +48,7 @@
 
 ### omnipresence
 
+- 발음: /ˌɑmnəˈprɛzəns/
 - 구성: `omni-` + `presence`
 - 뜻: 편재, 어디에나 있음
 - 어원적 연결: 존재의 범위가 모든 곳으로 확장됨
@@ -58,6 +63,7 @@
 
 ### omnivorous
 
+- 발음: /ɑˈmnɪvɚəs/
 - 구성: `omnivore` + `-ous`
 - 뜻: 잡식성의; 무엇이든 탐하는
 - 어원적 연결: 음식이나 관심사가 한 종류에 제한되지 않음
@@ -65,6 +71,7 @@
 
 ### omnibus
 
+- 발음: /ˈɑmnəbəs/
 - 구성: Latin `omnibus` = for all
 - 뜻: 합본, 여러 작품을 묶은 것; 옴니버스
 - 어원적 연결: 여러 대상을 모두 함께 실음

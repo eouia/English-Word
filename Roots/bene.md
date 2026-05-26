@@ -19,6 +19,7 @@
 
 ### benevolent
 
+- 발음: /bəˈnɛvələnt/
 - 구성: `bene-` = good + Latin `volens` = wishing
 - 뜻: 자비로운, 선의의
 - 어원적 연결: 상대에게 좋은 일이 있기를 바람
@@ -27,6 +28,7 @@
 
 ### benevolence
 
+- 발음: /bəˈnɛvələns/
 - 구성: `bene-` = good + `vol` = will
 - 뜻: 선의, 자비심
 - 어원적 연결: 좋은 뜻을 품은 마음
@@ -35,6 +37,7 @@
 
 ### benefit
 
+- 발음: /ˈbɛnəfɪt/
 - 구성: Latin `bene` = well + `facere` = do, make
 - 뜻: 이익, 혜택; 이롭게 하다
 - 어원적 연결: 좋은 일을 하거나 좋은 결과를 줌
@@ -43,6 +46,7 @@
 
 ### beneficial
 
+- 발음: /ˌbɛnəˈfɪʃəl/
 - 구성: `benefit` + `-ial`
 - 뜻: 유익한, 이로운
 - 어원적 연결: 좋은 효과를 만들어 냄
@@ -51,6 +55,7 @@
 
 ### benefactor
 
+- 발음: /ˈbɛnəˌfæktɚ/
 - 구성: Latin `bene` = well + `factor` = doer, maker
 - 뜻: 후원자, 은인
 - 어원적 연결: 좋은 일을 해 주는 사람
@@ -59,6 +64,7 @@
 
 ### benign
 
+- 발음: /bɪˈnaɪn/
 - 구성: Latin `benignus` = kind, well-born
 - 뜻: 친절한; 양성의
 - 어원적 연결: 좋은 성질을 가진, 해롭지 않은

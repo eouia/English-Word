@@ -21,6 +21,7 @@
 
 ### convene
 
+- 발음: /kəˈnvin/
 - 구성: `con-` = together + `ven`
 - 뜻: 모이다, 소집하다
 - 어원적 연결: 사람들이 함께 옴
@@ -28,6 +29,7 @@
 
 ### convention
 
+- 발음: /kəˈnvɛnʃən/
 - 구성: `con-` + `vent` + `-ion`
 - 뜻: 관례, 대회, 협약
 - 어원적 연결: 사람들이 함께 와서 정한 방식이나 모임
@@ -35,6 +37,7 @@
 
 ### covenant
 
+- 발음: /ˈkʌvənənt/
 - 구성: Old French `covenant`, from `convenir`
 - 뜻: 계약, 서약, 언약
 - 어원적 연결: 사람들이 함께 와서 합의한 약속
@@ -43,6 +46,7 @@
 
 ### convenient
 
+- 발음: /kəˈnvinjənt/
 - 구성: Latin `convenire`
 - 뜻: 편리한, 알맞은
 - 어원적 연결: 여러 조건이 함께 와서 잘 맞음
@@ -50,6 +54,7 @@
 
 ### convenience
 
+- 발음: /kəˈnvinjəns/
 - 구성: `convenient` 계열 + `-ence`
 - 뜻: 편리함, 편의, 편의 시설
 - 어원적 연결: 조건들이 함께 맞아 사용하기 쉬운 상태
@@ -57,6 +62,7 @@
 
 ### inconvenient
 
+- 발음: /ˌɪnkəˈnvinjənt/
 - 구성: `in-` = not + `convenient`
 - 뜻: 불편한
 - 어원적 연결: 조건이 잘 맞지 않음
@@ -64,6 +70,7 @@
 
 ### conventional
 
+- 발음: /kəˈnvɛnʃənəl/
 - 구성: `convention` + `-al`
 - 뜻: 관습적인, 전통적인
 - 어원적 연결: 함께 정해 온 방식에 따름
@@ -71,6 +78,7 @@
 
 ### intervene
 
+- 발음: /ˌɪntɚˈvin/
 - 구성: `inter-` = between + `ven`
 - 뜻: 개입하다, 끼어들다
 - 어원적 연결: 사이로 들어옴
@@ -78,6 +86,7 @@
 
 ### intervention
 
+- 발음: /ˌɪntɚˈvɛnʃən/
 - 구성: `intervene` + `-ion`
 - 뜻: 개입, 중재
 - 어원적 연결: 사건 사이에 들어와 흐름을 바꿈
@@ -85,6 +94,7 @@
 
 ### event
 
+- 발음: /ɪˈvɛnt/
 - 구성: Latin `evenire` = come out, happen
 - 뜻: 사건, 행사
 - 어원적 연결: 어떤 일이 밖으로 나와 발생함
@@ -92,6 +102,7 @@
 
 ### eventual
 
+- 발음: /əˈvɛntʃuəl/
 - 구성: `event` + `-ual`
 - 뜻: 최종적인, 결국의
 - 어원적 연결: 시간이 지나 결국 일어나게 되는 것
@@ -99,6 +110,7 @@
 
 ### prevent
 
+- 발음: /prɪˈvɛnt/
 - 구성: `pre-` = before + `vent`
 - 뜻: 막다, 예방하다
 - 어원적 연결: 원래 "먼저 오다". 어떤 일이 오기 전에 앞질러 막음
@@ -106,6 +118,7 @@
 
 ### prevention
 
+- 발음: /priˈvɛnʃən/
 - 구성: `prevent` + `-ion`
 - 뜻: 예방, 방지
 - 어원적 연결: 일이 생기기 전에 먼저 막는 행위
@@ -113,6 +126,7 @@
 
 ### preventable
 
+- 발음: /prɪˈvɛntəbəl/
 - 구성: `prevent` + `-able`
 - 뜻: 예방 가능한, 막을 수 있는
 - 어원적 연결: 일이 오기 전에 앞질러 막을 수 있음
@@ -127,6 +141,7 @@
 
 ### preventive
 
+- 발음: /prɪˈvɛntɪv/
 - 구성: `prevent` + `-ive`
 - 뜻: 예방의, 예방적인
 - 어원적 연결: 일이 생기기 전에 막는 성질
@@ -134,6 +149,7 @@
 
 ### invent
 
+- 발음: /ˌɪˈnvɛnt/
 - 구성: `in-` = upon, into + `vent`
 - 뜻: 발명하다, 지어내다
 - 어원적 연결: 원래 "우연히 찾아오다, 발견하다". 이후 새로운 것을 찾아내고 만들어냄
@@ -141,6 +157,7 @@
 
 ### invention
 
+- 발음: /ˌɪˈnvɛnʃən/
 - 구성: `invent` + `-ion`
 - 뜻: 발명, 발명품
 - 어원적 연결: 찾아낸 새로운 생각이나 물건
@@ -148,6 +165,7 @@
 
 ### inventory
 
+- 발음: /ˌɪnvəˈntɔri/
 - 구성: Latin `inventarium`, from `invenire`
 - 뜻: 재고, 목록, 재고 목록
 - 어원적 연결: 찾아낸 물건들을 적어 둔 목록. 이후 보유 물품 전체나 재고를 가리킴
@@ -155,6 +173,7 @@
 
 ### venue
 
+- 발음: /ˈvɛnju/
 - 구성: Old French `venue`, from `venir`
 - 뜻: 장소, 개최지
 - 어원적 연결: 사람들이 오게 되는 장소
@@ -162,6 +181,7 @@
 
 ### avenue
 
+- 발음: /ˈævəˌnu/
 - 구성: Old French `avenue`, from `avenir`
 - 뜻: 대로, 접근 방법
 - 어원적 연결: 어떤 곳으로 오거나 접근하는 길
@@ -169,6 +189,7 @@
 
 ### advent
 
+- 발음: /ˈæˌdvɛnt/
 - 구성: `ad-` = to + `vent`
 - 뜻: 도래, 출현
 - 어원적 연결: 어떤 중요한 것이 다가와 나타남
@@ -176,6 +197,7 @@
 
 ### adventure
 
+- 발음: /æˈdvɛntʃɚ/
 - 구성: Old French `aventure`, from Latin `advenire`
 - 뜻: 모험
 - 어원적 연결: 앞으로 다가오는 예상 밖의 일
@@ -183,6 +205,7 @@
 
 ### revenue
 
+- 발음: /ˈrɛvəˌnu/
 - 구성: Old French `revenue`, from `revenir`
 - 뜻: 수입, 세입
 - 어원적 연결: 다시 돌아오는 돈
@@ -190,6 +213,7 @@
 
 ### souvenir
 
+- 발음: /ˌsuvəˈnɪr/
 - 구성: French `souvenir`, from Latin `subvenire`
 - 뜻: 기념품
 - 어원적 연결: 기억 속으로 떠오르게 하는 것. 원래 "마음에 오다" 이미지

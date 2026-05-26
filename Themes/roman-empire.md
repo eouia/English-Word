@@ -6,54 +6,63 @@
 
 ### republic ([[popul#republic|popul]], [[res#republic|res]])
 
+- 발음: /riˈpʌblək/
 - 핵심 의미: 공화국, 공화정
 - 사용 맥락: `the Roman Republic`, `republican institutions`
 - 주의: 왕이 아니라 시민과 대표 기관을 통해 통치되는 체제. 로마사는 공화정에서 제정으로 넘어가는 변화가 중요함.
 
 ### [[imper#empire|empire]]
 
+- 발음: /ˈɛmpaɪɚ/
 - 핵심 의미: 제국
 - 사용 맥락: `the Roman Empire`, `imperial expansion`
 - 주의: 한 중심 권력이 여러 민족과 넓은 영토를 지배하는 정치 체제.
 
 ### [[imper#imperial|imperial]]
 
+- 발음: /ˌɪˈmpɪriəl/
 - 핵심 의미: 제국의, 황제의
 - 사용 맥락: `imperial authority`, `imperial Rome`
 - 주의: 제국 통치, 황제권, 정복과 연결됨. 단위계 `imperial system`이라는 뜻도 있음.
 
 ### [[imper#emperor|emperor]]
 
+- 발음: /ˈɛmpɚɚ/
 - 핵심 의미: 황제
 - 사용 맥락: `Roman emperor`, `emperor Augustus`
 - 주의: 제국의 최고 통치자. 로마에서는 공화정 제도를 일부 유지하면서 실질 권력이 황제에게 집중됨.
 
 ### senate
 
+- 발음: /ˈsɛnət/
 - 핵심 의미: 원로원, 상원
 - 사용 맥락: `the Roman Senate`, `senatorial class`
 - 주의: 로마 공화정의 핵심 정치 기관. 현대 미국 상원도 `Senate`.
 
 ### [[consul#consul|consul]]
 
+- 발음: /ˈkɑnsəl/
 - 핵심 의미: 집정관, 영사
 - 사용 맥락: `Roman consul`, `consular authority`
 - 주의: 로마 공화정의 최고 선출 관직. 현대 외교에서는 영사라는 뜻.
 
 ### [[mag-master#magistrate|magistrate]]
 
+- 발음: /ˈmædʒəˌstreɪt/
 - 핵심 의미: 행정관, 치안판사
 - 사용 맥락: `Roman magistrates`, `local magistrate`
 - 주의: 로마에서는 공적 권한을 가진 선출 관직자. 현대에는 하급 판사·치안판사.
 
 ### [[crat#autocracy|autocracy]]
 
+- 발음: /ɔˈtɑkrəsi/
 - 핵심 의미: 전제정, 독재적 통치
 - 사용 맥락: `imperial autocracy`, `autocratic rule`
 - 주의: 권력이 한 사람에게 집중된 체제. 로마 제정 후기로 갈수록 설명에 자주 쓰임.
 
 ### [[cess#succession|succession]]
 
+- 발음: /səˈksɛʃən/
 - 핵심 의미: 계승, 승계
 - 사용 맥락: `imperial succession`, `succession crisis`
 - 주의: 황제 자리가 누구에게 넘어가는지의 문제. 로마 정치 불안의 핵심 원인 중 하나.
@@ -62,48 +71,56 @@
 
 ### citizenship
 
+- 발음: /ˈsɪtɪzəˌnʃɪp/
 - 핵심 의미: 시민권
 - 사용 맥락: `Roman citizenship`, `grant citizenship`
 - 주의: 로마에서는 법적 권리, 보호, 정치적 지위와 연결됨. 점차 속주민에게 확대됨.
 
 ### citizen
 
+- 발음: /ˈsɪtəzən/
 - 핵심 의미: 시민
 - 사용 맥락: `Roman citizen`, `rights of citizens`
 - 주의: 단순한 거주민이 아니라 특정 법적 권리를 가진 사람.
 
 ### patrician
 
+- 발음: /pəˈtrɪʃən/
 - 핵심 의미: 귀족, 로마의 귀족 계층
 - 사용 맥락: `patrician families`, `patrician privilege`
 - 주의: 로마 초기의 세습 귀족층. 현대에는 고상한 상류층이라는 뜻도 가능.
 
 ### plebeian
 
+- 발음: /pləˈbiən/
 - 핵심 의미: 평민, 서민
 - 사용 맥락: `plebeian assembly`, `patricians and plebeians`
 - 주의: 로마의 일반 시민 계층. `patrician`과 대비됨.
 
 ### [[crat#aristocracy|aristocracy]]
 
+- 발음: /ˌɛrəˈstɑkrəsi/
 - 핵심 의미: 귀족 계급, 귀족 정치
 - 사용 맥락: `Roman aristocracy`, `senatorial aristocracy`
 - 주의: 로마에서는 혈통, 부, 공직 경력을 바탕으로 정치 권력을 가진 상층 집단.
 
 ### patronage
 
+- 발음: /ˈpætrənɪdʒ/
 - 핵심 의미: 후원, 보호 관계
 - 사용 맥락: `patronage network`, `political patronage`
 - 주의: 로마 사회에서는 유력자가 하위자에게 보호와 이익을 제공하고 충성을 받는 관계.
 
 ### slavery
 
+- 발음: /ˈsleɪvɚi/
 - 핵심 의미: 노예제
 - 사용 맥락: `slavery in ancient Rome`, `slave labor`
 - 주의: 로마 경제와 가정, 광산, 농장, 교육까지 넓게 연결된 제도.
 
 ### emancipation
 
+- 발음: /ɪˌmænsəˈpeɪʃən/
 - 핵심 의미: 해방, 노예 해방
 - 사용 맥락: `emancipation of slaves`, `freedman status`
 - 주의: 법적 구속에서 풀려나는 것. 로마에서는 해방노예 `freedman`의 지위와 연결됨.
@@ -112,6 +129,7 @@
 
 ### legion
 
+- 발음: /ˈlidʒən/
 - 핵심 의미: 군단
 - 사용 맥락: `Roman legion`, `legionary soldiers`
 - 주의: 로마군의 대표적 기본 전투 단위. 현대 영어에서는 매우 많은 수라는 뜻도 있음.
@@ -124,36 +142,42 @@
 
 ### [[quest#conquest|conquest]]
 
+- 발음: /ˈkɑŋkwɛst/
 - 핵심 의미: 정복
 - 사용 맥락: `Roman conquest`, `conquest of Gaul`
 - 주의: 군사력으로 영토나 민족을 지배하게 되는 과정.
 
 ### campaign
 
+- 발음: /kæˈmpeɪn/
 - 핵심 의미: 군사 작전, 캠페인
 - 사용 맥락: `military campaign`, `Caesar's campaigns`
 - 주의: 전쟁에서 일정 목표를 가진 작전 묶음. 현대에는 선거·홍보 활동도 뜻함.
 
 ### [[sed-sess#siege|siege]]
 
+- 발음: /ˈsidʒ/
 - 핵심 의미: 포위 공격
 - 사용 맥락: `siege warfare`, `lay siege to a city`
 - 주의: 도시나 요새를 둘러싸 보급을 끊고 항복을 압박하는 방식.
 
 ### garrison
 
+- 발음: /ˈgærɪsən/
 - 핵심 의미: 주둔군, 수비대
 - 사용 맥락: `Roman garrison`, `garrison town`
 - 주의: 특정 도시나 요새를 지키기 위해 배치된 군대.
 
 ### auxiliary
 
+- 발음: /ɑˈgzɪljɚi/
 - 핵심 의미: 보조의, 보조병
 - 사용 맥락: `auxiliary troops`, `Roman auxiliaries`
 - 주의: 로마군에서는 시민권자가 아닌 속주민 보조병을 가리킬 수 있음. 일반적으로는 보조적인.
 
 ### frontier
 
+- 발음: /frəˈntɪr/
 - 핵심 의미: 국경 지대, 변경
 - 사용 맥락: `Roman frontier`, `frontier provinces`
 - 주의: 제국의 경계와 군사 방어선. 미국사에서는 서부 개척지의 의미도 강함.
@@ -162,48 +186,56 @@
 
 ### province
 
+- 발음: /ˈprɑvəns/
 - 핵심 의미: 속주, 지방
 - 사용 맥락: `Roman province`, `provincial administration`
 - 주의: 로마가 정복 후 행정적으로 관리한 지역. 현대에는 주·지방이라는 뜻.
 
 ### [[govern#governor|governor]]
 
+- 발음: /ˈgʌvɚnɚ/
 - 핵심 의미: 총독, 주지사
 - 사용 맥락: `provincial governor`, `Roman governor`
 - 주의: 로마 속주를 대신 다스리는 고위 관료. 현대에는 주지사.
 
 ### administration
 
+- 발음: /æˌdmɪnɪˈstreɪʃən/
 - 핵심 의미: 행정, 통치 운영
 - 사용 맥락: `imperial administration`, `provincial administration`
 - 주의: 제국의 세금, 법, 군사, 관료 조직을 운영하는 체계.
 
 ### taxation
 
+- 발음: /tæˈkseɪʃən/
 - 핵심 의미: 과세, 세금 부과
 - 사용 맥락: `Roman taxation`, `tax collection`
 - 주의: 제국 운영과 군사 유지의 재정 기반. 속주민 불만의 원인이 되기도 함.
 
 ### census
 
+- 발음: /ˈsɛnsəs/
 - 핵심 의미: 인구조사, 재산조사
 - 사용 맥락: `Roman census`, `conduct a census`
 - 주의: 세금, 병역, 시민 지위 파악을 위해 인구와 재산을 조사하는 제도.
 
 ### [[trib#tribute|tribute]]
 
+- 발음: /ˈtrɪbjut/
 - 핵심 의미: 조공, 공물, 찬사
 - 사용 맥락: `pay tribute to Rome`, `tribute from conquered peoples`
 - 주의: 지배받는 지역이 강대국에 바치는 돈·물품. 현대에는 존경의 표시.
 
 ### [[simil#assimilation|assimilation]]
 
+- 발음: /əˌsɪməˈleɪʃən/
 - 핵심 의미: 동화
 - 사용 맥락: `cultural assimilation`, `Roman assimilation`
 - 주의: 로마식 법, 언어, 도시생활, 관습을 받아들이는 과정. 강제와 자발성이 섞일 수 있음.
 
 ### integration
 
+- 발음: /ˌɪntəˈgreɪʃən/
 - 핵심 의미: 통합
 - 사용 맥락: `integration of provinces`, `social integration`
 - 주의: 다양한 민족과 지역을 하나의 제국 질서 안에 묶는 과정.
@@ -212,48 +244,56 @@
 
 ### law
 
+- 발음: /ˈlɔ/
 - 핵심 의미: 법
 - 사용 맥락: `Roman law`, `civil law tradition`
 - 주의: 로마법은 유럽 법체계와 법률 어휘에 큰 영향을 줌.
 
 ### codification
 
+- 발음: /ˌkɑdəfəˈkeɪʃən/
 - 핵심 의미: 법전화, 체계화
 - 사용 맥락: `codification of Roman law`, `legal codification`
 - 주의: 관습·판례·규칙을 정리해 공식 법전으로 만드는 작업.
 
 ### [[jur#jurisprudence|jurisprudence]]
 
+- 발음: /ˌdʒʊrəˈsprudəns/
 - 핵심 의미: 법학, 법철학
 - 사용 맥락: `Roman jurisprudence`, `legal jurisprudence`
 - 주의: 법의 원리와 해석을 다루는 학문적 표현.
 
 ### [[struct#infrastructure|infrastructure]]
 
+- 발음: /ˌɪnfrəˈstrʌktʃɚ/
 - 핵심 의미: 기반 시설
 - 사용 맥락: `Roman infrastructure`, `roads and aqueducts`
 - 주의: 도로, 수도교, 항구, 하수도처럼 사회 운영의 바탕이 되는 시설.
 
 ### aqueduct ([[aqua#aqueduct|aqua]], [[duc#aqueduct|duc]])
 
+- 발음: /ˈækwəˌdʌkt/
 - 핵심 의미: 수도교
 - 사용 맥락: `Roman aqueduct`, `aqueduct system`
 - 주의: 물을 도시로 끌어오기 위해 만든 구조물. 로마 토목 기술의 상징.
 
 ### sanitation
 
+- 발음: /ˌsænəˈteɪʃən/
 - 핵심 의미: 위생, 공중위생
 - 사용 맥락: `urban sanitation`, `Roman baths and sanitation`
 - 주의: 하수도, 목욕탕, 깨끗한 물 공급과 연결됨.
 
 ### [[urban#urbanization|urbanization]]
 
+- 발음: /ˌɝbənəˈzeɪʃən/
 - 핵심 의미: 도시화
 - 사용 맥락: `Roman urbanization`, `urban planning`
 - 주의: 도시 중심의 생활과 행정, 상업, 문화가 확대되는 과정.
 
 ### amphitheater ([[amphi#amphitheater|amphi]], [[theor#amphitheater|theor]])
 
+- 발음: /ˈæmfəθiˈeɪtɚ/
 - 핵심 의미: 원형경기장
 - 사용 맥락: `Roman amphitheater`, `gladiatorial games`
 - 주의: 검투 경기와 공개 행사가 열린 타원형 경기장. 영국식 철자는 `amphitheatre`.
@@ -262,42 +302,49 @@
 
 ### pagan
 
+- 발음: /ˈpeɪgən/
 - 핵심 의미: 이교도, 다신교의
 - 사용 맥락: `pagan religion`, `pagan temples`
 - 주의: 기독교 관점에서 비기독교 고대 종교를 가리키는 말로 쓰임. 평가적 뉘앙스에 주의.
 
 ### Christianity
 
+- 발음: /ˌkrɪstʃiˈænɪti/
 - 핵심 의미: 기독교
 - 사용 맥락: `spread of Christianity`, `Christianity in the Roman Empire`
 - 주의: 로마 후기 제국의 종교와 정치 질서를 크게 바꾼 요소.
 
 ### [[sequ#persecution|persecution]]
 
+- 발음: /ˌpɝsəˈkjuʃən/
 - 핵심 의미: 박해
 - 사용 맥락: `persecution of Christians`, `religious persecution`
 - 주의: 종교, 민족, 사상 등을 이유로 조직적으로 괴롭히거나 탄압하는 것.
 
 ### [[vers#conversion|conversion]]
 
+- 발음: /kəˈnvɝʒən/
 - 핵심 의미: 개종, 전환
 - 사용 맥락: `Constantine's conversion`, `religious conversion`
 - 주의: 종교를 바꾸는 일. 일반적으로는 형태·용도의 전환도 뜻함.
 
 ### [[clin#decline|decline]]
 
+- 발음: /dɪˈklaɪn/
 - 핵심 의미: 쇠퇴, 감소
 - 사용 맥락: `decline of the Roman Empire`, `economic decline`
 - 주의: 힘, 인구, 경제, 제도 안정성이 약해지는 과정.
 
 ### fragmentation
 
+- 발음: /ˌfrægməˈnteɪʃən/
 - 핵심 의미: 분열, 파편화
 - 사용 맥락: `political fragmentation`, `fragmentation of authority`
 - 주의: 하나의 체계가 여러 부분으로 쪼개져 통일성을 잃는 것.
 
 ### [[lect#legacy|legacy]]
 
+- 발음: /ˈlɛgəsi/
 - 핵심 의미: 유산, 남긴 영향
 - 사용 맥락: `legacy of Rome`, `Roman legal legacy`
 - 주의: 로마의 법, 언어, 건축, 도로, 행정 제도가 후대에 남긴 영향.
@@ -324,6 +371,7 @@
 
 ### Augustus
 
+- 발음: /ɑˈgʌstəs/
 - 핵심 의미: 아우구스투스, 초대 로마 황제
 - 사용 맥락: `Augustus established the principate`
 - 주의: 공화정의 외형을 유지하면서 황제권을 안정시킨 인물.
@@ -342,12 +390,14 @@
 
 ### Hannibal
 
+- 발음: /ˈhænɪbəl/
 - 핵심 의미: 한니발
 - 사용 맥락: `Hannibal crossed the Alps`
 - 주의: 제2차 포에니 전쟁의 카르타고 장군. 로마의 강적을 대표함.
 
 ### Constantine
 
+- 발음: /ˈkɑnstəˌntin/
 - 핵심 의미: 콘스탄티누스 황제
 - 사용 맥락: `Constantine legalized Christianity`
 - 주의: 기독교 공인, 수도 이전, 후기 로마제국 변화와 연결됨.
@@ -366,6 +416,7 @@
 
 ### Colosseum
 
+- 발음: /ˌkɑləˈsiəm/
 - 핵심 의미: 콜로세움
 - 사용 맥락: `gladiatorial games in the Colosseum`
 - 주의: 로마 원형경기장의 대표적 건축물. 제국의 권력과 대중 오락을 상징함.

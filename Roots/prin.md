@@ -19,6 +19,7 @@
 
 ### principal
 
+- 발음: /ˈprɪnsəpəl/
 - 구성: Latin `princeps` = first, chief + `-al`
 - 뜻: 주요한, 교장, 원금
 - 어원적 연결: 첫째 위치에 있는 사람·것 → 가장 중요한 것
@@ -26,6 +27,7 @@
 
 ### principle
 
+- 발음: /ˈprɪnsəpəl/
 - 구성: Latin `principium` = beginning, foundation
 - 뜻: 원칙, 원리
 - 어원적 연결: 처음에 놓이는 근본 기준
@@ -33,6 +35,7 @@
 
 ### principled
 
+- 발음: /ˈprɪnsəpəld/
 - 구성: `principle` + `-ed`
 - 뜻: 원칙 있는, 신념에 따른
 - 어원적 연결: 행동의 시작점이 되는 기준을 가짐
@@ -40,6 +43,7 @@
 
 ### principality
 
+- 발음: /ˌprɪnsɪˈpælɪti/
 - 구성: Latin `princeps` 계열 + `-ality`
 - 뜻: 공국, 군주의 지배 지역
 - 어원적 연결: 첫째 지위의 통치자가 다스리는 영역
@@ -47,6 +51,7 @@
 
 ### prince
 
+- 발음: /ˈprɪns/
 - 구성: Latin `princeps` = first, chief
 - 뜻: 왕자, 군주
 - 어원적 연결: 첫째 사람, 우두머리
@@ -54,6 +59,7 @@
 
 ### princess
 
+- 발음: /ˈprɪnsɛs/
 - 구성: `prince` + `-ess`
 - 뜻: 공주, 왕자비
 - 어원적 연결: 왕족의 높은 지위와 관련됨
@@ -61,6 +67,7 @@
 
 ### princely
 
+- 발음: /ˈprɪnsli/
 - 구성: `prince` + `-ly`
 - 뜻: 왕자다운, 아주 큰
 - 어원적 연결: 왕자나 군주처럼 크고 품위 있음

@@ -18,6 +18,7 @@
 
 ### hamper
 
+- 발음: /ˈhæmpɚ/
 - 구성: Middle English `hamperen`, `hampren`
 - 뜻: 방해하다, 저해하다, 제한하다
 - 어원적 연결: 움직임이나 진행을 묶어 자유롭지 못하게 함
@@ -25,6 +26,7 @@
 
 ### hampered
 
+- 발음: /ˈhæmpɚd/
 - 구성: `hamper` + `-ed`
 - 뜻: 방해받는, 제한된
 - 어원적 연결: 움직임이나 진행이 묶인 상태
@@ -32,6 +34,7 @@
 
 ### hampering
 
+- 발음: /ˈhæmpɚɪŋ/
 - 구성: `hamper` + `-ing`
 - 뜻: 방해하는, 저해하는
 - 어원적 연결: 진행을 계속 느리게 하거나 어렵게 만듦
@@ -39,6 +42,7 @@
 
 ### hamper
 
+- 발음: /ˈhæmpɚ/
 - 구성: Anglo-French `hanaper` = goblet case, container
 - 뜻: 바구니, 빨래통, 선물 바구니
 - 어원적 연결: 물건을 담는 용기

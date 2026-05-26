@@ -20,6 +20,7 @@
 
 ### amphibian
 
+- 발음: /æˈmfɪbiən/
 - 구성: `amphi-` = both kinds + `bio` = life
 - 뜻: 양서류
 - 어원적 연결: 물과 땅, 두 환경에서 사는 생물
@@ -27,6 +28,7 @@
 
 ### amphibious
 
+- 발음: /æˈmfɪbiəs/
 - 구성: Greek `amphibios`
 - 뜻: 수륙 양용의, 양서의
 - 어원적 연결: 물과 땅 양쪽에서 작동하거나 살아감
@@ -34,6 +36,7 @@
 
 ### amphitheater
 
+- 발음: /ˈæmfəθiˈeɪtɚ/
 - 구성: `amphi-` = around + `theater`
 - 뜻: 원형극장, 계단식 관람석
 - 어원적 연결: 관객이 둘레를 둘러싸고 보는 극장
@@ -41,6 +44,7 @@
 
 ### amphitheatre
 
+- 발음: /ˈæmfəθiˈeɪtɚ/
 - 구성: British spelling of `amphitheater`
 - 뜻: 원형극장
 - 어원적 연결: 같은 어원, 영국식 철자
@@ -48,6 +52,7 @@
 
 ### amphora
 
+- 발음: /ˈæmfɚə/
 - 구성: Greek `amphoreus` = two-handled jar
 - 뜻: 암포라, 양손잡이 항아리
 - 어원적 연결: 양쪽에 손잡이가 달린 용기

@@ -9,6 +9,7 @@
 
 ### trace
 
+- 발음: /ˈtreɪs/
 - 구성: Old French `tracier`, Vulgar Latin `tractiare`
 - 뜻: 흔적, 추적하다, 윤곽을 그리다
 - 어원적 연결: 끌고 지나간 선이나 자국을 따라감
@@ -16,6 +17,7 @@
 
 ### traceable
 
+- 발음: /ˈtreɪsəbəl/
 - 구성: `trace` + `-able`
 - 뜻: 추적 가능한
 - 어원적 연결: 자국이나 경로를 따라갈 수 있음
@@ -23,6 +25,7 @@
 
 ### portray
 
+- 발음: /pɔˈrtreɪ/
 - 구성: Old French `portraire`, Latin `protrahere`
 - 뜻: 묘사하다, 그리다, 연기하다
 - 어원적 연결: 어떤 모습을 앞으로 끌어내어 보이게 함. 선을 끌어 그리는 이미지에서 인물이나 성격을 드러내는 의미로 확대
@@ -30,6 +33,7 @@
 
 ### portrayal
 
+- 발음: /pɔˈrtreɪəl/
 - 구성: `portray` + `-al`
 - 뜻: 묘사, 표현, 연기
 - 어원적 연결: 사람이나 상황을 밖으로 드러내 보이는 방식
@@ -37,6 +41,7 @@
 
 ### portrait
 
+- 발음: /ˈpɔrtrət/
 - 구성: Old French `portrait`, Latin `protrahere`
 - 뜻: 초상화, 인물 묘사
 - 어원적 연결: 사람의 모습을 선으로 끌어내어 나타낸 것
@@ -44,6 +49,7 @@
 
 ### trait
 
+- 발음: /ˈtreɪt/
 - 구성: Old French `trait`, Latin `tractus`
 - 뜻: 특징, 특성
 - 어원적 연결: 원래 "끌어 그은 선, 획". 얼굴이나 성격을 이루는 한 줄의 특징에서, 사람을 구별하는 특성으로 의미 확대
@@ -52,6 +58,7 @@
 
 ### trail
 
+- 발음: /ˈtreɪl/
 - 구성: Old French `trailler`, Vulgar Latin `tragulare`
 - 뜻: 자국, 길, 뒤따르다
 - 어원적 연결: 끌고 지나간 뒤에 남은 자국
@@ -59,6 +66,7 @@
 
 ### trailer
 
+- 발음: /ˈtreɪlɚ/
 - 구성: `trail` + `-er`
 - 뜻: 트레일러, 예고편
 - 어원적 연결: 뒤에 끌려가는 것. 영화 뒤에 붙는 홍보물에서 예고편 의미

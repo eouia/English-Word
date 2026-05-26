@@ -20,6 +20,7 @@
 
 ### sculpture
 
+- 발음: /ˈskʌlptʃɚ/
 - 구성: Latin `sculptura` ← `sculptus`
 - 뜻: 조각, 조각품, 조각하다
 - 어원적 연결: 깎고 새겨 만든 형상
@@ -27,6 +28,7 @@
 
 ### sculpt
 
+- 발음: /ˈskʌlpt/
 - 구성: back-formation from `sculptor/sculpture`
 - 뜻: 조각하다, 형태를 만들다
 - 어원적 연결: 깎거나 빚어 형상을 만듦
@@ -34,6 +36,7 @@
 
 ### sculpted
 
+- 발음: /ˈskʌlptɪd/
 - 구성: `sculpt` + `-ed`
 - 뜻: 조각된, 선명하게 다듬어진
 - 어원적 연결: 깎아 만든 듯한 형태
@@ -41,6 +44,7 @@
 
 ### sculptor
 
+- 발음: /ˈskʌlptɚ/
 - 구성: Latin `sculptor` = one who carves
 - 뜻: 조각가
 - 어원적 연결: 깎고 새기는 사람
@@ -48,6 +52,7 @@
 
 ### sculptural
 
+- 발음: /ˈskʌlptʃɚəl/
 - 구성: `sculpture` + `-al`
 - 뜻: 조각의, 조각 같은
 - 어원적 연결: 조각처럼 입체적이고 다듬어진 형태
@@ -55,6 +60,7 @@
 
 ### sculpting
 
+- 발음: /ˈskʌlptɪŋ/
 - 구성: `sculpt` + `-ing`
 - 뜻: 조각하기, 조형
 - 어원적 연결: 재료를 깎거나 빚어 형태를 만드는 행위
@@ -62,6 +68,7 @@
 
 ### scalpel
 
+- 발음: /ˈskælpəl/
 - 구성: Latin `scalpellum` ← `scalprum` = knife, chisel
 - 뜻: 외과용 메스
 - 어원적 연결: 작고 날카롭게 자르는 도구
@@ -69,6 +76,7 @@
 
 ### scalp
 
+- 발음: /ˈskælp/
 - 구성: 관련 어원이 불확실하지만 `scalpere`와 전통적으로 비교됨
 - 뜻: 두피; 두피를 벗기다
 - 어원적 연결: 표면을 벗기거나 자르는 이미지와 연결 가능

@@ -19,6 +19,7 @@
 
 ### recalcitrant
 
+- 발음: /rɪˈkælsɪtrənt/
 - 구성: `re-` = back/against + Latin `calcitrare`
 - 뜻: 고집 센, 반항적인, 말을 안 듣는
 - 어원적 연결: 발길질하며 뒤로 버티는 사람이나 태도
@@ -26,6 +27,7 @@
 
 ### recalcitrance
 
+- 발음: /rɪˈkælsətrəns/
 - 구성: `recalcitrant` + `-ance`
 - 뜻: 완강한 저항, 고집스러운 반항
 - 어원적 연결: 지시나 통제에 맞서 버티는 상태

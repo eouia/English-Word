@@ -21,6 +21,7 @@
 
 ### approach
 
+- 발음: /əˈproʊtʃ/
 - 구성: Old French `aprochier` = come nearer
 - 뜻: 접근하다, 다가가다, 접근법
 - 어원적 연결: 대상에 가까이 감. 생각에서는 문제를 다루는 방식으로 확장
@@ -28,6 +29,7 @@
 
 ### approachable
 
+- 발음: /əˈproʊtʃəbəl/
 - 구성: `approach` + `-able`
 - 뜻: 접근하기 쉬운, 친근한
 - 어원적 연결: 가까이 다가갈 수 있음
@@ -35,6 +37,7 @@
 
 ### reproach
 
+- 발음: /riˈproʊtʃ/
 - 구성: Old French `reprochier` = bring near, blame
 - 뜻: 비난하다, 책망하다
 - 어원적 연결: 잘못을 상대 앞에 가까이 가져와 들이댐
@@ -49,6 +52,7 @@
 
 ### encroach
 
+- 발음: /ɪˈnkroʊtʃ/
 - 구성: Old French `encrochier`, 의미상 침범해 가까이 들어감
 - 뜻: 침범하다, 잠식하다
 - 어원적 연결: 남의 영역 안쪽으로 가까이 들어와 차지함
@@ -56,6 +60,7 @@
 
 ### encroachment
 
+- 발음: /ɛˈnkroʊtʃmənt/
 - 구성: `encroach` + `-ment`
 - 뜻: 침범, 잠식
 - 어원적 연결: 경계 안으로 들어와 차지하는 행위

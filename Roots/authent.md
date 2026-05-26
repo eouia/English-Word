@@ -19,6 +19,7 @@
 
 ### authentic
 
+- 발음: /əˈθɛntɪk/
 - 구성: Greek `authentikos` = genuine, original + `-ic`
 - 뜻: 진짜의, 진정한, 진정성 있는
 - 어원적 연결: 원본에서 나온 것으로 믿을 수 있음
@@ -26,6 +27,7 @@
 
 ### authenticity
 
+- 발음: /ˌɔθəˈntɪsɪti/
 - 구성: `authentic` + `-ity`
 - 뜻: 진짜임, 진정성
 - 어원적 연결: 원본성·진짜성의 상태
@@ -33,6 +35,7 @@
 
 ### authentically
 
+- 발음: /ˌɔˈθɛntɪkli/
 - 구성: `authentic` + `-ally`
 - 뜻: 진정성 있게, 진짜답게
 - 어원적 연결: 꾸민 것이 아니라 자기 본래 모습에 맞게
@@ -40,6 +43,7 @@
 
 ### authenticate
 
+- 발음: /ɔˈθɛntəˌkeɪt/
 - 구성: `authentic` + `-ate`
 - 뜻: 진짜임을 입증하다, 인증하다
 - 어원적 연결: 어떤 것이 원본·진짜임을 확인함
@@ -47,6 +51,7 @@
 
 ### authentication
 
+- 발음: /ɔˌθɛntəˈkeɪʃən/
 - 구성: `authenticate` + `-ion`
 - 뜻: 인증, 진위 확인
 - 어원적 연결: 진짜임을 확인하는 절차

@@ -19,6 +19,7 @@
 
 ### malevolent
 
+- 발음: /məˈlɛvələnt/
 - 구성: `mal-` = bad + Latin `volens` = wishing
 - 뜻: 악의적인, 해치려는
 - 어원적 연결: 나쁜 일이 일어나기를 바라는 마음
@@ -35,6 +36,7 @@
 
 ### malicious
 
+- 발음: /məˈlɪʃəs/
 - 구성: Latin `malitia` = badness, spite + `-ous`
 - 뜻: 악의적인, 해치려는
 - 어원적 연결: 나쁜 마음이나 해칠 의도를 드러냄
@@ -42,6 +44,7 @@
 
 ### malice
 
+- 발음: /ˈmæləs/
 - 구성: Latin `malitia` = badness, spite
 - 뜻: 악의, 원한
 - 어원적 연결: 나쁘게 해치려는 마음
@@ -49,6 +52,7 @@
 
 ### malfunction
 
+- 발음: /mæˈlfʌŋkʃən/
 - 구성: `mal-` = badly + `function`
 - 뜻: 오작동하다; 오작동
 - 어원적 연결: 기능이 나쁘게 작동함
@@ -56,6 +60,7 @@
 
 ### malpractice
 
+- 발음: /mæˈlpræktəs/
 - 구성: `mal-` = bad + `practice`
 - 뜻: 배임, 위법 행위, 의료 과실
 - 어원적 연결: 직무나 전문 행위를 나쁘게 수행함
@@ -63,6 +68,7 @@
 
 ### malnutrition
 
+- 발음: /ˌmælnuˈtrɪʃən/
 - 구성: `mal-` = badly + `nutrition`
 - 뜻: 영양실조
 - 어원적 연결: 영양 상태가 나쁘거나 잘못됨

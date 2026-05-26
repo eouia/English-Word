@@ -19,6 +19,7 @@
 
 ### isolate
 
+- 발음: /ˈaɪsəˌleɪt/
 - 구성: `isol` = island + `-ate`
 - 뜻: 고립시키다, 분리하다
 - 어원적 연결: 섬처럼 주변과 떨어뜨림
@@ -26,6 +27,7 @@
 
 ### isolated
 
+- 발음: /ˈaɪsəˌleɪtəd/
 - 구성: `isolate` + `-ed`
 - 뜻: 고립된, 외딴
 - 어원적 연결: 섬처럼 따로 떨어져 있음
@@ -33,6 +35,7 @@
 
 ### isolation
 
+- 발음: /ˌaɪsəˈleɪʃən/
 - 구성: `isolate` + `-ion`
 - 뜻: 고립, 격리, 분리
 - 어원적 연결: 주변과 떨어져 섬처럼 된 상태
@@ -40,6 +43,7 @@
 
 ### insulate
 
+- 발음: /ˈɪnsəˌleɪt/
 - 구성: Latin `insula` = island + `-ate`
 - 뜻: 단열하다, 절연하다, 보호해 분리하다
 - 어원적 연결: 섬처럼 둘러싸 외부와 떨어뜨림
@@ -47,6 +51,7 @@
 
 ### insulation
 
+- 발음: /ˌɪnsəˈleɪʃən/
 - 구성: `insulate` + `-ion`
 - 뜻: 단열, 절연, 단열재
 - 어원적 연결: 열이나 전기 흐름과 분리하는 층
@@ -54,6 +59,7 @@
 
 ### insular
 
+- 발음: /ˈɪnsəlɚ/
 - 구성: Latin `insularis` = of an island
 - 뜻: 섬의; 편협한, 고립적인
 - 어원적 연결: 섬처럼 외부와 떨어져 좁은 세계에 머묾
@@ -61,6 +67,7 @@
 
 ### island
 
+- 발음: /ˈaɪlənd/
 - 구성: Old English `iegland`; 철자 `s`는 `isle` 영향
 - 뜻: 섬
 - 어원적 연결: 물로 둘러싸인 땅
@@ -68,6 +75,7 @@
 
 ### isle
 
+- 발음: /ˈaɪl/
 - 구성: Old French `ile` < Latin `insula`
 - 뜻: 섬
 - 어원적 연결: 라틴어 `insula` 계열의 문학적 형태
@@ -75,6 +83,7 @@
 
 ### peninsula
 
+- 발음: /pəˈnɪnsələ/
 - 구성: Latin `paene` = almost + `insula` = island
 - 뜻: 반도
 - 어원적 연결: 거의 섬처럼 물에 둘러싸인 땅

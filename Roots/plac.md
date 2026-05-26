@@ -18,6 +18,7 @@
 
 ### please
 
+- 발음: /ˈpliz/
 - 구성: Latin `placere`
 - 뜻: 기쁘게 하다, 제발
 - 어원적 연결: 상대의 마음을 만족시킴
@@ -25,6 +26,7 @@
 
 ### pleasant
 
+- 발음: /ˈplɛzənt/
 - 구성: Old French `plaisant`
 - 뜻: 즐거운, 쾌적한
 - 어원적 연결: 마음에 들어 기분 좋음
@@ -32,6 +34,7 @@
 
 ### pleasure
 
+- 발음: /ˈplɛʒɚ/
 - 구성: Old French `plaisir`
 - 뜻: 즐거움, 기쁨
 - 어원적 연결: 마음이 만족한 상태
@@ -39,6 +42,7 @@
 
 ### complacent
 
+- 발음: /kəˈmpleɪsənt/
 - 구성: `com-` = very, together + Latin `placere`
 - 뜻: 자기만족적인, 안일한
 - 어원적 연결: 자기 상태에 지나치게 만족함
@@ -46,6 +50,7 @@
 
 ### placate
 
+- 발음: /ˈpleɪkeɪt/
 - 구성: Latin `placare` = calm, soothe
 - 뜻: 달래다, 진정시키다
 - 어원적 연결: 불만을 누그러뜨려 마음을 편하게 함
@@ -53,6 +58,7 @@
 
 ### placebo
 
+- 발음: /pləˈsiboʊ/
 - 구성: Latin `placebo` = I shall please
 - 뜻: 위약
 - 어원적 연결: 실제 약효보다 만족감·기대 효과를 줌

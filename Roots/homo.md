@@ -19,6 +19,7 @@
 
 ### homogeneous
 
+- 발음: /ˌhoʊməˈdʒiniəs/
 - 구성: `homo-` = same + `genos` = kind
 - 뜻: 동질적인, 균질한
 - 어원적 연결: 같은 종류나 성질로 이루어짐
@@ -26,6 +27,7 @@
 
 ### homogeneity
 
+- 발음: /ˌhɑmədʒəˈniəti/
 - 구성: `homogeneous` + `-ity`
 - 뜻: 동질성, 균질성
 - 어원적 연결: 서로 같은 성질을 가진 상태
@@ -33,6 +35,7 @@
 
 ### homogenize
 
+- 발음: /hoʊˈmɑdʒəˌnaɪz/
 - 구성: `homo-` + `genos` + `-ize`
 - 뜻: 균질화하다, 동질화하다
 - 어원적 연결: 서로 다른 것을 같은 상태로 만듦
@@ -40,6 +43,7 @@
 
 ### homonym
 
+- 발음: /ˈhɔmənɪm/
 - 구성: `homo-` = same + [[onym]] = name
 - 뜻: 동형이의어, 이름이나 형태가 같은 말
 - 어원적 연결: 같은 이름을 가진 말
@@ -47,6 +51,7 @@
 
 ### homophone
 
+- 발음: /ˈhoʊmoʊˌfoʊn/
 - 구성: `homo-` = same + [[phone]] = sound
 - 뜻: 동음이의어
 - 어원적 연결: 소리가 같은 말
@@ -54,6 +59,7 @@
 
 ### homologous
 
+- 발음: /hɑˈmɑləgəs/
 - 구성: `homo-` = same + Greek `logos` = relation, proportion
 - 뜻: 상동의, 대응 관계에 있는
 - 어원적 연결: 구조나 기원이 서로 대응됨
@@ -61,6 +67,7 @@
 
 ### homozygous
 
+- 발음: /ˌhoʊmoʊˈzaɪgəs/
 - 구성: `homo-` = same + Greek `zygon` = yoke, pair
 - 뜻: 동형접합의
 - 어원적 연결: 한 쌍의 유전자가 같은 상태
@@ -68,6 +75,7 @@
 
 ### homosexual
 
+- 발음: /ˌhoʊmoʊˈsɛˌkʃʌwəl/
 - 구성: `homo-` = same + `sexual`
 - 뜻: 동성애의
 - 어원적 연결: 같은 성에 끌림
@@ -75,6 +83,7 @@
 
 ### homophobia
 
+- 발음: /ˌhoʊməˈfoʊbiə/
 - 구성: `homo-` = same, homosexual + [[phob]] = fear
 - 뜻: 동성애 혐오
 - 어원적 연결: 현대어에서는 `homosexual`에 대한 혐오·공포 의미

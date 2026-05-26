@@ -19,6 +19,7 @@
 
 ### fruitless
 
+- 발음: /ˈfrutləs/
 - 구성: `fruit` + `-less`
 - 뜻: 성과 없는, 헛된, 무익한
 - 어원적 연결: 노력했지만 열매나 결과가 맺히지 않음
@@ -26,6 +27,7 @@
 
 ### fruit
 
+- 발음: /ˈfrut/
 - 구성: Old French `fruit` ← Latin `fructus`
 - 뜻: 열매, 과일; 성과
 - 어원적 연결: 식물이 맺는 열매에서 노력의 결과로 의미 확장
@@ -33,6 +35,7 @@
 
 ### fruitful
 
+- 발음: /ˈfrutfəl/
 - 구성: `fruit` + `-ful`
 - 뜻: 생산적인, 유익한, 결실 있는
 - 어원적 연결: 열매를 많이 맺듯 결과와 성과가 풍부함
@@ -40,6 +43,7 @@
 
 ### fruition
 
+- 발음: /fruˈɪʃən/
 - 구성: Latin `frui` = enjoy + `-tion`
 - 뜻: 성취, 실현, 결실
 - 어원적 연결: 노력의 열매를 누리는 상태
@@ -54,6 +58,7 @@
 
 ### fructose
 
+- 발음: /ˈfrʌˌktoʊs/
 - 구성: Latin `fructus` + chemical suffix `-ose`
 - 뜻: 과당
 - 어원적 연결: 과일에 들어 있는 당

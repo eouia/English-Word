@@ -19,6 +19,7 @@
 
 ### necessitate
 
+- 발음: /nəˈsɛsəˌteɪt/
 - 구성: `necessity` 계열 + `-ate`
 - 뜻: 필요하게 만들다, 불가피하게 하다
 - 어원적 연결: 어떤 상황이 물러날 수 없는 요구를 만듦
@@ -33,6 +34,7 @@
 
 ### necessary
 
+- 발음: /ˈnɛsəˌsɛri/
 - 구성: Latin `necessarius` ← `necesse`
 - 뜻: 필요한, 필수적인, 불가피한
 - 어원적 연결: 피하거나 생략할 수 없음
@@ -40,6 +42,7 @@
 
 ### necessarily
 
+- 발음: /ˌnɛsəˈsɛrəli/
 - 구성: `necessary` + `-ly`
 - 뜻: 반드시, 필연적으로
 - 어원적 연결: 달리 될 수 없이
@@ -47,6 +50,7 @@
 
 ### necessity
 
+- 발음: /nəˈsɛsəti/
 - 구성: Latin `necessitas`
 - 뜻: 필요, 필수품, 필연성
 - 어원적 연결: 피할 수 없는 요구나 조건
@@ -54,6 +58,7 @@
 
 ### necessities
 
+- 발음: /nəˈsɛsɪtiz/
 - 구성: `necessity`의 복수형
 - 뜻: 필수품, 생필품
 - 어원적 연결: 없어서는 안 되는 것들
@@ -68,6 +73,7 @@
 
 ### unnecessary
 
+- 발음: /əˈnnɛsəˌsɛri/
 - 구성: `un-` + `necessary`
 - 뜻: 불필요한
 - 어원적 연결: 피할 수 없는 요구가 아님

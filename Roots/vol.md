@@ -20,6 +20,7 @@
 
 ### benevolent
 
+- 발음: /bəˈnɛvələnt/
 - 구성: `bene-` = good + Latin `volens` = wishing
 - 뜻: 자비로운, 선의의, 친절한
 - 어원적 연결: 상대에게 좋은 일을 바라려는 마음
@@ -27,6 +28,7 @@
 
 ### benevolence
 
+- 발음: /bəˈnɛvələns/
 - 구성: `benevolent`의 명사형
 - 뜻: 선의, 자비심
 - 어원적 연결: 좋은 것을 바라는 마음의 성질
@@ -41,6 +43,7 @@
 
 ### malevolent
 
+- 발음: /məˈlɛvələnt/
 - 구성: `mal-` = bad + Latin `volens` = wishing
 - 뜻: 악의적인, 해치려는
 - 어원적 연결: 나쁜 일을 바라거나 악한 뜻을 품음
@@ -55,6 +58,7 @@
 
 ### volition
 
+- 발음: /voʊˈlɪʃən/
 - 구성: Latin `volitio` = act of willing
 - 뜻: 의지, 결심
 - 어원적 연결: 마음이 스스로 원하고 선택함
@@ -62,6 +66,7 @@
 
 ### voluntary
 
+- 발음: /ˈvɑləntɛri/
 - 구성: Latin `voluntarius` = of one's free will
 - 뜻: 자발적인, 자원한
 - 어원적 연결: 강제가 아니라 스스로 원해서 함
@@ -69,6 +74,7 @@
 
 ### involuntary
 
+- 발음: /ˌɪˈnvɑləˌntɛri/
 - 구성: `in-` = not + `voluntary`
 - 뜻: 자기도 모르게 하는, 비자발적인
 - 어원적 연결: 자기 의지로 선택한 것이 아님
@@ -76,6 +82,7 @@
 
 ### volunteer
 
+- 발음: /ˌvɑləˈntɪr/
 - 구성: French `volontaire` = voluntary
 - 뜻: 자원봉사자; 자원하다
 - 어원적 연결: 스스로 원해서 참여하는 사람

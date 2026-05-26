@@ -20,6 +20,7 @@
 
 ### antiquity
 
+- 발음: /æˈntɪkwəti/
 - 구성: Latin `antiquitas` ← `antiquus`
 - 뜻: 고대, 오래됨, 고대 유물
 - 어원적 연결: 지금보다 앞선 먼 시대
@@ -27,6 +28,7 @@
 
 ### antique
 
+- 발음: /æˈntik/
 - 구성: Latin `antiquus` = ancient, old
 - 뜻: 골동품, 오래된; 고풍의
 - 어원적 연결: 이전 시대에 속한 물건이나 양식
@@ -34,6 +36,7 @@
 
 ### antiquated
 
+- 발음: /ˈæntəˌkweɪtɪd/
 - 구성: `antiquate` + `-ed`
 - 뜻: 구식의, 낡은
 - 어원적 연결: 너무 옛날 방식이라 지금에는 맞지 않음
@@ -48,6 +51,7 @@
 
 ### ancient
 
+- 발음: /ˈeɪntʃənt/
 - 구성: Old French `ancien` ← Vulgar Latin `anteanus`
 - 뜻: 고대의, 아주 오래된
 - 어원적 연결: 이전 시대에 속함
@@ -55,6 +59,7 @@
 
 ### ancestor
 
+- 발음: /ˈæˌnsɛstɚ/
 - 구성: Late Latin `antecessor` = one who goes before
 - 뜻: 조상, 선조
 - 어원적 연결: 나보다 앞서 간 사람
@@ -62,6 +67,7 @@
 
 ### ancestral
 
+- 발음: /æˈnsɛstrəl/
 - 구성: `ancestor` + `-al`
 - 뜻: 조상의, 대대로 내려온
 - 어원적 연결: 앞선 세대에서 이어짐
@@ -69,6 +75,7 @@
 
 ### antecedent
 
+- 발음: /ˌæˈntɛsədənt/
 - 구성: `ante-` = before + [[cess]] = go
 - 뜻: 선행사, 앞선 사건, 전례
 - 어원적 연결: 앞에 가 있는 것
@@ -97,6 +104,7 @@
 
 ### antebellum
 
+- 발음: /ˌæntɪˈbɛləm/
 - 구성: `ante-` = before + Latin `bellum` = war
 - 뜻: 전쟁 전의, 특히 미국 남북전쟁 전의
 - 어원적 연결: 전쟁보다 앞선 시대
@@ -104,6 +112,7 @@
 
 ### anterior
 
+- 발음: /æˈntɪriɚ/
 - 구성: Latin `anterior` = more before, in front
 - 뜻: 앞쪽의, 이전의
 - 어원적 연결: 위치나 시간에서 더 앞에 있음
@@ -118,6 +127,7 @@
 
 ### anticipate
 
+- 발음: /æˈntɪsəˌpeɪt/
 - 구성: `ante-` = before + [[cap]] = take
 - 뜻: 예상하다, 기대하다, 앞서 처리하다
 - 어원적 연결: 일이 오기 전에 미리 잡음
@@ -125,6 +135,7 @@
 
 ### anticipation
 
+- 발음: /æˌntɪsəˈpeɪʃən/
 - 구성: `anticipate` + `-ion`
 - 뜻: 예상, 기대
 - 어원적 연결: 앞서 마음속으로 잡아 둠

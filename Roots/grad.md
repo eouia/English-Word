@@ -20,6 +20,7 @@
 
 ### grade
 
+- 발음: /ˈgreɪd/
 - 구성: Latin `gradus`
 - 뜻: 등급, 학년, 성적
 - 어원적 연결: 한 단계씩 나뉜 수준
@@ -27,6 +28,7 @@
 
 ### gradual
 
+- 발음: /ˈgrædʒuəl/
 - 구성: `grade` + `-ual`
 - 뜻: 점진적인
 - 어원적 연결: 단계별로 조금씩 진행됨
@@ -34,6 +36,7 @@
 
 ### graduate
 
+- 발음: /ˈgrædʒəwət/
 - 구성: Latin `gradus` + `-ate`
 - 뜻: 졸업하다, 졸업생
 - 어원적 연결: 한 교육 단계를 올라 마침
@@ -41,6 +44,7 @@
 
 ### graduation
 
+- 발음: /ˌgrædʒuˈeɪʃən/
 - 구성: `graduate` + `-ion`
 - 뜻: 졸업
 - 어원적 연결: 한 단계의 완료
@@ -48,6 +52,7 @@
 
 ### progress
 
+- 발음: n. /ˈprɑˌgrɛs/, v. /prəˈgrɛs/
 - 구성: `pro-` = forward + Latin `gradi`
 - 뜻: 진전, 발전하다
 - 어원적 연결: 앞으로 걸어 나아감
@@ -55,6 +60,7 @@
 
 ### progressive
 
+- 발음: /prəˈgrɛsɪv/
 - 구성: `progress` + `-ive`
 - 뜻: 진보적인, 점진적인
 - 어원적 연결: 앞으로 나아가거나 단계적으로 발전함
@@ -62,6 +68,7 @@
 
 ### regress
 
+- 발음: /ˈrigrɛs/
 - 구성: `re-` = back + Latin `gradi`
 - 뜻: 퇴보하다, 되돌아가다
 - 어원적 연결: 뒤로 걸어감
@@ -69,6 +76,7 @@
 
 ### aggressive
 
+- 발음: /əˈgrɛsɪv/
 - 구성: `ad-` = toward + Latin `gradi`
 - 뜻: 공격적인, 적극적인
 - 어원적 연결: 상대를 향해 걸어 들어감
@@ -76,6 +84,7 @@
 
 ### congress
 
+- 발음: /ˈkɑŋgrəs/
 - 구성: `con-` = together + Latin `gradi`
 - 뜻: 의회, 회의
 - 어원적 연결: 사람들이 함께 걸어 모임
@@ -83,6 +92,7 @@
 
 ### transgress
 
+- 발음: /træˈnzgrɛs/
 - 구성: `trans-` = across, beyond + Latin `gradi`
 - 뜻: 위반하다, 넘어서다
 - 어원적 연결: 정해진 선이나 규범을 넘어 걸어감

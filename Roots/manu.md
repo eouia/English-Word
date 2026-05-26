@@ -18,6 +18,7 @@
 
 ### manual
 
+- 발음: /ˈmænjuəl/
 - 구성: `manu` + `-al`
 - 뜻: 손으로 하는, 수동의, 설명서
 - 어원적 연결: 손으로 직접 다룸
@@ -25,6 +26,7 @@
 
 ### manually
 
+- 발음: /ˈmænjuəli/
 - 구성: `manual` + `-ly`
 - 뜻: 손으로, 수동으로
 - 어원적 연결: 자동이 아니라 손으로 직접 함
@@ -32,6 +34,7 @@
 
 ### manuscript
 
+- 발음: /ˈmænjəˌskrɪpt/
 - 구성: `manu` = by hand + `script` = written
 - 뜻: 원고, 필사본
 - 어원적 연결: 손으로 쓴 글
@@ -40,6 +43,7 @@
 
 ### manufacture
 
+- 발음: /ˌmænjəˈfæktʃɚ/
 - 구성: `manu` = hand + `facture` = making
 - 뜻: 제조하다, 제조
 - 어원적 연결: 원래 손으로 만듦
@@ -48,6 +52,7 @@
 
 ### manufacturer
 
+- 발음: /ˌmænjəˈfæktʃɚɚ/
 - 구성: `manufacture` + `-er`
 - 뜻: 제조업체, 제조자
 - 어원적 연결: 물건을 만들어 내는 사람이나 회사
@@ -55,6 +60,7 @@
 
 ### manipulate
 
+- 발음: /məˈnɪpjəˌleɪt/
 - 구성: Latin `manipulus` = handful
 - 뜻: 조작하다, 교묘히 다루다
 - 어원적 연결: 손안에 쥐고 이리저리 다룸
@@ -62,6 +68,7 @@
 
 ### manipulation
 
+- 발음: /məˌnɪpjəˈleɪʃən/
 - 구성: `manipulate` + `-ion`
 - 뜻: 조작, 교묘한 처리
 - 어원적 연결: 손으로 다루듯 통제함
@@ -69,6 +76,7 @@
 
 ### manage
 
+- 발음: /ˈmænədʒ/
 - 구성: Italian `maneggiare` = handle, train horses
 - 뜻: 관리하다, 해내다
 - 어원적 연결: 손으로 다루고 통제함
@@ -76,6 +84,7 @@
 
 ### manner
 
+- 발음: /ˈmænɚ/
 - 구성: Old French `maniere` ← Vulgar Latin `*manuaria` ← Latin `manuarius` = of the hand
 - 뜻: 방식, 태도, 예절
 - 어원적 연결: 손으로 다루는 방식에서 어떤 일을 하는 방식, 사람의 태도·행동 양식으로 확장
@@ -83,6 +92,7 @@
 
 ### mannerism
 
+- 발음: /ˈmænɚˌɪzəm/
 - 구성: `manner` + `-ism`
 - 뜻: 독특한 습관, 버릇, 양식
 - 어원적 연결: 개인이나 예술가가 반복적으로 드러내는 "하는 방식"
@@ -90,6 +100,7 @@
 
 ### manageable
 
+- 발음: /ˈmænɪdʒəbəl/
 - 구성: `manage` + `-able`
 - 뜻: 관리할 수 있는, 감당할 수 있는
 - 어원적 연결: 손에 쥐고 다룰 수 있을 만큼 통제 가능함
@@ -97,6 +108,7 @@
 
 ### management
 
+- 발음: /ˈmænədʒmənt/
 - 구성: `manage` + `-ment`
 - 뜻: 관리, 경영진
 - 어원적 연결: 일을 손에 쥐고 조정함
@@ -104,6 +116,7 @@
 
 ### maneuver
 
+- 발음: /məˈnuvɚ/
 - 구성: French `manoeuvre` < `manu` + `operari`
 - 뜻: 조작하다, 책략, 기동
 - 어원적 연결: 손으로 일하거나 움직여 조정함
@@ -111,6 +124,7 @@
 
 ### emancipate
 
+- 발음: /ɪˈmænsəˌpeɪt/
 - 구성: `e-` = out + Latin `mancipium` = ownership, taking by hand
 - 뜻: 해방하다
 - 어원적 연결: 손으로 쥔 소유 상태에서 밖으로 풀어 줌

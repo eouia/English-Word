@@ -17,6 +17,7 @@
 
 ### literary
 
+- 발음: /ˈlɪtɚˌɛri/
 - 구성: `literature` 계열 + `-ary`
 - 의미: 문학의, 문어적인
 - 어원적 연결: 글과 문학에 관련됨
@@ -24,6 +25,7 @@
 
 ### literature
 
+- 발음: /ˈlɪtɚətʃɚ/
 - 구성: Latin `litteratura` = writing, learning
 - 의미: 문학, 문헌
 - 어원적 연결: 글로 쓰인 작품이나 지식
@@ -31,6 +33,7 @@
 
 ### literal
 
+- 발음: /ˈlɪtɚəl/
 - 구성: Latin `litteralis` = of letters
 - 의미: 문자 그대로의
 - 어원적 연결: 글자에 적힌 그대로
@@ -38,6 +41,7 @@
 
 ### literally
 
+- 발음: /ˈlɪtɚəli/
 - 구성: `literal` + `-ly`
 - 의미: 문자 그대로, 실제로
 - 어원적 연결: 글자 그대로 해석함
@@ -45,6 +49,7 @@
 
 ### literacy
 
+- 발음: /ˈlɪtɚəsi/
 - 구성: `literate` + `-cy`
 - 의미: 읽고 쓰는 능력, 문해력
 - 어원적 연결: 글자를 다룰 수 있음
@@ -52,6 +57,7 @@
 
 ### literate
 
+- 발음: /ˈlɪtɚət/
 - 구성: Latin `litteratus` = educated, lettered
 - 의미: 글을 읽고 쓸 줄 아는, 교양 있는
 - 어원적 연결: 글자를 아는 상태
@@ -59,6 +65,7 @@
 
 ### illiterate
 
+- 발음: /ˌɪˈlɪtɚət/
 - 구성: [[in]] = not + `literate`
 - 의미: 문맹의, 글을 모르는
 - 어원적 연결: 글자를 다루지 못함
@@ -66,6 +73,7 @@
 
 ### letter
 
+- 발음: /ˈlɛtɚ/
 - 구성: Old French `letre` < Latin `littera`
 - 의미: 글자, 편지
 - 어원적 연결: 글자 하나 또는 글자로 쓴 메시지
@@ -73,6 +81,7 @@
 
 ### lettering
 
+- 발음: /ˈlɛtɚɪŋ/
 - 구성: `letter` + `-ing`
 - 의미: 글자 쓰기, 글자 디자인
 - 어원적 연결: 글자를 쓰거나 꾸밈
@@ -80,6 +89,7 @@
 
 ### alliteration
 
+- 발음: /əˈlɪtɚˌeɪʃən/
 - 구성: `ad-` = to + `littera` + `-ation`
 - 의미: 두운, 같은 첫소리 반복
 - 어원적 연결: 글자나 소리의 반복

@@ -20,6 +20,7 @@
 
 ### assemble
 
+- 발음: /əˈsɛmbəl/
 - 구성: `ad-` + `simul/simil`
 - 뜻: 모으다, 조립하다
 - 어원적 연결: 함께 오게 하거나 한데 맞춰 둠
@@ -27,6 +28,7 @@
 
 ### assembly
 
+- 발음: /əˈsɛmbli/
 - 구성: `assemble` 계열
 - 뜻: 집회, 의회, 조립
 - 어원적 연결: 함께 모인 사람이나 부품
@@ -34,6 +36,7 @@
 
 ### assembled
 
+- 발음: /əˈsɛmbəld/
 - 구성: `assemble` + `-ed`
 - 뜻: 모인, 조립된
 - 어원적 연결: 함께 모여 하나가 된 상태
@@ -41,6 +44,7 @@
 
 ### assembler
 
+- 발음: /əˈsɛmblɚ/
 - 구성: `assemble` + `-er`
 - 뜻: 조립공, 어셈블러
 - 어원적 연결: 부품이나 명령을 한데 맞추는 것
@@ -48,6 +52,7 @@
 
 ### ensemble
 
+- 발음: /ɑˈnsɑmbəl/
 - 구성: French `ensemble` ← Late Latin `insimul` = at the same time
 - 뜻: 앙상블, 전체 조합, 함께 입는 옷
 - 어원적 연결: 여러 부분이 함께 있는 전체
@@ -55,6 +60,7 @@
 
 ### resemble
 
+- 발음: /rɪˈzɛmbəl/
 - 구성: `re-` + Old French `sembler` ← Latin `similis`
 - 뜻: 닮다, 비슷하다
 - 어원적 연결: 같은 모양처럼 보임
@@ -62,6 +68,7 @@
 
 ### resemblance
 
+- 발음: /rɪˈzɛmbləns/
 - 구성: `resemble` + `-ance`
 - 뜻: 닮음, 유사성
 - 어원적 연결: 서로 비슷하게 보이는 성질
@@ -69,6 +76,7 @@
 
 ### semblance
 
+- 발음: /ˈsɛmbləns/
 - 구성: Old French `semblance` ← `sembler`
 - 뜻: 겉모습, 외관, 조금이나마 있는 모습
 - 어원적 연결: 실제와 같아 보이는 외형
@@ -76,6 +84,7 @@
 
 ### dissemble
 
+- 발음: /dɪˈsɛmbəl/
 - 구성: `dis-` + `sembler`
 - 뜻: 숨기다, 가장하다
 - 어원적 연결: 실제와 다르게 보이게 함
@@ -83,6 +92,7 @@
 
 ### simulate
 
+- 발음: /ˈsɪmjələt/
 - 구성: Latin `simulare` = make like, imitate
 - 뜻: 흉내 내다, 모의 실험하다
 - 어원적 연결: 실제와 비슷하게 만들어 보임
@@ -90,6 +100,7 @@
 
 ### simulation
 
+- 발음: /ˌsɪmjəˈleɪʃən/
 - 구성: `simulate` + `-ion`
 - 뜻: 모의 실험, 시뮬레이션
 - 어원적 연결: 실제와 비슷하게 만든 과정
@@ -97,6 +108,7 @@
 
 ### similar
 
+- 발음: /ˈsɪməlɚ/
 - 구성: Latin `similis`
 - 뜻: 비슷한, 유사한
 - 어원적 연결: 같은 종류처럼 보임
@@ -104,6 +116,7 @@
 
 ### similarity
 
+- 발음: /ˌsɪməˈlɛrəti/
 - 구성: `similar` + `-ity`
 - 뜻: 유사성
 - 어원적 연결: 비슷한 성질
@@ -111,6 +124,7 @@
 
 ### simultaneous
 
+- 발음: /ˌsaɪməˈlteɪniəs/
 - 구성: Latin `simul` = at the same time
 - 뜻: 동시에 일어나는
 - 어원적 연결: 같은 시간에 함께 있음
@@ -118,6 +132,7 @@
 
 ### assimilate
 
+- 발음: /əˈsɪməˌleɪt/
 - 구성: `ad-` = to + `simil`
 - 뜻: 동화되다, 흡수하다
 - 어원적 연결: 비슷하게 만들어 한데 섞임
@@ -125,6 +140,7 @@
 
 ### assimilation
 
+- 발음: /əˌsɪməˈleɪʃən/
 - 구성: `assimilate` + `-ion`
 - 뜻: 동화, 흡수
 - 어원적 연결: 기존 집단이나 체계와 비슷해지도록 섞이는 과정

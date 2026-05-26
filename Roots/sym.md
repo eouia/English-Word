@@ -28,6 +28,7 @@
 
 ### symbol
 
+- 발음: /ˈsɪmbəl/
 - 구성: `sym-` = together + Greek `ballein` = throw
 - 뜻: 상징, 기호
 - 어원적 연결: 둘을 함께 던져 맞춘 표시. 어떤 의미를 대신 나타내는 것
@@ -35,6 +36,7 @@
 
 ### symbolic
 
+- 발음: /sɪˈmbɑlɪk/
 - 구성: `symbol` + `-ic`
 - 뜻: 상징적인
 - 어원적 연결: 어떤 의미를 함께 담아 나타냄
@@ -42,6 +44,7 @@
 
 ### sympathy
 
+- 발음: /ˈsɪmpəθi/
 - 구성: `sym-` = with + `pathos` = feeling, suffering
 - 뜻: 동정, 공감
 - 어원적 연결: 감정을 함께 겪음
@@ -49,6 +52,7 @@
 
 ### sympathetic
 
+- 발음: /ˌsɪmpəˈθɛtɪk/
 - 구성: `sympathy` + `-etic`
 - 뜻: 동정적인, 공감하는
 - 어원적 연결: 감정을 함께함
@@ -56,6 +60,7 @@
 
 ### symphony
 
+- 발음: /ˈsɪmfəni/
 - 구성: `sym-` = together + `phone` = sound
 - 뜻: 교향곡
 - 어원적 연결: 여러 소리가 함께 울림
@@ -63,6 +68,7 @@
 
 ### symptom
 
+- 발음: /ˈsɪmptəm/
 - 구성: `sym-` = together + Greek `piptein` = fall
 - 뜻: 증상, 징후
 - 어원적 연결: 병과 함께 나타나는 것
@@ -70,6 +76,7 @@
 
 ### synthesis
 
+- 발음: /ˈsɪnθəsəs/
 - 구성: `syn-` = together + `thesis` = placing
 - 뜻: 종합, 합성
 - 어원적 연결: 여러 요소를 함께 놓아 하나로 만듦
@@ -77,6 +84,7 @@
 
 ### synthetic
 
+- 발음: /sɪˈnθɛtɪk/
 - 구성: `synthesis` + `-etic`
 - 뜻: 합성의, 인조의
 - 어원적 연결: 여러 요소를 함께 놓아 만든 것
@@ -84,6 +92,7 @@
 
 ### syntax
 
+- 발음: /ˈsɪˌntæks/
 - 구성: `syn-` = together + `taxis` = arrangement
 - 뜻: 구문, 문장 구조
 - 어원적 연결: 단어들을 함께 배열하는 규칙
@@ -91,6 +100,7 @@
 
 ### synonym
 
+- 발음: /ˈsɪnəˌnɪm/
 - 구성: `syn-` = together + `onym` = name
 - 뜻: 동의어
 - 어원적 연결: 같은 뜻을 함께 나누는 이름
@@ -98,6 +108,7 @@
 
 ### synchronize
 
+- 발음: /ˈsɪŋkrəˌnaɪz/
 - 구성: `syn-` = together + `chronos` = time
 - 뜻: 동시에 맞추다, 동기화하다
 - 어원적 연결: 시간을 함께 맞춤
@@ -105,6 +116,7 @@
 
 ### synergy
 
+- 발음: /ˈsɪnɚdʒi/
 - 구성: `syn-` = together + `ergon` = work
 - 뜻: 시너지, 상승효과
 - 어원적 연결: 함께 일해 더 큰 효과를 냄
@@ -112,6 +124,7 @@
 
 ### syllabus
 
+- 발음: /ˈsɪləbəs/
 - 구성: Greek `syllabe` = taking together
 - 뜻: 강의계획서, 요강
 - 어원적 연결: 함께 모아 잡은 내용 목록
@@ -119,6 +132,7 @@
 
 ### syllable
 
+- 발음: /ˈsɪləbəl/
 - 구성: `syl-` = together + Greek `labein` = take
 - 뜻: 음절
 - 어원적 연결: 소리들이 함께 잡혀 한 단위가 됨
@@ -126,6 +140,7 @@
 
 ### system
 
+- 발음: /ˈsɪstəm/
 - 구성: `sy-` = together + Greek `histanai` = stand
 - 뜻: 체계, 시스템
 - 어원적 연결: 함께 세워진 구조
@@ -133,6 +148,7 @@
 
 ### systematic
 
+- 발음: /ˌsɪstəˈmætɪk/
 - 구성: `system` + `-atic`
 - 뜻: 체계적인, 조직적인
 - 어원적 연결: 전체 구조에 맞추어 질서 있게 세움
@@ -140,6 +156,7 @@
 
 ### systemic
 
+- 발음: /sɪˈstɛmɪk/
 - 구성: `system` + `-ic`
 - 뜻: 체계 전체의, 전신의
 - 어원적 연결: 한 부분이 아니라 전체 구조에 걸쳐 있음
@@ -147,6 +164,7 @@
 
 ### ecosystem
 
+- 발음: /ˈikoʊˌsɪstəm/
 - 구성: `eco-` = house, environment + `system`
 - 뜻: 생태계
 - 어원적 연결: 생물과 환경이 함께 세워진 상호 연결 구조
@@ -154,6 +172,7 @@
 
 ### subsystem
 
+- 발음: /ˈsʌˌbsɪstəm/
 - 구성: `sub-` = under + `system`
 - 뜻: 하위 체계
 - 어원적 연결: 큰 체계 아래에 들어 있는 작은 구조

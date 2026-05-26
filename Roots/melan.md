@@ -18,6 +18,7 @@
 
 ### melanin
 
+- 발음: /ˈmɛlənən/
 - 구성: Greek `melan-` = black, dark + `-in`
 - 뜻: 멜라닌, 어두운 색소
 - 어원적 연결: 피부·머리카락·눈의 어두운 색을 만드는 색소
@@ -25,6 +26,7 @@
 
 ### melanoma
 
+- 발음: /ˌmɛləˈnoʊmə/
 - 구성: Greek `melan-` = black, dark + `-oma` = tumor
 - 뜻: 흑색종
 - 어원적 연결: 어두운 색소 세포와 관련된 종양
@@ -53,6 +55,7 @@
 
 ### melancholy
 
+- 발음: /ˈmɛləˌnkɑli/
 - 구성: Greek `melas` = black + `chole` = bile
 - 뜻: 우울, 우울한 기분
 - 어원적 연결: 고대 의학에서 "검은 담즙"이 우울한 기질을 만든다고 본 데서 출발
@@ -60,6 +63,7 @@
 
 ### melancholic
 
+- 발음: /ˌmɛləˈnkɑlɪk/
 - 구성: `melancholy` + `-ic`
 - 뜻: 우울한, 우울증적인
 - 어원적 연결: 검은 담즙이라는 오래된 의학 관념에서 우울한 성향으로 확장

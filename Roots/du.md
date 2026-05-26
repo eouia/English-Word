@@ -20,6 +20,7 @@
 
 ### duet
 
+- 발음: /duˈɛt/
 - 구성: Italian `duetto` ← Latin `duo` = two
 - 뜻: 듀엣, 2중주, 2중창
 - 어원적 연결: 두 사람이 함께 하는 음악
@@ -27,6 +28,7 @@
 
 ### duo
 
+- 발음: /ˈduoʊ/
 - 구성: Latin `duo` = two
 - 뜻: 두 사람, 한 쌍, 듀오
 - 어원적 연결: 둘로 이루어진 한 묶음
@@ -34,6 +36,7 @@
 
 ### dual
 
+- 발음: /ˈduəl/
 - 구성: Latin `dualis` = containing two
 - 뜻: 이중의, 두 부분으로 된
 - 어원적 연결: 두 요소가 함께 있음
@@ -41,6 +44,7 @@
 
 ### duality
 
+- 발음: /duˈæləti/
 - 구성: `dual` + `-ity`
 - 뜻: 이중성
 - 어원적 연결: 하나 안에 두 성질이나 두 면이 함께 있음
@@ -48,6 +52,7 @@
 
 ### double
 
+- 발음: /ˈdʌbəl/
 - 구성: Old French `doble` ← Latin `duplus` = twofold
 - 뜻: 두 배의, 이중의, 두 배로 하다
 - 어원적 연결: 하나가 두 겹이나 두 배가 됨
@@ -55,6 +60,7 @@
 
 ### double-check
 
+- 발음: /ˈdʌbəˌltʃɛk/
 - 구성: `double` + `check`
 - 뜻: 재확인하다
 - 어원적 연결: 한 번이 아니라 두 번 확인함
@@ -62,6 +68,7 @@
 
 ### duel
 
+- 발음: /ˈduəl/
 - 구성: Medieval Latin `duellum`, Latin `duo`와 연결되어 해석됨
 - 뜻: 결투
 - 어원적 연결: 두 사람이 맞서는 싸움
@@ -69,6 +76,7 @@
 
 ### duplicate
 
+- 발음: /ˈdupləkət/
 - 구성: Latin `duplex` = twofold + `plicare` = fold
 - 뜻: 복제하다, 사본, 중복의
 - 어원적 연결: 둘로 접힌 것 → 하나가 두 벌이 됨
@@ -76,6 +84,7 @@
 
 ### duplicity
 
+- 발음: /duˈplɪsɪti/
 - 구성: Latin `duplex` = twofold
 - 뜻: 이중성, 표리부동, 기만
 - 어원적 연결: 겉과 속이 두 겹으로 다름
@@ -83,6 +92,7 @@
 
 ### duplex
 
+- 발음: /ˈduˌplɛks/
 - 구성: Latin `duplex` = twofold
 - 뜻: 복층 주택, 이중의
 - 어원적 연결: 두 겹·두 부분으로 된 구조
@@ -90,6 +100,7 @@
 
 ### doubt
 
+- 발음: /ˈdaʊt/
 - 구성: Old French `douter` ← Latin `dubitare` = waver in opinion
 - 뜻: 의심하다, 의심
 - 어원적 연결: 두 가능성 사이에서 마음이 흔들림
@@ -97,6 +108,7 @@
 
 ### dubious
 
+- 발음: /ˈdubiəs/
 - 구성: Latin `dubius` = wavering, doubtful
 - 뜻: 의심스러운, 수상한, 미심쩍은
 - 어원적 연결: 두 방향 사이에서 확신하지 못함

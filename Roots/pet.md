@@ -21,6 +21,7 @@
 
 ### competent
 
+- 발음: /ˈkɑmpətɪnt/
 - 구성: Latin `com-` = together + `petere` = seek, go toward
 - 뜻: 유능한, 역량 있는, 적합한
 - 어원적 연결: 필요한 조건에 맞아 충분히 해낼 수 있음
@@ -28,6 +29,7 @@
 
 ### competence
 
+- 발음: /ˈkɑmpətɪns/
 - 구성: `competent`의 명사형
 - 뜻: 능력, 역량, 적격성
 - 어원적 연결: 일을 해낼 만큼 조건이 맞고 충분한 상태
@@ -35,6 +37,7 @@
 
 ### competency
 
+- 발음: /ˈkɑmpətɪnsi/
 - 구성: `competent` + `-cy`
 - 뜻: 역량, 능력 항목
 - 어원적 연결: 특정 일을 수행할 수 있는 능력 단위
@@ -42,6 +45,7 @@
 
 ### compete
 
+- 발음: /kəˈmpit/
 - 구성: Latin `com-` = together + `petere` = seek
 - 뜻: 경쟁하다
 - 어원적 연결: 여러 사람이 같은 목표를 함께 추구함
@@ -49,6 +53,7 @@
 
 ### competition
 
+- 발음: /ˌkɑmpəˈtɪʃən/
 - 구성: `compete` + `-ition`
 - 뜻: 경쟁, 대회
 - 어원적 연결: 같은 목표를 얻기 위해 함께 추구하는 상황
@@ -56,6 +61,7 @@
 
 ### competitive
 
+- 발음: /kəˈmpɛtətɪv/
 - 구성: `compete` + `-itive`
 - 뜻: 경쟁적인, 경쟁력 있는
 - 어원적 연결: 경쟁 속에서 목표를 얻으려는 성질
@@ -63,6 +69,7 @@
 
 ### petition
 
+- 발음: /pəˈtɪʃən/
 - 구성: Latin `petitio` = request, attack, seeking
 - 뜻: 청원, 탄원; 청원하다
 - 어원적 연결: 원하는 것을 공식적으로 요구함
@@ -70,6 +77,7 @@
 
 ### appetite
 
+- 발음: /ˈæpəˌtaɪt/
 - 구성: Latin `ad-` = toward + `petere` = seek
 - 뜻: 식욕, 욕구
 - 어원적 연결: 어떤 대상을 향해 강하게 찾고 원함
@@ -77,6 +85,7 @@
 
 ### repetition
 
+- 발음: /ˌrɛpəˈtɪʃən/
 - 구성: Latin `re-` = again + `petere` = seek, go toward
 - 뜻: 반복
 - 어원적 연결: 같은 것을 다시 찾아가거나 다시 함
@@ -84,6 +93,7 @@
 
 ### perpetual
 
+- 발음: /pɚˈpɛtʃuəl/
 - 구성: Latin `per-` = through + `petere` = go toward, seek
 - 뜻: 끊임없는, 영구적인, 반복되는
 - 어원적 연결: 계속 앞으로 이어져 끊기지 않음
@@ -91,6 +101,7 @@
 
 ### perpetually
 
+- 발음: /pɚˈpɛtʃuəli/
 - 구성: `perpetual` + `-ly`
 - 뜻: 끊임없이, 계속해서
 - 어원적 연결: 중단 없이 이어지는 방식
@@ -98,6 +109,7 @@
 
 ### perpetuity
 
+- 발음: /ˌpɝpɪˈtjuɪti/
 - 구성: Latin `perpetuitas` < `perpetuus`
 - 뜻: 영구, 영속; 무기한
 - 어원적 연결: 끝없이 이어지는 상태
@@ -105,6 +117,7 @@
 
 ### perpetuate
 
+- 발음: /pɚˈpɛtʃəˌweɪt/
 - 구성: `perpetual` 계열 + `-ate`
 - 뜻: 영속시키다, 계속되게 하다
 - 어원적 연결: 어떤 상태나 관행이 끊기지 않고 이어지게 함

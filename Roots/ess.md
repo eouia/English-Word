@@ -19,6 +19,7 @@
 
 ### interest
 
+- 발음: /ˈɪntrəst/
 - 구성: Latin `inter-` = between + `esse` = be
 - 뜻: 관심, 흥미; 이익; 이자
 - 연결: 어떤 일 "사이에 있어" 관련되거나 걸려 있음
@@ -26,6 +27,7 @@
 
 ### interested
 
+- 발음: /ˈɪntrəstɪd/
 - 구성: `interest` + `-ed`
 - 뜻: 관심 있는; 이해관계가 있는
 - 연결: 어떤 일과 관계 속에 들어가 있음
@@ -33,6 +35,7 @@
 
 ### interesting
 
+- 발음: /ˈɪntrəstɪŋ/
 - 구성: `interest` + `-ing`
 - 뜻: 흥미로운
 - 연결: 사람의 관심을 그 일 안으로 끌어들임
@@ -40,6 +43,7 @@
 
 ### disinterested
 
+- 발음: /dɪˈsɪntrɪstɪd/
 - 구성: `dis-` = apart/not + `interested`
 - 뜻: 사심 없는, 이해관계가 없는
 - 연결: 개인적 이익 사이에 걸려 있지 않음
@@ -47,6 +51,7 @@
 
 ### uninterested
 
+- 발음: /əˈnɪntrəstɪd/
 - 구성: `un-` = not + `interested`
 - 뜻: 관심 없는
 - 연결: 관심이 그 일 안에 들어가 있지 않음
@@ -54,6 +59,7 @@
 
 ### essence
 
+- 발음: /ˈɛsəns/
 - 구성: Latin `essentia` = being, essence
 - 뜻: 본질, 정수
 - 연결: 어떤 것이 그것으로 존재하게 하는 핵심
@@ -61,6 +67,7 @@
 
 ### essential
 
+- 발음: /ɛˈsɛnʃəl/
 - 구성: `essence` + `-ial`
 - 뜻: 필수적인, 본질적인
 - 연결: 그것이 존재하려면 꼭 있어야 하는 것
@@ -68,6 +75,7 @@
 
 ### entity
 
+- 발음: /ˈɛntəti/
 - 구성: Latin `ens/ent-` = being
 - 뜻: 실체, 존재, 독립체
 - 연결: 하나의 존재로 인정되는 것

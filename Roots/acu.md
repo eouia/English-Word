@@ -18,6 +18,7 @@
 
 ### acute
 
+- 발음: /əˈkjut/
 - 구성: Latin `acutus` = sharp, pointed
 - 뜻: 날카로운, 예리한; 심각한; 급성의
 - 어원적 연결: 감각·지성·상태가 날카롭게 선 느낌
@@ -26,6 +27,7 @@
 
 ### acutely
 
+- 발음: /əˈkjutli/
 - 구성: `acute` + `-ly`
 - 뜻: 예리하게, 강렬하게, 절실히
 - 어원적 연결: 감각이나 문제 인식이 날카롭게 작동함
@@ -33,6 +35,7 @@
 
 ### acumen
 
+- 발음: /əˈkjumən/
 - 구성: Latin `acumen` = sharp point, keenness
 - 뜻: 통찰력, 판단력
 - 어원적 연결: 사물의 핵심을 날카롭게 찌르는 지적 능력
@@ -40,6 +43,7 @@
 
 ### acuity
 
+- 발음: /əˈkjuəti/
 - 구성: Latin `acuitas` = sharpness
 - 뜻: 예민함, 예리함; 시력·청력의 선명도
 - 어원적 연결: 감각이나 지각이 날카롭게 구분함
@@ -47,6 +51,7 @@
 
 ### acupuncture
 
+- 발음: /ˈækjuˌpʌŋktʃɚ/
 - 구성: Latin `acus` = needle + `puncture` = 찌름
 - 뜻: 침술
 - 어원적 연결: 바늘로 찌르는 치료법
@@ -54,6 +59,7 @@
 
 ### acrid
 
+- 발음: /ˈækrɪd/
 - 구성: Latin `acer/acris` = sharp, pungent
 - 뜻: 매캐한, 톡 쏘는; 신랄한
 - 어원적 연결: 냄새나 말투가 날카롭게 찌름

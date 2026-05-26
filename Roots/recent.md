@@ -19,6 +19,7 @@
 
 ### recent
 
+- 발음: /ˈrisənt/
 - 구성: Latin `recens/recentis`
 - 뜻: 최근의, 얼마 전의
 - 어원적 연결: 새로 생겨 아직 오래되지 않음
@@ -26,6 +27,7 @@
 
 ### recently
 
+- 발음: /ˈrisəntli/
 - 구성: `recent` + `-ly`
 - 뜻: 최근에
 - 어원적 연결: 오래되지 않은 시점에

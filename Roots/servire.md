@@ -19,6 +19,7 @@ Latin `servire`는 "종이 되다, 섬기다"의 뜻이고, `servus` = servant, 
 
 ### serve
 
+- 발음: /ˈsɝv/
 - 구성: Latin `servire`
 - 의미: 섬기다, 제공하다, 복무하다
 - 어원적 연결: 누군가에게 봉사하거나 일을 해 줌
@@ -26,6 +27,7 @@ Latin `servire`는 "종이 되다, 섬기다"의 뜻이고, `servus` = servant, 
 
 ### service
 
+- 발음: /ˈsɝvəs/
 - 구성: Old French `servise` < Latin `servitium`
 - 의미: 서비스, 봉사, 근무
 - 어원적 연결: 섬기거나 도움을 제공하는 일
@@ -33,6 +35,7 @@ Latin `servire`는 "종이 되다, 섬기다"의 뜻이고, `servus` = servant, 
 
 ### servant
 
+- 발음: /ˈsɝvənt/
 - 구성: `serve` + `-ant`
 - 의미: 하인, 종
 - 어원적 연결: 섬기는 사람
@@ -40,6 +43,7 @@ Latin `servire`는 "종이 되다, 섬기다"의 뜻이고, `servus` = servant, 
 
 ### servile
 
+- 발음: /ˈsɝvəl/
 - 구성: Latin `servilis`
 - 의미: 비굴한, 노예적인
 - 어원적 연결: 종처럼 굽신거리는 태도
@@ -47,6 +51,7 @@ Latin `servire`는 "종이 되다, 섬기다"의 뜻이고, `servus` = servant, 
 
 ### servitude
 
+- 발음: /ˈsɝvəˌtud/
 - 구성: Latin `servitudo`
 - 의미: 노예 상태, 예속
 - 어원적 연결: 섬기며 자유롭지 못한 상태
@@ -54,6 +59,7 @@ Latin `servire`는 "종이 되다, 섬기다"의 뜻이고, `servus` = servant, 
 
 ### deserve
 
+- 발음: /dɪˈzɝv/
 - 구성: `de-` = completely + `servire`
 - 의미: ~을 받을 만하다
 - 어원적 연결: 충분히 섬기거나 일해서 어떤 대우를 받을 자격을 얻음
@@ -61,6 +67,7 @@ Latin `servire`는 "종이 되다, 섬기다"의 뜻이고, `servus` = servant, 
 
 ### dessert
 
+- 발음: /dɪˈzɝt/
 - 구성: Old French `desservir` = clear the table
 - 의미: 디저트
 - 어원적 연결: 식탁을 치운 뒤 나오는 마지막 음식

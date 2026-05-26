@@ -21,6 +21,7 @@
 
 ### disengage
 
+- 발음: /dɪsɪˈngeɪdʒ/
 - 구성: `dis-` = undo/away + `engage`
 - 뜻: 풀다, 분리하다; 관여를 끊다
 - 어원적 연결: 약속이나 얽힘에 묶인 상태에서 빠져나오게 함
@@ -28,6 +29,7 @@
 
 ### disengagement
 
+- 발음: /dɪsɪˈngeɪdʒmənt/
 - 구성: `disengage` + `-ment`
 - 뜻: 이탈, 분리, 관여 중단
 - 어원적 연결: 묶임이나 접촉에서 벗어나는 과정
@@ -35,6 +37,7 @@
 
 ### engage
 
+- 발음: /ɛˈngeɪdʒ/
 - 구성: Old French `engager` = pledge, bind by pledge
 - 뜻: 관여하다, 참여시키다; 약혼하다; 끌어들이다
 - 어원적 연결: 약속이나 담보로 묶음. 이후 관심·일·관계에 묶여 들어감
@@ -42,6 +45,7 @@
 
 ### engagement
 
+- 발음: /ɛˈngeɪdʒmənt/
 - 구성: `engage` + `-ment`
 - 뜻: 약혼, 약속, 참여, 교전
 - 어원적 연결: 약속이나 관계로 묶인 상태
@@ -49,6 +53,7 @@
 
 ### engaged
 
+- 발음: /ɛˈngeɪdʒd/
 - 구성: `engage` + `-ed`
 - 뜻: 약혼한, 관여한, 바쁜
 - 어원적 연결: 약속·관계·일에 묶여 있는 상태
@@ -56,6 +61,7 @@
 
 ### gage
 
+- 발음: /ˈgeɪdʒ/
 - 구성: Old French `gage` = pledge, security
 - 뜻: 담보, 보증물; 담보로 맡기다
 - 어원적 연결: 약속 이행을 보장하기 위해 걸어 둔 것
@@ -63,6 +69,7 @@
 
 ### wage
 
+- 발음: /ˈweɪdʒ/
 - 구성: Anglo-French/Old North French `wage` = pledge, pay, reward
 - 뜻: 임금; 벌이다
 - 어원적 연결: 원래는 약속된 보상·지급. `wage war`는 큰일에 무엇을 걸고 벌임
@@ -70,6 +77,7 @@
 
 ### wager
 
+- 발음: /ˈweɪdʒɚ/
 - 구성: `wage` + `-er`
 - 뜻: 내기, 걸다
 - 어원적 연결: 돈이나 물건을 담보처럼 걸고 결과를 기다림
@@ -77,6 +85,7 @@
 
 ### mortgage
 
+- 발음: /ˈmɔrgədʒ/
 - 구성: Old French `mort gage` = dead pledge
 - 뜻: 주택 담보 대출, 저당
 - 어원적 연결: 빚을 갚으면 담보가 "죽고", 갚지 못하면 권리가 넘어가는 약속
@@ -85,6 +94,7 @@
 
 ### wed
 
+- 발음: /ˈwɛd/
 - 구성: Old English `weddian` = pledge, covenant
 - 뜻: 결혼하다
 - 어원적 연결: 원래 약속·서약으로 관계를 묶음

@@ -20,6 +20,7 @@
 
 ### eclipse
 
+- 발음: /ɪˈklɪps/
 - 구성: Greek `ek-` = out + `leipein` = leave
 - 뜻: 일식·월식; 가리다, 빛을 잃게 하다; 능가하다
 - 어원적 연결: 해나 달이 있어야 할 빛을 "떠난" 듯 사라짐
@@ -27,6 +28,7 @@
 
 ### eclipsed
 
+- 발음: /ɪˈklɪpst/
 - 구성: `eclipse` + `-ed`
 - 뜻: 가려진, 빛을 잃은, 능가된
 - 어원적 연결: 다른 것이 앞에 와 빛이나 명성이 보이지 않게 됨
@@ -34,6 +36,7 @@
 
 ### ecliptic
 
+- 발음: /ɪˈklɪptɪk/
 - 구성: Greek `ekleiptikos` = of an eclipse
 - 뜻: 황도, 태양의 겉보기 경로
 - 어원적 연결: 일식·월식이 이 경로 근처에서 일어나므로 붙은 이름
@@ -48,6 +51,7 @@
 
 ### elliptical
 
+- 발음: /ɪˈlɪptɪkəl/
 - 구성: `ellipsis/ellipse` + `-ical`
 - 뜻: 생략적인; 타원형의
 - 어원적 연결: 말에서는 빠진 부분이 있는 표현. 기하에서는 원에서 부족하게 빠진 듯한 모양으로 이름 붙음
@@ -55,6 +59,7 @@
 
 ### relinquish
 
+- 발음: /rɪˈlɪŋkwɪʃ/
 - 구성: Latin `re-` = back + `linquere` = leave
 - 뜻: 포기하다, 넘겨주다
 - 어원적 연결: 가지고 있던 것을 뒤에 남기고 손에서 놓음
@@ -62,6 +67,7 @@
 
 ### derelict
 
+- 발음: /ˈdɛrəˌlɪkt/
 - 구성: Latin `de-` = away + `relinquere` = leave behind
 - 뜻: 버려진; 직무 태만의; 유기된 사람
 - 어원적 연결: 돌봄이나 책임에서 버려져 남겨짐
@@ -69,6 +75,7 @@
 
 ### delinquent
 
+- 발음: /dɪˈlɪŋkwənt/
 - 구성: Latin `de-` = away + `linquere` = leave
 - 뜻: 비행의, 의무를 이행하지 않는; 체납된
 - 어원적 연결: 해야 할 의무를 남겨 두고 빠짐

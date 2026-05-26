@@ -18,6 +18,7 @@
 
 ### ascribe
 
+- 발음: /əˈskraɪb/
 - 구성: `ad-` = to + `scribe`
 - 뜻: ~의 탓으로 돌리다, ~에 속한다고 보다
 - 어원적 연결: 원인이나 성질을 어떤 대상에게 써 붙임
@@ -32,6 +33,7 @@
 
 ### describe
 
+- 발음: /dɪˈskraɪb/
 - 구성: `de-` = down, fully + `scribe`
 - 뜻: 묘사하다, 설명하다
 - 어원적 연결: 어떤 대상을 글로 써 내려가며 드러냄
@@ -39,6 +41,7 @@
 
 ### description
 
+- 발음: /dɪˈskrɪpʃən/
 - 구성: `describe` + `-ion`
 - 뜻: 묘사, 설명
 - 어원적 연결: 글이나 말로 적어 드러낸 내용
@@ -46,6 +49,7 @@
 
 ### prescribe
 
+- 발음: /prəˈskraɪb/
 - 구성: `pre-` = before + `scribe`
 - 뜻: 처방하다, 규정하다
 - 어원적 연결: 미리 써서 정해 줌
@@ -53,6 +57,7 @@
 
 ### prescription
 
+- 발음: /prəˈskrɪpʃən/
 - 구성: `prescribe` + `-ion`
 - 뜻: 처방전, 처방, 규정
 - 어원적 연결: 미리 적어 내려준 지시
@@ -60,6 +65,7 @@
 
 ### inscribe
 
+- 발음: /ˌɪˈnskraɪb/
 - 구성: `in-` = in, on + `scribe`
 - 뜻: 새기다, 적다
 - 어원적 연결: 표면 안이나 위에 글을 씀
@@ -67,6 +73,7 @@
 
 ### inscription
 
+- 발음: /ˌɪˈnskrɪpʃən/
 - 구성: `inscribe` + `-ion`
 - 뜻: 새겨진 글, 비문
 - 어원적 연결: 표면에 적히거나 새겨진 글
@@ -74,6 +81,7 @@
 
 ### subscribe
 
+- 발음: /səˈbskraɪb/
 - 구성: `sub-` = under + `scribe`
 - 뜻: 구독하다, 동의하다
 - 어원적 연결: 아래에 이름을 써서 동의하거나 가입함
@@ -81,6 +89,7 @@
 
 ### subscription
 
+- 발음: /səˈbskrɪpʃən/
 - 구성: `subscribe` + `-ion`
 - 뜻: 구독, 가입
 - 어원적 연결: 이름을 써 넣고 계속 받는 계약
@@ -88,6 +97,7 @@
 
 ### transcribe
 
+- 발음: /træˈnskraɪb/
 - 구성: `trans-` = across + `scribe`
 - 뜻: 베껴 쓰다, 필사하다, 전사하다
 - 어원적 연결: 한 곳의 말을 다른 형태로 옮겨 적음
@@ -95,6 +105,7 @@
 
 ### transcript
 
+- 발음: /ˈtræˌnskrɪpt/
 - 구성: `trans-` + `script`
 - 뜻: 성적표, 기록문, 전사본
 - 어원적 연결: 옮겨 적은 공식 기록
@@ -102,6 +113,7 @@
 
 ### manuscript
 
+- 발음: /ˈmænjəˌskrɪpt/
 - 구성: Latin `manu` = by hand + `script`
 - 뜻: 원고, 필사본
 - 어원적 연결: 손으로 쓴 글
@@ -109,6 +121,7 @@
 
 ### script
 
+- 발음: /ˈskrɪpt/
 - 구성: Latin `scriptum`
 - 뜻: 대본, 문자, 글씨체
 - 어원적 연결: 쓰인 것
@@ -116,6 +129,7 @@
 
 ### scripture
 
+- 발음: /ˈskrɪptʃɚ/
 - 구성: Latin `scriptura`
 - 뜻: 성서, 경전
 - 어원적 연결: 권위 있게 쓰인 글
@@ -123,6 +137,7 @@
 
 ### scribe
 
+- 발음: /ˈskraɪb/
 - 구성: Latin `scriba`
 - 뜻: 필경사, 서기
 - 어원적 연결: 글을 쓰는 사람

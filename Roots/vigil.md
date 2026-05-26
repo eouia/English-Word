@@ -21,6 +21,7 @@ Latin `vigil`은 "깨어 있는"의 뜻. 잠들지 않고 지켜보는 이미지
 
 ### vigilance
 
+- 발음: /ˈvɪdʒələns/
 - 구성: Latin `vigil` = awake, watchful + `-ance`
 - 뜻: 경계, 방심하지 않음
 - 어원적 연결: 잠들지 않고 계속 살펴봄
@@ -28,6 +29,7 @@ Latin `vigil`은 "깨어 있는"의 뜻. 잠들지 않고 지켜보는 이미지
 
 ### vigilant
 
+- 발음: /ˈvɪdʒələnt/
 - 구성: Latin `vigilans` = watchful
 - 뜻: 경계하는, 방심하지 않는
 - 어원적 연결: 깨어서 위험이나 변화를 살핌
@@ -42,6 +44,7 @@ Latin `vigil`은 "깨어 있는"의 뜻. 잠들지 않고 지켜보는 이미지
 
 ### vigil
 
+- 발음: /ˈvɪdʒəl/
 - 구성: Latin `vigil` = awake
 - 뜻: 철야, 밤샘 기도, 밤샘 감시
 - 어원적 연결: 밤에도 깨어 지켜보거나 기도함
@@ -49,6 +52,7 @@ Latin `vigil`은 "깨어 있는"의 뜻. 잠들지 않고 지켜보는 이미지
 
 ### vigilante
 
+- 발음: /ˌvɪdʒəˈlænti/
 - 구성: Spanish `vigilante` = watchman, guard ← Latin `vigil`
 - 뜻: 자경단원, 사적 제재자
 - 어원적 연결: 스스로 감시하고 단속하는 사람

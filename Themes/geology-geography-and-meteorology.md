@@ -6,24 +6,28 @@
 
 ### [[geo#geology|geology]]
 
+- 발음: /dʒiˈɑlədʒi/
 - 핵심 의미: 지질학
 - 사용 맥락: `geological evidence`, `study geology`
 - 주의: 지구의 암석, 지층, 지각 변화, 지구 역사를 연구하는 분야.
 
 ### crust
 
+- 발음: /ˈkrʌst/
 - 핵심 의미: 지각, 껍질
 - 사용 맥락: `Earth's crust`, `continental crust`
 - 주의: 지구의 가장 바깥 단단한 층. 빵 껍질도 같은 단어.
 
 ### [[mantle#mantle|mantle]]
 
+- 발음: /ˈmæntəl/
 - 핵심 의미: 맨틀, 덮개
 - 사용 맥락: `Earth's mantle`, `mantle convection`
 - 주의: 지각 아래의 두꺼운 층. 일반적으로는 덮개나 책임을 떠맡음이라는 뜻도 있음.
 
 ### core
 
+- 발음: /ˈkɔr/
 - 핵심 의미: 핵, 중심부
 - 사용 맥락: `Earth's core`, `inner core`
 - 주의: 지구 중심부. 일반적으로는 핵심, 중심이라는 뜻.
@@ -42,12 +46,14 @@
 
 ### fault
 
+- 발음: /ˈfɔlt/
 - 핵심 의미: 단층, 결함, 잘못
 - 사용 맥락: `San Andreas Fault`, `fault line`
 - 주의: 지질학에서는 지각이 갈라져 어긋난 구조. 일상에서는 잘못이나 책임.
 
 ### seismic
 
+- 발음: /ˈsaɪzmɪk/
 - 핵심 의미: 지진의, 지진파의
 - 사용 맥락: `seismic activity`, `seismic waves`
 - 주의: 지진과 관련된 움직임·파동을 설명함. 비유적으로 큰 충격도 뜻함.
@@ -56,48 +62,56 @@
 
 ### strata
 
+- 발음: /ˈstrætə/
 - 핵심 의미: 지층, 층들
 - 사용 맥락: `rock strata`, `sedimentary strata`
 - 주의: `stratum`의 복수형. 사회 계층을 뜻할 때도 있음.
 
 ### [[sed-sedere#sediment|sediment]]
 
+- 발음: /ˈsɛdəmənt/
 - 핵심 의미: 퇴적물
 - 사용 맥락: `river sediment`, `sediment deposition`
 - 주의: 물, 바람, 얼음이 운반해 쌓은 모래, 진흙, 자갈 등.
 
 ### [[sed-sedere#sedimentary|sedimentary]]
 
+- 발음: /ˌsɛdəˈmɛntɚi/
 - 핵심 의미: 퇴적의, 퇴적암의
 - 사용 맥락: `sedimentary rock`, `sedimentary layers`
 - 주의: 퇴적물이 쌓이고 굳어 형성된 암석이나 층을 설명함.
 
 ### erosion
 
+- 발음: /ɪˈroʊʒən/
 - 핵심 의미: 침식, 약화
 - 사용 맥락: `soil erosion`, `coastal erosion`
 - 주의: 물, 바람, 얼음 등이 지표를 깎아내는 과정. 권리·신뢰가 약해질 때도 비유적으로 쓰임.
 
 ### weathering
 
+- 발음: /ˈwɛðɚɪŋ/
 - 핵심 의미: 풍화
 - 사용 맥락: `chemical weathering`, `physical weathering`
 - 주의: 암석이 제자리에서 물리적·화학적으로 부서지거나 변하는 과정. 이동이 핵심인 `erosion`과 구분.
 
 ### deposition
 
+- 발음: /ˌdɛpəˈzɪʃən/
 - 핵심 의미: 퇴적, 증언 녹취
 - 사용 맥락: `sediment deposition`, `depositional environment`
 - 주의: 운반된 물질이 쌓이는 과정. 법률에서는 증언 녹취.
 
 ### fossil
 
+- 발음: /ˈfɑsəl/
 - 핵심 의미: 화석
 - 사용 맥락: `fossil record`, `fossil evidence`
 - 주의: 과거 생물의 몸체나 흔적이 암석에 보존된 것.
 
 ### mineral
 
+- 발음: /ˈmɪnɚəl/
 - 핵심 의미: 광물
 - 사용 맥락: `mineral deposits`, `mineral resources`
 - 주의: 자연적으로 형성된 무기질 고체. 경제 지리에서는 자원과 연결됨.
@@ -106,42 +120,49 @@
 
 ### geography ([[geo#geography|geo]], [[graph#geography|graph]])
 
+- 발음: /dʒiˈɑgrəfi/
 - 핵심 의미: 지리학, 지리
 - 사용 맥락: `physical geography`, `human geography`
 - 주의: 지형, 기후, 자원, 인구, 도시, 경제 활동의 공간적 관계를 다룸.
 
 ### topography ([[graph#topography|graph]], [[top#topography|top]])
 
+- 발음: /təˈpɑgrəfi/
 - 핵심 의미: 지형, 지세
 - 사용 맥락: `mountainous topography`, `topographic map`
 - 주의: 땅의 높낮이, 경사, 산맥, 계곡 같은 표면 형태.
 
 ### [[terr#terrain|terrain]]
 
+- 발음: /tɚˈeɪn/
 - 핵심 의미: 지형, 지세
 - 사용 맥락: `rugged terrain`, `mountainous terrain`
 - 주의: 이동, 군사, 건설, 생태 지문에서 실제 땅의 조건을 말할 때 자주 씀.
 
 ### landscape
 
+- 발음: /ˈlæˌndskeɪp/
 - 핵심 의미: 경관, 풍경, 지형적 모습
 - 사용 맥락: `cultural landscape`, `desert landscape`
 - 주의: 자연 지형뿐 아니라 인간 활동이 만든 경관도 포함함.
 
 ### latitude
 
+- 발음: /ˈlætəˌtud/
 - 핵심 의미: 위도
 - 사용 맥락: `high latitude`, `latitude and climate`
 - 주의: 적도에서 남북으로 얼마나 떨어져 있는지 나타냄. 기후와 일조량에 영향.
 
 ### [[long#longitude|longitude]]
 
+- 발음: /ˈlɑndʒəˌtud/
 - 핵심 의미: 경도
 - 사용 맥락: `lines of longitude`, `longitude measurement`
 - 주의: 본초자오선에서 동서로 얼마나 떨어져 있는지 나타냄. 시간대와 항해에 중요함.
 
 ### [[alt#altitude|altitude]]
 
+- 발음: /ˈæltəˌtud/
 - 핵심 의미: 고도
 - 사용 맥락: `high altitude`, `altitude affects temperature`
 - 주의: 해수면으로부터의 높이. 고도가 높아지면 보통 기온과 산소 농도가 낮아짐.
@@ -156,48 +177,56 @@
 
 ### watershed
 
+- 발음: /ˈwɔtɚˌʃɛd/
 - 핵심 의미: 유역, 분수령, 전환점
 - 사용 맥락: `river watershed`, `watershed management`
 - 주의: 물이 한 하천이나 호수로 모이는 지역. 비유적으로는 중대한 전환점.
 
 ### basin
 
+- 발음: /ˈbeɪsən/
 - 핵심 의미: 분지, 유역, 대야
 - 사용 맥락: `river basin`, `sedimentary basin`
 - 주의: 낮은 지형이나 물이 모이는 지역. 지질학에서는 퇴적물이 쌓이는 큰 지형.
 
 ### delta
 
+- 발음: /ˈdɛltə/
 - 핵심 의미: 삼각주
 - 사용 맥락: `Nile Delta`, `river delta`
 - 주의: 강이 바다나 호수로 들어가며 퇴적물을 쌓아 만든 지형.
 
 ### glacier
 
+- 발음: /ˈgleɪʃɚ/
 - 핵심 의미: 빙하
 - 사용 맥락: `glacial erosion`, `retreating glacier`
 - 주의: 장기간 쌓인 눈이 압축되어 천천히 움직이는 얼음 덩어리.
 
 ### [[curr#current|current]]
 
+- 발음: /ˈkɝənt/
 - 핵심 의미: 해류, 흐름, 현재의
 - 사용 맥락: `ocean current`, `warm current`
 - 주의: 해양이나 대기의 흐름. 형용사로는 현재의.
 
 ### arid
 
+- 발음: /ˈærəd/
 - 핵심 의미: 건조한
 - 사용 맥락: `arid climate`, `arid region`
 - 주의: 강수량이 적어 식생이 제한되는 기후나 지역.
 
 ### temperate
 
+- 발음: /ˈtɛmprət/
 - 핵심 의미: 온대의, 절제된
 - 사용 맥락: `temperate climate`, `temperate forest`
 - 주의: 극단적으로 덥거나 춥지 않은 중위도 기후. 성격·행동이 절제된 뜻도 있음.
 
 ### tropical
 
+- 발음: /ˈtrɑpɪkəl/
 - 핵심 의미: 열대의
 - 사용 맥락: `tropical rainforest`, `tropical climate`
 - 주의: 적도 주변의 덥고 대체로 습한 기후와 연결됨.
@@ -206,60 +235,70 @@
 
 ### meteorology
 
+- 발음: /ˌmitiɚˈɑlədʒi/
 - 핵심 의미: 기상학
 - 사용 맥락: `meteorological data`, `study meteorology`
 - 주의: 날씨와 대기 현상을 연구하는 분야. 유성 `meteor`와 철자가 비슷하지만 다른 분야.
 
 ### [[sphere#atmosphere|atmosphere]]
 
+- 발음: /ˈætməˌsfɪr/
 - 핵심 의미: 대기, 분위기
 - 사용 맥락: `Earth's atmosphere`, `atmospheric pressure`
 - 주의: 지구를 둘러싼 기체층. 일반적으로는 분위기.
 
 ### precipitation
 
+- 발음: /prɪˌsɪpɪˈteɪʃən/
 - 핵심 의미: 강수, 침전
 - 사용 맥락: `annual precipitation`, `precipitation patterns`
 - 주의: 비, 눈, 우박처럼 대기에서 지표로 떨어지는 물. 화학에서는 침전.
 
 ### humidity
 
+- 발음: /hjuˈmɪdəti/
 - 핵심 의미: 습도
 - 사용 맥락: `high humidity`, `relative humidity`
 - 주의: 공기 중 수증기의 양. 체감 온도와 구름 형성에 영향.
 
 ### [[press#pressure|pressure]]
 
+- 발음: /ˈprɛʃɚ/
 - 핵심 의미: 기압, 압력, 압박
 - 사용 맥락: `atmospheric pressure`, `low-pressure system`
 - 주의: 기상에서는 공기의 무게가 만드는 압력. 사회·심리적 압박도 뜻함.
 
 ### front
 
+- 발음: /ˈfrʌnt/
 - 핵심 의미: 전선, 앞면, 전선 지역
 - 사용 맥락: `cold front`, `weather front`
 - 주의: 서로 다른 성질의 공기 덩어리가 만나는 경계. 전쟁에서는 전선.
 
 ### monsoon
 
+- 발음: /mɑˈnsun/
 - 핵심 의미: 몬순, 계절풍
 - 사용 맥락: `summer monsoon`, `monsoon rainfall`
 - 주의: 계절에 따라 방향이 바뀌며 강수에 큰 영향을 주는 바람 체계.
 
 ### drought
 
+- 발음: /ˈdraʊt/
 - 핵심 의미: 가뭄
 - 사용 맥락: `severe drought`, `prolonged drought`
 - 주의: 오랜 기간 강수량이 부족해 농업, 물 공급, 생태계에 피해를 주는 현상.
 
 ### cyclone
 
+- 발음: /sɪˈkloʊn/
 - 핵심 의미: 저기압성 폭풍, 사이클론
 - 사용 맥락: `tropical cyclone`, `cyclone damage`
 - 주의: 지역에 따라 `hurricane`, `typhoon`, `cyclone` 명칭이 다르게 쓰임.
 
 ### [[fore#forecast|forecast]]
 
+- 발음: /ˈfɔˌrkæst/
 - 핵심 의미: 예보, 예측하다
 - 사용 맥락: `weather forecast`, `forecast rainfall`
 - 주의: 기상 자료를 바탕으로 앞으로의 날씨를 예측하는 것. 경제 예측에도 쓰임.
@@ -268,30 +307,35 @@
 
 ### earthquake
 
+- 발음: /ˈɝˌθkweɪk/
 - 핵심 의미: 지진
 - 사용 맥락: `major earthquake`, `earthquake magnitude`
 - 주의: 지각 운동으로 땅이 흔들리는 현상. 단층과 판 경계에서 자주 발생.
 
 ### volcano
 
+- 발음: /vɑˈlkeɪnoʊ/
 - 핵심 의미: 화산
 - 사용 맥락: `active volcano`, `volcanic eruption`
 - 주의: 마그마, 화산재, 가스가 지표로 분출되는 지형.
 
 ### [[rupt#eruption|eruption]]
 
+- 발음: /ˌiˈrʌpʃən/
 - 핵심 의미: 분출, 폭발, 발진
 - 사용 맥락: `volcanic eruption`, `eruption of lava`
 - 주의: 화산이 분출하는 것. 피부 발진이나 갑작스러운 폭발에도 쓰임.
 
 ### landslide
 
+- 발음: /ˈlæˌndslaɪd/
 - 핵심 의미: 산사태, 압승
 - 사용 맥락: `landslide after heavy rain`, `landslide victory`
 - 주의: 흙과 암석이 경사면 아래로 무너져 내리는 현상. 선거에서는 압승.
 
 ### tsunami
 
+- 발음: /tsuˈnɑmi/
 - 핵심 의미: 쓰나미, 지진해일
 - 사용 맥락: `tsunami warning`, `tsunami caused by an earthquake`
 - 주의: 해저 지진, 화산, 산사태로 발생하는 큰 해일.
@@ -330,6 +374,7 @@
 
 ### Himalayas
 
+- 발음: /ˌhɪməˈlaɪəs/
 - 핵심 의미: 히말라야 산맥
 - 사용 맥락: `formation of the Himalayas`
 - 주의: 인도판과 유라시아판의 충돌로 형성된 대표적 산맥.

@@ -19,6 +19,7 @@
 
 ### temporary
 
+- 발음: /ˈtɛmpɚˌɛri/
 - 구성: Latin `temporarius`
 - 뜻: 일시적인, 임시의
 - 어원적 연결: 일정 시간 동안만 지속됨
@@ -26,6 +27,7 @@
 
 ### temporarily
 
+- 발음: /ˌtɛmpɚˈɛrəli/
 - 구성: `temporary` + `-ly`
 - 뜻: 일시적으로
 - 어원적 연결: 제한된 시간 동안만
@@ -33,6 +35,7 @@
 
 ### temporal
 
+- 발음: /ˈtɛmpɚəl/
 - 구성: Latin `temporalis`
 - 뜻: 시간의, 세속의
 - 어원적 연결: 영원한 것이 아니라 시간 속에 속함
@@ -40,6 +43,7 @@
 
 ### contemporary
 
+- 발음: /kəˈntɛmpɚˌɛri/
 - 구성: `con-` = together + `tempor` = time
 - 뜻: 동시대의, 현대의
 - 어원적 연결: 같은 시간에 함께 존재함
@@ -47,6 +51,7 @@
 
 ### contemporaneous
 
+- 발음: /kəˌntɛmpɚˈeɪniəs/
 - 구성: `con-` + `tempor` + `-aneous`
 - 뜻: 동시에 일어난, 같은 시대의
 - 어원적 연결: 같은 시간대에 함께 발생함
@@ -54,6 +59,7 @@
 
 ### tempo
 
+- 발음: /ˈtɛˌmpoʊ/
 - 구성: Italian `tempo` ← Latin `tempus`
 - 뜻: 박자, 속도
 - 어원적 연결: 음악에서 시간의 흐름과 빠르기

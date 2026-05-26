@@ -9,6 +9,7 @@
 
 ### photograph
 
+- 발음: /ˈfoʊtəˌgræf/
 - 구성: `photo` = light + [[graph]] = write
 - 뜻: 사진
 - 어원적 연결: 빛으로 기록한 것
@@ -16,6 +17,7 @@
 
 ### photography
 
+- 발음: /fəˈtɑgrəfi/
 - 구성: `photo` + `graphy`
 - 뜻: 사진술
 - 어원적 연결: 빛으로 이미지를 기록하는 기술
@@ -23,6 +25,7 @@
 
 ### photosynthesis
 
+- 발음: /ˌfoʊtoʊˈsɪnθəsɪs/
 - 구성: `photo` = light + `synthesis` = putting together
 - 뜻: 광합성
 - 어원적 연결: 빛을 이용해 물질을 합성함
@@ -30,6 +33,7 @@
 
 ### photogenic
 
+- 발음: /ˌfoʊtəˈdʒɛnɪk/
 - 구성: `photo` + `-genic`
 - 뜻: 사진이 잘 받는
 - 어원적 연결: 빛과 사진에서 잘 드러남
@@ -37,6 +41,7 @@
 
 ### photon
 
+- 발음: /ˈfoʊˌtɑn/
 - 구성: Greek `phos`
 - 뜻: 광자
 - 어원적 연결: 빛의 입자

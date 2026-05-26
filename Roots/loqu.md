@@ -19,6 +19,7 @@
 
 ### eloquent
 
+- 발음: /ˈɛləkwənt/
 - 구성: `e-` = out + Latin `loqui` = speak
 - 뜻: 유창한, 설득력 있는
 - 어원적 연결: 말을 잘 풀어 밖으로 냄
@@ -26,6 +27,7 @@
 
 ### eloquence
 
+- 발음: /ˈɛləkwəns/
 - 구성: `eloquent` + `-ence`
 - 뜻: 웅변, 유창함
 - 어원적 연결: 말이 힘 있게 잘 흘러나오는 능력
@@ -33,6 +35,7 @@
 
 ### loquacious
 
+- 발음: /loʊˈkweɪʃəs/
 - 구성: Latin `loquax` = talkative
 - 뜻: 말이 많은, 수다스러운
 - 어원적 연결: 말을 많이 하는 성향
@@ -40,6 +43,7 @@
 
 ### colloquial
 
+- 발음: /kəˈloʊkwiəl/
 - 구성: `col-` = together + Latin `loqui`
 - 뜻: 구어체의, 일상 회화의
 - 어원적 연결: 사람들이 함께 말할 때 쓰는 표현
@@ -47,6 +51,7 @@
 
 ### colloquium
 
+- 발음: /kəˈloʊkwiəm/
 - 구성: `col-` = together + `loqui`
 - 뜻: 학술 토론회, 콜로키움
 - 어원적 연결: 사람들이 함께 말하고 토론함
@@ -54,6 +59,7 @@
 
 ### soliloquy
 
+- 발음: /səˈlɪləkwi/
 - 구성: Latin `solus` = alone + `loqui`
 - 뜻: 독백
 - 어원적 연결: 혼자 말함
@@ -68,6 +74,7 @@
 
 ### interlocutor
 
+- 발음: /ˌɪntɚˈlɑkjətɚ/
 - 구성: `inter-` = between + Latin `loqui`
 - 뜻: 대화 상대
 - 어원적 연결: 서로 사이에서 말을 주고받는 사람

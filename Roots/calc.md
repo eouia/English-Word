@@ -20,6 +20,7 @@
 
 ### calculate
 
+- 발음: /ˈkælkjəˌleɪt/
 - 구성: Latin `calculare`
 - 뜻: 계산하다, 추산하다
 - 어원적 연결: 조약돌을 놓고 수를 세어 계산함
@@ -27,6 +28,7 @@
 
 ### calculation
 
+- 발음: /ˌkælkjəˈleɪʃən/
 - 구성: `calculate` + `-ion`
 - 뜻: 계산, 산정
 - 어원적 연결: 수를 세고 따져 결과를 냄
@@ -34,6 +36,7 @@
 
 ### calculator
 
+- 발음: /ˈkælkjəˌleɪtɚ/
 - 구성: `calculate` + `-or`
 - 뜻: 계산기, 계산하는 사람
 - 어원적 연결: 계산을 수행하는 도구나 사람
@@ -41,6 +44,7 @@
 
 ### calculus
 
+- 발음: /ˈkælkjələs/
 - 구성: Latin `calculus`
 - 뜻: 미적분학, 계산법
 - 어원적 연결: 원래는 계산용 작은 돌. 수학의 계산 체계로 확장
@@ -48,6 +52,7 @@
 
 ### miscalculate
 
+- 발음: /mɪˈskælkjəˌleɪt/
 - 구성: `mis-` = wrongly + `calculate`
 - 뜻: 잘못 계산하다, 오판하다
 - 어원적 연결: 수나 상황을 잘못 따짐
@@ -55,6 +60,7 @@
 
 ### incalculable
 
+- 발음: /ˌɪˈnkælkjələbəl/
 - 구성: `in-` = not + `calculate` + `-able`
 - 뜻: 계산할 수 없는, 헤아릴 수 없이 큰
 - 어원적 연결: 수로 따져 낼 수 없음

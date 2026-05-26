@@ -19,6 +19,7 @@
 
 ### monochrome
 
+- 발음: /ˈmɑnəˌkroʊm/
 - 구성: Greek `mono` = one + `chroma` = color
 - 뜻: 단색의, 흑백의
 - 어원적 연결: 하나의 색조만 사용함
@@ -26,6 +27,7 @@
 
 ### polychrome
 
+- 발음: /ˈpɑˌliˌkroʊm/
 - 구성: Greek `poly` = many + `chroma` = color
 - 뜻: 여러 색의, 다색의
 - 어원적 연결: 여러 색을 함께 사용함
@@ -47,6 +49,7 @@
 
 ### chromatography
 
+- 발음: /kroʊməˈtɑgrəfi/
 - 구성: `chroma` = color + `graphy` = writing, recording
 - 뜻: 크로마토그래피, 색층 분석
 - 어원적 연결: 성분이 색 띠처럼 분리되어 기록되는 실험법에서 출발
@@ -54,6 +57,7 @@
 
 ### chromosome
 
+- 발음: /ˈkroʊməˌsoʊm/
 - 구성: `chroma` = color + `soma` = body
 - 뜻: 염색체
 - 어원적 연결: 염색약에 잘 물들어 보이는 세포 안의 "몸체"
@@ -61,6 +65,7 @@
 
 ### chrome
 
+- 발음: /ˈkroʊm/
 - 구성: Greek `chroma` 계열
 - 뜻: 크롬, 크롬 도금, 금속성 광택
 - 어원적 연결: 크롬 화합물이 강한 색을 띠는 데서 이름이 붙음

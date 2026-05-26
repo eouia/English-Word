@@ -21,6 +21,7 @@
 
 ### disconcerting
 
+- 발음: /ˌdɪskəˈnsɝtɪŋ/
 - 구성: `disconcert` + `-ing`
 - 뜻: 당황스럽게 하는, 불안하게 하는
 - 어원적 연결: 마음속의 조율과 안정감을 깨뜨리는 성질
@@ -28,6 +29,7 @@
 
 ### disconcert
 
+- 발음: /ˌdɪskəˈnsɝt/
 - 구성: `dis-` = apart/undo + `concert`
 - 뜻: 당황하게 하다, 불안하게 하다
 - 어원적 연결: 맞춰진 계획이나 마음의 균형을 흐트러뜨림
@@ -42,6 +44,7 @@
 
 ### concert
 
+- 발음: /ˈkɑnsɚt/
 - 구성: French `concert` ← Italian `concerto`
 - 뜻: 음악회; 조화, 협력
 - 어원적 연결: 여러 소리나 사람이 함께 맞추어 조화를 이룸
@@ -49,6 +52,7 @@
 
 ### concerted
 
+- 발음: /kəˈnsɝtəd/
 - 구성: `concert` + `-ed`
 - 뜻: 협력한, 합동의, 일치된
 - 어원적 연결: 여러 사람이 뜻과 행동을 맞춘 상태
@@ -56,6 +60,7 @@
 
 ### concerto
 
+- 발음: /kəˈntʃɛrtoʊ/
 - 구성: Italian `concerto` = concert, harmony
 - 뜻: 협주곡
 - 어원적 연결: 독주 악기와 오케스트라가 서로 맞서고 맞추며 조화를 이룸
@@ -63,6 +68,7 @@
 
 ### concertmaster
 
+- 발음: /ˈkɑnsɚˌtmæstɚ/
 - 구성: `concert` + `master`
 - 뜻: 오케스트라의 악장
 - 어원적 연결: 연주의 조율과 질서를 이끄는 수석 연주자
@@ -70,6 +76,7 @@
 
 ### concertina
 
+- 발음: /kɑnsɚˈtinə/
 - 구성: `concert` + Italian-style diminutive `-ina`
 - 뜻: 콘서티나, 작은 아코디언류 악기
 - 어원적 연결: 음악 연주와 관련된 작은 악기 이름

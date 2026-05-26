@@ -17,6 +17,7 @@
 
 ### labor
 
+- 발음: /ˈleɪbɚ/
 - 구성: Latin `labor`
 - 뜻: 노동, 수고
 - 어원적 연결: 힘을 들여 하는 일
@@ -24,6 +25,7 @@
 
 ### laborious
 
+- 발음: /ləˈbɔriəs/
 - 구성: `labor` + `-ious`
 - 뜻: 힘든, 고된
 - 어원적 연결: 많은 수고가 필요함
@@ -31,6 +33,7 @@
 
 ### elaborate
 
+- 발음: /ɪˈlæbrət/
 - 구성: `e-` = out + Latin `laborare` = work
 - 뜻: 정교한, 자세히 설명하다
 - 어원적 연결: 수고를 들여 잘 다듬음
@@ -38,6 +41,7 @@
 
 ### collaborate
 
+- 발음: /kəˈlæbɚˌeɪt/
 - 구성: `col-` = together + `laborare`
 - 뜻: 협력하다
 - 어원적 연결: 함께 수고하며 일함
@@ -45,6 +49,7 @@
 
 ### collaboration
 
+- 발음: /kəˌlæbɚˈeɪʃən/
 - 구성: `collaborate` + `-ion`
 - 뜻: 협력, 공동 작업
 - 어원적 연결: 함께 일하는 과정
@@ -52,6 +57,7 @@
 
 ### laboratory
 
+- 발음: /ˈlæbrəˌtɔri/
 - 구성: Latin `laboratorium`
 - 뜻: 실험실
 - 어원적 연결: 실험 작업을 하는 장소

@@ -20,6 +20,7 @@
 
 ### contrive
 
+- 발음: /kəˈntraɪv/
 - 구성: Old French `controver` = find, devise
 - 뜻: 고안하다, 꾸며내다, 어떻게든 해내다
 - 어원적 연결: 방법이나 장치를 찾아내어 만듦
@@ -27,6 +28,7 @@
 
 ### contrived
 
+- 발음: /kəˈntraɪvd/
 - 구성: `contrive` + `-ed`
 - 뜻: 인위적인, 억지로 꾸민
 - 어원적 연결: 자연스럽게 생긴 것이 아니라 일부러 꾸며 만들어짐
@@ -34,6 +36,7 @@
 
 ### contrivance
 
+- 발음: /kəˈntraɪvəns/
 - 구성: `contrive` + `-ance`
 - 뜻: 고안물, 장치; 억지스러운 설정
 - 어원적 연결: 생각해 내어 만든 물건이나 장치

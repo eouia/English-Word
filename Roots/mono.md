@@ -19,6 +19,7 @@
 
 ### monologue
 
+- 발음: /ˈmɑnəˌlɔg/
 - 구성: `mono-` = one + [[logos]] = speech
 - 뜻: 독백, 장광설
 - 어원적 연결: 한 사람이 이어 가는 말
@@ -26,6 +27,7 @@
 
 ### monopoly
 
+- 발음: /məˈnɑpəli/
 - 구성: `mono-` = one + Greek `polein` = sell
 - 뜻: 독점
 - 어원적 연결: 하나의 판매자나 세력이 시장을 차지함
@@ -33,6 +35,7 @@
 
 ### monopolize
 
+- 발음: /məˈnɑpəˌlaɪz/
 - 구성: `monopoly` + `-ize`
 - 뜻: 독점하다
 - 어원적 연결: 하나의 주체가 전부 차지함
@@ -40,6 +43,7 @@
 
 ### monotheism
 
+- 발음: /ˈmɑnəˌθiɪzəm/
 - 구성: `mono-` = one + Greek `theos` = god
 - 뜻: 일신론
 - 어원적 연결: 하나의 신만 인정함
@@ -47,6 +51,7 @@
 
 ### monochrome
 
+- 발음: /ˈmɑnəˌkroʊm/
 - 구성: `mono-` = one + Greek `chroma` = color
 - 뜻: 단색의, 흑백의
 - 어원적 연결: 하나의 색으로 이루어짐
@@ -54,6 +59,7 @@
 
 ### monogamy
 
+- 발음: /məˈnɑgəmi/
 - 구성: `mono-` = one + Greek `gamos` = marriage
 - 뜻: 일부일처제
 - 어원적 연결: 한 배우자와의 결혼
@@ -61,6 +67,7 @@
 
 ### monolith
 
+- 발음: /ˈmɑnəˌlɪθ/
 - 구성: `mono-` = one + Greek `lithos` = stone
 - 뜻: 하나의 큰 돌, 단일 거대 조직
 - 어원적 연결: 한 덩어리의 돌
@@ -68,6 +75,7 @@
 
 ### monolingual
 
+- 발음: /ˌmɑnəˈlɪŋgwəl/
 - 구성: `mono-` = one + Latin `lingua` = language
 - 뜻: 한 언어만 쓰는
 - 어원적 연결: 하나의 언어에 속함
@@ -75,6 +83,7 @@
 
 ### monorail
 
+- 발음: /ˈmɑnɚˌeɪl/
 - 구성: `mono-` = one + `rail`
 - 뜻: 모노레일
 - 어원적 연결: 하나의 레일 위를 달림

@@ -9,6 +9,7 @@
 
 ### ornamental
 
+- 발음: /ˌɔrnəˈmɛntəl/
 - 구성: `ornament` + `-al`
 - 뜻: 장식용의, 장식적인
 - 어원적 연결: 실용보다 꾸미는 기능이 중심
@@ -16,6 +17,7 @@
 
 ### ornament
 
+- 발음: /ˈɔrnəmənt/
 - 구성: Latin `ornamentum` = equipment, decoration
 - 뜻: 장식품, 장식
 - 어원적 연결: 대상을 보기 좋게 갖추는 것
@@ -23,6 +25,7 @@
 
 ### ornamentation
 
+- 발음: /ˌɔrnəmɛˈnteɪʃən/
 - 구성: `ornament` + `-ation`
 - 뜻: 장식, 장식 양식
 - 어원적 연결: 장식을 더하는 행위나 결과
@@ -30,6 +33,7 @@
 
 ### adorn
 
+- 발음: /əˈdɔrn/
 - 구성: `ad-` = to + Latin `ornare`
 - 뜻: 장식하다, 꾸미다
 - 어원적 연결: 어떤 대상에 꾸밈을 더함
@@ -37,6 +41,7 @@
 
 ### ornate
 
+- 발음: /ɔˈrneɪt/
 - 구성: Latin `ornatus` = decorated
 - 뜻: 화려하게 장식된, 지나치게 꾸민
 - 어원적 연결: 장식이 많이 붙은 상태

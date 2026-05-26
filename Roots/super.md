@@ -19,6 +19,7 @@
 
 ### super
 
+- 발음: /ˈsupɚ/
 - 구성: Latin `super` = over, above
 - 뜻: 위에, 넘어서; 대단한
 - 연결: 기준보다 위에 있거나 더 큰 상태
@@ -26,6 +27,7 @@
 
 ### supervise
 
+- 발음: /ˈsupɚˌvaɪz/
 - 구성: `super-` = over + `vis` = see
 - 뜻: 감독하다, 관리하다
 - 연결: 위에서 내려다보며 살핌
@@ -33,6 +35,7 @@
 
 ### supervisor
 
+- 발음: /ˈsupɚˌvaɪzɚ/
 - 구성: `supervise` + `-or`
 - 뜻: 감독자, 상사
 - 연결: 위에서 보고 관리하는 사람
@@ -40,6 +43,7 @@
 
 ### superior
 
+- 발음: /suˈpɪriɚ/
 - 구성: Latin `superior` = higher
 - 뜻: 더 나은, 우월한; 상급자
 - 연결: 위치나 등급이 위에 있음
@@ -47,6 +51,7 @@
 
 ### superfluous
 
+- 발음: /ˈsupɚˌflwʌs/
 - 구성: `super-` = over + `flu` = flow
 - 뜻: 불필요한, 남아도는
 - 연결: 필요한 양을 넘어 흘러넘침
@@ -54,6 +59,7 @@
 
 ### supernatural
 
+- 발음: /ˌsupɚˈnætʃɚəl/
 - 구성: `super-` = beyond + `natural`
 - 뜻: 초자연적인
 - 연결: 자연의 범위를 넘어선 것
@@ -61,6 +67,7 @@
 
 ### superficial
 
+- 발음: /ˌsupɚˈfɪʃəl/
 - 구성: Latin `superficies` = surface, from `super-` + `facies`
 - 뜻: 표면적인, 피상적인
 - 연결: 깊은 곳이 아니라 겉면 위에만 머무름

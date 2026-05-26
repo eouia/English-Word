@@ -20,6 +20,7 @@
 
 ### judge
 
+- 발음: /ˈdʒʌdʒ/
 - 구성: Latin `iudicare`
 - 뜻: 판단하다, 판사
 - 어원적 연결: 법에 따라 판단을 말함
@@ -27,6 +28,7 @@
 
 ### judgment
 
+- 발음: /ˈdʒʌdʒmənt/
 - 구성: `judge` + `-ment`
 - 뜻: 판단, 판결, 판단력
 - 어원적 연결: 판단이 내려진 결과
@@ -34,6 +36,7 @@
 
 ### judicial
 
+- 발음: /dʒuˈdɪʃəl/
 - 구성: Latin `iudicialis`
 - 뜻: 사법의, 재판의
 - 어원적 연결: 판결과 법원에 관련됨
@@ -41,6 +44,7 @@
 
 ### judiciary
 
+- 발음: /dʒuˈdɪʃiˌɛri/
 - 구성: Latin `iudiciarius`
 - 뜻: 사법부
 - 어원적 연결: 판단과 재판을 담당하는 기관
@@ -48,6 +52,7 @@
 
 ### judicious
 
+- 발음: /dʒuˈdɪʃəs/
 - 구성: Latin `iudicium` = judgment
 - 뜻: 현명한, 판단력 있는
 - 어원적 연결: 좋은 판단을 내릴 줄 앎
@@ -55,6 +60,7 @@
 
 ### adjudicate
 
+- 발음: /əˈdʒudɪˌkeɪt/
 - 구성: `ad-` = to + `judicate`
 - 뜻: 판결하다, 심판하다
 - 어원적 연결: 사안에 대해 판단을 내려 줌
@@ -62,6 +68,7 @@
 
 ### adjudication
 
+- 발음: /əˌdʒudəˈkeɪʃən/
 - 구성: `adjudicate` + `-ion`
 - 뜻: 판결, 심판
 - 어원적 연결: 판단이 공식적으로 내려지는 과정
@@ -69,6 +76,7 @@
 
 ### prejudice
 
+- 발음: /ˈprɛdʒədɪs/
 - 구성: `pre-` = before + `judicium` = judgment
 - 뜻: 편견, 선입견
 - 어원적 연결: 충분히 살피기 전에 이미 내린 판단
@@ -76,6 +84,7 @@
 
 ### prejudicial
 
+- 발음: /ˌprɛdʒəˈdɪʃəl/
 - 구성: `prejudice` + `-ial`
 - 뜻: 해로운, 편견을 주는
 - 어원적 연결: 앞선 판단이 해를 끼침

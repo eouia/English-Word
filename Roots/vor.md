@@ -9,6 +9,7 @@
 
 ### voracious
 
+- 발음: /vɔˈreɪʃəs/
 - 구성: Latin `vorare` + `-acious`
 - 뜻: 게걸스러운, 탐욕스러운
 - 어원적 연결: 많이 먹거나 집어삼키려는 성향
@@ -16,6 +17,7 @@
 
 ### devour
 
+- 발음: /dɪˈvaʊɚ/
 - 구성: `de-` = down, completely + Latin `vorare`
 - 뜻: 게걸스럽게 먹다, 집어삼키다
 - 어원적 연결: 완전히 먹어 치움
@@ -23,6 +25,7 @@
 
 ### carnivore
 
+- 발음: /ˈkɑrnɪˌvɔr/
 - 구성: [[carn]] = flesh + `vorare`
 - 뜻: 육식동물
 - 어원적 연결: 고기를 먹는 존재
@@ -30,6 +33,7 @@
 
 ### herbivore
 
+- 발음: /ˈhɝbɪˌvɔr/
 - 구성: Latin `herba` = plant + `vorare`
 - 뜻: 초식동물
 - 어원적 연결: 풀과 식물을 먹는 존재

@@ -18,6 +18,7 @@
 
 ### preliminary
 
+- 발음: /prɪˈlɪməˌnɛri/
 - 구성: `pre-` = before + Latin `limen`
 - 뜻: 예비의, 사전의; 예선
 - 어원적 연결: 본 단계의 문턱 앞에 있음
@@ -32,6 +33,7 @@
 
 ### subliminal
 
+- 발음: /səˈblɪmɪnəl/
 - 구성: `sub-` = below + Latin `limen`
 - 뜻: 잠재의식의, 식역하의
 - 어원적 연결: 의식의 문턱 아래에 있음
@@ -39,6 +41,7 @@
 
 ### eliminate
 
+- 발음: /ɪˈlɪməˌneɪt/
 - 구성: `e-/ex-` = out + Latin `limen`
 - 뜻: 제거하다, 탈락시키다
 - 어원적 연결: 문턱 밖으로 내보냄
@@ -46,6 +49,7 @@
 
 ### elimination
 
+- 발음: /ɪˌlɪməˈneɪʃən/
 - 구성: `eliminate` + `-ion`
 - 뜻: 제거, 탈락
 - 어원적 연결: 경계 밖으로 밀어내는 과정

@@ -21,6 +21,7 @@
 
 ### tally
 
+- 발음: /ˈtæli/
 - 구성: Anglo-French `tallie/taille`
 - 뜻: 계산 기록, 합계, 점수; 세다, 기록하다; 일치하다
 - 어원적 연결: 막대에 홈을 새겨 수량을 맞춰 기록함
@@ -35,6 +36,7 @@
 
 ### tailor
 
+- 발음: /ˈteɪlɚ/
 - 구성: Old French `tailleur` = cutter
 - 뜻: 재단사; 맞춤 제작하다
 - 어원적 연결: 옷감을 자르는 사람에서 옷을 맞추는 사람으로 확장
@@ -42,6 +44,7 @@
 
 ### tailored
 
+- 발음: /ˈteɪlɚd/
 - 구성: `tailor` + `-ed`
 - 뜻: 맞춤의, 목적에 맞게 조정된
 - 어원적 연결: 몸에 맞게 옷감을 잘라 조정함
@@ -49,6 +52,7 @@
 
 ### detail
 
+- 발음: /dɪˈteɪl/
 - 구성: Old French `detail` ← `de-` = off + `tailler` = cut
 - 뜻: 세부 사항, 자세히 말하다
 - 어원적 연결: 전체에서 잘라 낸 작은 조각에서 세부 사항으로 확장
@@ -56,6 +60,7 @@
 
 ### retail
 
+- 발음: /ˈriˌteɪl/
 - 구성: Old French `retaillier` = cut off, cut into small pieces
 - 뜻: 소매로 팔다
 - 어원적 연결: 큰 물건이나 묶음을 작은 단위로 잘라 나누어 팖
@@ -63,6 +68,7 @@
 
 ### retailer
 
+- 발음: /ˈriˌteɪlɚ/
 - 구성: `retail` + `-er`
 - 뜻: 소매상, 소매업체
 - 어원적 연결: 물건을 작은 단위로 나누어 파는 사람이나 회사
@@ -70,6 +76,7 @@
 
 ### entail
 
+- 발음: /ɛˈnteɪl/
 - 구성: Old French `entailler` = cut into, carve; legal sense from "cutting" inheritance into a fixed line
 - 뜻: 수반하다, 필연적으로 포함하다; 상속을 한정하다
 - 어원적 연결: 법률에서 재산 상속을 특정 계통으로 "잘라 정해 둠"에서, 어떤 결과가 따라오도록 정해짐으로 확장

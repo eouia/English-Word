@@ -18,6 +18,7 @@
 
 ### explain
 
+- 발음: /ɪˈkspleɪn/
 - 구성: Latin `ex-` = out + `planus` = flat, clear
 - 뜻: 설명하다
 - 연결: 접혀 있거나 복잡한 것을 밖으로 펼쳐 평평하고 분명하게 보여 줌
@@ -25,6 +26,7 @@
 
 ### explanation
 
+- 발음: /ˌɛkspləˈneɪʃən/
 - 구성: `explain` + `-ation`
 - 뜻: 설명, 해명
 - 연결: 복잡한 내용을 펼쳐 이해할 수 있게 만든 것
@@ -32,6 +34,7 @@
 
 ### explanatory
 
+- 발음: /ɪˈksplænəˌtɔri/
 - 구성: `explain` + `-atory`
 - 뜻: 설명하는, 설명을 위한
 - 연결: 이해되도록 펼쳐 보여 주는 기능
@@ -39,6 +42,7 @@
 
 ### plain
 
+- 발음: /ˈpleɪn/
 - 구성: Latin `planus` = flat, clear
 - 뜻: 평평한, 분명한, 수수한; 평야
 - 연결: 굴곡이나 장식이 없어 눈에 바로 드러남
@@ -46,6 +50,7 @@
 
 ### plane
 
+- 발음: /ˈpleɪn/
 - 구성: Latin `planum` = flat surface
 - 뜻: 평면; 비행기
 - 연결: 원래는 평평한 면. 비행기는 `airplane`에서 온 별도 현대 확장.
@@ -53,6 +58,7 @@
 
 ### plan
 
+- 발음: /ˈplæn/
 - 구성: French `plan` = ground plan, map, from Latin `planus`
 - 뜻: 계획, 도면; 계획하다
 - 연결: 평면에 펼쳐 놓은 도면에서 앞으로 할 일을 정함
@@ -60,6 +66,7 @@
 
 ### planner
 
+- 발음: /ˈplænɚ/
 - 구성: `plan` + `-er`
 - 뜻: 계획자, 플래너
 - 연결: 일을 미리 펼쳐 놓고 정리하는 사람이나 도구
@@ -67,6 +74,7 @@
 
 ### planar
 
+- 발음: /ˈpleɪnɚ/
 - 구성: `plane` + `-ar`
 - 뜻: 평면의
 - 연결: 평평한 면과 관련됨
@@ -74,6 +82,7 @@
 
 ### plateau
 
+- 발음: /plæˈtoʊ/
 - 구성: Old French `plateau`, from `plat` = flat
 - 뜻: 고원; 정체기
 - 연결: 높은 곳에 있는 평평한 땅에서, 변화가 멈춘 평평한 상태로 확장

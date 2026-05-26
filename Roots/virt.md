@@ -20,6 +20,7 @@
 
 ### virtue
 
+- 발음: /ˈvɝtʃu/
 - 구성: Latin `virtus` = excellence, moral strength
 - 뜻: 미덕, 덕성, 장점
 - 어원적 연결: 뛰어난 힘과 품성이 도덕적 훌륭함으로 확장
@@ -27,6 +28,7 @@
 
 ### virtuous
 
+- 발음: /ˈvɝtʃuəs/
 - 구성: `virtue` + `-ous`
 - 뜻: 덕 있는, 고결한
 - 어원적 연결: 덕을 지닌 상태
@@ -55,6 +57,7 @@
 
 ### virtual
 
+- 발음: /ˈvɝtʃuəl/
 - 구성: Medieval Latin `virtualis` ← `virtus`
 - 뜻: 사실상의, 가상의
 - 어원적 연결: 겉모습은 아니어도 효과를 내는 힘을 가짐
@@ -62,6 +65,7 @@
 
 ### virtually
 
+- 발음: /ˈvɝtʃuəli/
 - 구성: `virtual` + `-ly`
 - 뜻: 사실상, 거의
 - 어원적 연결: 실제와 같은 효과를 낼 만큼
@@ -76,6 +80,7 @@
 
 ### virtuoso
 
+- 발음: /vɚtʃuˈoʊsoʊ/
 - 구성: Italian `virtuoso` ← Late Latin `virtuosus`
 - 뜻: 거장, 명연주자
 - 어원적 연결: 뛰어난 기술과 예술적 우수성을 지닌 사람
@@ -83,6 +88,7 @@
 
 ### virtuosity
 
+- 발음: /vɚtʃuˈɑsɪti/
 - 구성: `virtuoso` 계열 + `-ity`
 - 뜻: 탁월한 기교, 명인적 솜씨
 - 어원적 연결: 뛰어난 능력과 기술
@@ -104,6 +110,7 @@
 
 ### virile
 
+- 발음: /ˈvɪrəl/
 - 구성: Latin `virilis` ← `vir`
 - 뜻: 남성적인, 힘찬
 - 어원적 연결: Latin `vir` = man에서 직접 연결
@@ -111,6 +118,7 @@
 
 ### virility
 
+- 발음: /vɚˈɪləti/
 - 구성: `virile` + `-ity`
 - 뜻: 남성다움, 활력
 - 어원적 연결: 성인 남성의 힘이라는 오래된 이미지
@@ -118,6 +126,7 @@
 
 ### triumvirate
 
+- 발음: /traɪˈʌmvɚət/
 - 구성: Latin `tri-` = three + `vir` = man
 - 뜻: 3인 통치 체제, 3인조
 - 어원적 연결: 세 명의 남성이 함께 권력을 나눔

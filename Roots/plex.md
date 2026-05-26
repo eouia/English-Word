@@ -20,6 +20,7 @@
 
 ### complex
 
+- 발음: /ˈkɑmplɛks/
 - 구성: `com-` = together + Latin `plectere`
 - 뜻: 복잡한, 복합체
 - 어원적 연결: 여러 부분이 함께 얽혀 있음
@@ -27,6 +28,7 @@
 
 ### complexity
 
+- 발음: /kəˈmplɛksəti/
 - 구성: `complex` + `-ity`
 - 뜻: 복잡성
 - 어원적 연결: 여러 요소가 얽힌 정도
@@ -34,6 +36,7 @@
 
 ### complexion
 
+- 발음: /kəˈmplɛkʃən/
 - 구성: Latin `complexio` = combination
 - 뜻: 안색, 양상, 성격
 - 어원적 연결: 여러 요소가 함께 얽혀 드러난 상태
@@ -41,6 +44,7 @@
 
 ### perplex
 
+- 발음: /pɚˈplɛks/
 - 구성: `per-` = thoroughly + Latin `plectere`
 - 뜻: 당혹하게 하다, 혼란스럽게 하다
 - 어원적 연결: 생각이 완전히 얽혀 헷갈림
@@ -48,6 +52,7 @@
 
 ### perplexed
 
+- 발음: /pɚˈplɛkst/
 - 구성: `perplex` + `-ed`
 - 뜻: 당혹한, 어리둥절한
 - 어원적 연결: 생각이 얽혀 풀리지 않는 상태
@@ -55,6 +60,7 @@
 
 ### perplexing
 
+- 발음: /pɚˈplɛksɪŋ/
 - 구성: `perplex` + `-ing`
 - 뜻: 당혹스러운, 난해한
 - 어원적 연결: 생각을 얽히게 만들어 이해하기 어려움
@@ -62,6 +68,7 @@
 
 ### plexus
 
+- 발음: /ˈplɛksəs/
 - 구성: Latin `plexus` = braid, network
 - 뜻: 신경총, 망상 조직
 - 어원적 연결: 신경이나 혈관이 그물처럼 얽힘

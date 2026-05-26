@@ -20,6 +20,7 @@
 
 ### approximate
 
+- 발음: adj. /əˈprɑksəmət/, v. /əˈprɑksəˌmeɪt/
 - 구성: `ad-` = to + Latin `proximus` = nearest + `-ate`
 - 뜻: 대략의, 근사한; 어림잡다, 가까워지다
 - 어원적 연결: 정확한 값이나 상태에 가까이 감
@@ -27,6 +28,7 @@
 
 ### approximately
 
+- 발음: /əˈprɑksəmətli/
 - 구성: `approximate` + `-ly`
 - 뜻: 대략, 약
 - 어원적 연결: 정확한 값에 가까운 정도로
@@ -34,6 +36,7 @@
 
 ### approximation
 
+- 발음: /əˌprɑksəˈmeɪʃən/
 - 구성: `approximate` + `-ion`
 - 뜻: 근사치, 어림, 접근
 - 어원적 연결: 정확한 값에 가까운 계산이나 표현
@@ -41,6 +44,7 @@
 
 ### proximity
 
+- 발음: /prɑˈksɪməti/
 - 구성: Latin `proximitas` = nearness
 - 뜻: 가까움, 근접성
 - 어원적 연결: 거리나 관계가 가까움
@@ -48,6 +52,7 @@
 
 ### proximal
 
+- 발음: /ˈprɑksəməl/
 - 구성: Latin `proximus` 계열 + `-al`
 - 뜻: 가까운 쪽의, 근위의
 - 어원적 연결: 중심이나 몸통에 가까운 위치

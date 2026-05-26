@@ -20,6 +20,7 @@
 
 ### catastrophe
 
+- 발음: /kəˈtæstrəfi/
 - 구성: Greek `kata-` = down + `strephein` = turn
 - 뜻: 대재앙, 참사, 파국
 - 어원적 연결: 상황이 아래로 뒤집히듯 급격히 나빠짐
@@ -27,6 +28,7 @@
 
 ### catastrophic
 
+- 발음: /ˌkætəˈstrɑfɪk/
 - 구성: `catastrophe` + `-ic`
 - 뜻: 파국적인, 대재앙의
 - 어원적 연결: 결과가 크게 뒤집혀 회복하기 어려운 상태
@@ -41,6 +43,7 @@
 
 ### apostrophe
 
+- 발음: /əˈpɑstrəˌfi/
 - 구성: Greek `apo-` = away + `strephein` = turn
 - 뜻: 아포스트로피; 돈호법
 - 어원적 연결: 말의 방향을 돌려 absent person이나 사물에게 말을 거는 수사법에서 출발. 기호 뜻은 뒤에 확장

@@ -20,6 +20,7 @@
 
 ### concern
 
+- 발음: /kəˈnsɝn/
 - 구성: Latin `con-` = together + `cernere` = distinguish, decide
 - 뜻: 관련되다, 걱정시키다; 관심사, 우려
 - 어원적 연결: 어떤 일이 나와 관련 있다고 판단되어 마음에 걸림
@@ -27,6 +28,7 @@
 
 ### concerned
 
+- 발음: /kəˈnsɝnd/
 - 구성: `concern` + `-ed`
 - 뜻: 걱정하는, 관련된
 - 어원적 연결: 어떤 일과 관련되어 마음이 붙잡힌 상태
@@ -34,6 +36,7 @@
 
 ### concerning
 
+- 발음: /kəˈnsɝnɪŋ/
 - 구성: `concern` + `-ing`
 - 뜻: ~에 관한; 걱정스러운
 - 어원적 연결: 어떤 대상과 관련됨
@@ -41,6 +44,7 @@
 
 ### discern
 
+- 발음: /dɪˈsɝn/
 - 구성: Latin `dis-` = apart + `cernere` = distinguish
 - 뜻: 알아차리다, 식별하다
 - 어원적 연결: 서로 다른 것을 갈라 구별해 봄
@@ -48,6 +52,7 @@
 
 ### discernment
 
+- 발음: /dɪˈsɝnmənt/
 - 구성: `discern` + `-ment`
 - 뜻: 분별력, 식별력
 - 어원적 연결: 차이를 잘 가려 판단하는 능력
@@ -55,6 +60,7 @@
 
 ### certain
 
+- 발음: /ˈsɝtən/
 - 구성: Latin `certus` = decided, settled
 - 뜻: 확실한, 특정한
 - 어원적 연결: 구별하고 판단이 내려져 확정됨
@@ -62,6 +68,7 @@
 
 ### ascertain
 
+- 발음: /ˌæsɚˈteɪn/
 - 구성: Old French `acertener` = make certain
 - 뜻: 확인하다, 알아내다
 - 어원적 연결: 불확실한 것을 판단해 확실하게 만듦
@@ -69,6 +76,7 @@
 
 ### secret
 
+- 발음: /ˈsikrət/
 - 구성: Latin `se-` = apart + `cernere` = separate
 - 뜻: 비밀, 비밀의
 - 어원적 연결: 따로 갈라 숨겨 둔 것
@@ -76,6 +84,7 @@
 
 ### discrete
 
+- 발음: /dɪˈskrit/
 - 구성: Latin `discretus` = separated
 - 뜻: 분리된, 별개의
 - 어원적 연결: 서로 갈라져 구별됨
@@ -83,6 +92,7 @@
 
 ### discreet
 
+- 발음: /dɪˈskrit/
 - 구성: Latin `discretus` = discerning, prudent
 - 뜻: 신중한, 분별 있는
 - 어원적 연결: 잘 구별해 판단하므로 조심스럽게 행동함
@@ -90,6 +100,7 @@
 
 ### discretion
 
+- 발음: /dɪˈskrɛʃən/
 - 구성: Latin `discretio` = separation, discernment
 - 뜻: 신중함, 분별력; 재량, 결정권
 - 어원적 연결: 상황을 잘 구별해 판단하는 능력. 그래서 스스로 판단해 결정할 수 있는 재량으로 확장
@@ -97,6 +108,7 @@
 
 ### discretionary
 
+- 발음: /dɪˈskrɛʃəˌnɛri/
 - 구성: `discretion` + `-ary`
 - 뜻: 재량의, 임의의
 - 어원적 연결: 정해진 규칙만이 아니라 판단자의 분별과 선택에 맡겨짐
@@ -104,6 +116,7 @@
 
 ### decree
 
+- 발음: /dɪˈkri/
 - 구성: Latin `decernere` = decide, determine
 - 뜻: 법령, 명령; 포고하다
 - 어원적 연결: 구별해 판단한 뒤 공식적으로 결정함

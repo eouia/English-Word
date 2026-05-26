@@ -19,6 +19,7 @@
 
 ### binary
 
+- 발음: /ˈbaɪnɚi/
 - 구성: Latin `binarius`
 - 뜻: 이진의, 둘로 된
 - 어원적 연결: 두 값이나 두 부분으로 이루어짐
@@ -26,6 +27,7 @@
 
 ### bicycle
 
+- 발음: /ˈbaɪsɪkəl/
 - 구성: `bi-` = two + Greek `kyklos` = wheel
 - 뜻: 자전거
 - 어원적 연결: 바퀴가 두 개
@@ -33,6 +35,7 @@
 
 ### bilingual
 
+- 발음: /baɪˈlɪŋgwəl/
 - 구성: `bi-` = two + Latin `lingua` = language
 - 뜻: 두 언어를 쓰는, 이중 언어의
 - 어원적 연결: 두 언어에 속함
@@ -40,6 +43,7 @@
 
 ### bilateral
 
+- 발음: /baɪˈlætɚəl/
 - 구성: `bi-` = two + `lateral` = side
 - 뜻: 양측의, 쌍방의
 - 어원적 연결: 두 쪽에 모두 관련됨
@@ -47,6 +51,7 @@
 
 ### biennial
 
+- 발음: /baɪˈɛniəl/
 - 구성: `bi-` = two + Latin `annus` = year
 - 뜻: 2년마다의, 2년생의
 - 어원적 연결: 두 해 단위로 반복됨
@@ -54,6 +59,7 @@
 
 ### bimonthly
 
+- 발음: /baɪˈmʌnθli/
 - 구성: `bi-` = two + `monthly`
 - 뜻: 두 달마다의 또는 한 달에 두 번의
 - 어원적 연결: 둘이라는 의미 때문에 실제 사용에서 애매함
@@ -61,6 +67,7 @@
 
 ### bipartisan
 
+- 발음: /baɪˈpɑrtɪzən/
 - 구성: `bi-` = two + `partisan`
 - 뜻: 양당의, 초당적인
 - 어원적 연결: 두 정당이 함께 관련됨
@@ -68,6 +75,7 @@
 
 ### binoculars
 
+- 발음: /bəˈnɑkjəlɚz/
 - 구성: `bi-` = two + Latin `oculus` = eye
 - 뜻: 쌍안경
 - 어원적 연결: 두 눈으로 보는 도구
@@ -75,6 +83,7 @@
 
 ### biceps
 
+- 발음: /ˈbaɪˌsɛps/
 - 구성: Latin `biceps` = two-headed
 - 뜻: 이두근
 - 어원적 연결: 두 머리처럼 갈라진 근육

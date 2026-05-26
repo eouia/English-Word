@@ -6,48 +6,56 @@
 
 ### [[medi#media|media]]
 
+- 발음: /ˈmidiə/
 - 핵심 의미: 미디어, 매체
 - 사용 맥락: `mass media`, `digital media`
 - 주의: 정보와 콘텐츠를 전달하는 수단과 산업 전체. 단수형은 원래 `medium`이지만 현대 영어에서는 `media`를 집합명사처럼 자주 씀.
 
 ### journalism
 
+- 발음: /ˈdʒɝnəˌlɪzəm/
 - 핵심 의미: 저널리즘, 언론 활동
 - 사용 맥락: `investigative journalism`, `journalistic ethics`
 - 주의: 뉴스를 취재, 검증, 편집, 보도하는 활동과 직업.
 
 ### [[press#press|press]]
 
+- 발음: /ˈprɛs/
 - 핵심 의미: 언론, 신문, 압박하다
 - 사용 맥락: `freedom of the press`, `press coverage`
 - 주의: 인쇄기에서 나온 말이지만 언론 전체를 뜻함. 동사로는 누르다, 압박하다.
 
 ### broadcast
 
+- 발음: /ˈbrɔˌdkæst/
 - 핵심 의미: 방송하다, 방송
 - 사용 맥락: `broadcast news`, `live broadcast`
 - 주의: 라디오, TV, 인터넷을 통해 넓은 대중에게 송출하는 것.
 
 ### [[cover#coverage|coverage]]
 
+- 발음: /ˈkʌvɚədʒ/
 - 핵심 의미: 보도, 취재 범위, 적용 범위
 - 사용 맥락: `media coverage`, `news coverage`
 - 주의: 언론이 어떤 사건을 얼마나, 어떤 방식으로 다루는지. 보험 보장 범위도 뜻함.
 
 ### outlet
 
+- 발음: /ˈaʊˌtlɛt/
 - 핵심 의미: 매체, 판매점, 배출구
 - 사용 맥락: `news outlet`, `media outlet`
 - 주의: 뉴스나 콘텐츠를 내보내는 조직. 일반적으로는 콘센트나 배출구.
 
 ### [[spond#correspondent|correspondent]]
 
+- 발음: /ˌkɔrəˈspɑndənt/
 - 핵심 의미: 특파원, 통신원
 - 사용 맥락: `foreign correspondent`, `war correspondent`
 - 주의: 특정 지역이나 분야에서 뉴스를 보내는 기자.
 
 ### editorial
 
+- 발음: /ˌɛdəˈtɔriəl/
 - 핵심 의미: 사설, 편집의
 - 사용 맥락: `editorial policy`, `newspaper editorial`
 - 주의: 사실 보도보다 매체의 의견과 판단을 담는 글. 형용사로는 편집 관련.
@@ -56,30 +64,35 @@
 
 ### platform
 
+- 발음: /ˈplæˌtfɔrm/
 - 핵심 의미: 플랫폼, 기반, 정강
 - 사용 맥락: `social media platform`, `streaming platform`
 - 주의: 콘텐츠가 유통되고 사람들이 상호작용하는 디지털 공간. 정치에서는 정강.
 
 ### algorithm
 
+- 발음: /ˈælgɚˌɪðəm/
 - 핵심 의미: 알고리즘
 - 사용 맥락: `recommendation algorithm`, `algorithmic bias`
 - 주의: 플랫폼에서 콘텐츠 노출, 추천, 검색 순위를 결정하는 규칙이나 모델.
 
 ### [[gage#engagement|engagement]]
 
+- 발음: /ɛˈngeɪdʒmənt/
 - 핵심 의미: 참여도, 관여, 약혼
 - 사용 맥락: `user engagement`, `audience engagement`
 - 주의: 미디어에서는 조회, 댓글, 공유, 체류 시간처럼 사용자의 반응과 참여 정도.
 
 ### viral
 
+- 발음: /ˈvaɪrəl/
 - 핵심 의미: 바이러스성의, 빠르게 퍼지는
 - 사용 맥락: `go viral`, `viral video`
 - 주의: 원래는 바이러스 관련. 온라인에서는 콘텐츠가 폭발적으로 공유되는 현상.
 
 ### meme
 
+- 발음: /ˈmim/
 - 핵심 의미: 밈, 모방되어 퍼지는 문화 요소
 - 사용 맥락: `internet meme`, `meme culture`
 - 주의: 이미지, 문구, 행동 양식이 변형되며 빠르게 퍼지는 디지털 문화 단위.
@@ -98,12 +111,14 @@
 
 ### misinformation
 
+- 발음: /ˌmɪsɪnfɚˈmeɪʃən/
 - 핵심 의미: 오정보
 - 사용 맥락: `spread misinformation`, `combat misinformation`
 - 주의: 틀린 정보. 의도적 조작이면 `disinformation`이 더 정확함.
 
 ### disinformation
 
+- 발음: /dɪˌzɪnfɚˈmeɪʃən/
 - 핵심 의미: 허위 정보, 조작 정보
 - 사용 맥락: `political disinformation`, `disinformation campaign`
 - 주의: 사람을 속이기 위해 의도적으로 퍼뜨리는 거짓 정보.
@@ -118,42 +133,49 @@
 
 ### entertainment
 
+- 발음: /ˌɛntɚˈteɪnmənt/
 - 핵심 의미: 오락, 연예 산업
 - 사용 맥락: `entertainment industry`, `entertainment media`
 - 주의: 즐거움과 여가를 제공하는 콘텐츠와 산업.
 
 ### franchise
 
+- 발음: /ˈfræˌntʃaɪz/
 - 핵심 의미: 프랜차이즈, 시리즈 지식재산, 가맹권
 - 사용 맥락: `film franchise`, `media franchise`
 - 주의: 영화·게임·캐릭터가 여러 작품과 상품으로 확장되는 콘텐츠 브랜드. 사업 가맹점도 뜻함.
 
 ### [[apt#adaptation|adaptation]]
 
+- 발음: /ˌædəˈpteɪʃən/
 - 핵심 의미: 각색, 적응
 - 사용 맥락: `film adaptation`, `adaptation of a novel`
 - 주의: 소설, 만화, 게임 등을 영화나 드라마 등 다른 매체로 옮기는 것. 생물학에서는 적응.
 
 ### [[gen#genre|genre]]
 
+- 발음: /ˈʒɑnrə/
 - 핵심 의미: 장르
 - 사용 맥락: `literary genre`, `film genre`
 - 주의: 작품을 형식, 주제, 관습에 따라 나누는 범주. 발음은 프랑스어식에 가까움.
 
 ### [[narr#narrative|narrative]]
 
+- 발음: /ˈnærətɪv/
 - 핵심 의미: 서사, 이야기
 - 사용 맥락: `media narrative`, `dominant narrative`
 - 주의: 사건을 의미 있는 흐름으로 엮는 방식. 정치·사회 담론에서도 자주 쓰임.
 
 ### [[present#representation|representation]]
 
+- 발음: /ˌrɛprəzɛˈnteɪʃən/
 - 핵심 의미: 재현, 대표, 대의
 - 사용 맥락: `racial representation`, `media representation`
 - 주의: 미디어에서 특정 집단이 어떤 방식으로 보이고 말해지는지. 정치에서는 대표.
 
 ### [[typ#stereotype|stereotype]]
 
+- 발음: /ˈstɛriəˌtaɪp/
 - 핵심 의미: 고정관념, 정형화된 이미지
 - 사용 맥락: `gender stereotype`, `racial stereotype`
 - 주의: 집단을 단순하고 반복적인 이미지로 묶어 표현하는 것. 차별과 연결될 수 있음.
@@ -162,6 +184,7 @@
 
 ### [[aud#audience|audience]]
 
+- 발음: /ˈɑdiəns/
 - 핵심 의미: 관객, 청중, 수용자
 - 사용 맥락: `target audience`, `mass audience`
 - 주의: 콘텐츠를 보는 사람들. 미디어 연구에서는 단순 소비자가 아니라 해석하는 주체로도 봄.
@@ -174,6 +197,7 @@
 
 ### celebrity
 
+- 발음: /səˈlɛbrɪti/
 - 핵심 의미: 유명인, 명성
 - 사용 맥락: `celebrity culture`, `celebrity endorsement`
 - 주의: 대중매체를 통해 널리 알려진 인물. 명성 자체를 뜻하기도 함.
@@ -186,12 +210,14 @@
 
 ### persona
 
+- 발음: /pɚˈsoʊnə/
 - 핵심 의미: 페르소나, 대중적 이미지
 - 사용 맥락: `public persona`, `online persona`
 - 주의: 실제 인물과 구분되는 사회적·미디어적 자아나 이미지.
 
 ### [[authent#authenticity|authenticity]]
 
+- 발음: /ˌɔθəˈntɪsɪti/
 - 핵심 의미: 진정성, 진품성
 - 사용 맥락: `perceived authenticity`, `authentic voice`
 - 주의: 대중문화에서는 꾸며진 이미지와 실제성 사이의 긴장과 연결됨.
@@ -206,36 +232,42 @@
 
 ### [[vers#advertising|advertising]]
 
+- 발음: /ˈædvɚˌtaɪzɪŋ/
 - 핵심 의미: 광고
 - 사용 맥락: `advertising campaign`, `digital advertising`
 - 주의: 상품, 서비스, 이미지, 정치 메시지를 홍보하는 활동.
 
 ### [[popul#publicity|publicity]]
 
+- 발음: /pəˈblɪsəti/
 - 핵심 의미: 홍보, 세간의 관심
 - 사용 맥락: `generate publicity`, `negative publicity`
 - 주의: 대중의 주목을 받는 상태나 그 주목을 만드는 활동.
 
 ### endorsement
 
+- 발음: /ɛˈndɔrsmənt/
 - 핵심 의미: 보증, 지지, 광고 출연
 - 사용 맥락: `celebrity endorsement`, `political endorsement`
 - 주의: 유명인이나 기관이 상품, 후보, 입장을 공개적으로 지지하는 것.
 
 ### branding
 
+- 발음: /ˈbrændɪŋ/
 - 핵심 의미: 브랜딩, 브랜드 구축
 - 사용 맥락: `personal branding`, `corporate branding`
 - 주의: 이름, 이미지, 가치, 감정을 결합해 인식과 충성도를 만드는 전략.
 
 ### consumerism
 
+- 발음: /kəˈnsumɚˌɪzəm/
 - 핵심 의미: 소비주의
 - 사용 맥락: `mass consumerism`, `consumerist culture`
 - 주의: 소비와 소유가 정체성, 행복, 사회적 지위와 연결되는 문화.
 
 ### [[merc#commercialization|commercialization]]
 
+- 발음: /kəˌmɝʃəlɪˈzeɪʃən/
 - 핵심 의미: 상업화
 - 사용 맥락: `commercialization of culture`, `commercialized media`
 - 주의: 문화, 예술, 스포츠, 일상 활동이 판매와 이윤 중심으로 바뀌는 과정.
@@ -250,42 +282,49 @@
 
 ### censorship
 
+- 발음: /ˈsɛnsɚˌʃɪp/
 - 핵심 의미: 검열
 - 사용 맥락: `government censorship`, `media censorship`
 - 주의: 정부, 기업, 플랫폼, 기관이 표현이나 정보 유통을 제한하는 것.
 
 ### [[propag#propaganda|propaganda]]
 
+- 발음: /ˌprɑpəˈgændə/
 - 핵심 의미: 선전, 선동성 정보
 - 사용 맥락: `political propaganda`, `wartime propaganda`
 - 주의: 특정 이념이나 권력을 지지하도록 대중의 인식을 조직적으로 조작하는 정보.
 
 ### sensationalism
 
+- 발음: /sɛˈnseɪʃənəˌlɪzəm/
 - 핵심 의미: 선정주의
 - 사용 맥락: `media sensationalism`, `sensationalist headlines`
 - 주의: 관심을 끌기 위해 폭력, 성, 공포, 분노를 과장하는 보도·콘텐츠 방식.
 
 ### bias
 
+- 발음: /ˈbaɪəs/
 - 핵심 의미: 편향, 편견
 - 사용 맥락: `media bias`, `algorithmic bias`
 - 주의: 정보 선택, 표현, 추천 과정에서 특정 관점이나 집단에 치우치는 것.
 
 ### [[ag#agenda|agenda]]
 
+- 발음: /əˈdʒɛndə/
 - 핵심 의미: 의제, 숨은 목적
 - 사용 맥락: `media agenda`, `political agenda`
 - 주의: 논의할 문제의 목록. 비판적으로는 숨은 의도라는 뜻도 가능.
 
 ### [[curr#discourse|discourse]]
 
+- 발음: /ˈdɪskɔrs/
 - 핵심 의미: 담론, 공식적 논의
 - 사용 맥락: `public discourse`, `media discourse`
 - 주의: 사회가 어떤 주제를 말하고 이해하는 방식. 단순한 대화보다 학술적 느낌이 강함.
 
 ### backlash
 
+- 발음: /ˈbæˌklæʃ/
 - 핵심 의미: 반발, 역풍
 - 사용 맥락: `public backlash`, `online backlash`
 - 주의: 어떤 발언, 작품, 정책, 광고에 대한 강한 부정적 반응.
@@ -294,42 +333,49 @@
 
 ### Hollywood
 
+- 발음: /ˈhɑliˌwʊd/
 - 핵심 의미: 할리우드, 미국 영화 산업의 상징
 - 사용 맥락: `Hollywood film industry`, `Hollywood stereotypes`
 - 주의: 실제 지명보다 미국 상업 영화 산업 전체를 가리키는 환유로 자주 쓰임.
 
 ### Bollywood
 
+- 발음: /ˈbɑˌliwʊd/
 - 핵심 의미: 볼리우드, 인도 힌디어 영화 산업
 - 사용 맥락: `Bollywood musicals`, `Bollywood cinema`
 - 주의: 인도 영화 전체와 동일하지는 않지만, 국제 지문에서 인도 대중영화의 대표 이름으로 자주 등장.
 
 ### BBC
 
+- 발음: /ˌbibiˈsi/
 - 핵심 의미: 영국 공영방송
 - 사용 맥락: `BBC news coverage`, `public broadcasting`
 - 주의: `British Broadcasting Corporation`. 공영방송, 언론 신뢰, 국제 뉴스와 연결됨.
 
 ### CNN
 
+- 발음: /ˈsiˈɛˈnɛn/
 - 핵심 의미: 미국 24시간 뉴스 채널
 - 사용 맥락: `CNN effect`, `cable news`
 - 주의: 케이블 뉴스와 실시간 국제 뉴스 보도의 상징으로 언급될 수 있음.
 
 ### Disney
 
+- 발음: /ˈdɪzni/
 - 핵심 의미: 디즈니, 글로벌 엔터테인먼트 기업
 - 사용 맥락: `Disney franchise`, `Disney animation`
 - 주의: 애니메이션, 캐릭터 산업, 프랜차이즈, 가족 오락의 대표 사례.
 
 ### Netflix
 
+- 발음: /ˈnɛtflɪks/
 - 핵심 의미: 넷플릭스, 스트리밍 플랫폼
 - 사용 맥락: `Netflix series`, `streaming platform`
 - 주의: 방송 편성 중심에서 주문형 스트리밍 소비로 바뀐 미디어 변화를 보여주는 사례.
 
 ### YouTube
 
+- 발음: /ˈjuˌtjub/
 - 핵심 의미: 유튜브, 동영상 플랫폼
 - 사용 맥락: `YouTube creators`, `YouTube algorithm`
 - 주의: 사용자 제작 콘텐츠, 크리에이터 경제, 추천 알고리즘과 연결됨.

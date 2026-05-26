@@ -10,6 +10,7 @@
 
 ### lucid
 
+- 발음: /ˈlusəd/
 - 구성: Latin `lucidus` = bright
 - 뜻: 명료한, 또렷한
 - 어원적 연결: 빛이 비쳐 분명하게 보임
@@ -17,6 +18,7 @@
 
 ### elucidate
 
+- 발음: /ɪˈlusəˌdeɪt/
 - 구성: `e-` = out + Latin `lucidus`
 - 뜻: 설명하다, 밝히다
 - 어원적 연결: 어두운 것을 밝게 드러냄
@@ -24,6 +26,7 @@
 
 ### translucent
 
+- 발음: /træˈnslusənt/
 - 구성: `trans-` = through + Latin `lucere`
 - 뜻: 반투명의
 - 어원적 연결: 빛이 통과함
@@ -31,6 +34,7 @@
 
 ### illuminate
 
+- 발음: /ˌɪˈlumɪnɪt/
 - 구성: `in-` = into + Latin `lumen` = light
 - 뜻: 비추다, 밝히다
 - 어원적 연결: 빛을 넣어 밝게 함
@@ -38,6 +42,7 @@
 
 ### luminous
 
+- 발음: /ˈlumənəs/
 - 구성: Latin `lumen`
 - 뜻: 빛나는, 선명한
 - 어원적 연결: 빛을 내는 성질
@@ -45,6 +50,7 @@
 
 ### luminary
 
+- 발음: /ˈluməˌnɛri/
 - 구성: Latin `lumen`
 - 뜻: 발광체, 저명인사
 - 어원적 연결: 빛을 내는 존재에서 뛰어난 사람으로 확장

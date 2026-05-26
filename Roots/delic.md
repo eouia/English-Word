@@ -20,6 +20,7 @@
 
 ### delicate
 
+- 발음: /ˈdɛləkət/
 - 구성: Latin `delicatus` = delightful, dainty
 - 뜻: 섬세한, 연약한, 미묘한; 조심스러운
 - 어원적 연결: 기분 좋게 끌리지만 쉽게 상할 만큼 섬세함
@@ -27,6 +28,7 @@
 
 ### delicacy
 
+- 발음: /ˈdɛləkəsi/
 - 구성: `delicate` + `-cy`
 - 뜻: 섬세함, 민감함; 진미
 - 어원적 연결: 섬세한 성질 또는 특별히 즐거움을 주는 음식
@@ -34,6 +36,7 @@
 
 ### delicious
 
+- 발음: /dɪˈlɪʃəs/
 - 구성: Latin `deliciosus` = delightful, pleasing
 - 뜻: 맛있는, 매우 즐거운
 - 어원적 연결: 감각에 즐거움을 주는 맛
@@ -41,6 +44,7 @@
 
 ### deliciously
 
+- 발음: /dɪˈlɪʃəʃli/
 - 구성: `delicious` + `-ly`
 - 뜻: 맛있게, 기분 좋게
 - 어원적 연결: 즐거움을 주는 방식
@@ -48,6 +52,7 @@
 
 ### delicatessen
 
+- 발음: /ˌdɛlɪkəˈtɛsən/
 - 구성: German `Delikatessen` ← French/Latin `delicate` 계열
 - 뜻: 고급 식료품점, 조리 식품점; 조리 식품
 - 어원적 연결: 섬세하고 맛있는 음식, 진미를 파는 곳
@@ -55,6 +60,7 @@
 
 ### delectable
 
+- 발음: /dɪˈlɛktəbəl/
 - 구성: Latin `delectare` = delight, charm + `-able`
 - 뜻: 맛있는, 즐거운
 - 어원적 연결: 감각이나 마음을 즐겁게 하는 성질

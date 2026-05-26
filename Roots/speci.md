@@ -18,6 +18,7 @@
 
 ### species
 
+- 발음: /ˈspiʃiz/
 - 구성: Latin `species` ← `specere`
 - 뜻: 종, 종류
 - 어원적 연결: 보이는 특징으로 구별되는 부류
@@ -25,6 +26,7 @@
 
 ### specific
 
+- 발음: /spəˈsɪfɪk/
 - 구성: Late Latin `specificus` = species-making
 - 뜻: 특정한, 구체적인
 - 어원적 연결: 한 종류나 경우를 분명히 구별함
@@ -32,6 +34,7 @@
 
 ### specifically
 
+- 발음: /spəˈsɪfɪkli/
 - 구성: `specific` + `-ally`
 - 뜻: 구체적으로, 특별히
 - 어원적 연결: 특정 종류나 항목을 집어 말함
@@ -39,6 +42,7 @@
 
 ### specify
 
+- 발음: /ˈspɛsəˌfaɪ/
 - 구성: `species` + [[fac]] = make
 - 뜻: 명시하다, 구체적으로 말하다
 - 어원적 연결: 특정한 종류나 조건으로 만들어 구분함
@@ -46,6 +50,7 @@
 
 ### specification
 
+- 발음: /ˌspɛsɪfɪˈkeɪʃən/
 - 구성: `specify` + `-ation`
 - 뜻: 명세, 사양
 - 어원적 연결: 특정 조건을 분명히 적은 것
@@ -53,6 +58,7 @@
 
 ### special
 
+- 발음: /ˈspɛʃəl/
 - 구성: Latin `specialis` ← `species`
 - 뜻: 특별한, 특수한
 - 어원적 연결: 일반적인 것과 구별되는 특정 종류
@@ -60,6 +66,7 @@
 
 ### specialist
 
+- 발음: /ˈspɛʃələst/
 - 구성: `special` + `-ist`
 - 뜻: 전문가
 - 어원적 연결: 특정 분야에 집중한 사람
@@ -67,6 +74,7 @@
 
 ### specialize
 
+- 발음: /ˈspɛʃəˌlaɪz/
 - 구성: `special` + `-ize`
 - 뜻: 전문화하다, 전공하다
 - 어원적 연결: 특정 분야로 좁혀 들어감
@@ -74,6 +82,7 @@
 
 ### specialty
 
+- 발음: /ˈspɛʃəlti/
 - 구성: `special` + `-ty`
 - 뜻: 전문 분야, 특산품
 - 어원적 연결: 특정하게 구별되는 분야나 물건
@@ -81,6 +90,7 @@
 
 ### specimen
 
+- 발음: /ˈspɛsəmən/
 - 구성: Latin `specimen` = mark, example, means of knowing
 - 뜻: 표본, 견본
 - 어원적 연결: 보고 그 종류를 알 수 있는 예
@@ -88,6 +98,7 @@
 
 ### specious
 
+- 발음: /ˈspiʃəs/
 - 구성: Latin `speciosus` = beautiful, showy
 - 뜻: 그럴듯하지만 거짓인, 외양만 그럴듯한
 - 어원적 연결: 보이는 모습은 좋아 보이나 실제와 다름

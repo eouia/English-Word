@@ -21,6 +21,7 @@
 
 ### critical
 
+- 발음: /ˈkrɪtɪkəl/
 - 구성: Greek `kritikos` = able to judge + `-al`
 - 뜻: 비판적인, 평가적인; 중대한, 결정적인
 - 어원적 연결: 어떤 대상을 판단하거나, 결과가 갈리는 지점을 가리킴
@@ -28,6 +29,7 @@
 
 ### critic
 
+- 발음: /ˈkrɪtɪk/
 - 구성: Greek `kritikos` = judge, critic
 - 뜻: 비평가, 평론가; 비판하는 사람
 - 어원적 연결: 작품이나 행동을 살펴 판단하는 사람
@@ -35,6 +37,7 @@
 
 ### criticism
 
+- 발음: /ˈkrɪtɪˌsɪzəm/
 - 구성: `critic` + `-ism`
 - 뜻: 비판, 비평
 - 어원적 연결: 좋고 나쁨을 갈라 판단하는 말이나 글
@@ -42,6 +45,7 @@
 
 ### criticize
 
+- 발음: /ˈkrɪtɪˌsaɪz/
 - 구성: `critic` + `-ize`
 - 뜻: 비판하다, 비평하다
 - 어원적 연결: 대상을 평가해 문제점이나 가치를 판단함
@@ -49,6 +53,7 @@
 
 ### critique
 
+- 발음: /krəˈtik/
 - 구성: French `critique` ← Greek `kritikos`
 - 뜻: 비평, 평론; 비평하다
 - 어원적 연결: 단순 비난보다 분석적 판단의 느낌
@@ -56,6 +61,7 @@
 
 ### criterion
 
+- 발음: /kraɪˈtɪriən/
 - 구성: Greek `kriterion` = means for judging
 - 뜻: 기준, 판단 기준
 - 어원적 연결: 무엇을 판단할 때 쓰는 잣대
@@ -63,6 +69,7 @@
 
 ### criteria
 
+- 발음: /kraɪˈtɪriə/
 - 구성: plural of `criterion`
 - 뜻: 기준들
 - 어원적 연결: 여러 판단 기준
@@ -70,6 +77,7 @@
 
 ### crisis
 
+- 발음: /ˈkraɪsəs/
 - 구성: Greek `krisis` = decision, turning point
 - 뜻: 위기, 중대한 고비
 - 어원적 연결: 결과가 어느 쪽으로 갈릴지 판단·결정되는 지점
@@ -77,6 +85,7 @@
 
 ### hypocrisy
 
+- 발음: /hɪˈpɑkrəsi/
 - 구성: Greek `hypokrisis` = answer, stage acting, pretense
 - 뜻: 위선
 - 어원적 연결: 원래는 응답·해석·연기와 연결. 현대 의미는 겉과 속이 다른 꾸민 태도

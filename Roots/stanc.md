@@ -20,6 +20,7 @@
 
 ### instance
 
+- 발음: /ˈɪnstəns/
 - 구성: Latin `instantia` ← `instare`
 - 뜻: 사례, 경우, 예
 - 어원적 연결: 앞에 서서 제시되는 구체적 경우
@@ -27,6 +28,7 @@
 
 ### instant
 
+- 발음: /ˈɪnstənt/
 - 구성: Latin `instans` = standing near, urgent
 - 뜻: 즉각적인, 순간
 - 어원적 연결: 바로 곁에 서 있는 것 → 눈앞에 닥친 것
@@ -34,6 +36,7 @@
 
 ### instantly
 
+- 발음: /ˈɪnstəntli/
 - 구성: `instant` + `-ly`
 - 뜻: 즉시, 곧바로
 - 어원적 연결: 바로 눈앞에 닥친 순간에
@@ -41,6 +44,7 @@
 
 ### instantiate
 
+- 발음: /ˌɪˈnstænʃiˌeɪt/
 - 구성: `instance` + `-ate`
 - 뜻: 예를 들다; 인스턴스를 만들다
 - 어원적 연결: 추상적 개념을 구체적 사례로 세워 보임
@@ -48,6 +52,7 @@
 
 ### instantiation
 
+- 발음: /ˌɪˌnstænʃiˈeɪʃən/
 - 구성: `instantiate` + `-ion`
 - 뜻: 예시화, 인스턴스화
 - 어원적 연결: 구체적 사례로 서게 만드는 과정
@@ -55,6 +60,7 @@
 
 ### stance
 
+- 발음: /ˈstæns/
 - 구성: Latin `stantia` = standing place
 - 뜻: 자세, 입장
 - 어원적 연결: 어디에 어떻게 서 있는가
@@ -62,6 +68,7 @@
 
 ### distance
 
+- 발음: /ˈdɪstəns/
 - 구성: Latin `dis-` = apart + `stare`
 - 뜻: 거리, 간격
 - 어원적 연결: 떨어져 서 있음
@@ -69,6 +76,7 @@
 
 ### distant
 
+- 발음: /ˈdɪstənt/
 - 구성: `distance` 계열
 - 뜻: 먼, 거리를 둔
 - 어원적 연결: 떨어져 서 있는 상태
@@ -76,6 +84,7 @@
 
 ### constant
 
+- 발음: /ˈkɑnstənt/
 - 구성: Latin `con-` = together, firmly + `stare`
 - 뜻: 일정한, 끊임없는
 - 어원적 연결: 단단히 함께 서 있어 변하지 않음
@@ -83,6 +92,7 @@
 
 ### constancy
 
+- 발음: /ˈkɑnstənsi/
 - 구성: `constant` + `-cy`
 - 뜻: 지속성, 변함없음, 충실함
 - 어원적 연결: 흔들리지 않고 계속 서 있음
@@ -90,6 +100,7 @@
 
 ### substance
 
+- 발음: /ˈsʌbstəns/
 - 구성: Latin `sub-` = under + `stare`
 - 뜻: 물질, 본질, 내용
 - 어원적 연결: 아래에 서서 받치는 것 → 실제 바탕
@@ -97,6 +108,7 @@
 
 ### substantial
 
+- 발음: /səˈbstænʃəl/
 - 구성: `substance` + `-al`
 - 뜻: 상당한, 실질적인
 - 어원적 연결: 실체와 바탕이 충분히 있음
@@ -104,6 +116,7 @@
 
 ### circumstance
 
+- 발음: /ˈsɝkəˌmstæns/
 - 구성: Latin `circum` = around + `stare`
 - 뜻: 상황, 정황
 - 어원적 연결: 어떤 일 주변에 서 있는 조건들

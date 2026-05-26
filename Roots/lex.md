@@ -20,6 +20,7 @@
 
 ### lexicon
 
+- 발음: /ˈlɛksɪˌkɑn/
 - 구성: Greek `lexikon`
 - 뜻: 어휘 목록, 사전, 전문 용어 체계
 - 어원적 연결: 단어를 모아 둔 목록
@@ -27,6 +28,7 @@
 
 ### lexical
 
+- 발음: /ˈlɛksɪkəl/
 - 구성: `lexicon` + `-al`
 - 뜻: 어휘의, 단어의
 - 어원적 연결: 문법보다 단어 자체와 관련됨
@@ -41,6 +43,7 @@
 
 ### lexicographer
 
+- 발음: /ˌlɛksɪˈkɑgrəfɚ/
 - 구성: `lexicography` + `-er`
 - 뜻: 사전 편찬자
 - 어원적 연결: 단어 목록을 정리하고 설명하는 사람
@@ -55,6 +58,7 @@
 
 ### dyslexia
 
+- 발음: /dɪˈslɛksiə/
 - 구성: `dys-` = difficult + Greek `lexis` = word
 - 뜻: 난독증
 - 어원적 연결: 단어를 읽고 처리하는 데 어려움이 있음

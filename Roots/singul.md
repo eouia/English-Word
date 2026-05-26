@@ -18,6 +18,7 @@
 
 ### single
 
+- 발음: /ˈsɪŋgəl/
 - 구성: Latin `singulus` = one each
 - 뜻: 하나의, 단일의, 미혼의
 - 어원적 연결: 한 개씩 따로 있는 상태
@@ -25,6 +26,7 @@
 
 ### singular
 
+- 발음: /ˈsɪŋgjəlɚ/
 - 구성: Latin `singularis` = single, individual
 - 뜻: 단수의, 특이한, 두드러진
 - 어원적 연결: 하나로 따로 구별됨
@@ -32,6 +34,7 @@
 
 ### singularity
 
+- 발음: /ˈsɪŋgjəˈlɛrəti/
 - 구성: `singular` + `-ity`
 - 뜻: 특이점, 단일성, 특이함
 - 어원적 연결: 다른 것과 구별되는 하나의 특별한 상태
@@ -39,6 +42,7 @@
 
 ### singly
 
+- 발음: /ˈsɪŋgli/
 - 구성: `single` + `-ly`
 - 뜻: 하나씩, 단독으로
 - 어원적 연결: 여럿이 아니라 한 개씩 따로
@@ -46,6 +50,7 @@
 
 ### single-handed
 
+- 발음: /ˈsɪŋgəˈlhændɪd/
 - 구성: `single` + `handed`
 - 뜻: 혼자 힘으로 한, 단독의
 - 어원적 연결: 한 사람의 손으로 해냄

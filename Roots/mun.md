@@ -19,6 +19,7 @@
 
 ### immune
 
+- 발음: /ˌɪˈmjun/
 - 구성: Latin `immunis` ← `in-` = not + `munis` = obligated, serving
 - 뜻: 면역의, 영향을 받지 않는; 면제된
 - 어원적 연결: 의무나 부담에서 벗어난 상태가 질병·공격의 영향에서 보호된 상태로 확장
@@ -26,6 +27,7 @@
 
 ### immunity
 
+- 발음: /ˌɪˈmjunəti/
 - 구성: `immune` + `-ity`
 - 뜻: 면역, 면책, 면제
 - 어원적 연결: 질병·처벌·의무의 영향에서 벗어난 상태
@@ -33,6 +35,7 @@
 
 ### immunize
 
+- 발음: /ˈɪmjuˌnaɪz/
 - 구성: `immune` + `-ize`
 - 뜻: 면역이 생기게 하다, 예방 접종하다
 - 어원적 연결: 질병의 영향에서 보호된 상태로 만듦
@@ -40,6 +43,7 @@
 
 ### immunization
 
+- 발음: /ˌɪmjunəˈzeɪʃən/
 - 구성: `immunize` + `-ation`
 - 뜻: 면역화, 예방 접종
 - 어원적 연결: 질병의 영향에서 벗어나도록 만드는 과정
@@ -47,6 +51,7 @@
 
 ### autoimmune
 
+- 발음: /ˌɔˈtɔɪmjun/
 - 구성: `auto-` = self + `immune`
 - 뜻: 자가면역의
 - 어원적 연결: 면역 체계가 자기 몸을 대상으로 반응함
@@ -54,6 +59,7 @@
 
 ### commune
 
+- 발음: /ˈkɑmjun/
 - 구성: Latin `communis` ← `com-` = together + `munis`
 - 뜻: 공동체; 친밀하게 교감하다
 - 어원적 연결: 의무와 자원을 함께 나누는 집단
@@ -61,6 +67,7 @@
 
 ### communal
 
+- 발음: /kəˈmjunəl/
 - 구성: `commune` + `-al`
 - 뜻: 공동의, 공동체의
 - 어원적 연결: 공동체가 함께 나누고 맡는 성질
@@ -68,6 +75,7 @@
 
 ### municipal
 
+- 발음: /mjuˈnɪsəpəl/
 - 구성: Latin `municipium` ← `munus` = duty + `capere` = take
 - 뜻: 지방 자치의, 시의
 - 어원적 연결: 공적 의무를 맡은 시민 공동체와 관련됨
@@ -75,6 +83,7 @@
 
 ### remuneration
 
+- 발음: /rɪˌmjunɚˈeɪʃən/
 - 구성: Latin `remunerari` = reward, repay
 - 뜻: 보수, 급료, 보상
 - 어원적 연결: 봉사나 의무 수행에 대한 되돌려 주는 선물·보상

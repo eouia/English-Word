@@ -19,6 +19,7 @@
 
 ### chart
 
+- 발음: /ˈtʃɑrt/
 - 구성: Latin `charta/carta` = paper, document
 - 뜻: 차트, 도표; 해도, 지도; 기록하다
 - 어원적 연결: 종이에 정보를 표시한 것
@@ -26,6 +27,7 @@
 
 ### charter
 
+- 발음: /ˈtʃɑrtɚ/
 - 구성: Old French `charte` = document + `-er`
 - 뜻: 헌장, 인가장; 전세 내다
 - 어원적 연결: 권리나 허가를 적어 둔 공식 문서
@@ -63,6 +65,7 @@
 
 ### card
 
+- 발음: /ˈkɑrd/
 - 구성: Old French `carte` = card, map, document
 - 뜻: 카드, 표, 명함
 - 어원적 연결: 작은 종이 조각에 정보나 표시를 담음
@@ -70,6 +73,7 @@
 
 ### postcard
 
+- 발음: /ˈpoʊˌstkɑrd/
 - 구성: `post` + `card`
 - 뜻: 엽서
 - 어원적 연결: 우편으로 보내는 작은 종이 카드
@@ -77,6 +81,7 @@
 
 ### discard
 
+- 발음: /dɪˈskɑrd/
 - 구성: `dis-` + `card`
 - 뜻: 버리다, 폐기하다
 - 어원적 연결: 카드놀이에서 필요 없는 카드를 버리는 데서 확장
@@ -84,6 +89,7 @@
 
 ### carton
 
+- 발음: /ˈkɑrtən/
 - 구성: French `carton` ← Italian `cartone` = pasteboard
 - 뜻: 종이상자, 판지 상자
 - 어원적 연결: 두꺼운 종이로 만든 용기
@@ -91,6 +97,7 @@
 
 ### cartoon
 
+- 발음: /kɑˈrtun/
 - 구성: Italian `cartone` = large sheet of paper
 - 뜻: 만화; 풍자 그림
 - 어원적 연결: 원래는 큰 종이에 그린 밑그림

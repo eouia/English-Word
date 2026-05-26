@@ -19,6 +19,7 @@
 
 ### experiment
 
+- 발음: /ɪˈkspɛrəmənt/
 - 구성: Latin `experimentum` ← `experiri` = try, test
 - 뜻: 실험, 시험; 실험하다
 - 어원적 연결: 직접 시도해 보고 결과로 판단함
@@ -26,6 +27,7 @@
 
 ### experimental
 
+- 발음: /ɪˌkspɛrɪˈmɛntəl/
 - 구성: `experiment` + `-al`
 - 뜻: 실험의, 실험적인
 - 어원적 연결: 아직 확정하지 않고 시험해 보는 성질
@@ -33,6 +35,7 @@
 
 ### experimentation
 
+- 발음: /ɪˌkspɛrəməˈnteɪʃən/
 - 구성: `experiment` + `-ation`
 - 뜻: 실험, 실험 과정
 - 어원적 연결: 여러 방식으로 시험해 보는 과정
@@ -40,6 +43,7 @@
 
 ### experience
 
+- 발음: /ɪˈkspɪriəns/
 - 구성: Old French `experience` ← Latin `experientia` < `experiri`
 - 뜻: 경험, 체험; 경험하다
 - 어원적 연결: 직접 시험하고 겪어 알게 된 것
@@ -47,6 +51,7 @@
 
 ### experienced
 
+- 발음: /ɪˈkspɪriənst/
 - 구성: `experience` + `-ed`
 - 뜻: 경험 많은, 숙련된
 - 어원적 연결: 여러 번 겪고 시험해 보아 능숙해진 상태
@@ -54,6 +59,7 @@
 
 ### expert
 
+- 발음: /ˈɛkspɚt/
 - 구성: Latin `expertus` = tried, proved, experienced
 - 뜻: 전문가, 숙련가; 전문적인
 - 어원적 연결: 직접 시험과 경험을 거쳐 검증된 사람
@@ -61,6 +67,7 @@
 
 ### expertise
 
+- 발음: /ˌɛkspɚˈtiz/
 - 구성: `expert` + `-ise`
 - 뜻: 전문 지식, 전문 기술
 - 어원적 연결: 경험으로 검증된 숙련 능력
@@ -75,6 +82,7 @@
 
 ### peril
 
+- 발음: /ˈpɛrəl/
 - 구성: Latin `periculum` = trial, risk, danger
 - 뜻: 위험, 위기
 - 어원적 연결: 시험해 보는 상황이 곧 위험을 감수하는 일이 됨

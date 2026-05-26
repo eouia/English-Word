@@ -19,6 +19,7 @@
 
 ### army
 
+- 발음: /ˈɑrmi/
 - 구성: Old French `armee` ← Latin `armata` = armed force
 - 뜻: 군대, 육군, 대군
 - 어원적 연결: 무기를 갖춘 집단
@@ -26,6 +27,7 @@
 
 ### arm
 
+- 발음: /ˈɑrm/
 - 구성: Latin/French `armer` 계열
 - 뜻: 무장시키다, 무기
 - 어원적 연결: 무기를 갖추게 함
@@ -33,6 +35,7 @@
 
 ### arms
 
+- 발음: /ˈɑrmz/
 - 구성: Latin `arma` = weapons
 - 뜻: 무기, 병기
 - 어원적 연결: 전투에 쓰는 장비
@@ -40,6 +43,7 @@
 
 ### armed
 
+- 발음: /ˈɑrmd/
 - 구성: `arm` + `-ed`
 - 뜻: 무장한
 - 어원적 연결: 무기를 갖춘 상태
@@ -47,6 +51,7 @@
 
 ### armor
 
+- 발음: /ˈɑrmɚ/
 - 구성: Old French `armure` ← Latin `armatura`
 - 뜻: 갑옷, 장갑, 방호 장비
 - 어원적 연결: 무장과 방어 장비
@@ -54,6 +59,7 @@
 
 ### armory
 
+- 발음: /ˈɑrmɚi/
 - 구성: `armor/arms` 계열 + `-y`
 - 뜻: 무기고
 - 어원적 연결: 무기를 보관하는 곳
@@ -61,6 +67,7 @@
 
 ### armament
 
+- 발음: /ˈɑrməmənt/
 - 구성: `arm` + `-ament`
 - 뜻: 군비, 무장, 무기 체계
 - 어원적 연결: 무장을 위한 장비 전체
@@ -68,6 +75,7 @@
 
 ### disarm
 
+- 발음: /dɪˈsɑrm/
 - 구성: `dis-` = remove, away + `arm`
 - 뜻: 무장을 해제하다, 경계심을 풀게 하다
 - 어원적 연결: 무기를 빼앗거나 내려놓게 함
@@ -75,6 +83,7 @@
 
 ### disarmament
 
+- 발음: /dɪˈsɑrməmənt/
 - 구성: `disarm` + `-ament`
 - 뜻: 군축, 무장 해제
 - 어원적 연결: 무기 체계를 줄이거나 없앰
@@ -82,6 +91,7 @@
 
 ### armistice
 
+- 발음: /ˈɑrməstəs/
 - 구성: Latin `arma` = weapons + `-stitium` = stopping
 - 뜻: 휴전
 - 어원적 연결: 무기를 멈춤

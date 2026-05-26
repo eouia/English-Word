@@ -20,6 +20,7 @@
 
 ### earnest
 
+- 발음: /ˈɝnɪst/
 - 구성: Old English `eornost` = seriousness
 - 뜻: 진지한, 성실한, 진심 어린
 - 어원적 연결: 가볍게 장난하지 않고 마음을 다해 임함
@@ -34,6 +35,7 @@
 
 ### earnestly
 
+- 발음: /ˈɝnəstli/
 - 구성: `earnest` + `-ly`
 - 뜻: 진지하게, 간절히
 - 어원적 연결: 진심을 담아 하는 방식
@@ -41,6 +43,7 @@
 
 ### earnestness
 
+- 발음: /ˈɝnəstnəs/
 - 구성: `earnest` + `-ness`
 - 뜻: 진지함, 성실함
 - 어원적 연결: 마음이 가볍지 않고 진심인 상태

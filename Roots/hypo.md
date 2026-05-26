@@ -17,6 +17,7 @@
 
 ### hypo
 
+- 발음: /ˈhaɪpoʊ/
 - 구성: Greek `hypo` = under, beneath
 - 뜻: 아래에, 밑에; 부족하게, 낮게
 - 연결: 위치가 아래이거나 기준치보다 낮음
@@ -24,6 +25,7 @@
 
 ### hypothesis
 
+- 발음: /haɪˈpɑθəsəs/
 - 구성: `hypo-` = under + `thesis` = placing
 - 뜻: 가설, 가정
 - 연결: 논의나 실험 밑에 임시로 놓아 두는 전제
@@ -31,6 +33,7 @@
 
 ### hypothetical
 
+- 발음: /ˌhaɪpəˈθɛtəkəl/
 - 구성: `hypothesis` + `-ical`
 - 뜻: 가상의, 가정의, 가설적인
 - 연결: 실제 확정이 아니라 밑에 깔아 둔 전제에 따른 것
@@ -38,6 +41,7 @@
 
 ### hypodermic
 
+- 발음: /ˌhaɪpəˈdɝmɪk/
 - 구성: `hypo-` = under + `derm` = skin
 - 뜻: 피하의, 피하 주사용의
 - 연결: 피부 아래로 들어감
@@ -52,6 +56,7 @@
 
 ### hypothermia
 
+- 발음: /ˌhaɪpəˈθɝmiə/
 - 구성: `hypo-` = low + Greek `therme` = heat
 - 뜻: 저체온증
 - 연결: 몸의 열이 정상보다 낮아진 상태
@@ -59,6 +64,7 @@
 
 ### hypoglycemia
 
+- 발음: /ˌhaɪpoʊglaɪˈsimiə/
 - 구성: `hypo-` = low + `glyc` = sugar + `-emia` = blood condition
 - 뜻: 저혈당
 - 연결: 혈당이 정상보다 낮은 상태
@@ -66,6 +72,7 @@
 
 ### hypotension
 
+- 발음: /ˌhaɪpoʊˈtɛnʃən/
 - 구성: `hypo-` = low + `tension`
 - 뜻: 저혈압
 - 연결: 혈압의 압력이 정상보다 낮음
@@ -73,6 +80,7 @@
 
 ### hypoxia
 
+- 발음: /haɪˈpɑksiə/
 - 구성: `hypo-` = low + `ox` = oxygen + `-ia`
 - 뜻: 저산소증
 - 연결: 조직에 산소가 부족한 상태
@@ -80,6 +88,7 @@
 
 ### hypochondria
 
+- 발음: /ˌhaɪpəˈkɑndriə/
 - 구성: Greek `hypo-` = under + `chondros` = cartilage
 - 뜻: 건강염려증
 - 연결: 원래는 갈비뼈 연골 아래 부위의 병으로 여긴 데서 출발

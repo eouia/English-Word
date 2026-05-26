@@ -9,6 +9,7 @@
 
 ### chronology
 
+- 발음: /krəˈnɑlədʒi/
 - 구성: `chronos` = time + [[logos]] = study
 - 뜻: 연대기, 연대순 배열
 - 어원적 연결: 시간 순서를 따져 설명함
@@ -16,6 +17,7 @@
 
 ### chronological
 
+- 발음: /ˌkrɑnəˈlɑdʒɪkəl/
 - 구성: `chronology` + `-ical`
 - 뜻: 연대순의
 - 어원적 연결: 시간 순서대로 배열됨
@@ -23,6 +25,7 @@
 
 ### chronic
 
+- 발음: /ˈkrɑnɪk/
 - 구성: Greek `chronos`
 - 뜻: 만성적인, 오래 지속되는
 - 어원적 연결: 오랜 시간 계속됨
@@ -30,6 +33,7 @@
 
 ### chronicle
 
+- 발음: /ˈkrɑnɪkəl/
 - 구성: Greek `chronos`
 - 뜻: 연대기, 기록하다
 - 어원적 연결: 시간 순서에 따라 사건을 기록함
@@ -37,6 +41,7 @@
 
 ### synchronize
 
+- 발음: /ˈsɪŋkrəˌnaɪz/
 - 구성: `syn-` = together + `chronos`
 - 뜻: 동시에 맞추다, 동기화하다
 - 어원적 연결: 시간을 함께 맞춤
@@ -44,6 +49,7 @@
 
 ### anachronism
 
+- 발음: /əˈnækrəˌnɪzəm/
 - 구성: `ana-` = back, against + `chronos`
 - 뜻: 시대착오
 - 어원적 연결: 시간 위치가 맞지 않음

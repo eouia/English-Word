@@ -19,6 +19,7 @@
 
 ### morphology
 
+- 발음: /mɔˈrfɑlədʒi/
 - 구성: `morpho-` = form + [[logos]] = study
 - 뜻: 형태론, 형태학
 - 어원적 연결: 형태와 구조를 연구함
@@ -26,6 +27,7 @@
 
 ### metamorphosis
 
+- 발음: /ˌmɛtəˈmɔrfəsəs/
 - 구성: `meta-` = change + `morphe` = form
 - 뜻: 변태, 변형, 탈바꿈
 - 어원적 연결: 형태가 크게 바뀜
@@ -33,6 +35,7 @@
 
 ### amorphous
 
+- 발음: /əˈmɔrfəs/
 - 구성: `a-` = without + `morphe`
 - 뜻: 무정형의, 형태가 뚜렷하지 않은
 - 어원적 연결: 분명한 형태가 없음
@@ -47,6 +50,7 @@
 
 ### anthropomorphic
 
+- 발음: /ˌænθrəpəˈmɔrfɪk/
 - 구성: Greek `anthropos` = human + `morphe`
 - 뜻: 의인화된, 인간 형태의
 - 어원적 연결: 인간의 형태를 가짐
@@ -54,6 +58,7 @@
 
 ### polymorphic
 
+- 발음: /ˌpɑˌliˈmɔrfɪk/
 - 구성: `poly-` = many + `morphe`
 - 뜻: 다형의
 - 어원적 연결: 여러 형태를 가짐

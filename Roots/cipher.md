@@ -27,6 +27,7 @@
 
 ### decipher
 
+- 발음: /dɪˈsaɪfɚ/
 - 구성: `de-` = undo, remove + `cipher`
 - 뜻: 해독하다, 판독하다
 - 어원적 연결: 암호나 읽기 어려운 기호를 풀어 의미를 드러냄
@@ -48,6 +49,7 @@
 
 ### cipher
 
+- 발음: /ˈsaɪfɚ/
 - 구성: Old French `cifre` ← Arabic `sifr` = zero, empty
 - 뜻: 암호, 암호 체계; 0; 하찮은 사람
 - 어원적 연결: 0이라는 낯선 기호에서 숫자·기호 체계, 나아가 비밀 기호 체계로 확장
@@ -62,6 +64,7 @@
 
 ### zero
 
+- 발음: /ˈzɪroʊ/
 - 구성: Italian `zero` ← Medieval Latin `zephirum` ← Arabic `sifr`
 - 뜻: 0, 영
 - 어원적 연결: `cipher`와 같은 Arabic `sifr`에서 온 이중어

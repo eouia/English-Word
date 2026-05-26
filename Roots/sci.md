@@ -20,6 +20,7 @@
 
 ### science
 
+- 발음: /ˈsaɪəns/
 - 구성: Latin `scientia` = knowledge
 - 뜻: 과학, 체계적 지식
 - 어원적 연결: 알고 있는 내용을 체계로 정리한 지식
@@ -27,6 +28,7 @@
 
 ### scientific
 
+- 발음: /ˌsaɪəˈntɪfɪk/
 - 구성: `science` + `-ific`
 - 뜻: 과학의, 과학적인
 - 어원적 연결: 지식을 검증하고 체계화하는 방식
@@ -34,6 +36,7 @@
 
 ### scientist
 
+- 발음: /ˈsaɪəntɪst/
 - 구성: `science` + `-ist`
 - 뜻: 과학자
 - 어원적 연결: 체계적 지식을 탐구하는 사람
@@ -41,6 +44,7 @@
 
 ### scientifically
 
+- 발음: /ˌsaɪəˈntɪfɪkəli/
 - 구성: `scientific` + `-ally`
 - 뜻: 과학적으로
 - 어원적 연결: 검증 가능한 지식의 방식으로
@@ -48,6 +52,7 @@
 
 ### conscious
 
+- 발음: /ˈkɑnʃəs/
 - 구성: Latin `con-` = with, together + `scire` = know
 - 뜻: 의식하고 있는, 의식이 있는
 - 어원적 연결: 스스로 또는 함께 알고 있는 상태
@@ -55,6 +60,7 @@
 
 ### consciousness
 
+- 발음: /ˈkɑnʃəsnəs/
 - 구성: `conscious` + `-ness`
 - 뜻: 의식, 자각
 - 어원적 연결: 알고 있음을 느끼는 정신 상태
@@ -62,6 +68,7 @@
 
 ### subconscious
 
+- 발음: /səˈbkɑnʃəs/
 - 구성: `sub-` = under + `conscious`
 - 뜻: 잠재의식의, 어렴풋이 의식하는
 - 어원적 연결: 뚜렷한 의식 아래에 있는 앎
@@ -69,6 +76,7 @@
 
 ### conscience
 
+- 발음: /ˈkɑnʃəns/
 - 구성: Latin `conscientia` = knowledge within oneself
 - 뜻: 양심
 - 어원적 연결: 자기 안에서 옳고 그름을 알고 있는 감각
@@ -76,6 +84,7 @@
 
 ### conscientious
 
+- 발음: /ˌkɑnʃiˈɛnʃəs/
 - 구성: `conscience` + `-ious`
 - 뜻: 양심적인, 성실한, 꼼꼼한
 - 어원적 연결: 자기 안의 기준을 알고 책임 있게 행동함
@@ -83,6 +92,7 @@
 
 ### omniscient
 
+- 발음: /ɑˈmnɪʃənt/
 - 구성: `omni-` = all + Latin `scient-` = knowing
 - 뜻: 전지의, 모든 것을 아는
 - 어원적 연결: 모든 것을 알고 있음
@@ -90,6 +100,7 @@
 
 ### prescient
 
+- 발음: /ˈprɛsiənt/
 - 구성: `pre-` = before + Latin `scient-` = knowing
 - 뜻: 예지력 있는, 앞일을 아는 듯한
 - 어원적 연결: 일이 일어나기 전에 알고 있음

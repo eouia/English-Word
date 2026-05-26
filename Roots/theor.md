@@ -19,6 +19,7 @@
 
 ### theory
 
+- 발음: /ˈθɪri/
 - 구성: Greek `theoria` = viewing, contemplation
 - 뜻: 이론, 학설
 - 연결: 관찰하고 숙고해 세운 설명 체계
@@ -26,6 +27,7 @@
 
 ### theoretical
 
+- 발음: /ˌθiɚˈɛtɪkəl/
 - 구성: `theory` + `-etical`
 - 뜻: 이론적인, 이론상의
 - 연결: 실제 적용보다 관찰과 사고로 세운 설명에 속함
@@ -33,6 +35,7 @@
 
 ### theoretically
 
+- 발음: /ˌθiɚˈɛtɪkəli/
 - 구성: `theoretical` + `-ly`
 - 뜻: 이론적으로는
 - 연결: 실제와 별개로 이론상 따져 보면
@@ -40,6 +43,7 @@
 
 ### theorize
 
+- 발음: /ˈθiɚˌaɪz/
 - 구성: `theory` + `-ize`
 - 뜻: 이론화하다, 추측하다
 - 연결: 관찰한 것을 바탕으로 설명 체계를 세움
@@ -47,6 +51,7 @@
 
 ### theorist
 
+- 발음: /ˈθiɚɪst/
 - 구성: `theory` + `-ist`
 - 뜻: 이론가
 - 연결: 이론을 만들거나 다루는 사람
@@ -54,6 +59,7 @@
 
 ### theorem
 
+- 발음: /ˈθɪrəm/
 - 구성: Greek `theorema` = spectacle, proposition to be proved
 - 뜻: 정리, 증명해야 하는 명제
 - 연결: 바라보고 검토할 대상으로 놓인 명제
@@ -61,6 +67,7 @@
 
 ### theater
 
+- 발음: /ˈθiətɚ/
 - 구성: Greek `theatron` = place for viewing
 - 뜻: 극장, 공연장
 - 연결: 사람들이 모여 보는 장소
@@ -68,6 +75,7 @@
 
 ### theatre
 
+- 발음: /ˈθiətɚ/
 - 구성: British spelling of `theater`
 - 뜻: 극장, 연극
 - 연결: `theater`의 영국식 철자
@@ -75,6 +83,7 @@
 
 ### amphitheater
 
+- 발음: /ˈæmfəθiˈeɪtɚ/
 - 구성: `amphi-` = around + `theater`
 - 뜻: 원형극장
 - 연결: 둘레에서 무대를 바라보는 극장

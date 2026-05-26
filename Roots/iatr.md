@@ -20,6 +20,7 @@
 
 ### psychiatry
 
+- 발음: /saɪˈkaɪətri/
 - 구성: [[psych]] = mind + Greek `iatreia` = healing
 - 뜻: 정신의학
 - 어원적 연결: 마음의 병을 치료하는 의학 분야
@@ -27,6 +28,7 @@
 
 ### psychiatrist
 
+- 발음: /səˈkaɪətrəst/
 - 구성: [[psych]] = mind + Greek `iatros` = doctor
 - 뜻: 정신과 의사
 - 어원적 연결: 마음의 병을 다루는 의사
@@ -34,6 +36,7 @@
 
 ### pediatric
 
+- 발음: /ˌpidiˈætrɪk/
 - 구성: Greek `pais` = child + `iatros`
 - 뜻: 소아과의
 - 어원적 연결: 아이를 치료하는 의학 분야와 관련됨
@@ -41,6 +44,7 @@
 
 ### pediatrics
 
+- 발음: /ˌpidiˈætrɪks/
 - 구성: Greek `pais` = child + `iatros`
 - 뜻: 소아과, 소아의학
 - 어원적 연결: 아이의 병을 치료하는 의학 분야
@@ -48,6 +52,7 @@
 
 ### geriatric
 
+- 발음: /ˌdʒɛriˈætrɪk/
 - 구성: Greek `geras` = old age + `iatros`
 - 뜻: 노인 의학의, 노인의
 - 어원적 연결: 노년기의 건강과 치료에 관련됨
@@ -55,6 +60,7 @@
 
 ### geriatrics
 
+- 발음: /ˌdʒɛriˈætrɪks/
 - 구성: Greek `geras` + `iatros`
 - 뜻: 노인 의학
 - 어원적 연결: 노인의 질병과 치료를 다루는 분야

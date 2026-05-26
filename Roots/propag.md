@@ -18,6 +18,7 @@
 
 ### propagate
 
+- 발음: /ˈprɑpəˌgeɪt/
 - 구성: Latin `propagare` = spread, reproduce
 - 뜻: 번식시키다, 전파하다, 퍼뜨리다
 - 어원적 연결: 생명·생각·신호가 뻗어 나가게 함
@@ -25,6 +26,7 @@
 
 ### propagation
 
+- 발음: /ˌprɑpəˈgeɪʃən/
 - 구성: `propagate` + `-ion`
 - 뜻: 번식, 전파, 확산
 - 어원적 연결: 무언가가 퍼져 나가는 과정
@@ -39,6 +41,7 @@
 
 ### propaganda
 
+- 발음: /ˌprɑpəˈgændə/
 - 구성: Latin `propaganda` = things to be propagated
 - 뜻: 선전, 선전물
 - 어원적 연결: 널리 퍼뜨려야 할 생각이나 주장
@@ -46,6 +49,7 @@
 
 ### propagandist
 
+- 발음: /ˌprɑpəˈgændəst/
 - 구성: `propaganda` + `-ist`
 - 뜻: 선전가
 - 어원적 연결: 특정 주장이나 사상을 퍼뜨리는 사람
@@ -53,6 +57,7 @@
 
 ### propagandize
 
+- 발음: /ˌprɑpəˈgæˌndaɪz/
 - 구성: `propaganda` + `-ize`
 - 뜻: 선전하다, 선전으로 설득하려 하다
 - 어원적 연결: 특정 생각을 의도적으로 퍼뜨림

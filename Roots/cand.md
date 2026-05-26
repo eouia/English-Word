@@ -20,6 +20,7 @@
 
 ### candid
 
+- 발음: /ˈkændəd/
 - 구성: Latin `candidus` = white, bright, pure
 - 뜻: 솔직한, 숨김없는; 자연스러운
 - 어원적 연결: 감추지 않고 밝게 드러난 상태
@@ -27,6 +28,7 @@
 
 ### candidly
 
+- 발음: /ˈkændɪdli/
 - 구성: `candid` + `-ly`
 - 뜻: 솔직히, 숨김없이
 - 어원적 연결: 어둡게 감추지 않고 밝게 말함
@@ -34,6 +36,7 @@
 
 ### candor
 
+- 발음: /ˈkændɚ/
 - 구성: Latin `candor` = whiteness, brightness, openness
 - 뜻: 솔직함, 공정함
 - 어원적 연결: 흰색처럼 숨김없이 드러난 태도
@@ -48,6 +51,7 @@
 
 ### candidate
 
+- 발음: /ˈkændədeɪt/
 - 구성: Latin `candidatus` = white-robed
 - 뜻: 후보자
 - 어원적 연결: 고대 로마 공직 후보자가 흰 토가를 입은 데서 유래
@@ -55,6 +59,7 @@
 
 ### candidacy
 
+- 발음: /ˈkændɪdəsi/
 - 구성: `candidate` + `-acy`
 - 뜻: 입후보, 후보 자격
 - 어원적 연결: 후보자로 나선 상태
@@ -62,6 +67,7 @@
 
 ### candle
 
+- 발음: /ˈkændəl/
 - 구성: Latin `candela` = candle, light
 - 뜻: 양초
 - 어원적 연결: 빛나고 밝히는 물건
@@ -69,6 +75,7 @@
 
 ### chandelier
 
+- 발음: /ʃændəˈlɪr/
 - 구성: French `chandelier` ← `chandelle` = candle
 - 뜻: 샹들리에, 장식용 천장등
 - 어원적 연결: 원래 촛불을 여러 개 꽂아 매단 등기구
@@ -76,6 +83,7 @@
 
 ### candelabra
 
+- 발음: /ˌkændəˈlɑbrə/
 - 구성: Latin `candelabrum` = candlestick
 - 뜻: 가지가 여러 개인 촛대
 - 어원적 연결: 여러 촛불을 받치는 장식용 촛대
@@ -83,6 +91,7 @@
 
 ### incandescent
 
+- 발음: /ˌɪnkəˈndɛsənt/
 - 구성: `in-` + Latin `candescere` = become white-hot
 - 뜻: 백열의, 강렬히 빛나는
 - 어원적 연결: 뜨거워져 희게 빛남

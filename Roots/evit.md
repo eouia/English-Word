@@ -19,6 +19,7 @@
 
 ### inevitable
 
+- 발음: /ˌɪˈnɛvətəbəl/
 - 구성: Latin `inevitabilis` ← `in-` = not + `evitabilis` = avoidable
 - 뜻: 불가피한, 필연적인
 - 어원적 연결: 길에서 비켜나 피할 수 없는 일
@@ -26,6 +27,7 @@
 
 ### inevitably
 
+- 발음: /ˌɪˈnɛvətəbli/
 - 구성: `inevitable` + `-ly`
 - 뜻: 불가피하게, 필연적으로
 - 어원적 연결: 피할 수 없는 방식으로 일어남
@@ -40,6 +42,7 @@
 
 ### inevitability
 
+- 발음: /ˌɪˌnɛvɪtəˈbɪlɪti/
 - 구성: `inevitable` + `-ity`
 - 뜻: 불가피성, 필연성
 - 어원적 연결: 피할 수 없는 성질이나 상태

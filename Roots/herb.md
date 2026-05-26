@@ -19,6 +19,7 @@
 
 ### herbaceous
 
+- 발음: /ɚˈbeɪʃəs/
 - 구성: Latin `herba` = grass, herb + `-aceous`
 - 뜻: 초본의, 풀 같은, 목질이 아닌
 - 연결: 나무처럼 단단한 줄기가 아니라 부드러운 풀의 성질
@@ -26,6 +27,7 @@
 
 ### herb
 
+- 발음: /ˈɝb/
 - 구성: Latin `herba` = grass, green plant
 - 뜻: 허브, 약초, 향초
 - 연결: 향이나 약효 때문에 쓰이는 풀
@@ -33,6 +35,7 @@
 
 ### herbal
 
+- 발음: /ˈɝbəl/
 - 구성: `herb` + `-al`
 - 뜻: 허브의, 약초의
 - 연결: 풀이나 약초에서 나온 것
@@ -40,6 +43,7 @@
 
 ### herbalist
 
+- 발음: /ˈɝbələst/
 - 구성: `herbal` + `-ist`
 - 뜻: 약초 전문가, 약초상
 - 연결: 약초를 알고 다루는 사람
@@ -54,6 +58,7 @@
 
 ### herbivore
 
+- 발음: /ˈhɝbɪˌvɔr/
 - 구성: `herb` = plant + `-vore` = eater
 - 뜻: 초식동물
 - 연결: 풀이나 식물을 먹는 동물
@@ -61,6 +66,7 @@
 
 ### herbivorous
 
+- 발음: /hɚˈbɪvɚəs/
 - 구성: `herbivore` + `-ous`
 - 뜻: 초식성의
 - 연결: 식물을 먹고 사는 성질
@@ -68,6 +74,7 @@
 
 ### herbicide
 
+- 발음: /ˈhɝbɪˌsaɪd/
 - 구성: `herb` = plant + `-cide` = killing
 - 뜻: 제초제
 - 연결: 풀이나 잡초를 죽이는 물질

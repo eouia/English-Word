@@ -20,6 +20,7 @@
 
 ### consult
 
+- 발음: /kəˈnsʌlt/
 - 구성: Latin `consultare` = ask counsel, deliberate
 - 뜻: 상담하다, 조언을 구하다; 참고하다
 - 어원적 연결: 판단을 위해 사람이나 자료와 함께 숙고함
@@ -27,6 +28,7 @@
 
 ### consultation
 
+- 발음: /ˌkɑnsəˈlteɪʃən/
 - 구성: `consult` + `-ation`
 - 뜻: 상담, 협의, 진찰
 - 어원적 연결: 조언을 얻기 위해 함께 의논하는 과정
@@ -34,6 +36,7 @@
 
 ### consultant
 
+- 발음: /kəˈnsʌltənt/
 - 구성: `consult` + `-ant`
 - 뜻: 상담가, 컨설턴트
 - 어원적 연결: 전문 조언을 제공하는 사람
@@ -41,6 +44,7 @@
 
 ### consultative
 
+- 발음: /kəˈnsʌltətɪv/
 - 구성: `consult` + `-ative`
 - 뜻: 자문을 위한, 협의의
 - 어원적 연결: 결정 전에 의견을 묻고 숙고하는 성격
@@ -48,6 +52,7 @@
 
 ### counsel
 
+- 발음: /ˈkaʊnsəl/
 - 구성: Old French `conseil` ← Latin `consilium`, related to `consulere`
 - 뜻: 조언, 상담; 변호인; 조언하다
 - 어원적 연결: 숙고를 통해 주는 조언
@@ -55,6 +60,7 @@
 
 ### council
 
+- 발음: /ˈkaʊnsəl/
 - 구성: Old French `concile/conseil` ← Latin `concilium` / `consilium`
 - 뜻: 의회, 위원회, 회의체
 - 어원적 연결: 함께 모여 의논하고 판단하는 사람들의 모임
@@ -62,6 +68,7 @@
 
 ### counselor
 
+- 발음: /ˈkaʊnsəlɚ/
 - 구성: `counsel` + `-or`
 - 뜻: 상담가, 조언자
 - 어원적 연결: 조언을 주는 사람
@@ -69,6 +76,7 @@
 
 ### consul
 
+- 발음: /ˈkɑnsəl/
 - 구성: Latin `consul`, probably related to `consulere`
 - 뜻: 영사; 고대 로마의 집정관
 - 어원적 연결: 공적 판단과 자문을 맡은 사람
@@ -76,6 +84,7 @@
 
 ### consulate
 
+- 발음: /ˈkɑnsələt/
 - 구성: `consul` + `-ate`
 - 뜻: 영사관
 - 어원적 연결: 영사가 근무하며 자문·보호 업무를 하는 기관

@@ -20,6 +20,7 @@
 
 ### astronomer
 
+- 발음: /əˈstrɑnəmɚ/
 - 구성: Greek `astron` = star + `nomos/nomia` = law, arrangement
 - 뜻: 천문학자
 - 연결: 별과 천체의 질서와 법칙을 연구하는 사람
@@ -27,6 +28,7 @@
 
 ### astronomy
 
+- 발음: /əˈstrɑnəmi/
 - 구성: `astro-` = star + Greek `nomia` = arrangement, law
 - 뜻: 천문학
 - 연결: 별과 천체의 질서를 연구하는 학문
@@ -34,6 +36,7 @@
 
 ### astronomical
 
+- 발음: /ˌæstrəˈnɑmɪkəl/
 - 구성: `astronomy` + `-ical`
 - 뜻: 천문학의; 천문학적으로 큰
 - 연결: 천체와 관련되거나, 우주 규모처럼 매우 큼
@@ -41,6 +44,7 @@
 
 ### astronaut
 
+- 발음: /ˈæstrəˌnɑt/
 - 구성: `astro-` = star + Greek `nautes` = sailor
 - 뜻: 우주비행사
 - 연결: 별들 사이를 항해하는 사람
@@ -48,6 +52,7 @@
 
 ### astrology
 
+- 발음: /əˈstrɑlədʒi/
 - 구성: `astro-` = star + `-logy` = study
 - 뜻: 점성술
 - 연결: 별의 위치가 인간사에 영향을 준다고 해석하는 체계
@@ -55,6 +60,7 @@
 
 ### astrologer
 
+- 발음: /əˈstrɑlədʒɚ/
 - 구성: `astrology` + `-er`
 - 뜻: 점성술사
 - 연결: 별자리와 운세를 해석하는 사람
@@ -62,6 +68,7 @@
 
 ### asterisk
 
+- 발음: /ˈæstɚɪsk/
 - 구성: Greek `asteriskos` = little star
 - 뜻: 별표
 - 연결: 작은 별 모양의 표시
@@ -69,6 +76,7 @@
 
 ### asteroid
 
+- 발음: /ˈæstɚˌɔɪd/
 - 구성: Greek `aster` = star + `-oid` = like
 - 뜻: 소행성
 - 연결: 별처럼 보이는 작은 천체
@@ -76,6 +84,7 @@
 
 ### disaster
 
+- 발음: /dɪˈzæstɚ/
 - 구성: Italian/French `dis-` = ill, bad + `astro` = star
 - 뜻: 재난, 참사
 - 연결: 나쁜 별의 영향이라는 옛 점성술적 생각에서 출발
@@ -83,6 +92,7 @@
 
 ### astral
 
+- 발음: /ˈæstrəl/
 - 구성: Latin/Greek `astr-` = star + `-al`
 - 뜻: 별의, 천체의
 - 연결: 별과 관련됨

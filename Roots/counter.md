@@ -19,6 +19,7 @@
 
 ### counteract
 
+- 발음: /ˈkaʊntɚˌækt/
 - 구성: `counter-` = against + `act`
 - 뜻: 대응하여 약화시키다, 상쇄하다
 - 어원적 연결: 반대 행동으로 기존 작용의 힘을 줄임
@@ -51,6 +52,7 @@
 
 ### counterbalance
 
+- 발음: /ˈkaʊntɚˌbæləns/
 - 구성: `counter-` = opposite + `balance`
 - 뜻: 균형을 맞추다, 상쇄하다; 평형추
 - 어원적 연결: 반대쪽 무게로 균형을 맞춤
@@ -58,6 +60,7 @@
 
 ### counterproductive
 
+- 발음: /ˈkaʊntɚprəˌdʌktɪv/
 - 구성: `counter-` = against + `productive`
 - 뜻: 역효과를 내는
 - 어원적 연결: 의도한 생산적 결과와 반대로 작용함
@@ -65,6 +68,7 @@
 
 ### encounter
 
+- 발음: /ɪˈnkaʊntɚ/
 - 구성: Old French `encontrer` ← `en-` + `contre` = against, opposite
 - 뜻: 우연히 만나다, 맞닥뜨리다; 만남, 조우
 - 어원적 연결: 맞은편에 있는 대상과 서로 마주침
@@ -72,6 +76,7 @@
 
 ### country
 
+- 발음: /ˈkʌntri/
 - 구성: Old French `contree` ← Medieval Latin `contrata` = land lying opposite
 - 뜻: 나라, 국토; 시골, 지방
 - 어원적 연결: 눈앞에 마주 펼쳐진 땅, 한 지역
@@ -80,6 +85,7 @@
 
 ### countryside
 
+- 발음: /ˈkʌntriˌsaɪd/
 - 구성: `country` + `side`
 - 뜻: 시골 지역, 전원
 - 어원적 연결: 도시가 아니라 넓게 펼쳐진 지방의 땅
@@ -87,6 +93,7 @@
 
 ### contrary
 
+- 발음: /ˈkɑntrɛri/
 - 구성: Latin `contrarius` = opposite, opposed
 - 뜻: 반대의, 상반되는
 - 어원적 연결: 맞은편에 놓여 서로 반대됨
@@ -94,6 +101,7 @@
 
 ### contrast
 
+- 발음: n. /ˈkɑntræst/, v. /kəˈntræst/
 - 구성: Latin `contra-` = against + `stare` = stand
 - 뜻: 대조, 대비; 대조하다
 - 어원적 연결: 서로 맞은편에 세워 차이가 드러남
@@ -101,6 +109,7 @@
 
 ### contra
 
+- 발음: /ˈkɑntrə/
 - 구성: Latin `contra` = against, opposite
 - 뜻: 반대하여, 맞서
 - 어원적 연결: 맞은편에 놓인 위치나 반대 방향

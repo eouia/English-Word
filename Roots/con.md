@@ -27,6 +27,7 @@
 
 ### connect
 
+- 발음: /kəˈnɛkt/
 - 구성: `con-` = together + Latin `nectere` = bind
 - 뜻: 연결하다
 - 어원적 연결: 둘 이상을 함께 묶음
@@ -34,6 +35,7 @@
 
 ### connection
 
+- 발음: /kəˈnɛkʃən/
 - 구성: `connect` + `-ion`
 - 뜻: 연결, 관계
 - 어원적 연결: 함께 묶인 상태
@@ -41,6 +43,7 @@
 
 ### conduct
 
+- 발음: n. /ˈkɑndəkt/, v. /kɑˈndʌkt/
 - 구성: `con-` = together + [[duc]]
 - 뜻: 수행하다, 안내하다, 전도하다
 - 어원적 연결: 함께 이끌고 감. 일을 이끌어 처리함
@@ -48,6 +51,7 @@
 
 ### convene
 
+- 발음: /kəˈnvin/
 - 구성: `con-` = together + [[ven]]
 - 뜻: 모이다, 소집하다
 - 어원적 연결: 함께 오게 함
@@ -55,6 +59,7 @@
 
 ### concur
 
+- 발음: /kəˈnkɝ/
 - 구성: `con-` = together + [[curr]]
 - 뜻: 동의하다, 동시에 일어나다
 - 어원적 연결: 함께 달려 같은 방향으로 감
@@ -62,6 +67,7 @@
 
 ### consent
 
+- 발음: /kəˈnsɛnt/
 - 구성: `con-` = together + [[sent]]
 - 뜻: 동의하다, 승낙
 - 어원적 연결: 함께 느끼거나 같은 판단을 함
@@ -69,6 +75,7 @@
 
 ### compose
 
+- 발음: /kəˈmpoʊz/
 - 구성: `com-` = together + [[pos]]
 - 뜻: 구성하다, 작곡하다, 진정시키다
 - 어원적 연결: 여러 요소를 함께 놓아 만듦
@@ -76,6 +83,7 @@
 
 ### compress
 
+- 발음: n. /ˈkɑmprɛs/, v. /kəˈmprɛs/
 - 구성: `com-` = together + [[press]]
 - 뜻: 압축하다
 - 어원적 연결: 함께 눌러 작게 만듦
@@ -83,6 +91,7 @@
 
 ### collect
 
+- 발음: /kəˈlɛkt/
 - 구성: `col-` = together + [[lect]]
 - 뜻: 모으다, 수집하다
 - 어원적 연결: 함께 골라 모음
@@ -90,6 +99,7 @@
 
 ### colleague
 
+- 발음: /ˈkɑlig/
 - 구성: `col-` = together + Latin `legare` = send, appoint
 - 뜻: 동료
 - 어원적 연결: 함께 임무를 맡은 사람
@@ -97,6 +107,7 @@
 
 ### correspond
 
+- 발음: /ˌkɔrəˈspɑnd/
 - 구성: `cor-` = together + [[spond]]
 - 뜻: 일치하다, 서신을 주고받다
 - 어원적 연결: 서로 응답함
@@ -104,6 +115,7 @@
 
 ### cooperate
 
+- 발음: /koʊˈɑpɚˌeɪt/
 - 구성: `co-` = together + `operate`
 - 뜻: 협력하다
 - 어원적 연결: 함께 일함
@@ -111,6 +123,7 @@
 
 ### coexist
 
+- 발음: /ˌkoʊəˈgzɪst/
 - 구성: `co-` = together + [[sist]]
 - 뜻: 공존하다
 - 어원적 연결: 함께 존재함
@@ -118,6 +131,7 @@
 
 ### cohesion
 
+- 발음: /koʊˈhiʒən/
 - 구성: `co-` = together + [[hes]]
 - 뜻: 결속, 응집
 - 어원적 연결: 함께 붙어 있음
@@ -125,6 +139,7 @@
 
 ### convince
 
+- 발음: /kəˈnvɪns/
 - 구성: `con-` = completely + [[vict]]
 - 뜻: 확신시키다, 설득하다
 - 어원적 연결: 완전히 이겨 마음을 굴복시킴
@@ -132,6 +147,7 @@
 
 ### convert
 
+- 발음: n. /ˈkɑnvɚt/, v. /kəˈnvɝt/
 - 구성: `con-` = completely + [[vers]]
 - 뜻: 바꾸다, 전환하다
 - 어원적 연결: 완전히 방향을 돌림

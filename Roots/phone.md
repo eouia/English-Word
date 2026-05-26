@@ -19,6 +19,7 @@
 
 ### phone
 
+- 발음: /ˈfoʊn/
 - 구성: shortening of `telephone`
 - 뜻: 전화, 전화하다
 - 연결: 먼 거리로 목소리를 보내는 장치
@@ -26,6 +27,7 @@
 
 ### telephone
 
+- 발음: /ˈtɛləˌfoʊn/
 - 구성: `tele-` = far + `phone` = voice, sound
 - 뜻: 전화
 - 연결: 먼 거리로 소리를 보냄
@@ -33,6 +35,7 @@
 
 ### microphone
 
+- 발음: /ˈmaɪkrəˌfoʊn/
 - 구성: `micro-` = small + `phone` = sound
 - 뜻: 마이크
 - 연결: 작은 소리까지 받아 전기 신호로 바꾸는 장치
@@ -40,6 +43,7 @@
 
 ### phonetic
 
+- 발음: /fəˈnɛtɪk/
 - 구성: `phone` = sound + `-etic`
 - 뜻: 음성의, 발음상의
 - 연결: 실제 말소리와 관련됨
@@ -47,6 +51,7 @@
 
 ### phonology
 
+- 발음: /fəˈnɑləˌdʒi/
 - 구성: `phone` = sound + `-logy` = study
 - 뜻: 음운론
 - 연결: 언어의 소리 체계를 연구함
@@ -54,6 +59,7 @@
 
 ### homophone
 
+- 발음: /ˈhoʊmoʊˌfoʊn/
 - 구성: `homo-` = same + `phone` = sound
 - 뜻: 동음이의어
 - 연결: 소리는 같지만 뜻이나 철자가 다름
@@ -61,6 +67,7 @@
 
 ### symphony
 
+- 발음: /ˈsɪmfəni/
 - 구성: `sym-` = together + `phone` = sound
 - 뜻: 교향곡, 조화로운 소리
 - 연결: 여러 소리가 함께 울림

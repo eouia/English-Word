@@ -18,6 +18,7 @@
 
 ### annihilate
 
+- 발음: /əˈnaɪəˌleɪt/
 - 구성: `ad-` = to + Latin `nihil` = nothing
 - 뜻: 전멸시키다, 완전히 파괴하다
 - 어원적 연결: 존재를 무로 돌림
@@ -25,6 +26,7 @@
 
 ### annihilation
 
+- 발음: /əˌnaɪəˈleɪʃən/
 - 구성: `annihilate` + `-ion`
 - 뜻: 전멸, 완전 파괴
 - 어원적 연결: 무로 만드는 과정
@@ -32,6 +34,7 @@
 
 ### nihilism
 
+- 발음: /ˈnaɪəˌlɪzəm/
 - 구성: Latin `nihil` + `-ism`
 - 뜻: 허무주의
 - 어원적 연결: 가치나 의미를 무로 보는 사상

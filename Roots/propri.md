@@ -20,6 +20,7 @@
 
 ### appropriate
 
+- 발음: adj. /əˈproʊpriət/, v. /əˈproʊpriˌeɪt/
 - 구성: `ad-` = to + Latin `proprius` = proper, one's own
 - 뜻: 적절한; 전용하다, 충당하다
 - 어원적 연결: 상황이나 목적에 맞는 것. 또는 특정 목적의 것으로 배정함
@@ -27,6 +28,7 @@
 
 ### appropriately
 
+- 발음: /əˈproʊpriɪtli/
 - 구성: `appropriate` + `-ly`
 - 뜻: 적절하게
 - 어원적 연결: 상황에 맞게
@@ -34,6 +36,7 @@
 
 ### appropriation
 
+- 발음: /əˌproʊpriˈeɪʃən/
 - 구성: `appropriate` + `-ion`
 - 뜻: 전용, 충당, 세출 승인, 부당 사용
 - 어원적 연결: 어떤 것을 특정 목적의 것으로 배정하거나 자기 것으로 삼음
@@ -41,6 +44,7 @@
 
 ### proper
 
+- 발음: /ˈprɑpɚ/
 - 구성: Latin `proprius` = one's own, proper
 - 뜻: 적절한, 제대로 된, 고유한
 - 어원적 연결: 본래 자기 성격이나 기준에 맞음
@@ -48,6 +52,7 @@
 
 ### properly
 
+- 발음: /ˈprɑpɚli/
 - 구성: `proper` + `-ly`
 - 뜻: 제대로, 적절히
 - 어원적 연결: 맞는 방식으로
@@ -55,6 +60,7 @@
 
 ### property
 
+- 발음: /ˈprɑpɚti/
 - 구성: Latin `proprietas` = ownership, special quality
 - 뜻: 재산, 소유물, 속성
 - 어원적 연결: 자기에게 속한 것, 또는 그 대상의 고유한 성질
@@ -62,6 +68,7 @@
 
 ### proprietor
 
+- 발음: /prəˈpraɪətɚ/
 - 구성: Latin `proprietarius` 계열
 - 뜻: 소유자, 사업주
 - 어원적 연결: 어떤 것을 자기 것으로 가진 사람
@@ -69,6 +76,7 @@
 
 ### proprietary
 
+- 발음: /prəˈpraɪəˌtɛri/
 - 구성: `proprietor/property` 계열 + `-ary`
 - 뜻: 독점 소유의, 전매의, 소유주의
 - 어원적 연결: 특정 주체에게 고유하게 속함
@@ -76,6 +84,7 @@
 
 ### propriety
 
+- 발음: /prəˈpraɪəti/
 - 구성: Latin `proprietas` 계열
 - 뜻: 예의바름, 적절성, 타당성
 - 어원적 연결: 상황과 규범에 맞는 성질

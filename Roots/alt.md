@@ -19,6 +19,7 @@
 
 ### enhance
 
+- 발음: /ɛˈnhæns/
 - 구성: `en-` + Latin `altus` 계열
 - 뜻: 향상시키다, 강화하다, 돋보이게 하다
 - 어원적 연결: 가치나 정도를 더 높임
@@ -26,6 +27,7 @@
 
 ### enhanced
 
+- 발음: /ɛˈnhænst/
 - 구성: `enhance` + `-ed`
 - 뜻: 향상된, 강화된
 - 어원적 연결: 이전보다 더 높아진 상태
@@ -33,6 +35,7 @@
 
 ### enhancement
 
+- 발음: /ɛˈnhænsmənt/
 - 구성: `enhance` + `-ment`
 - 뜻: 향상, 강화, 개선
 - 어원적 연결: 높아지게 만드는 일이나 결과
@@ -40,6 +43,7 @@
 
 ### altitude
 
+- 발음: /ˈæltəˌtud/
 - 구성: Latin `altitudo` ← `altus`
 - 뜻: 고도, 높이
 - 어원적 연결: 높은 정도
@@ -47,6 +51,7 @@
 
 ### altimeter
 
+- 발음: /æˈltɪmətɚ/
 - 구성: `alti-` = high + [[metr]] = measure
 - 뜻: 고도계
 - 어원적 연결: 높이를 재는 장치
@@ -54,6 +59,7 @@
 
 ### alto
 
+- 발음: /ˈæltoʊ/
 - 구성: Italian `alto` ← Latin `altus`
 - 뜻: 알토, 낮은 여성 음역 또는 높은 남성 음역
 - 어원적 연결: 원래 "높은" 음역
@@ -61,6 +67,7 @@
 
 ### exalt
 
+- 발음: /ɪˈgzɔlt/
 - 구성: Latin `exaltare` = raise high
 - 뜻: 높이다, 찬양하다
 - 어원적 연결: 위로 들어 올려 높임
@@ -68,6 +75,7 @@
 
 ### exalted
 
+- 발음: /ɪˈgzɔltɪd/
 - 구성: `exalt` + `-ed`
 - 뜻: 고귀한, 높은 지위의, 고양된
 - 어원적 연결: 높은 자리나 평가에 올려진 상태
@@ -75,6 +83,7 @@
 
 ### haughty
 
+- 발음: /ˈhɔti/
 - 구성: Old French `haut` = high ← Latin `altus`
 - 뜻: 거만한, 오만한
 - 어원적 연결: 자신을 높게 둠
@@ -89,6 +98,7 @@
 
 ### adult
 
+- 발음: /əˈdʌlt/
 - 구성: Latin `adultus` ← `adolescere` = grow up
 - 뜻: 성인
 - 어원적 연결: 자라서 큰 사람
@@ -96,6 +106,7 @@
 
 ### adolescent
 
+- 발음: /ˌædəˈlɛsənt/
 - 구성: Latin `adolescere` = grow up
 - 뜻: 청소년
 - 어원적 연결: 아직 자라고 있는 사람
@@ -103,6 +114,7 @@
 
 ### alumnus
 
+- 발음: /əˈlʌmnəs/
 - 구성: Latin `alumnus` = foster son, pupil
 - 뜻: 남성 졸업생, 동문
 - 어원적 연결: 길러진 사람, 교육받은 사람
@@ -110,6 +122,7 @@
 
 ### alumni
 
+- 발음: /əˈlʌˌmnaɪ/
 - 구성: plural of `alumnus`
 - 뜻: 졸업생들, 동문들
 - 어원적 연결: 교육기관이 길러낸 사람들

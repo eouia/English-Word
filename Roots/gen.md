@@ -17,6 +17,7 @@
 
 ### generic
 
+- 발음: /dʒəˈnɛrɪk/
 - 구성: Latin `genus` = kind + `-ic`
 - 의미: 일반적인, 포괄적인, 상표명이 아닌
 - 어원적 연결: 특정 개체가 아니라 같은 종류 전체에 속함
@@ -24,6 +25,7 @@
 
 ### general
 
+- 발음: /ˈdʒɛnɚəl/
 - 구성: Latin `generalis` < `genus`
 - 의미: 일반적인, 전체적인
 - 어원적 연결: 특정 하나가 아니라 종류 전체에 해당함
@@ -31,6 +33,7 @@
 
 ### generate
 
+- 발음: /ˈdʒɛnɚˌeɪt/
 - 구성: Latin `generare` = beget, produce
 - 의미: 만들어 내다, 발생시키다
 - 어원적 연결: 새로 태어나게 함
@@ -38,6 +41,7 @@
 
 ### generation
 
+- 발음: /ˌdʒɛnɚˈeɪʃən/
 - 구성: `generate` + `-ion`
 - 의미: 세대, 발생, 생성
 - 어원적 연결: 태어나 이어지는 한 무리
@@ -45,6 +49,7 @@
 
 ### generator
 
+- 발음: /ˈdʒɛnɚˌeɪtɚ/
 - 구성: `generate` + `-or`
 - 의미: 발전기, 생성 장치
 - 어원적 연결: 무언가를 만들어 내는 장치
@@ -52,6 +57,7 @@
 
 ### genus
 
+- 발음: /ˈdʒinəs/
 - 구성: Latin `genus`
 - 의미: 속, 종류
 - 어원적 연결: 같은 출생/종류로 묶인 분류
@@ -59,6 +65,7 @@
 
 ### genre
 
+- 발음: /ˈʒɑnrə/
 - 구성: French `genre` < Latin `genus`
 - 의미: 장르, 유형
 - 어원적 연결: 같은 종류의 작품 묶음
@@ -66,6 +73,7 @@
 
 ### gene
 
+- 발음: /ˈdʒin/
 - 구성: Greek `genos` = race, kind 계열
 - 의미: 유전자
 - 어원적 연결: 태어나는 성질을 전달하는 단위
@@ -73,6 +81,7 @@
 
 ### genetic
 
+- 발음: /dʒəˈnɛtɪk/
 - 구성: `gene` + `-tic`
 - 의미: 유전의, 발생의
 - 어원적 연결: 태어남과 유전 정보에 관련됨
@@ -80,6 +89,7 @@
 
 ### genetics
 
+- 발음: /dʒəˈnɛtɪks/
 - 구성: `genetic` + `-s`
 - 의미: 유전학
 - 어원적 연결: 유전과 발생을 다루는 학문
@@ -87,6 +97,7 @@
 
 ### genuine
 
+- 발음: /ˈdʒɛnjəwən/
 - 구성: Latin `genuinus` = innate, native
 - 의미: 진짜의, 진정한
 - 어원적 연결: 타고난 본래의 성질을 가진 것
@@ -94,6 +105,7 @@
 
 ### generous
 
+- 발음: /ˈdʒɛnɚəs/
 - 구성: Latin `generosus` = of noble birth
 - 의미: 관대한, 후한
 - 어원적 연결: 원래 "좋은 혈통의"에서 고귀하고 후한 성품으로 확장
@@ -101,6 +113,7 @@
 
 ### gender
 
+- 발음: /ˈdʒɛndɚ/
 - 구성: Old French `gendre` < Latin `genus`
 - 의미: 성, 젠더
 - 어원적 연결: 종류, 부류에서 문법적 성/사회적 성으로 확장
@@ -108,6 +121,7 @@
 
 ### indigenous
 
+- 발음: /ˌɪˈndɪdʒənəs/
 - 구성: Latin `indigena` = born in a place
 - 의미: 토착의, 원주민의
 - 어원적 연결: `in-` = in + `gen` = born. 그 땅 안에서 태어난 사람이나 것
@@ -129,6 +143,7 @@
 
 ### endogenous
 
+- 발음: /ˌɛˈndɔdʒɛnəs/
 - 구성: Greek `endon` = within + `gen` = born, produced
 - 의미: 내부에서 생긴, 내생적인
 - 어원적 연결: 바깥에서 온 것이 아니라 안에서 발생함
@@ -136,6 +151,7 @@
 
 ### engender
 
+- 발음: /ɛˈndʒɛndɚ/
 - 구성: `en-` = make/cause + `gender/gen`
 - 의미: 일으키다, 낳다
 - 어원적 연결: 어떤 결과가 태어나게 함
@@ -145,6 +161,7 @@
 
 ### genius
 
+- 발음: /ˈdʒinjəs/
 - 구성: Latin `genius` = inborn spirit
 - 의미: 천재, 특별한 재능
 - 어원적 연결: 타고난 정신이나 재능
@@ -152,6 +169,7 @@
 
 ### ingenious
 
+- 발음: /ˌɪˈndʒinjəs/
 - 구성: Latin `ingenium` = inborn talent
 - 의미: 기발한, 독창적인
 - 어원적 연결: 타고난 재능에서 나온 영리함
@@ -159,6 +177,7 @@
 
 ### engine
 
+- 발음: /ˈɛndʒən/
 - 구성: Old French `engin` < Latin `ingenium`
 - 의미: 엔진, 기계 장치
 - 어원적 연결: 원래 재능, 고안, 장치의 뜻에서 기계로 확장

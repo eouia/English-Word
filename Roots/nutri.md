@@ -17,6 +17,7 @@
 
 ### nutrition
 
+- 발음: /nuˈtrɪʃən/
 - 구성: Latin `nutrire` + `-ion`
 - 뜻: 영양, 영양 섭취
 - 어원적 연결: 몸을 먹여 기르는 과정
@@ -24,6 +25,7 @@
 
 ### nutrient
 
+- 발음: /ˈnutriənt/
 - 구성: Latin `nutriens` = nourishing
 - 뜻: 영양소
 - 어원적 연결: 몸을 기르는 물질
@@ -31,6 +33,7 @@
 
 ### nutritious
 
+- 발음: /nuˈtrɪʃəs/
 - 구성: `nutrition` + `-ous`
 - 뜻: 영양가 있는
 - 어원적 연결: 몸을 잘 기를 수 있음
@@ -38,6 +41,7 @@
 
 ### malnutrition
 
+- 발음: /ˌmælnuˈtrɪʃən/
 - 구성: [[mal]] = bad + `nutrition`
 - 뜻: 영양실조
 - 어원적 연결: 영양 공급이 나쁘거나 부족함
@@ -45,6 +49,7 @@
 
 ### nourish
 
+- 발음: /ˈnɝɪʃ/
 - 구성: Old French `nourrir` ← Latin `nutrire`
 - 뜻: 영양을 공급하다, 기르다
 - 어원적 연결: 먹여서 생명과 성장을 유지함
@@ -52,6 +57,7 @@
 
 ### nurture
 
+- 발음: /ˈnɝtʃɚ/
 - 구성: Old French `nourriture` ← Latin `nutrire`
 - 뜻: 양육하다, 키우다; 양육
 - 어원적 연결: 먹이고 돌보아 성장하게 함

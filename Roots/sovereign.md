@@ -19,6 +19,7 @@
 
 ### sovereignty
 
+- 발음: /ˈsɑvrənti/
 - 구성: `sovereign` + `-ty`
 - 뜻: 주권, 자주권, 최고 권력
 - 어원적 연결: 외부의 더 높은 권위 없이 스스로 다스리는 권리
@@ -26,6 +27,7 @@
 
 ### sovereign
 
+- 발음: /ˈsɑvrən/
 - 구성: Old French `soverain`
 - 뜻: 주권의, 자주적인; 군주, 통치자
 - 어원적 연결: 가장 위에 있어 최종 권위를 가짐
@@ -54,6 +56,7 @@
 
 ### supremacy
 
+- 발음: /səˈprɛməsi/
 - 구성: Latin `supremus` = highest
 - 뜻: 우위, 최고권, 지상권
 - 어원적 연결: 가장 위에 있음
@@ -61,6 +64,7 @@
 
 ### supreme
 
+- 발음: /səˈprim/
 - 구성: Latin `supremus`
 - 뜻: 최고의, 최상위의
 - 어원적 연결: 위계의 꼭대기에 있음

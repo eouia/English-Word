@@ -26,6 +26,7 @@
 
 ### misanthrope
 
+- 발음: /ˈmɪsəˌnθroʊp/
 - 구성: `mis-` = hate + `anthrop`
 - 뜻: 인간 혐오자
 - 어원적 연결: 사람들을 싫어하는 사람
@@ -33,6 +34,7 @@
 
 ### anthropology
 
+- 발음: /ˌænθrəˈpɑlədʒi/
 - 구성: `anthrop` = human + `-logy` = study
 - 뜻: 인류학
 - 어원적 연결: 인간과 인간 문화를 연구함
@@ -40,6 +42,7 @@
 
 ### anthropologist
 
+- 발음: /ˌænθrəˈpɑlədʒəst/
 - 구성: `anthropology` + `-ist`
 - 뜻: 인류학자
 - 어원적 연결: 인간과 문화를 연구하는 사람
@@ -47,6 +50,7 @@
 
 ### anthropomorphic
 
+- 발음: /ˌænθrəpəˈmɔrfɪk/
 - 구성: `anthrop` = human + [[morph]] = form + `-ic`
 - 뜻: 의인화된, 사람 모양의
 - 어원적 연결: 인간의 형태나 성질을 지닌 것처럼 표현함
@@ -54,6 +58,7 @@
 
 ### philanthropy
 
+- 발음: /fɪˈlænθrəpi/
 - 구성: [[phil]] = love + `anthrop` = human
 - 뜻: 자선, 박애
 - 어원적 연결: 인간을 사랑함
@@ -61,6 +66,7 @@
 
 ### philanthropist
 
+- 발음: /fəˈlænθrəpəst/
 - 구성: `philanthropy` + `-ist`
 - 뜻: 자선가, 박애주의자
 - 어원적 연결: 인간을 사랑해 돕는 사람

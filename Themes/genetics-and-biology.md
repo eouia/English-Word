@@ -6,42 +6,49 @@
 
 ### organism
 
+- 발음: /ˈɔrgəˌnɪzəm/
 - 핵심 의미: 생물, 유기체
 - 사용 맥락: `living organisms`, `single-celled organisms`
 - 주의: 동물, 식물, 미생물처럼 생명 활동을 하는 개체 전체.
 
 ### [[speci#species|species]]
 
+- 발음: /ˈspiʃiz/
 - 핵심 의미: 종
 - 사용 맥락: `endangered species`, `a new species`
 - 주의: 생물 분류의 기본 단위. 단수와 복수 형태가 모두 `species`.
 
 ### biodiversity
 
+- 발음: /ˌbaɪoʊdaɪˈvɝsəti/
 - 핵심 의미: 생물다양성
 - 사용 맥락: `loss of biodiversity`, `biodiversity conservation`
 - 주의: 생태계 안의 종, 유전자, 서식지 다양성을 모두 포함함.
 
 ### [[hab#habitat|habitat]]
 
+- 발음: /ˈhæbəˌtæt/
 - 핵심 의미: 서식지
 - 사용 맥락: `natural habitat`, `habitat destruction`
 - 주의: 어떤 생물이 살고 번식하는 자연 환경.
 
 ### [[sym#ecosystem|ecosystem]]
 
+- 발음: /ˈikoʊˌsɪstəm/
 - 핵심 의미: 생태계
 - 사용 맥락: `marine ecosystem`, `ecosystem balance`
 - 주의: 생물과 비생물 환경이 상호작용하는 전체 체계.
 
 ### [[apt#adaptation|adaptation]]
 
+- 발음: /ˌædəˈpteɪʃən/
 - 핵심 의미: 적응, 각색
 - 사용 맥락: `biological adaptation`, `adaptation to climate`
 - 주의: 생물학에서는 환경에 맞게 생존·번식에 유리한 특징이 생기는 과정이나 결과.
 
 ### metabolism
 
+- 발음: /məˈtæbəˌlɪzəm/
 - 핵심 의미: 신진대사
 - 사용 맥락: `metabolic rate`, `cellular metabolism`
 - 주의: 생명체가 에너지와 물질을 만들고 분해하는 화학 과정 전체.
@@ -50,42 +57,49 @@
 
 ### cell
 
+- 발음: /ˈsɛl/
 - 핵심 의미: 세포, 작은 방, 감방
 - 사용 맥락: `stem cell`, `cell division`
 - 주의: 생물의 기본 단위. 정치·범죄 맥락에서는 조직의 소규모 단위도 뜻함.
 
 ### nucleus
 
+- 발음: /ˈnukliəs/
 - 핵심 의미: 세포핵, 핵심
 - 사용 맥락: `cell nucleus`, `nuclear DNA`
 - 주의: 세포에서 유전정보를 담는 중심 구조. 일반적으로는 중심부라는 뜻.
 
 ### membrane
 
+- 발음: /ˈmɛˌmbreɪn/
 - 핵심 의미: 막
 - 사용 맥락: `cell membrane`, `membrane protein`
 - 주의: 세포 안팎을 구분하거나 물질 이동을 조절하는 얇은 구조.
 
 ### tissue
 
+- 발음: /ˈtɪˌsju/
 - 핵심 의미: 조직, 휴지
 - 사용 맥락: `muscle tissue`, `tissue sample`
 - 주의: 생물학에서는 비슷한 세포들이 모여 특정 기능을 하는 구조.
 
 ### organ
 
+- 발음: /ˈɔrgən/
 - 핵심 의미: 기관, 장기
 - 사용 맥락: `vital organs`, `organ transplant`
 - 주의: 심장, 폐, 간처럼 특정 기능을 수행하는 신체 부분. 악기 오르간도 같은 철자.
 
 ### enzyme
 
+- 발음: /ˈɛˌnzaɪm/
 - 핵심 의미: 효소
 - 사용 맥락: `digestive enzyme`, `enzyme activity`
 - 주의: 생화학 반응을 빠르게 하는 단백질. 소화, 대사, DNA 복제와 연결됨.
 
 ### [[photo#photosynthesis|photosynthesis]]
 
+- 발음: /ˌfoʊtoʊˈsɪnθəsɪs/
 - 핵심 의미: 광합성
 - 사용 맥락: `photosynthesis in plants`, `photosynthetic organisms`
 - 주의: 식물과 일부 미생물이 빛을 이용해 에너지를 저장하는 과정.
@@ -94,60 +108,70 @@
 
 ### heredity
 
+- 발음: /hɚˈɛdəti/
 - 핵심 의미: 유전
 - 사용 맥락: `the role of heredity`, `heredity and environment`
 - 주의: 부모의 형질이 자손에게 전달되는 현상.
 
 ### [[gen#gene|gene]]
 
+- 발음: /ˈdʒin/
 - 핵심 의미: 유전자
 - 사용 맥락: `gene expression`, `a defective gene`
 - 주의: 특정 형질이나 단백질 생산과 관련된 DNA의 기능 단위.
 
 ### genome
 
+- 발음: /ˈdʒiˌnoʊm/
 - 핵심 의미: 유전체, 게놈
 - 사용 맥락: `human genome`, `genome sequencing`
 - 주의: 한 생물이 가진 전체 유전정보.
 
 ### DNA
 
+- 발음: /ˈdiˌɛˈneɪ/
 - 핵심 의미: 디엔에이, 유전물질
 - 사용 맥락: `DNA evidence`, `DNA replication`
 - 주의: `deoxyribonucleic acid`. 유전정보를 저장하는 분자.
 
 ### chromosome ([[chrom#chromosome|chrom]], [[som#chromosome|som]])
 
+- 발음: /ˈkroʊməˌsoʊm/
 - 핵심 의미: 염색체
 - 사용 맥락: `sex chromosome`, `chromosomal abnormality`
 - 주의: DNA와 단백질이 뭉쳐 유전정보를 담는 구조.
 
 ### allele
 
+- 발음: /əˈlɛli/
 - 핵심 의미: 대립유전자
 - 사용 맥락: `dominant allele`, `recessive allele`
 - 주의: 같은 유전자 자리에서 나타나는 서로 다른 형태.
 
 ### [[tract-trace#trait|trait]]
 
+- 발음: /ˈtreɪt/
 - 핵심 의미: 형질, 특성
 - 사용 맥락: `inherited trait`, `personality trait`
 - 주의: 생물학에서는 유전되거나 관찰되는 특징. 성격 특성에도 쓰임.
 
 ### [[mut#mutation|mutation]]
 
+- 발음: /mjuˈteɪʃən/
 - 핵심 의미: 돌연변이
 - 사용 맥락: `genetic mutation`, `mutation rate`
 - 주의: DNA 서열의 변화. 질병을 일으킬 수도 있고 진화의 재료가 될 수도 있음.
 
 ### [[vari#variation|variation]]
 
+- 발음: /ˌvɛriˈeɪʃən/
 - 핵심 의미: 변이, 차이
 - 사용 맥락: `genetic variation`, `variation among individuals`
 - 주의: 개체나 집단 사이의 차이. 자연선택이 작동할 수 있는 바탕.
 
 ### inheritance
 
+- 발음: /ˌɪˈnhɛrətəns/
 - 핵심 의미: 유전, 상속
 - 사용 맥락: `genetic inheritance`, `inheritance pattern`
 - 주의: 생물학에서는 형질 전달. 법률·재산 맥락에서는 상속.
@@ -156,6 +180,7 @@
 
 ### [[volv#evolution|evolution]]
 
+- 발음: /ˌɛvəˈluʃən/
 - 핵심 의미: 진화, 점진적 변화
 - 사용 맥락: `the theory of evolution`, `evolutionary biology`
 - 주의: 세대가 지나며 생물 집단의 유전적 특성이 변하는 과정.
@@ -174,24 +199,28 @@
 
 ### [[vit#survival|survival]]
 
+- 발음: /sɚˈvaɪvəl/
 - 핵심 의미: 생존
 - 사용 맥락: `survival advantage`, `survival of the fittest`
 - 주의: 생물학에서는 살아남아 번식할 가능성과 연결됨.
 
 ### reproduction
 
+- 발음: /ˌriprəˈdʌkʃən/
 - 핵심 의미: 번식, 재생산
 - 사용 맥락: `sexual reproduction`, `reproductive success`
 - 주의: 생명체가 자손을 만드는 과정. 예술·출판에서는 복제라는 뜻도 있음.
 
 ### [[stinct#extinction|extinction]]
 
+- 발음: /ɪˈkstɪŋkʃən/
 - 핵심 의미: 멸종
 - 사용 맥락: `mass extinction`, `species extinction`
 - 주의: 한 종이 완전히 사라지는 것.
 
 ### fossil
 
+- 발음: /ˈfɑsəl/
 - 핵심 의미: 화석
 - 사용 맥락: `fossil record`, `fossil evidence`
 - 주의: 고생물학과 진화 지문에서 생물의 과거 흔적을 보여주는 증거.
@@ -200,6 +229,7 @@
 
 ### biotechnology
 
+- 발음: /ˌbaɪoʊˌtɛˈknɑlədʒi/
 - 핵심 의미: 생명공학
 - 사용 맥락: `biotechnology industry`, `agricultural biotechnology`
 - 주의: 생물학 지식을 이용해 의약품, 작물, 진단 기술 등을 만드는 분야.
@@ -212,6 +242,7 @@
 
 ### cloning
 
+- 발음: /ˈkloʊnɪŋ/
 - 핵심 의미: 복제
 - 사용 맥락: `animal cloning`, `therapeutic cloning`
 - 주의: 유전적으로 거의 같은 개체나 세포를 만드는 기술.
@@ -224,24 +255,28 @@
 
 ### vaccine
 
+- 발음: /ˌvæˈksin/
 - 핵심 의미: 백신
 - 사용 맥락: `develop a vaccine`, `vaccine efficacy`
 - 주의: 면역 반응을 유도해 질병을 예방하는 물질.
 
 ### [[mun#immunity|immunity]]
 
+- 발음: /ˌɪˈmjunəti/
 - 핵심 의미: 면역, 면제
 - 사용 맥락: `immune response`, `immunity to disease`
 - 주의: 생물학에서는 병원체에 저항하는 능력. 법률에서는 면책.
 
 ### pathogen
 
+- 발음: /ˈpæθədʒən/
 - 핵심 의미: 병원체
 - 사용 맥락: `pathogenic bacteria`, `pathogen transmission`
 - 주의: 질병을 일으키는 바이러스, 세균, 곰팡이, 기생생물 등.
 
 ### [[dia#diagnosis|diagnosis]]
 
+- 발음: /ˌdaɪəˈgnoʊsəs/
 - 핵심 의미: 진단
 - 사용 맥락: `genetic diagnosis`, `early diagnosis`
 - 주의: 질병이나 문제의 원인을 판별하는 것. 복수형은 `diagnoses`.

@@ -19,6 +19,7 @@
 
 ### heterodox
 
+- 발음: /ˈhɛtɚəˌdɑks/
 - 구성: `hetero-` = different + [[dox]] = opinion
 - 뜻: 비정통의, 이단적인, 주류와 다른
 - 어원적 연결: 정통과 다른 의견을 가짐
@@ -26,6 +27,7 @@
 
 ### heterodoxy
 
+- 발음: /ˈhɛtɚəˌdɑksi/
 - 구성: `heterodox` + `-y`
 - 뜻: 비정통, 이단적 견해
 - 어원적 연결: 공식적으로 인정된 믿음과 다른 견해
@@ -33,6 +35,7 @@
 
 ### heterogeneous
 
+- 발음: /ˌhɛtɚəˈdʒinjəs/
 - 구성: `hetero-` = different + `genos` = kind
 - 뜻: 이질적인, 여러 종류가 섞인
 - 어원적 연결: 서로 다른 종류로 이루어짐
@@ -40,6 +43,7 @@
 
 ### heterogeneity
 
+- 발음: /ˌhɛtɚədʒɪˈniəti/
 - 구성: `heterogeneous` + `-ity`
 - 뜻: 이질성, 다양하게 섞인 상태
 - 어원적 연결: 같은 종류가 아니라 여러 종류가 함께 있음
@@ -47,6 +51,7 @@
 
 ### heterosexual
 
+- 발음: /ˌhɛtɚoʊˈsɛkʃəwəl/
 - 구성: `hetero-` = different + `sexual`
 - 뜻: 이성애의
 - 어원적 연결: 다른 성에 끌림
@@ -61,6 +66,7 @@
 
 ### heterozygous
 
+- 발음: /ˌhɛtɚəˈzaɪgəs/
 - 구성: `hetero-` = different + Greek `zygon` = yoke, pair
 - 뜻: 이형접합의
 - 어원적 연결: 한 쌍의 유전자가 서로 다른 상태

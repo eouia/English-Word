@@ -20,6 +20,7 @@
 
 ### ameliorate
 
+- 발음: /əˈmiljɚˌeɪt/
 - 구성: `a-` = to + Latin `melior` = better + `-ate`
 - 뜻: 개선하다, 완화하다
 - 어원적 연결: 나쁜 상태를 더 나은 상태로 만듦
@@ -27,6 +28,7 @@
 
 ### amelioration
 
+- 발음: /əˌmiljɚˈeɪʃən/
 - 구성: `ameliorate` + `-ion`
 - 뜻: 개선, 완화
 - 어원적 연결: 더 나은 상태가 되는 과정

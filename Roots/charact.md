@@ -20,6 +20,7 @@
 
 ### character
 
+- 발음: /ˈkɛrɪktɚ/
 - 구성: Greek `kharakter` = engraved mark
 - 뜻: 성격, 특징; 등장인물; 문자
 - 어원적 연결: 새겨진 표식처럼 어떤 사람·대상을 구별하게 하는 특징
@@ -27,6 +28,7 @@
 
 ### characteristic
 
+- 발음: /ˌkɛrəktɚˈɪstɪk/
 - 구성: `character` + `-istic`
 - 뜻: 특징적인; 특징
 - 어원적 연결: 대상을 알아보게 하는 고유한 표시
@@ -34,6 +36,7 @@
 
 ### characteristically
 
+- 발음: /ˌkɛrəktɚˈɪstɪkli/
 - 구성: `characteristic` + `-ally`
 - 뜻: 특징적으로, 그 사람답게
 - 어원적 연결: 고유한 특징이 드러나는 방식
@@ -41,6 +44,7 @@
 
 ### characterize
 
+- 발음: /ˈkɛrəktɚˌaɪz/
 - 구성: `character` + `-ize`
 - 뜻: 특징짓다, 묘사하다
 - 어원적 연결: 어떤 대상의 구별되는 표지를 드러냄
@@ -48,6 +52,7 @@
 
 ### characterization
 
+- 발음: /ˌkɛrəktɚɪˈzeɪʃən/
 - 구성: `characterize` + `-ation`
 - 뜻: 묘사, 특징 규정; 인물 조형
 - 어원적 연결: 인물이나 대상을 특정한 특징으로 드러내는 과정
@@ -55,6 +60,7 @@
 
 ### characterized
 
+- 발음: /ˈkɛrəktɚˌaɪzd/
 - 구성: `characterize` + `-ed`
 - 뜻: 특징지어진, 묘사된
 - 어원적 연결: 특정 특징으로 표시된 상태
@@ -62,6 +68,7 @@
 
 ### caricature
 
+- 발음: /ˈkɛrəkətʃɚ/
 - 구성: Italian `caricatura` = a loading, exaggeration
 - 뜻: 풍자화, 희화화
 - 어원적 연결: 엄밀히는 `character`와 다른 계열이지만, 인물의 특징을 과장해 드러낸다는 학습 연결이 있음

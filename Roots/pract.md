@@ -19,6 +19,7 @@
 
 ### impractical
 
+- 발음: /ˌɪˈmpræktəkəl/
 - 구성: `im-` = not + `practical`
 - 뜻: 비현실적인, 실용적이지 않은
 - 어원적 연결: 실제 행동이나 사용으로 옮기기 어려움
@@ -26,6 +27,7 @@
 
 ### practical
 
+- 발음: /ˈpræktəkəl/
 - 구성: Greek `praktikos` = fit for action
 - 뜻: 실제적인, 실용적인
 - 어원적 연결: 이론보다 실제 행동과 적용에 맞음
@@ -33,6 +35,7 @@
 
 ### practically
 
+- 발음: /ˈpræktɪkli/
 - 구성: `practical` + `-ly`
 - 뜻: 실제로, 사실상; 거의
 - 어원적 연결: 실제 상황에서 보면 그러함
@@ -40,6 +43,7 @@
 
 ### practice
 
+- 발음: /ˈpræktəs/
 - 구성: Old French `practique` ← Greek `praktikos`
 - 뜻: 연습, 실행, 관행; 연습하다, 실행하다
 - 어원적 연결: 실제로 반복해 행함
@@ -47,6 +51,7 @@
 
 ### practiced
 
+- 발음: /ˈpræktəst/
 - 구성: `practice` + `-ed`
 - 뜻: 숙련된, 연습을 많이 한
 - 어원적 연결: 반복적으로 실행해 능숙해진 상태
@@ -54,6 +59,7 @@
 
 ### practitioner
 
+- 발음: /præˈktɪʃənɚ/
 - 구성: `practice` + `-er`
 - 뜻: 실무자, 전문직 종사자
 - 어원적 연결: 지식이나 기술을 실제로 실행하는 사람
@@ -61,6 +67,7 @@
 
 ### practicable
 
+- 발음: /ˈpræktəkəbəl/
 - 구성: `practice` + `-able`
 - 뜻: 실행 가능한, 실제로 할 수 있는
 - 어원적 연결: 실제 행동으로 옮길 수 있음
@@ -68,6 +75,7 @@
 
 ### impracticable
 
+- 발음: /ˌɪˈmpræktɪkəbəl/
 - 구성: `im-` = not + `practicable`
 - 뜻: 실행 불가능한
 - 어원적 연결: 실제 행동으로 옮길 수 없음
@@ -75,6 +83,7 @@
 
 ### pragmatic
 
+- 발음: /præˈgmætɪk/
 - 구성: Greek `pragmatikos` = skilled in affairs, practical
 - 뜻: 실용적인, 현실적인
 - 어원적 연결: 실제 일과 결과를 기준으로 판단함
@@ -82,6 +91,7 @@
 
 ### praxis
 
+- 발음: /ˈpræksɪs/
 - 구성: Greek `praxis` = action, practice
 - 뜻: 실천, 실제 활동
 - 어원적 연결: 이론이 실제 행동으로 나타남

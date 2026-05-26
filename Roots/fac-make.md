@@ -10,6 +10,7 @@
 
 ### factory
 
+- 발음: /ˈfæktɚi/
 - 구성: `fact` + `-ory`
 - 뜻: 공장
 - 어원적 연결: 물건을 만드는 장소
@@ -17,6 +18,7 @@
 
 ### factor
 
+- 발음: /ˈfæktɚ/
 - 구성: Latin `factor` = maker, doer
 - 뜻: 요인, 요소
 - 어원적 연결: 결과를 만드는 원인
@@ -24,6 +26,7 @@
 
 ### fact
 
+- 발음: /ˈfækt/
 - 구성: Latin `factum` = thing done
 - 뜻: 사실
 - 어원적 연결: 실제로 행해지거나 만들어진 일
@@ -31,6 +34,7 @@
 
 ### manufacture
 
+- 발음: /ˌmænjəˈfæktʃɚ/
 - 구성: [[manu]] = hand + `facture`
 - 뜻: 제조하다
 - 어원적 연결: 손으로 만듦
@@ -38,6 +42,7 @@
 
 ### artificial
 
+- 발음: /ˌɑrtəˈfɪʃəl/
 - 구성: [[art]] = skill + `fic`
 - 뜻: 인공적인
 - 어원적 연결: 기술로 만들어진 것
@@ -45,6 +50,7 @@
 
 ### benefit
 
+- 발음: /ˈbɛnəfɪt/
 - 구성: Latin `benefactum` = good deed
 - 뜻: 이익, 혜택
 - 어원적 연결: 좋은 일이 만들어 낸 이로움
@@ -52,6 +58,7 @@
 
 ### sacrifice
 
+- 발음: /ˈsækrəˌfaɪs/
 - 구성: `sacer` = sacred + `fic`
 - 뜻: 희생하다, 제물
 - 어원적 연결: 신성하게 만드는 행위
@@ -59,6 +66,7 @@
 
 ### feature
 
+- 발음: /ˈfitʃɚ/
 - 구성: Old French `faiture` = form, fashion, make
 - 뜻: 특징, 특집, 기능
 - 어원적 연결: 만들어진 모양이나 형성된 특징

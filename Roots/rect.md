@@ -21,6 +21,7 @@
 
 ### correct
 
+- 발음: /kɚˈɛkt/
 - 구성: `cor-` = together/completely + `rect`
 - 의미: 고치다, 올바른, 정확한
 - 어원적 연결: 틀어진 것을 바르게 만듦
@@ -28,6 +29,7 @@
 
 ### correction
 
+- 발음: /kɚˈɛkʃən/
 - 구성: `correct` + `-ion`
 - 의미: 수정, 교정
 - 어원적 연결: 바르게 고치는 행위
@@ -35,6 +37,7 @@
 
 ### incorrect
 
+- 발음: /ˌɪnkɚˈɛkt/
 - 구성: [[in]] = not + `correct`
 - 의미: 틀린, 부정확한
 - 어원적 연결: 바르지 않음
@@ -42,6 +45,7 @@
 
 ### direct
 
+- 발음: /dɚˈɛkt/
 - 구성: `di-` / `dis-` + `rect`
 - 의미: 직접의, 지시하다, 향하게 하다
 - 어원적 연결: 곧은 방향으로 이끎
@@ -49,6 +53,7 @@
 
 ### direction
 
+- 발음: /dɚˈɛkʃən/
 - 구성: `direct` + `-ion`
 - 의미: 방향, 지시
 - 어원적 연결: 곧게 향하게 하는 길
@@ -56,6 +61,7 @@
 
 ### director
 
+- 발음: /dɚˈɛktɚ/
 - 구성: `direct` + `-or`
 - 의미: 감독, 관리자, 이사
 - 어원적 연결: 방향을 잡아 이끄는 사람
@@ -63,6 +69,7 @@
 
 ### rector
 
+- 발음: /ˈrɛktɚ/
 - 구성: Latin `rector` = ruler, guide
 - 의미: 교구 목사, 대학 총장; 지도자
 - 어원적 연결: 공동체나 기관의 방향을 바로잡아 이끄는 사람
@@ -70,6 +77,7 @@
 
 ### rectory
 
+- 발음: /ˈrɛktɚi/
 - 구성: `rector` + `-y`
 - 의미: 교구 목사관, 교구 목사의 주거지
 - 어원적 연결: `rector`가 사는 집이나 그 직분과 관련된 장소
@@ -84,6 +92,7 @@
 
 ### rectify
 
+- 발음: /ˈrɛktəˌfaɪ/
 - 구성: Latin `rectus` = right + `facere` = make
 - 의미: 바로잡다, 교정하다
 - 어원적 연결: 바른 상태로 만듦
@@ -91,6 +100,7 @@
 
 ### redress
 
+- 발음: /rɪˈdrɛs/
 - 구성: `re-` = again/back + Old French `redrecier/redresier`
 - 의미: 바로잡다, 시정하다; 보상, 구제
 - 역사적 형태: Old French `redrecier/redresier` ← `re-` + `drecier/dresser` ← Vulgar Latin `*directiare` ← Latin `directus`
@@ -106,6 +116,7 @@
 
 ### rectangle
 
+- 발음: /ˈrɛktæŋgəl/
 - 구성: `rect` = right/straight + [[angl]] = angle
 - 의미: 직사각형
 - 어원적 연결: 바른 각, 즉 직각을 가진 도형
@@ -113,6 +124,7 @@
 
 ### rectangular
 
+- 발음: /rɛˈktæŋgjəlɚ/
 - 구성: `rectangle` + `-ar`
 - 의미: 직사각형의
 - 어원적 연결: 직각으로 된 네모 모양
@@ -120,6 +132,7 @@
 
 ### rectitude
 
+- 발음: /ˈrɛktɪˌtud/
 - 구성: Latin `rectitudo`
 - 의미: 정직, 올바름
 - 어원적 연결: 마음이나 행동이 곧고 바름
@@ -127,6 +140,7 @@
 
 ### erect
 
+- 발음: /ɪˈrɛkt/
 - 구성: `e-` = out/up + `rect`
 - 의미: 똑바로 세우다, 직립한
 - 어원적 연결: 위로 곧게 세움
@@ -134,6 +148,7 @@
 
 ### adroit
 
+- 발음: /əˈdrɔɪt/
 - 구성: French `a droit` = according to right
 - 의미: 능숙한, 재치 있는, 솜씨 좋은
 - 어원적 연결: 바른쪽·바른 방향으로 잘 움직임 → 손재주와 판단이 능숙함
@@ -141,6 +156,7 @@
 
 ### adroitly
 
+- 발음: /əˈdrɔɪtli/
 - 구성: `adroit` + `-ly`
 - 의미: 능숙하게, 재치 있게
 - 어원적 연결: 바르게 잘 처리하는 방식
@@ -155,6 +171,7 @@
 
 ### maladroit
 
+- 발음: /ˌmæləˈdrɔɪt/
 - 구성: `mal-` = bad + `adroit`
 - 의미: 서투른, 솜씨 없는, 눈치 없는
 - 어원적 연결: 바르게 처리하지 못함

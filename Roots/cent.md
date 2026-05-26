@@ -19,6 +19,7 @@
 
 ### century
 
+- 발음: /ˈsɛntʃɚi/
 - 구성: Latin `centuria` = group of one hundred
 - 뜻: 세기, 100년
 - 어원적 연결: 100개 단위 → 100년 단위
@@ -26,6 +27,7 @@
 
 ### cent
 
+- 발음: /ˈsɛnt/
 - 구성: Latin `centum` = hundred
 - 뜻: 센트, 1달러의 100분의 1
 - 어원적 연결: 전체를 100으로 나눈 한 부분
@@ -33,6 +35,7 @@
 
 ### percent
 
+- 발음: /pɚˈsɛnt/
 - 구성: `per` = by, for each + `cent` = hundred
 - 뜻: 퍼센트, 백분율
 - 어원적 연결: 100마다 얼마인지 나타냄
@@ -40,6 +43,7 @@
 
 ### percentage
 
+- 발음: /pɚˈsɛntədʒ/
 - 구성: `percent` + `-age`
 - 뜻: 비율, 백분율
 - 어원적 연결: 100을 기준으로 나타낸 몫
@@ -47,6 +51,7 @@
 
 ### centennial
 
+- 발음: /sɛˈntɛniəl/
 - 구성: `cent` = hundred + Latin `annus` = year
 - 뜻: 100년마다의, 100주년
 - 어원적 연결: 100년이 된 때
@@ -54,6 +59,7 @@
 
 ### bicentennial
 
+- 발음: /ˌbaɪsɛˈntɛniəl/
 - 구성: `bi-` = two + `centennial`
 - 뜻: 200주년
 - 어원적 연결: 100년이 두 번 지난 기념
@@ -61,6 +67,7 @@
 
 ### centenary
 
+- 발음: /ˈsɛntəˌnɛri/
 - 구성: Latin `centenarius` = of a hundred
 - 뜻: 100주년, 100년의
 - 어원적 연결: 100이라는 수와 관련됨
@@ -68,6 +75,7 @@
 
 ### centenarian
 
+- 발음: /ˌsɛntəˈnɛriən/
 - 구성: `centenary` 계열 + `-ian`
 - 뜻: 100세 이상인 사람
 - 어원적 연결: 100년을 산 사람
@@ -75,6 +83,7 @@
 
 ### centimeter
 
+- 발음: /ˈsɛntəˌmitɚ/
 - 구성: `centi-` = one hundredth + [[metr]]
 - 뜻: 센티미터, 1미터의 100분의 1
 - 어원적 연결: 미터를 100으로 나눈 한 단위
@@ -82,6 +91,7 @@
 
 ### centigrade
 
+- 발음: /ˈsɛntəˌgreɪd/
 - 구성: `centi-` = hundred + `grade` = step, degree
 - 뜻: 섭씨의, 100등분 온도 눈금의
 - 어원적 연결: 물의 어는점과 끓는점 사이를 100등분한 눈금
@@ -89,6 +99,7 @@
 
 ### centipede
 
+- 발음: /ˈsɛntɪˌpid/
 - 구성: `centi-` = hundred + [[ped]]
 - 뜻: 지네
 - 어원적 연결: 발이 100개쯤 되는 듯 많다는 이미지
@@ -96,6 +107,7 @@
 
 ### centurion
 
+- 발음: /sɛˈntʊriən/
 - 구성: Latin `centurio` ← `centuria`
 - 뜻: 로마 군대의 백인대장
 - 어원적 연결: 100명 단위 부대를 이끄는 장교

@@ -19,6 +19,7 @@
 
 ### rebellion
 
+- 발음: /rɪˈbɛljən/
 - 구성: `re-` = again/back + Latin `bellum`
 - 뜻: 반란, 저항, 반항
 - 어원적 연결: 지배 권위에 맞서 다시 싸움을 일으킴
@@ -26,6 +27,7 @@
 
 ### rebel
 
+- 발음: n. /ˈrɛbəl/, v. /rɪˈbɛl/
 - 구성: Latin `rebellis` = waging war again
 - 뜻: 반란군, 반항자; 반항하다
 - 어원적 연결: 권위나 지배에 맞서 싸우는 사람
@@ -33,6 +35,7 @@
 
 ### rebellious
 
+- 발음: /rɪˈbɛljəs/
 - 구성: `rebel` + `-ious`
 - 뜻: 반항적인, 반란을 일으키는
 - 어원적 연결: 권위에 맞서 싸우려는 성향
@@ -40,6 +43,7 @@
 
 ### belligerent
 
+- 발음: /bəˈlɪdʒɚənt/
 - 구성: Latin `bellum` = war + `gerere` = carry on
 - 뜻: 호전적인, 교전 중인
 - 어원적 연결: 전쟁을 수행하거나 싸움을 걸려는 태도
@@ -47,6 +51,7 @@
 
 ### bellicose
 
+- 발음: /ˈbɛləˌkoʊs/
 - 구성: Latin `bellicosus` ← `bellum`
 - 뜻: 호전적인, 싸움을 좋아하는
 - 어원적 연결: 전쟁을 좋아하거나 싸움에 기울어진 성향
@@ -54,6 +59,7 @@
 
 ### antebellum
 
+- 발음: /ˌæntɪˈbɛləm/
 - 구성: `ante-` = before + `bellum`
 - 뜻: 전쟁 전의, 특히 미국 남북전쟁 이전의
 - 어원적 연결: 전쟁이 일어나기 전 시기

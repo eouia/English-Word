@@ -19,6 +19,7 @@
 
 ### vine
 
+- 발음: /ˈvaɪn/
 - 구성: Latin `vinea` = vine, vineyard
 - 뜻: 덩굴식물, 포도나무
 - 연결: 포도나무처럼 감고 올라가는 식물
@@ -26,6 +27,7 @@
 
 ### vineyard
 
+- 발음: /ˈvɪnjɚd/
 - 구성: `vine` + `yard`
 - 뜻: 포도밭
 - 연결: 포도나무를 기르는 울타리 친 땅
@@ -33,6 +35,7 @@
 
 ### wine
 
+- 발음: /ˈwaɪn/
 - 구성: Latin `vinum` → Old English `win`
 - 뜻: 포도주, 와인
 - 연결: 포도로 만든 술
@@ -40,6 +43,7 @@
 
 ### vintage
 
+- 발음: /ˈvɪntɪdʒ/
 - 구성: Old French `vendange` = grape harvest, from Latin `vindemia`
 - 뜻: 특정 연도산 와인; 빈티지의, 오래되어 가치 있는
 - 연결: 원래는 포도 수확, 특히 어느 해에 수확한 포도로 만든 와인
@@ -61,6 +65,7 @@
 
 ### vintner
 
+- 발음: /ˈvɪntnɚ/
 - 구성: Old French `vintner`, from `vin` = wine
 - 뜻: 와인 상인, 와인 제조업자
 - 연결: 와인을 만들거나 파는 사람
@@ -68,6 +73,7 @@
 
 ### vinegar
 
+- 발음: /ˈvɪnəgɚ/
 - 구성: Old French `vin aigre` = sour wine
 - 뜻: 식초
 - 연결: 시어진 포도주에서 나온 말

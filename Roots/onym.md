@@ -19,6 +19,7 @@
 
 ### synonym
 
+- 발음: /ˈsɪnəˌnɪm/
 - 구성: [[sym]] = together, same + `onym` = name
 - 뜻: 동의어
 - 어원적 연결: 같은 의미를 가리키는 이름
@@ -33,6 +34,7 @@
 
 ### homonym
 
+- 발음: /ˈhɔmənɪm/
 - 구성: `homo-` = same + `onym`
 - 뜻: 동음이의어, 동형이의어
 - 어원적 연결: 이름이나 형태가 같지만 뜻이 다름
@@ -40,6 +42,7 @@
 
 ### anonymous
 
+- 발음: /əˈnɑnəməs/
 - 구성: `an-` = without + `onym`
 - 뜻: 익명의
 - 어원적 연결: 이름이 없음
@@ -47,6 +50,7 @@
 
 ### pseudonym
 
+- 발음: /ˈsudəˌnɪm/
 - 구성: `pseudo-` = false + `onym`
 - 뜻: 가명, 필명
 - 어원적 연결: 진짜 이름 대신 쓰는 가짜 이름
@@ -54,6 +58,7 @@
 
 ### acronym
 
+- 발음: /ˈækrənɪm/
 - 구성: Greek `akros` = tip, end + `onym`
 - 뜻: 두문자어
 - 어원적 연결: 단어들의 앞머리 글자로 만든 이름

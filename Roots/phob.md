@@ -19,6 +19,7 @@
 
 ### phobia
 
+- 발음: /ˈfoʊbiə/
 - 구성: Greek `phobos` = fear + `-ia`
 - 뜻: 공포증, 병적인 두려움
 - 어원적 연결: 어떤 대상을 두려워하는 상태
@@ -26,6 +27,7 @@
 
 ### phobic
 
+- 발음: /ˈfoʊbɪk/
 - 구성: `phobia` + `-ic`
 - 뜻: 공포증의, 강한 반감을 가진
 - 어원적 연결: 두려움이나 혐오가 성질처럼 나타남
@@ -33,6 +35,7 @@
 
 ### claustrophobia
 
+- 발음: /ˌklɔstrəˈfoʊbiə/
 - 구성: Latin `claustrum` = closed place + `phobia`
 - 뜻: 폐소공포증
 - 어원적 연결: 닫힌 공간에 대한 두려움
@@ -47,6 +50,7 @@
 
 ### xenophobia
 
+- 발음: /ˌzɛnəˈfoʊbiə/
 - 구성: Greek `xenos` = stranger, foreigner + `phobia`
 - 뜻: 외국인 혐오, 이방인 혐오
 - 어원적 연결: 낯선 사람·외부 집단에 대한 두려움이 혐오로 확장
@@ -54,6 +58,7 @@
 
 ### homophobia
 
+- 발음: /ˌhoʊməˈfoʊbiə/
 - 구성: `homo-` = same, homosexual + `phobia`
 - 뜻: 동성애 혐오
 - 어원적 연결: 특정 정체성에 대한 두려움·반감의 의미로 확장

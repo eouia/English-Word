@@ -20,6 +20,7 @@
 
 ### unobtrusive
 
+- 발음: /ˌʌnəˈbtrusɪv/
 - 구성: `un-` = not + `obtrusive`
 - 뜻: 눈에 띄지 않는, 튀지 않는, 조심스러운
 - 어원적 연결: 앞으로 밀고 나와 방해하지 않음
@@ -41,6 +42,7 @@
 
 ### obtrusive
 
+- 발음: /əˈbtrusɪv/
 - 구성: Latin `obtrudere` = thrust upon
 - 뜻: 눈에 거슬리는, 주제넘게 끼어드는
 - 어원적 연결: 앞으로 밀고 나와 시야나 상황을 방해함
@@ -55,6 +57,7 @@
 
 ### obtrude
 
+- 발음: /əˈbtrud/
 - 구성: `ob-` = against, toward + Latin `trudere` = push
 - 뜻: 불쑥 끼어들다, 강요하다
 - 어원적 연결: 상대 앞에 억지로 밀어 넣음
@@ -62,6 +65,7 @@
 
 ### intrusive
 
+- 발음: /ˌɪˈntrusɪv/
 - 구성: Latin `intrudere` = push in
 - 뜻: 침입하는, 간섭하는, 거슬리는
 - 어원적 연결: 안으로 밀고 들어감
@@ -69,6 +73,7 @@
 
 ### intrusion
 
+- 발음: /ˌɪˈntruʒən/
 - 구성: `intrude` + `-ion`
 - 뜻: 침입, 간섭, 끼어듦
 - 어원적 연결: 안으로 밀고 들어가는 행위

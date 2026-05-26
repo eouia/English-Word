@@ -6,36 +6,42 @@
 
 ### privacy
 
+- 발음: /ˈpraɪvəsi/
 - 핵심 의미: 사생활, 개인정보 보호
 - 사용 맥락: `privacy rights`, `data privacy`
 - 주의: 숨길 것이 있다는 뜻이 아니라 개인이 정보 공개와 접근을 통제할 권리.
 
 ### [[vid-watch#surveillance|surveillance]]
 
+- 발음: /sɚˈveɪləns/
 - 핵심 의미: 감시
 - 사용 맥락: `mass surveillance`, `surveillance technology`
 - 주의: 범죄 예방이나 보안 목적일 수 있지만 권력 남용과 자유 침해 논쟁도 큼.
 
 ### consent ([[con#consent|con]], [[sent#consent|sent]])
 
+- 발음: /kəˈnsɛnt/
 - 핵심 의미: 동의
 - 사용 맥락: `informed consent`, `user consent`
 - 주의: 개인정보 처리에서는 사용자가 무엇에 동의하는지 알고 자유롭게 선택해야 함.
 
 ### anonymity
 
+- 발음: /ˌænəˈnɪmɪti/
 - 핵심 의미: 익명성
 - 사용 맥락: `online anonymity`, `protect anonymity`
 - 주의: 표현의 자유를 보호할 수 있지만 책임 회피나 범죄와도 논쟁됨.
 
 ### confidentiality
 
+- 발음: /ˌkɑnfəˌdɛnʃiˈæləti/
 - 핵심 의미: 비밀 유지
 - 사용 맥락: `doctor-patient confidentiality`, `confidentiality agreement`
 - 주의: 특정 정보가 허가된 사람에게만 공유되어야 한다는 원칙.
 
 ### transparency
 
+- 발음: /træˈnspɛrənsi/
 - 핵심 의미: 투명성
 - 사용 맥락: `algorithmic transparency`, `government transparency`
 - 주의: 감시 권한이나 데이터 처리 방식이 공개되고 설명 가능해야 한다는 요구.
@@ -50,18 +56,21 @@
 
 ### encryption
 
+- 발음: /ɛˈnkrɪpʃən/
 - 핵심 의미: 암호화
 - 사용 맥락: `end-to-end encryption`, `encrypted messages`
 - 주의: 정보를 읽을 수 없는 형태로 바꾸어 허가된 사람만 해독하게 함.
 
 ### [[authent#authentication|authentication]]
 
+- 발음: /ɔˌθɛntəˈkeɪʃən/
 - 핵심 의미: 인증
 - 사용 맥락: `two-factor authentication`
 - 주의: 사용자가 실제로 누구인지 확인하는 절차.
 
 ### biometric
 
+- 발음: /ˌbaɪəˈmɛtrək/
 - 핵심 의미: 생체 인식의
 - 사용 맥락: `biometric data`, `biometric identification`
 - 주의: 지문, 얼굴, 홍채처럼 신체 특징을 이용하므로 민감정보 논쟁이 큼.
@@ -74,6 +83,7 @@
 
 ### algorithm
 
+- 발음: /ˈælgɚˌɪðəm/
 - 핵심 의미: 알고리즘
 - 사용 맥락: `algorithmic surveillance`, `recommendation algorithm`
 - 주의: 데이터 처리 규칙. 편향과 설명 가능성 문제가 자주 따라옴.
@@ -88,12 +98,14 @@
 
 ### censorship
 
+- 발음: /ˈsɛnsɚˌʃɪp/
 - 핵심 의미: 검열
 - 사용 맥락: `internet censorship`, `state censorship`
 - 주의: 정보 접근이나 표현을 권력이 제한하는 행위.
 
 ### whistleblower
 
+- 발음: /ˈwɪsəˌlbloʊɚ/
 - 핵심 의미: 내부고발자
 - 사용 맥락: `whistleblower protections`, `government whistleblower`
 - 주의: 조직 내부의 위법·부당 행위를 공개하는 사람.
@@ -106,12 +118,14 @@
 
 ### [[warrant#warrant|warrant]]
 
+- 발음: /ˈwɔrənt/
 - 핵심 의미: 영장
 - 사용 맥락: `search warrant`, `warrantless surveillance`
 - 주의: 수색이나 감청 등 강제 조치를 법원이 허가하는 문서.
 
 ### oversight
 
+- 발음: /ˈoʊvɚˌsaɪt/
 - 핵심 의미: 감독, 감시 통제
 - 사용 맥락: `congressional oversight`, `oversight of intelligence agencies`
 - 주의: 권력기관이 법과 절차를 지키는지 감시하는 제도.

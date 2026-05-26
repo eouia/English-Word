@@ -20,6 +20,7 @@
 
 ### county
 
+- 발음: /ˈkaʊnti/
 - 구성: Anglo-French `counté` = region under a count
 - 뜻: 군, 카운티, 지방 행정 구역
 - 어원적 연결: 원래 `count`가 다스리던 지역
@@ -27,6 +28,7 @@
 
 ### count
 
+- 발음: /ˈkaʊnt/
 - 구성: Old French `conte/comte` ← Latin `comitem` = companion, attendant
 - 뜻: 백작, count
 - 어원적 연결: 원래 권력자의 수행원·동료였던 사람이 관직·귀족 칭호로 발전
@@ -34,6 +36,7 @@
 
 ### countess
 
+- 발음: /ˈkaʊntəs/
 - 구성: `count` + `-ess`
 - 뜻: 백작부인, 여성 백작
 - 어원적 연결: `count`의 여성형 또는 배우자 칭호
@@ -41,6 +44,7 @@
 
 ### viscount
 
+- 발음: /ˈvɪskaʊnt/
 - 구성: Old French `visconte` ← Latin `vicecomes` = deputy count
 - 뜻: 자작
 - 어원적 연결: `vice-` = in place of + `count`; 원래 백작을 대신하던 관직
@@ -62,6 +66,7 @@
 
 ### committee
 
+- 발음: /kəˈmɪti/
 - 구성: 다른 갈래. `commit` + `-ee`
 - 뜻: 위원회
 - 어원적 연결: Latin `committere` = entrust, join, send together 계열

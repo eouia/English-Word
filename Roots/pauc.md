@@ -9,6 +9,7 @@
 
 ### paucity
 
+- 발음: /ˈpɔsəˌti/
 - 구성: Latin `paucitas` < `paucus` = few, little
 - 뜻: 부족, 결핍, 적음
 - 어원적 연결: 수나 양이 적어서 충분하지 않은 상태

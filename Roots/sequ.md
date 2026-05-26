@@ -20,6 +20,7 @@
 
 ### sequence
 
+- 발음: /ˈsikwəns/
 - 구성: Latin `sequi`
 - 뜻: 순서, 연속
 - 어원적 연결: 뒤따라 이어지는 배열
@@ -27,6 +28,7 @@
 
 ### sequential
 
+- 발음: /səˈkwɛnʃəl/
 - 구성: `sequence` + `-ial`
 - 뜻: 순차적인
 - 어원적 연결: 차례대로 뒤따라 이어짐
@@ -34,6 +36,7 @@
 
 ### consequence
 
+- 발음: /ˈkɑnsəkwəns/
 - 구성: `con-` = together, after + `sequi`
 - 뜻: 결과, 중요성
 - 어원적 연결: 어떤 일 뒤를 따라오는 것
@@ -41,6 +44,7 @@
 
 ### subsequent
 
+- 발음: /ˈsʌbsəkwənt/
 - 구성: `sub-` = after, under + Latin `sequi`
 - 뜻: 그다음의, 이후의
 - 어원적 연결: 앞선 일 뒤를 따라옴
@@ -48,6 +52,7 @@
 
 ### consecutive
 
+- 발음: /kəˈnsɛkjətɪv/
 - 구성: `con-` = together + Latin `secutus`
 - 뜻: 연속적인
 - 어원적 연결: 서로 뒤따라 끊기지 않고 이어짐
@@ -55,6 +60,7 @@
 
 ### execute
 
+- 발음: /ˈɛksəˌkjut/
 - 구성: `ex-` = out + Latin `sequi`
 - 뜻: 실행하다, 처형하다
 - 어원적 연결: 계획을 끝까지 따라가 밖으로 수행함
@@ -62,6 +68,7 @@
 
 ### execution
 
+- 발음: /ˌɛksəˈkjuʃən/
 - 구성: `execute` + `-ion`
 - 뜻: 실행, 수행, 처형
 - 어원적 연결: 일을 끝까지 따라가 실제로 해냄
@@ -69,6 +76,7 @@
 
 ### prosecute
 
+- 발음: /ˈprɑsəˌkjut/
 - 구성: `pro-` = forward + Latin `sequi`
 - 뜻: 기소하다, 수행하다
 - 어원적 연결: 앞으로 계속 따라가며 법적으로 추적함
@@ -76,6 +84,7 @@
 
 ### persecute
 
+- 발음: /ˈpɝsəˌkjut/
 - 구성: `per-` = thoroughly + Latin `sequi`
 - 뜻: 박해하다
 - 어원적 연결: 끝까지 따라다니며 괴롭힘
@@ -83,6 +92,7 @@
 
 ### persecution
 
+- 발음: /ˌpɝsəˈkjuʃən/
 - 구성: `persecute` + `-ion`
 - 뜻: 박해
 - 어원적 연결: 특정 집단이나 사람을 집요하게 따라다니며 괴롭히는 행위

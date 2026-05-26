@@ -20,6 +20,7 @@
 
 ### discount
 
+- 발음: n. /ˈdɪskaʊnt/, v. /dɪˈskaʊnt/
 - 구성: `dis-` = off/away + `count`
 - 뜻: 할인, 할인하다; 무시하다, 평가절하하다
 - 어원적 연결: 전체 계산에서 일정 부분을 빼거나 덜어 냄
@@ -27,6 +28,7 @@
 
 ### count
 
+- 발음: /ˈkaʊnt/
 - 구성: Old French `conter` ← Latin `computare` = count, reckon
 - 뜻: 세다, 계산하다; 중요하다
 - 어원적 연결: 수를 세어 계산에 넣음. 계산에 들어가므로 중요하다는 뜻으로 확장
@@ -34,6 +36,7 @@
 
 ### account
 
+- 발음: /əˈkaʊnt/
 - 구성: Old French `aconter` = count up, reckon
 - 뜻: 계좌, 설명, 보고; 설명하다
 - 어원적 연결: 계산해 정리한 내역에서 보고·설명으로 확장
@@ -41,6 +44,7 @@
 
 ### accountant
 
+- 발음: /əˈkaʊntənt/
 - 구성: `account` + `-ant`
 - 뜻: 회계사
 - 어원적 연결: 계산 내역을 정리하고 책임지는 사람
@@ -48,6 +52,7 @@
 
 ### accountability
 
+- 발음: /əˈkaʊntəˌbɪlɪti/
 - 구성: `accountable` + `-ity`
 - 뜻: 책임, 설명 책임
 - 어원적 연결: 자신의 행동을 계산 내역처럼 설명해야 하는 상태
@@ -55,6 +60,7 @@
 
 ### recount
 
+- 발음: /rɪˈkaʊnt/
 - 구성: `re-` = again + `count`
 - 뜻: 다시 세다; 자세히 이야기하다
 - 어원적 연결: 수를 다시 세거나, 사건을 차례로 세듯 말함
@@ -62,6 +68,7 @@
 
 ### compute
 
+- 발음: /kəˈmpjut/
 - 구성: Latin `com-` = together + `putare` = reckon
 - 뜻: 계산하다
 - 어원적 연결: 여러 값을 함께 모아 따져 계산함
@@ -69,6 +76,7 @@
 
 ### computation
 
+- 발음: /ˌkɑmpjəˈteɪʃən/
 - 구성: `compute` + `-ation`
 - 뜻: 계산, 연산
 - 어원적 연결: 값을 따져 합산하고 처리하는 과정
@@ -76,6 +84,7 @@
 
 ### computer
 
+- 발음: /kəˈmpjutɚ/
 - 구성: `compute` + `-er`
 - 뜻: 컴퓨터; 원래 계산하는 사람
 - 어원적 연결: 계산을 수행하는 사람 또는 기계
@@ -83,6 +92,7 @@
 
 ### putative
 
+- 발음: /ˈpjutətɪv/
 - 구성: Latin `putativus` ← `putare` = reckon, suppose
 - 뜻: 추정상의, 소위의
 - 어원적 연결: 계산하듯 따져 그렇게 여겨지는 것
@@ -90,6 +100,7 @@
 
 ### reputation
 
+- 발음: /ˌrɛpjəˈteɪʃən/
 - 구성: Latin `reputare` = think over, reckon
 - 뜻: 평판, 명성
 - 어원적 연결: 사람들이 반복해서 따져 평가한 결과
@@ -97,6 +108,7 @@
 
 ### impute
 
+- 발음: /ˌɪˈmpjut/
 - 구성: Latin `in-` = in/to + `putare` = reckon
 - 뜻: 탓으로 돌리다, 귀속시키다
 - 어원적 연결: 어떤 원인이나 책임을 계산에 넣어 배정함
@@ -104,6 +116,7 @@
 
 ### dispute
 
+- 발음: /dɪˈspjut/
 - 구성: Latin `dis-` = apart + `putare` = reckon, consider
 - 뜻: 논쟁하다, 다투다; 분쟁
 - 어원적 연결: 문제를 갈라 따져 보며 서로 다른 계산·판단을 내놓음
@@ -111,6 +124,7 @@
 
 ### disputed
 
+- 발음: /dɪˈspjutəd/
 - 구성: `dispute` + `-ed`
 - 뜻: 논란이 있는, 다툼의 대상인
 - 어원적 연결: 서로 다르게 따져 보며 아직 합의되지 않은 상태
@@ -118,6 +132,7 @@
 
 ### disputable
 
+- 발음: /dɪˈspjutəbəl/
 - 구성: `dispute` + `-able`
 - 뜻: 논쟁의 여지가 있는
 - 어원적 연결: 서로 다르게 따져 볼 수 있어 확정되지 않음
@@ -125,6 +140,7 @@
 
 ### indisputable
 
+- 발음: /ˌɪndɪˈspjutəbəl/
 - 구성: `in-` = not + `disputable`
 - 뜻: 반박할 수 없는, 명백한
 - 어원적 연결: 더 따져 다툴 수 없을 만큼 확실함
@@ -132,6 +148,7 @@
 
 ### indisputably
 
+- 발음: /ˌɪˈndɪspjuˌtæˌbli/
 - 구성: `indisputable` + `-ly`
 - 뜻: 명백히, 반박의 여지 없이
 - 어원적 연결: 따져 다툴 여지가 없는 방식
@@ -139,6 +156,7 @@
 
 ### disputation
 
+- 발음: /dɪˈspjuˈteɪʃən/
 - 구성: `dispute` + `-ation`
 - 뜻: 논쟁, 토론
 - 어원적 연결: 서로 다른 판단을 놓고 따지는 행위
@@ -146,6 +164,7 @@
 
 ### undisputed
 
+- 발음: /ˌʌndɪˈspjutɪd/
 - 구성: `un-` = not + `disputed`
 - 뜻: 논란의 여지가 없는, 명백한
 - 어원적 연결: 더 이상 따져 다툴 여지가 없음

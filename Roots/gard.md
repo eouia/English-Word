@@ -20,6 +20,7 @@
 
 ### garden
 
+- 발음: /ˈgɑrdən/
 - 구성: Germanic `gard-` = enclosure
 - 뜻: 정원
 - 어원적 연결: 울타리로 둘러싸인 가꾸는 땅
@@ -27,6 +28,7 @@
 
 ### gardener
 
+- 발음: /ˈgɑrdənɚ/
 - 구성: `garden` + `-er`
 - 뜻: 정원사
 - 어원적 연결: 둘러싸인 정원을 가꾸는 사람
@@ -34,6 +36,7 @@
 
 ### gardening
 
+- 발음: /ˈgɑrdənɪŋ/
 - 구성: `garden` + `-ing`
 - 뜻: 정원 가꾸기
 - 어원적 연결: 정원을 돌보고 가꾸는 일
@@ -41,6 +44,7 @@
 
 ### yard
 
+- 발음: /ˈjɑrd/
 - 구성: Old English `geard` = fenced enclosure
 - 뜻: 마당, 뜰
 - 어원적 연결: 집 주변의 둘러싸인 땅
@@ -48,6 +52,7 @@
 
 ### courtyard
 
+- 발음: /ˈkɔˌrtjɑrd/
 - 구성: [[court]] + `yard`
 - 뜻: 안뜰
 - 어원적 연결: 건물이나 벽으로 둘러싸인 마당
@@ -55,6 +60,7 @@
 
 ### garth
 
+- 발음: /ˈgɑrθ/
 - 구성: Old Norse `garthr` = yard, enclosure
 - 뜻: 안뜰, 둘러싸인 땅
 - 어원적 연결: 울타리나 벽 안의 공간
@@ -62,6 +68,7 @@
 
 ### kindergarten
 
+- 발음: /ˈkɪndɚˌgɑrtən/
 - 구성: German `Kinder` = children + `Garten` = garden
 - 뜻: 유치원
 - 어원적 연결: 아이들을 가꾸는 정원이라는 은유
@@ -76,6 +83,7 @@
 
 ### orchard
 
+- 발음: /ˈɔrtʃɚd/
 - 구성: Old English `ortgeard/wortgeard`
 - 뜻: 과수원
 - 어원적 연결: 식물·과일나무를 기르는 둘러싸인 땅. 첫 부분은 식물 뜻이고, 뒤의 `geard`가 울타리 안 땅

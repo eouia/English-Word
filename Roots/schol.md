@@ -19,6 +19,7 @@
 
 ### scholarly
 
+- 발음: /ˈskɑlɚli/
 - 구성: `scholar` + `-ly`
 - 뜻: 학문적인, 학자다운
 - 연결: 깊이 연구하고 근거를 갖춘 학자의 태도
@@ -26,6 +27,7 @@
 
 ### scholar
 
+- 발음: /ˈskɑlɚ/
 - 구성: Old English `scolere`, from Latin `schola`, Greek `skhole`
 - 뜻: 학자, 장학생
 - 연결: 배움과 연구에 종사하는 사람
@@ -33,6 +35,7 @@
 
 ### school
 
+- 발음: /ˈskul/
 - 구성: Latin `schola`, from Greek `skhole`
 - 뜻: 학교, 학파; 가르치다
 - 연결: 여유 시간을 배움과 토론에 쓰는 장소
@@ -40,6 +43,7 @@
 
 ### schooling
 
+- 발음: /ˈskulɪŋ/
 - 구성: `school` + `-ing`
 - 뜻: 학교 교육, 훈련
 - 연결: 학교나 제도 안에서 배우는 과정
@@ -47,6 +51,7 @@
 
 ### scholarship
 
+- 발음: /ˈskɑlɚˌʃɪp/
 - 구성: `scholar` + `-ship`
 - 뜻: 장학금; 학문, 학식
 - 연결: 학문을 하는 자격이나 그 지원
@@ -54,6 +59,7 @@
 
 ### scholastic
 
+- 발음: /skəˈlæstɪk/
 - 구성: Latin `scholasticus` = of a school
 - 뜻: 학교의, 학문적인; 스콜라 철학의
 - 연결: 학교식 학문과 관련됨
@@ -61,6 +67,7 @@
 
 ### preschool
 
+- 발음: /priˈskul/
 - 구성: `pre-` = before + `school`
 - 뜻: 유치원, 취학 전의
 - 연결: 정식 학교에 들어가기 전 단계

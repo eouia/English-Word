@@ -21,6 +21,7 @@
 
 ### policy
 
+- 발음: /ˈpɑləsi/
 - 구성: Greek `politeia` = civil administration
 - 뜻: 정책, 방침
 - 어원적 연결: 공동체를 운영하기 위한 계획이나 원칙
@@ -42,6 +43,7 @@
 
 ### polity
 
+- 발음: /ˈpɑləti/
 - 구성: Greek `politeia`
 - 뜻: 정치 조직체, 국가 체제, 공동체
 - 어원적 연결: 시민 공동체가 제도적으로 조직된 모습
@@ -49,6 +51,7 @@
 
 ### politics
 
+- 발음: /ˈpɑləˌtɪks/
 - 구성: Greek `ta politika` = affairs of state
 - 뜻: 정치, 정치 활동
 - 어원적 연결: 도시국가와 시민 공동체의 일을 다룸
@@ -56,6 +59,7 @@
 
 ### political
 
+- 발음: /pəˈlɪtəkəl/
 - 구성: `politic` + `-al`
 - 뜻: 정치의, 정치적인
 - 어원적 연결: 시민 공동체의 운영과 관련됨
@@ -63,6 +67,7 @@
 
 ### politician
 
+- 발음: /ˌpɑləˈtɪʃən/
 - 구성: `politic` + `-ian`
 - 뜻: 정치인
 - 어원적 연결: 공동체 운영에 참여하거나 권력을 다루는 사람
@@ -70,6 +75,7 @@
 
 ### politic
 
+- 발음: /ˈpɑləˌtɪk/
 - 구성: Greek `politikos` = civic, of citizens
 - 뜻: 신중한, 분별 있는; 정치적인
 - 어원적 연결: 공동체 운영에 맞게 계산된 태도
@@ -77,6 +83,7 @@
 
 ### politicize
 
+- 발음: /pəˈlɪtɪˌsaɪz/
 - 구성: `politic` + `-ize`
 - 뜻: 정치화하다
 - 어원적 연결: 어떤 문제를 정치 공동체의 갈등이나 쟁점으로 만듦
@@ -84,6 +91,7 @@
 
 ### police
 
+- 발음: /pəˈlis/
 - 구성: Middle French `police` ← Latin `politia`
 - 뜻: 경찰, 치안 조직
 - 어원적 연결: 원래는 공동체의 질서와 행정을 관리함
@@ -91,6 +99,7 @@
 
 ### metropolis
 
+- 발음: /məˈtrɑpələs/
 - 구성: Greek `meter` = mother + `polis` = city
 - 뜻: 대도시, 중심 도시
 - 어원적 연결: 식민 도시들의 “어머니 도시” → 중심 도시
@@ -98,6 +107,7 @@
 
 ### metropolitan
 
+- 발음: /ˌmɛtrəˈpɑlətən/
 - 구성: `metropolis` + `-an`
 - 뜻: 대도시의, 수도권의
 - 어원적 연결: 중심 도시와 그 주변 권역에 속함
@@ -105,6 +115,7 @@
 
 ### cosmopolitan
 
+- 발음: /ˌkɑzməˈpɑlətən/
 - 구성: Greek `kosmos` = world + `polites` = citizen
 - 뜻: 세계시민적인, 국제적인
 - 어원적 연결: 한 도시가 아니라 세계를 공동체로 보는 시민
@@ -112,6 +123,7 @@
 
 ### acropolis
 
+- 발음: /əˈkrɑpələs/
 - 구성: Greek `akros` = high + `polis` = city
 - 뜻: 아크로폴리스, 높은 성채 도시
 - 어원적 연결: 도시의 높은 곳에 있는 요새·성소
@@ -119,6 +131,7 @@
 
 ### megalopolis
 
+- 발음: /ˌmɛgəˈlɑpələs/
 - 구성: Greek `megas` = great + `polis` = city
 - 뜻: 거대 도시권
 - 어원적 연결: 여러 도시가 이어진 거대한 도시 집합
@@ -126,6 +139,7 @@
 
 ### necropolis
 
+- 발음: /nəˈkrɑpələs/
 - 구성: Greek `nekros` = dead + `polis` = city
 - 뜻: 공동묘지, 죽은 자의 도시
 - 어원적 연결: 무덤들이 모인 도시 같은 장소

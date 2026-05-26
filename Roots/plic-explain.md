@@ -9,6 +9,7 @@
 
 ### imply
 
+- 발음: /ˌɪˈmplaɪ/
 - 구성: `in-` = in + `ply/plic` = fold
 - 뜻: 암시하다, 함축하다
 - 어원적 연결: 뜻이 말 안에 접혀 들어 있음
@@ -16,6 +17,7 @@
 
 ### implication
 
+- 발음: /ˌɪmpləˈkeɪʃən/
 - 구성: `imply/implicate` + `-ation`
 - 뜻: 함의, 영향, 연루
 - 어원적 연결: 어떤 뜻이나 사람이 상황 안에 접혀 들어감
@@ -23,6 +25,7 @@
 
 ### implicit
 
+- 발음: /ˌɪˈmplɪsət/
 - 구성: Latin `implicitus` = enfolded
 - 뜻: 암묵적인, 내포된
 - 어원적 연결: 겉으로 펴 보이지 않고 안에 접혀 있음
@@ -30,6 +33,7 @@
 
 ### implicate
 
+- 발음: /ˈɪmplɪˌkeɪt/
 - 구성: `in-` = in + `plic` = fold
 - 뜻: 연루시키다, 관련시키다
 - 어원적 연결: 어떤 사건 안으로 접어 넣음
@@ -37,6 +41,7 @@
 
 ### explicate
 
+- 발음: /ˈɛkspləˌkeɪt/
 - 구성: `ex-` = out + `plic` = fold
 - 뜻: 자세히 설명하다, 풀어 밝히다
 - 어원적 연결: 접힌 것을 밖으로 펴서 보이게 함
@@ -44,6 +49,7 @@
 
 ### explicable
 
+- 발음: /ɛˈksplɪkəbəl/
 - 구성: `ex-` = out + `plic` = fold + `-able`
 - 뜻: 설명할 수 있는, 해명 가능한
 - 어원적 연결: 접혀 숨은 뜻을 펴서 드러낼 수 있음
@@ -51,6 +57,7 @@
 
 ### inexplicable
 
+- 발음: /ˌɪnəˈksplɪsəbəl/
 - 구성: `in-` = not + `explicable`
 - 뜻: 설명할 수 없는, 이해하기 어려운
 - 어원적 연결: 접힌 뜻이나 원인을 펴서 드러낼 수 없음
@@ -58,6 +65,7 @@
 
 ### inexplicably
 
+- 발음: /ˌɪnɪˈksplɪkəbli/
 - 구성: `inexplicable` + `-ly`
 - 뜻: 설명할 수 없게, 이상하게도
 - 어원적 연결: 이유가 펴져 드러나지 않는 방식
@@ -65,6 +73,7 @@
 
 ### explicit
 
+- 발음: /ɪˈksplɪsət/
 - 구성: Latin `explicitus` = unfolded
 - 뜻: 명시적인, 분명한
 - 어원적 연결: 접힌 것이 펴져 드러남
@@ -72,6 +81,7 @@
 
 ### exploit
 
+- 발음: /ˈɛˌksplɔɪt/
 - 구성: Old French `esploit` ← Latin `explicitum` = unfolded, carried out
 - 뜻: 이용하다, 착취하다; 위업, 공적
 - 어원적 연결: 접힌 것을 펴서 실행함. 실행된 일이나 성과에서 "이용하다"로 확장
@@ -79,6 +89,7 @@
 
 ### exploitation
 
+- 발음: /ˌɛˌksplɔɪˈteɪʃən/
 - 구성: `exploit` + `-ation`
 - 뜻: 이용, 개발, 착취
 - 어원적 연결: 어떤 가능성이나 자원을 펴서 실제 이익으로 사용함
@@ -86,6 +97,7 @@
 
 ### exploitative
 
+- 발음: /ˌɛˈksplɔɪtətɪv/
 - 구성: `exploit` + `-ative`
 - 뜻: 착취적인, 부당하게 이용하는
 - 어원적 연결: 남이나 자원을 자기 이익을 위해 펴 쓰는 성격

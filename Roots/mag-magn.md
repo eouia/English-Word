@@ -9,6 +9,7 @@
 
 ### magnificent
 
+- 발음: /mæˈgnɪfəsənt/
 - 구성: Latin `magnus` = great + `facere` = make/do
 - 뜻: 장엄한, 훌륭한
 - 어원적 연결: 크게 만들어진 듯 뛰어나고 인상적임
@@ -23,6 +24,7 @@
 
 ### magnify
 
+- 발음: /ˈmægnəˌfaɪ/
 - 구성: `magnus` = great + `-fy` = make
 - 뜻: 확대하다, 과장하다
 - 어원적 연결: 크게 만듦
@@ -30,6 +32,7 @@
 
 ### magnitude
 
+- 발음: /ˈmægnəˌtud/
 - 구성: Latin `magnitudo` ← `magnus`
 - 뜻: 크기, 규모, 중요도
 - 어원적 연결: 큰 정도
@@ -37,6 +40,7 @@
 
 ### magnate
 
+- 발음: /ˈmægnət/
 - 구성: Latin `magnates` = great men
 - 뜻: 거물, 유력자
 - 어원적 연결: 큰 권력이나 부를 가진 사람
@@ -44,6 +48,7 @@
 
 ### magnanimous
 
+- 발음: /mæˈgnænəməs/
 - 구성: Latin `magnus` = great + `animus` = mind, spirit
 - 뜻: 도량이 큰, 관대한
 - 어원적 연결: 마음이 큰 사람

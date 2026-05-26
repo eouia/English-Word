@@ -30,6 +30,7 @@
 
 ### interpret
 
+- 발음: /ˌɪˈntɝprət/
 - 구성: Latin `interpretari`
 - 의미: 해석하다, 통역하다
 - 어원적 연결: 뜻이 바로 통하지 않는 두 대상 사이에서 의미를 풀어 전달함
@@ -37,6 +38,7 @@
 
 ### interpretation
 
+- 발음: /ˌɪˌntɝprɪˈteɪʃən/
 - 구성: `interpret` + `-ation`
 - 의미: 해석, 통역, 설명
 - 어원적 연결: 의미를 풀어 전달하는 행위나 결과
@@ -44,6 +46,7 @@
 
 ### interpreter
 
+- 발음: /ˌɪˈntɝprətɚ/
 - 구성: `interpret` + `-er`
 - 의미: 통역사, 해석자
 - 어원적 연결: 두 언어나 의미 사이에서 뜻을 옮겨 주는 사람
@@ -51,6 +54,7 @@
 
 ### interpretive
 
+- 발음: /ˌɪˈntɝprətɪv/
 - 구성: `interpret` + `-ive`
 - 의미: 해석의, 해석적인
 - 어원적 연결: 의미를 풀어 설명하는 성격
@@ -65,6 +69,7 @@
 
 ### misinterpret
 
+- 발음: /mɪsɪˈntɝprət/
 - 구성: `mis-` = wrongly + `interpret`
 - 의미: 잘못 해석하다
 - 어원적 연결: 뜻을 잘못 풀어 전달함
@@ -72,6 +77,7 @@
 
 ### reinterpret
 
+- 발음: /ˌriɪˈntɝprət/
 - 구성: `re-` = again + `interpret`
 - 의미: 재해석하다
 - 어원적 연결: 뜻을 다시 풀어 봄

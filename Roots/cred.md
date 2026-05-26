@@ -18,6 +18,7 @@
 
 ### credit
 
+- 발음: /ˈkrɛdət/
 - 구성: Latin `creditum`
 - 뜻: 신용, 공로, 학점, 입금하다
 - 어원적 연결: 믿고 맡겨 인정한 것
@@ -25,6 +26,7 @@
 
 ### credible
 
+- 발음: /ˈkrɛdəbəl/
 - 구성: `cred` + `-ible`
 - 뜻: 믿을 만한
 - 어원적 연결: 믿을 수 있음
@@ -32,6 +34,7 @@
 
 ### credibility
 
+- 발음: /ˌkrɛdəˈbɪlɪti/
 - 구성: `credible` + `-ity`
 - 뜻: 신뢰성
 - 어원적 연결: 믿을 수 있는 성질
@@ -39,6 +42,7 @@
 
 ### incredible
 
+- 발음: /ˌɪˈnkrɛdəbəl/
 - 구성: `in-` = not + `credible`
 - 뜻: 믿기 어려운, 대단한
 - 어원적 연결: 믿기 어려울 만큼 큼
@@ -46,6 +50,7 @@
 
 ### credulous
 
+- 발음: /ˈkrɛdʒələs/
 - 구성: `cred` + `-ulous`
 - 뜻: 잘 믿는, 잘 속는
 - 어원적 연결: 너무 쉽게 믿음
@@ -53,6 +58,7 @@
 
 ### incredulous
 
+- 발음: /ˌɪˈnkrɛdʒələs/
 - 구성: `in-` = not + `credulous`
 - 뜻: 믿지 못하는, 의심하는
 - 어원적 연결: 쉽게 믿지 않음
@@ -60,6 +66,7 @@
 
 ### creed
 
+- 발음: /ˈkrid/
 - 구성: Latin `credo` = I believe
 - 뜻: 신조, 신념
 - 어원적 연결: 믿는 바를 문장으로 굳힌 것
@@ -67,6 +74,7 @@
 
 ### credentials
 
+- 발음: /krəˈdɛnʃəlz/
 - 구성: Medieval Latin `credentialis`
 - 뜻: 자격, 신임장
 - 어원적 연결: 믿고 맡길 수 있음을 보여 주는 증명
@@ -74,6 +82,7 @@
 
 ### discredit
 
+- 발음: /dɪˈskrɛdət/
 - 구성: `dis-` = apart, away + `credit`
 - 뜻: 신뢰를 떨어뜨리다, 불신하게 만들다
 - 어원적 연결: 믿음을 떼어 냄
@@ -81,6 +90,7 @@
 
 ### accredit
 
+- 발음: /əˌkrɛdət/
 - 구성: `ad-` = to + `credit`
 - 뜻: 인가하다, 공로로 돌리다
 - 어원적 연결: 믿음을 공식적으로 부여함

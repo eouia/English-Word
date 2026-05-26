@@ -9,6 +9,7 @@
 
 ### permanent
 
+- 발음: /ˈpɝmənənt/
 - 구성: `per-` = throughout + Latin `manere` = remain
 - 뜻: 영구적인, 지속적인
 - 어원적 연결: 끝까지 계속 남아 있음
@@ -16,6 +17,7 @@
 
 ### permanence
 
+- 발음: /ˈpɝmənəns/
 - 구성: `permanent` + `-ence`
 - 뜻: 영속성, 지속성
 - 어원적 연결: 계속 남아 있는 성질
@@ -23,6 +25,7 @@
 
 ### permanently
 
+- 발음: /ˈpɝmənəntli/
 - 구성: `permanent` + `-ly`
 - 뜻: 영구적으로, 계속
 - 어원적 연결: 사라지지 않고 남는 방식
@@ -30,6 +33,7 @@
 
 ### remain
 
+- 발음: /rɪˈmeɪn/
 - 구성: `re-` = back + Latin `manere` = remain
 - 뜻: 남다, 계속 ~이다
 - 어원적 연결: 어떤 변화 뒤에도 뒤에 남아 있음
@@ -37,6 +41,7 @@
 
 ### remaining
 
+- 발음: /rɪˈmeɪnɪŋ/
 - 구성: `remain` + `-ing`
 - 뜻: 남아 있는
 - 어원적 연결: 아직 사라지지 않고 남은 상태
@@ -44,6 +49,7 @@
 
 ### remainder
 
+- 발음: /rɪˈmeɪndɚ/
 - 구성: Old French `remaindre` 계열 + `-er`
 - 뜻: 나머지, 남은 것
 - 어원적 연결: 전체에서 일부가 빠진 뒤 남은 부분
@@ -51,6 +57,7 @@
 
 ### remnant
 
+- 발음: /ˈrɛmnənt/
 - 구성: Old French `remanant` < Latin `remanere`
 - 뜻: 남은 조각, 잔재
 - 어원적 연결: 큰 것이 사라진 뒤 남아 있는 부분
@@ -58,6 +65,7 @@
 
 ### mansion
 
+- 발음: /ˈmænʃən/
 - 구성: Latin `mansio` = a staying, dwelling
 - 뜻: 대저택
 - 어원적 연결: 머무르는 장소, 거주지
@@ -65,6 +73,7 @@
 
 ### manor
 
+- 발음: /ˈmænɚ/
 - 구성: Old French `manoir` < Latin `manere`
 - 뜻: 장원, 영주 저택
 - 어원적 연결: 사람이 머무르고 다스리는 거주지
@@ -72,6 +81,7 @@
 
 ### immanent
 
+- 발음: /ˈɪmənənt/
 - 구성: `im-` = in + Latin `manere` = remain
 - 뜻: 내재하는, 안에 머무는
 - 어원적 연결: 어떤 것 안에 계속 머물러 있음

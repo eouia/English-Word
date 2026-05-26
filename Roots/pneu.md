@@ -19,6 +19,7 @@
 
 ### pneumonia
 
+- 발음: /nuˈmoʊnjə/
 - 구성: Greek `pneumon` = lung + `-ia`
 - 뜻: 폐렴
 - 어원적 연결: 숨을 담당하는 폐에 생긴 병
@@ -26,6 +27,7 @@
 
 ### pneumatic
 
+- 발음: /nuˈmætɪk/
 - 구성: Greek `pneuma` = air + `-atic`
 - 뜻: 공기의, 압축 공기로 작동하는
 - 어원적 연결: 공기나 바람의 힘으로 움직임
@@ -33,6 +35,7 @@
 
 ### pneumatics
 
+- 발음: /nʊˈmætɪks/
 - 구성: `pneumatic` + `-s`
 - 뜻: 공기압 기술, 공기역학의 한 분야
 - 어원적 연결: 공기의 압력과 움직임을 다룸
@@ -40,6 +43,7 @@
 
 ### apnea
 
+- 발음: /ˈæpniə/
 - 구성: `a-` = without + Greek `pnoia` = breathing
 - 뜻: 무호흡
 - 어원적 연결: 숨이 없는 상태
@@ -47,6 +51,7 @@
 
 ### dyspnea
 
+- 발음: /ˌdɪˈspniə/
 - 구성: `dys-` = bad, difficult + Greek `pnoia` = breathing
 - 뜻: 호흡 곤란
 - 어원적 연결: 숨쉬기가 어렵거나 나쁜 상태

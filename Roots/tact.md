@@ -19,6 +19,7 @@
 
 ### tangible
 
+- 발음: /ˈtændʒəbəl/
 - 구성: Latin `tangere` + `-ible`
 - 뜻: 만질 수 있는, 실질적인
 - 어원적 연결: 손에 닿을 만큼 실제로 존재함
@@ -26,6 +27,7 @@
 
 ### intangible
 
+- 발음: /ˌɪˈntændʒəbəl/
 - 구성: `in-` = not + `tangible`
 - 뜻: 무형의, 손에 잡히지 않는
 - 어원적 연결: 만질 수 없지만 존재하거나 가치가 있음
@@ -33,6 +35,7 @@
 
 ### contact
 
+- 발음: /ˈkɑˌntækt/
 - 구성: `con-` = together + Latin `tangere`
 - 뜻: 접촉, 연락
 - 어원적 연결: 서로 닿음
@@ -40,6 +43,7 @@
 
 ### tactile
 
+- 발음: /ˈtæktɪl/
 - 구성: Latin `tactus` = touch
 - 뜻: 촉각의
 - 어원적 연결: 만지는 감각과 관련됨
@@ -47,6 +51,7 @@
 
 ### tangent
 
+- 발음: /ˈtændʒənt/
 - 구성: Latin `tangens` = touching
 - 뜻: 접선, 탄젠트, 본론에서 벗어난 말
 - 어원적 연결: 곡선에 한 점에서 "닿는" 선
@@ -54,6 +59,7 @@
 
 ### tangential
 
+- 발음: /tæˈndʒɛnʃəl/
 - 구성: `tangent` + `-ial`
 - 뜻: 접선의, 부차적인, 간접적인
 - 어원적 연결: 중심을 통과하지 않고 옆에서 닿기만 함
@@ -61,6 +67,7 @@
 
 ### tact
 
+- 발음: /ˈtækt/
 - 구성: Latin `tactus` = touch
 - 뜻: 재치, 눈치, 요령
 - 어원적 연결: 상황을 섬세하게 "건드리는" 감각
@@ -68,6 +75,7 @@
 
 ### intact
 
+- 발음: /ˌɪˈntækt/
 - 구성: `in-` = not + Latin `tactus`
 - 뜻: 손상되지 않은, 온전한
 - 어원적 연결: 건드려지지 않음
@@ -75,6 +83,7 @@
 
 ### contagious
 
+- 발음: /kəˈnteɪdʒəs/
 - 구성: `con-` = together + Latin `tangere`
 - 뜻: 전염성의
 - 어원적 연결: 접촉을 통해 옮겨 감
@@ -82,6 +91,7 @@
 
 ### contagion
 
+- 발음: /kəˈnteɪdʒən/
 - 구성: `con-` = together + Latin `tangere`
 - 뜻: 전염, 감염의 확산; 나쁜 영향의 확산
 - 어원적 연결: 서로 닿아 옮겨 가는 상태
@@ -90,6 +100,7 @@
 
 ### contiguous
 
+- 발음: /kəˈntɪgjuəs/
 - 구성: Latin `contiguus` ← `con-` = together + `tangere`
 - 뜻: 맞닿은, 인접한
 - 어원적 연결: 경계나 면이 서로 닿아 있음
@@ -105,6 +116,7 @@
 
 ### contingent
 
+- 발음: /kəˈntɪndʒənt/
 - 구성: Latin `con-` = together + `tangere` = touch
 - 뜻: 조건부의, 우발적인; 대표단
 - 어원적 연결: 어떤 조건이나 사건에 닿아 함께 일어남
@@ -112,6 +124,7 @@
 
 ### contingency
 
+- 발음: /kəˈntɪndʒənsi/
 - 구성: `contingent` + `-cy`
 - 뜻: 우발 사태, 만일의 경우; 조건부 상황
 - 어원적 연결: 어떤 일이 닿아 발생할 수 있는 가능성

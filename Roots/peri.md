@@ -9,6 +9,7 @@
 
 ### peripheral
 
+- 발음: /pɚˈɪfɚəl/
 - 구성: Greek `peri-` = around + `pherein` = carry + `-al`
 - 뜻: 주변의, 부차적인; 말초의
 - 어원적 연결: 중심이 아니라 둘레나 바깥쪽에 있는 것
@@ -16,6 +17,7 @@
 
 ### periphery
 
+- 발음: /pɚˈɪfɚi/
 - 구성: Greek `periphereia` = circumference, outer surface
 - 뜻: 주변부, 외곽, 말초
 - 어원적 연결: 중심을 둘러싼 바깥 경계
@@ -23,6 +25,7 @@
 
 ### peripherals
 
+- 발음: /pɚˈɪfɚəlz/
 - 구성: `peripheral`의 명사형 복수
 - 뜻: 주변 기기
 - 어원적 연결: 컴퓨터 본체의 중심 기능 바깥에 붙는 장치
@@ -30,6 +33,7 @@
 
 ### perimeter
 
+- 발음: /pɚˈɪmətɚ/
 - 구성: `peri-` = around + [[metr]] = measure
 - 뜻: 둘레, 주변 경계선
 - 어원적 연결: 둘레를 따라 잰 길이
@@ -37,6 +41,7 @@
 
 ### periscope
 
+- 발음: /ˈpɛrəˌskoʊp/
 - 구성: `peri-` = around + Greek `skopein` = look
 - 뜻: 잠망경
 - 어원적 연결: 주변을 둘러볼 수 있게 하는 장치
@@ -51,6 +56,7 @@
 
 ### peripatetic
 
+- 발음: /ˌpɛrəpəˈtɛtɪk/
 - 구성: Greek `peripatein` = walk about
 - 뜻: 돌아다니는, 순회하는
 - 어원적 연결: 이곳저곳 주변을 걸어 다님
@@ -58,6 +64,7 @@
 
 ### period
 
+- 발음: /ˈpɪriəd/
 - 구성: Greek `periodos` = going around, cycle
 - 뜻: 기간, 시대; 마침표
 - 어원적 연결: 한 바퀴 도는 시간의 주기

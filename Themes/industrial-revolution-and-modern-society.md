@@ -6,18 +6,21 @@
 
 ### industrialization
 
+- 발음: /ˌɪˌndʌstriəlɪˈzeɪʃən/
 - 핵심 의미: 산업화
 - 사용 맥락: `rapid industrialization`, `industrialization in Britain`
 - 주의: 농업·수공업 중심 사회가 공장, 기계, 대량생산 중심으로 바뀌는 과정.
 
 ### mechanization
 
+- 발음: /ˌmɛkənəˈzeɪʃən/
 - 핵심 의미: 기계화
 - 사용 맥락: `mechanization of textile production`, `agricultural mechanization`
 - 주의: 인간이나 동물의 노동을 기계가 대신하거나 보조하게 되는 변화.
 
 ### manufacture ([[fac-make#manufacture|fac-make]], [[manu#manufacture|manu]])
 
+- 발음: /ˌmænjəˈfæktʃɚ/
 - 핵심 의미: 제조하다, 제조
 - 사용 맥락: `manufacture textiles`, `manufacturing industry`
 - 주의: 손으로 만들다에서 출발했지만, 근대 이후 공장 생산과 강하게 연결됨.
@@ -36,18 +39,21 @@
 
 ### [[duc#productivity|productivity]]
 
+- 발음: /ˌproʊdəˈktɪvəti/
 - 핵심 의미: 생산성
 - 사용 맥락: `increase productivity`, `labor productivity`
 - 주의: 투입한 노동·자본 대비 산출량. 산업혁명 지문에서 기술 변화의 효과를 설명할 때 중요함.
 
 ### [[nov#innovation|innovation]]
 
+- 발음: /ˌɪnəˈveɪʃən/
 - 핵심 의미: 혁신
 - 사용 맥락: `technological innovation`, `industrial innovation`
 - 주의: 새 기술이나 방식이 실제 생산과 사회 구조를 바꾸는 것.
 
 ### patent
 
+- 발음: /ˈpætənt/
 - 핵심 의미: 특허, 특허를 받은
 - 사용 맥락: `patent an invention`, `patent law`
 - 주의: 발명에 대한 독점적 권리. 기술 혁신과 기업 경쟁을 설명할 때 자주 등장.
@@ -62,36 +68,42 @@
 
 ### coal
 
+- 발음: /ˈkoʊl/
 - 핵심 의미: 석탄
 - 사용 맥락: `coal mining`, `coal-fired industry`
 - 주의: 산업혁명의 핵심 연료. 공해와 노동 위험도 함께 연결됨.
 
 ### [[tex#textile|textile]]
 
+- 발음: /ˈtɛˌkstaɪl/
 - 핵심 의미: 직물, 섬유의
 - 사용 맥락: `textile industry`, `textile mills`
 - 주의: 방직·직조 산업은 산업혁명 초기의 대표 분야.
 
 ### metallurgy
 
+- 발음: /ˈmɛtəlɚdʒi/
 - 핵심 의미: 야금술, 금속공학
 - 사용 맥락: `advances in metallurgy`, `iron metallurgy`
 - 주의: 금속을 제련하고 가공하는 기술. 철도, 기계, 무기 생산과 연결됨.
 
 ### [[loc#locomotive|locomotive]]
 
+- 발음: /ˌloʊkəˈmoʊtɪv/
 - 핵심 의미: 기관차
 - 사용 맥락: `steam locomotive`, `railway locomotive`
 - 주의: 철도 교통 혁신의 상징. 형용사로는 움직이는.
 
 ### railway
 
+- 발음: /ˈreɪˌlweɪ/
 - 핵심 의미: 철도
 - 사용 맥락: `railway network`, `railway expansion`
 - 주의: 영국식 표현. 미국식에서는 `railroad`가 흔함.
 
 ### [[struct#infrastructure|infrastructure]]
 
+- 발음: /ˌɪnfrəˈstrʌktʃɚ/
 - 핵심 의미: 기반 시설
 - 사용 맥락: `transport infrastructure`, `industrial infrastructure`
 - 주의: 철도, 운하, 항만, 도로, 전력망처럼 경제 활동의 바탕이 되는 시설.
@@ -100,36 +112,42 @@
 
 ### [[urban#urbanization|urbanization]]
 
+- 발음: /ˌɝbənəˈzeɪʃən/
 - 핵심 의미: 도시화
 - 사용 맥락: `rapid urbanization`, `urbanization and industrialization`
 - 주의: 인구와 일자리가 도시로 집중되는 과정.
 
 ### [[migr#migration|migration]]
 
+- 발음: /maɪˈgreɪʃən/
 - 핵심 의미: 이주
 - 사용 맥락: `rural-to-urban migration`, `labor migration`
 - 주의: 산업화 과정에서는 농촌 인구가 공장 일자리를 찾아 도시로 이동하는 현상.
 
 ### [[polis#metropolis|metropolis]]
 
+- 발음: /məˈtrɑpələs/
 - 핵심 의미: 대도시, 중심 도시
 - 사용 맥락: `industrial metropolis`, `modern metropolis`
 - 주의: 정치·경제·문화의 중심이 되는 큰 도시.
 
 ### overcrowding
 
+- 발음: /ˈoʊvɚˌkraʊdɪŋ/
 - 핵심 의미: 과밀, 혼잡
 - 사용 맥락: `urban overcrowding`, `overcrowded housing`
 - 주의: 산업도시의 주거 문제, 위생 문제와 자주 연결됨.
 
 ### sanitation
 
+- 발음: /ˌsænəˈteɪʃən/
 - 핵심 의미: 위생, 공중위생
 - 사용 맥락: `urban sanitation`, `sanitation reform`
 - 주의: 깨끗한 물, 하수 처리, 쓰레기 관리 등 도시 질병 예방과 연결됨.
 
 ### slum
 
+- 발음: /ˈslʌm/
 - 핵심 의미: 빈민가
 - 사용 맥락: `urban slums`, `slum housing`
 - 주의: 가난한 사람들이 밀집해 사는 열악한 주거 지역. 낙인적 표현일 수 있음.
@@ -144,30 +162,35 @@
 
 ### capitalism
 
+- 발음: /ˈkæpɪtəˌlɪzəm/
 - 핵심 의미: 자본주의
 - 사용 맥락: `industrial capitalism`, `capitalist economy`
 - 주의: 사적 소유, 시장 경쟁, 이윤 추구, 임금 노동을 중심으로 한 경제 체제.
 
 ### [[capit#capital|capital]]
 
+- 발음: /ˈkæpətəl/
 - 핵심 의미: 자본
 - 사용 맥락: `industrial capital`, `accumulation of capital`
 - 주의: 생산에 투입되는 돈, 기계, 설비, 자산. 수도·대문자라는 뜻도 있음.
 
 ### [[prehend#entrepreneur|entrepreneur]]
 
+- 발음: /ˌɑntrəprəˈnɝ/
 - 핵심 의미: 기업가
 - 사용 맥락: `industrial entrepreneur`, `entrepreneurial risk`
 - 주의: 자본과 기술을 결합해 새 사업을 만들고 위험을 감수하는 사람.
 
 ### bourgeoisie
 
+- 발음: /ˌbʊˌrʒwɑˈzi/
 - 핵심 의미: 부르주아지, 자본가 계급
 - 사용 맥락: `industrial bourgeoisie`, `bourgeois society`
 - 주의: 근대 사회에서 자본과 재산을 가진 중산·상층 계급. 마르크스주의 문맥에서 자주 나옴.
 
 ### proletariat
 
+- 발음: /ˌproʊləˈtɛriət/
 - 핵심 의미: 프롤레타리아트, 노동자 계급
 - 사용 맥락: `industrial proletariat`, `urban proletariat`
 - 주의: 생산수단을 소유하지 않고 임금 노동으로 살아가는 계급.
@@ -180,6 +203,7 @@
 
 ### [[plic-explain#exploitation|exploitation]]
 
+- 발음: /ˌɛˌksplɔɪˈteɪʃən/
 - 핵심 의미: 착취, 이용
 - 사용 맥락: `exploitation of workers`, `exploit labor`
 - 주의: 노동자의 약한 지위를 이용해 불공정한 이익을 얻는 것. 중립적으로 자원 활용이라는 뜻도 가능.
@@ -206,6 +230,7 @@
 
 ### strike
 
+- 발음: /ˈstraɪk/
 - 핵심 의미: 파업, 치다
 - 사용 맥락: `go on strike`, `strike action`
 - 주의: 노동자가 요구 관철을 위해 일을 중단하는 행위. 동사로는 치다, 떠오르다 등 뜻이 많음.
@@ -224,12 +249,14 @@
 
 ### [[reg#regulation|regulation]]
 
+- 발음: /ˌrɛgjəˈleɪʃən/
 - 핵심 의미: 규제, 규정
 - 사용 맥락: `factory regulation`, `labor regulation`
 - 주의: 정부가 산업과 노동 조건에 기준을 세우고 제한하는 것.
 
 ### [[form#reform|reform]]
 
+- 발음: /rəˈfɔrm/
 - 핵심 의미: 개혁
 - 사용 맥락: `social reform`, `factory reform`
 - 주의: 기존 제도를 완전히 뒤엎기보다 문제를 고쳐 개선하려는 움직임.
@@ -238,6 +265,7 @@
 
 ### modernity
 
+- 발음: /mɑˈdɝnəti/
 - 핵심 의미: 근대성, 현대성
 - 사용 맥락: `the experience of modernity`, `modernity and industrialization`
 - 주의: 산업화, 도시화, 과학, 합리화, 개인주의, 빠른 사회 변화와 연결되는 넓은 개념.
@@ -250,30 +278,35 @@
 
 ### [[ratio#rationalization|rationalization]]
 
+- 발음: /ˌræʃənəlɪˈzeɪʃən/
 - 핵심 의미: 합리화, 이성화
 - 사용 맥락: `bureaucratic rationalization`, `rationalization of production`
 - 주의: 규칙, 계산, 효율, 표준 절차로 사회와 생산을 조직하는 과정. 변명이라는 뜻도 있음.
 
 ### [[crat#bureaucracy|bureaucracy]]
 
+- 발음: /bjʊˈrɑkrəsi/
 - 핵심 의미: 관료제
 - 사용 맥락: `modern bureaucracy`, `bureaucratic state`
 - 주의: 규칙, 문서, 전문 관료를 통해 국가와 조직을 운영하는 체계.
 
 ### [[nat-nation#nationalism|nationalism]]
 
+- 발음: /ˈnæʃənəˌlɪzəm/
 - 핵심 의미: 민족주의
 - 사용 맥락: `modern nationalism`, `nationalist movement`
 - 주의: 공통 언어, 역사, 영토, 정체성을 바탕으로 정치 공동체를 상상하고 요구하는 이념.
 
 ### suffrage
 
+- 발음: /ˈsʌfrɪdʒ/
 - 핵심 의미: 참정권, 투표권
 - 사용 맥락: `expanded suffrage`, `women's suffrage`
 - 주의: 선거권을 뜻함. 고통 `suffering`과 혼동하지 않기.
 
 ### [[liter#literacy|literacy]]
 
+- 발음: /ˈlɪtɚəsi/
 - 핵심 의미: 문해력, 읽고 쓰는 능력
 - 사용 맥락: `mass literacy`, `literacy rates`
 - 주의: 근대 학교 제도, 신문, 시민 정치 참여와 연결됨.
@@ -300,12 +333,14 @@
 
 ### Manchester
 
+- 발음: /ˈmæˌntʃɛstɚ/
 - 핵심 의미: 맨체스터
 - 사용 맥락: `Manchester as an industrial city`
 - 주의: 방직 산업, 공장제, 산업도시 문제를 대표하는 영국 도시.
 
 ### Luddite
 
+- 발음: /ˈlʌˌdaɪt/
 - 핵심 의미: 러다이트, 기계 파괴 운동 참여자
 - 사용 맥락: `Luddite protests`, `Luddite movement`
 - 주의: 원래는 산업화로 생계를 위협받은 노동자들의 기계 파괴 운동. 현대에는 기술 반대자를 비유함.

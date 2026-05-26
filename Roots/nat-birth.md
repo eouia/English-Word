@@ -9,6 +9,7 @@
 
 ### native
 
+- 발음: /ˈneɪtɪv/
 - 구성: Latin `nativus` = born, inborn
 - 뜻: 태어난 곳의, 원주민의; 타고난
 - 어원적 연결: 어떤 장소나 성질 안에서 태어남
@@ -16,6 +17,7 @@
 
 ### nonnative
 
+- 발음: /ˈnɑˈneɪtɪv/
 - 구성: `non-` + `native`
 - 뜻: 토착이 아닌, 원어민이 아닌
 - 어원적 연결: 그곳에서 태어난 것이 아님
@@ -23,6 +25,7 @@
 
 ### nativity
 
+- 발음: /nəˈtɪvəti/
 - 구성: Latin `nativitas` = birth
 - 뜻: 탄생, 출생; 예수 탄생
 - 어원적 연결: 태어나는 사건
@@ -30,6 +33,7 @@
 
 ### natal
 
+- 발음: /ˈneɪtəl/
 - 구성: Latin `natalis` = pertaining to birth
 - 뜻: 출생의, 탄생의
 - 어원적 연결: 태어남과 관련됨
@@ -37,6 +41,7 @@
 
 ### prenatal
 
+- 발음: /priˈneɪtəl/
 - 구성: `pre-` = before + `natal`
 - 뜻: 출생 전의, 산전의
 - 어원적 연결: 태어나기 전
@@ -44,6 +49,7 @@
 
 ### postnatal
 
+- 발음: /ˌpoʊˈstneɪtəl/
 - 구성: `post-` = after + `natal`
 - 뜻: 출생 후의, 산후의
 - 어원적 연결: 태어난 뒤
@@ -51,6 +57,7 @@
 
 ### innate
 
+- 발음: /ˌɪˈneɪt/
 - 구성: `in-` = in + Latin `natus` = born
 - 뜻: 타고난, 선천적인
 - 어원적 연결: 태어날 때 안에 들어 있음
@@ -65,6 +72,7 @@
 
 ### nascent
 
+- 발음: /ˈneɪsənt/
 - 구성: Latin `nascentem` = being born
 - 뜻: 막 생겨나는, 초기의
 - 어원적 연결: 지금 막 태어나고 있는 상태
@@ -72,6 +80,7 @@
 
 ### renaissance
 
+- 발음: /ˌrɛnəˈsɑns/
 - 구성: French `renaissance` = rebirth
 - 뜻: 르네상스, 부흥, 재탄생
 - 어원적 연결: 다시 태어남
@@ -79,6 +88,7 @@
 
 ### nee
 
+- 발음: /ˈni/
 - 구성: French `nee` = born
 - 뜻: 결혼 전 성이 ~인
 - 어원적 연결: 태어날 때의 이름

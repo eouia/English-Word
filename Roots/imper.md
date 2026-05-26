@@ -20,6 +20,7 @@
 
 ### empire
 
+- 발음: /ˈɛmpaɪɚ/
 - 구성: Latin `imperium` = command, authority
 - 뜻: 제국, 대규모 지배권
 - 어원적 연결: 한 권력이 명령권을 행사하는 영역
@@ -27,6 +28,7 @@
 
 ### emperor
 
+- 발음: /ˈɛmpɚɚ/
 - 구성: Latin `imperator` = commander
 - 뜻: 황제
 - 어원적 연결: 원래는 명령을 내리는 지휘관, 뒤에 제국의 군주
@@ -34,6 +36,7 @@
 
 ### empress
 
+- 발음: /ˈɛmprɛs/
 - 구성: `emperor` 계열 여성형
 - 뜻: 여황제, 황후
 - 어원적 연결: 제국의 최고 통치권과 연결됨
@@ -41,6 +44,7 @@
 
 ### imperial
 
+- 발음: /ˌɪˈmpɪriəl/
 - 구성: Latin `imperialis` ← `imperium`
 - 뜻: 제국의, 황제의, 제국주의적인
 - 어원적 연결: 명령권과 통치권을 가진 제국에 속함
@@ -48,6 +52,7 @@
 
 ### imperialism
 
+- 발음: /ˌɪˈmpɪriəˌlɪzəm/
 - 구성: `imperial` + `-ism`
 - 뜻: 제국주의
 - 어원적 연결: 한 나라가 다른 지역에 통치권과 영향력을 행사함
@@ -55,6 +60,7 @@
 
 ### imperialist
 
+- 발음: /ˌɪˈmpɪriəlɪst/
 - 구성: `imperial` + `-ist`
 - 뜻: 제국주의자, 제국주의의
 - 어원적 연결: 제국적 지배 확장을 지지하거나 실행하는 사람·정책
@@ -62,6 +68,7 @@
 
 ### imperative
 
+- 발음: /ˌɪˈmpɛrətɪv/
 - 구성: Latin `imperativus` ← `imperare`
 - 뜻: 필수적인, 명령적인; 명령법
 - 어원적 연결: 명령처럼 반드시 해야 하는 것
@@ -69,6 +76,7 @@
 
 ### imperious
 
+- 발음: /ˌɪˈmpɪriəs/
 - 구성: Latin `imperiosus` ← `imperium`
 - 뜻: 거만하게 명령하는, 고압적인
 - 어원적 연결: 명령권을 가진 사람처럼 행동함

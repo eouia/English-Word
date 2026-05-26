@@ -19,6 +19,7 @@
 
 ### absent
 
+- 발음: /ˈæbsənt/
 - 구성: `abs-` = away + Latin `esse` = be
 - 뜻: 부재한, 결석한
 - 어원적 연결: 있어야 할 자리에서 떨어져 있음
@@ -27,6 +28,7 @@
 
 ### absence
 
+- 발음: /ˈæbsəns/
 - 구성: `absent` 계열
 - 뜻: 부재, 결석, 없음
 - 어원적 연결: 있어야 할 곳에 있지 않은 상태
@@ -34,6 +36,7 @@
 
 ### abnormal
 
+- 발음: /æˈbnɔrməl/
 - 구성: `ab-` = away from + `normal`
 - 뜻: 비정상적인, 일반적 기준에서 벗어난
 - 어원적 연결: 정상 기준에서 떨어져 있음
@@ -41,6 +44,7 @@
 
 ### abduct
 
+- 발음: /æˈbdʌkt/
 - 구성: `ab-` = away + Latin `ducere` = lead
 - 뜻: 납치하다, 유괴하다
 - 어원적 연결: 사람을 원래 자리에서 끌고 감
@@ -49,6 +53,7 @@
 
 ### abstain
 
+- 발음: /əˈbsteɪn/
 - 구성: `abs-` = away + Latin `tenere` = hold
 - 뜻: 삼가다, 기권하다
 - 어원적 연결: 손을 대지 않고 떨어져 있음
@@ -56,6 +61,7 @@
 
 ### abstract
 
+- 발음: n./adj. /ˈæˌbstrækt/, v. /æˈbstrækt/
 - 구성: `abs-` = away + Latin `trahere` = draw, pull
 - 뜻: 추상적인; 요약하다
 - 어원적 연결: 구체적 대상에서 끌어내어 따로 생각함
@@ -64,6 +70,7 @@
 
 ### abrupt
 
+- 발음: /əˈbrʌpt/
 - 구성: `ab-` = off + Latin `rumpere` = break
 - 뜻: 갑작스러운, 퉁명스러운
 - 어원적 연결: 흐름이 끊겨 떨어진 듯함
@@ -72,6 +79,7 @@
 
 ### abuse
 
+- 발음: n. /əˈbjus/, v. /əˈbjuz/
 - 구성: `ab-` = away, wrongly + Latin `uti` = use
 - 뜻: 남용하다, 학대하다
 - 어원적 연결: 바른 사용에서 벗어나 잘못 씀
@@ -80,6 +88,7 @@
 
 ### abhor
 
+- 발음: /æˈbhɔr/
 - 구성: `ab-` = away + Latin `horrere` = shudder
 - 뜻: 혐오하다, 몹시 싫어하다
 - 어원적 연결: 몸서리치며 떨어져 나가려 함
@@ -87,6 +96,7 @@
 
 ### abject
 
+- 발음: /ˈæbdʒɛkt/
 - 구성: `ab-` = away, down + Latin `jacere` = throw
 - 뜻: 비참한, 굴욕적인
 - 어원적 연결: 아래로 내던져져 낮아진 상태
@@ -94,6 +104,7 @@
 
 ### abrogate
 
+- 발음: /ˈæbrəˌgeɪt/
 - 구성: `ab-` = away + Latin `rogare` = ask, propose a law
 - 뜻: 폐지하다, 철회하다
 - 어원적 연결: 법이나 합의를 효력에서 떼어 냄
@@ -101,6 +112,7 @@
 
 ### absolve
 
+- 발음: /əˈbzɑlv/
 - 구성: `ab-` = away + Latin `solvere` = loosen
 - 뜻: 면제하다, 무죄로 하다
 - 어원적 연결: 책임이나 죄에서 풀어 떨어뜨림

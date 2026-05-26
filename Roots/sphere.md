@@ -19,6 +19,7 @@
 
 ### sphere
 
+- 발음: /ˈsfɪr/
 - 구성: Greek `sphaira` = ball, globe
 - 뜻: 구, 구체; 영역, 분야
 - 어원적 연결: 둥근 공간이나 어떤 영향력이 미치는 범위
@@ -26,6 +27,7 @@
 
 ### spherical
 
+- 발음: /ˈsfɛrɪkəl/
 - 구성: `sphere` + `-ical`
 - 뜻: 구형의, 둥근
 - 어원적 연결: 공처럼 둥근 형태
@@ -33,6 +35,7 @@
 
 ### hemisphere
 
+- 발음: /ˈhɛmɪˌsfɪr/
 - 구성: Greek `hemi-` = half + `sphere`
 - 뜻: 반구; 지구의 반쪽 영역
 - 어원적 연결: 구를 반으로 나눈 부분
@@ -40,6 +43,7 @@
 
 ### atmosphere
 
+- 발음: /ˈætməˌsfɪr/
 - 구성: Greek `atmos` = vapor, steam + `sphere`
 - 뜻: 대기; 분위기
 - 어원적 연결: 지구를 둘러싼 증기·공기의 둥근 층
@@ -48,6 +52,7 @@
 
 ### atmospheric
 
+- 발음: /ˌætməˈsfɛrɪk/
 - 구성: `atmosphere` + `-ic`
 - 뜻: 대기의; 분위기 있는
 - 어원적 연결: 공기층이나 분위기에 속함
@@ -55,6 +60,7 @@
 
 ### biosphere
 
+- 발음: /ˈbaɪoʊˌsfɪr/
 - 구성: Greek `bio-` = life + `sphere`
 - 뜻: 생물권
 - 어원적 연결: 생명체가 살아가는 지구의 영역
@@ -76,6 +82,7 @@
 
 ### stratosphere
 
+- 발음: /ˈstrætəˌsfɪr/
 - 구성: Latin `stratum` = layer + `sphere`
 - 뜻: 성층권
 - 어원적 연결: 층으로 나뉜 대기권의 한 부분

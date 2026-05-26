@@ -19,6 +19,7 @@
 
 ### polychrome
 
+- 발음: /ˈpɑˌliˌkroʊm/
 - 구성: Greek `poly` = many + [[chrom]] = color
 - 뜻: 다색의, 여러 색의
 - 어원적 연결: 여러 색을 함께 가짐
@@ -26,6 +27,7 @@
 
 ### polygon
 
+- 발음: /ˈpɑlɪˌgɑn/
 - 구성: Greek `poly` = many + `gonia` = angle
 - 뜻: 다각형
 - 어원적 연결: 각이 여러 개인 도형
@@ -33,6 +35,7 @@
 
 ### polysyllabic
 
+- 발음: /ˌpɑˌlisɪˈlæbɪk/
 - 구성: `poly` = many + `syllable`
 - 뜻: 여러 음절의, 다음절의
 - 어원적 연결: 음절이 여러 개 있음
@@ -40,6 +43,7 @@
 
 ### polyglot
 
+- 발음: /ˌpɑˌliglɑt/
 - 구성: `poly` = many + Greek `glotta` = tongue, language
 - 뜻: 여러 언어를 하는 사람, 다언어의
 - 어원적 연결: 여러 언어의 혀를 가짐
@@ -47,6 +51,7 @@
 
 ### polytheism
 
+- 발음: /ˈpɑˌliθiɪzəm/
 - 구성: `poly` = many + [[theo]] = god
 - 뜻: 다신론
 - 어원적 연결: 여러 신을 인정함
@@ -54,6 +59,7 @@
 
 ### polygamy
 
+- 발음: /pəˈlɪgəˌmi/
 - 구성: `poly` = many + Greek `gamos` = marriage
 - 뜻: 다혼제, 일부다처·일처다부
 - 어원적 연결: 배우자나 결혼 관계가 여럿임
@@ -68,6 +74,7 @@
 
 ### polymer
 
+- 발음: /ˈpɑləmɚ/
 - 구성: Greek `poly` = many + `meros` = part
 - 뜻: 중합체, 고분자
 - 어원적 연결: 많은 작은 부분이 연결된 큰 물질

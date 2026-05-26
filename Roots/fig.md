@@ -17,6 +17,7 @@
 
 ### figure
 
+- 발음: /ˈfɪgjɚ/
 - 구성: Latin `figura`
 - 의미: 모습, 인물, 숫자, 도형, 이해하다
 - 어원적 연결: 눈앞이나 머릿속에 잡히는 모양
@@ -24,6 +25,7 @@
 
 ### figurative
 
+- 발음: /ˈfɪgjɚətɪv/
 - 구성: `figure` + `-ative`
 - 의미: 비유적인, 상징적인
 - 어원적 연결: 직접 뜻이 아니라 머릿속에 그린 형상으로 말함
@@ -31,6 +33,7 @@
 
 ### figuratively
 
+- 발음: /fɪˈgjʊrətɪvli/
 - 구성: `figurative` + `-ly`
 - 의미: 비유적으로
 - 어원적 연결: 문자 그대로가 아니라 형상으로 빗대어 말함
@@ -38,6 +41,7 @@
 
 ### configure
 
+- 발음: /kəˈnfɪgjɚ/
 - 구성: `con-` = together + `figure`
 - 의미: 구성하다, 설정하다
 - 어원적 연결: 여러 요소를 함께 모양 잡음
@@ -45,6 +49,7 @@
 
 ### configuration
 
+- 발음: /kəˌnfɪgjɚˈeɪʃən/
 - 구성: `configure` + `-ation`
 - 의미: 구성, 배열, 설정
 - 어원적 연결: 함께 짜여 만들어진 형태
@@ -52,6 +57,7 @@
 
 ### fiction
 
+- 발음: /ˈfɪkʃən/
 - 구성: Latin `fictio` < `fingere`
 - 의미: 소설, 허구
 - 어원적 연결: 실제가 아니라 지어 만든 이야기
@@ -59,6 +65,7 @@
 
 ### fictitious
 
+- 발음: /fɪˈktɪʃəs/
 - 구성: Latin `ficticius` < `fingere`
 - 의미: 허구의, 가공의
 - 어원적 연결: 실제가 아니라 만들어 낸 것
@@ -66,6 +73,7 @@
 
 ### feign
 
+- 발음: /ˈfeɪn/
 - 구성: Old French `feindre` < Latin `fingere`
 - 의미: 가장하다, 꾸미다
 - 어원적 연결: 실제가 아닌 모습을 만들어 보임
@@ -73,6 +81,7 @@
 
 ### figment
 
+- 발음: /ˈfɪgmɪnt/
 - 구성: Latin `figmentum` < `fingere`
 - 의미: 꾸며 낸 것, 허구
 - 어원적 연결: 마음이 빚어 만든 상상
@@ -80,6 +89,7 @@
 
 ### effigy
 
+- 발음: /ˈɛfɪdʒi/
 - 구성: Latin `effigies` < `ex-` + `fingere`
 - 의미: 인물상, 형상
 - 어원적 연결: 밖으로 빚어 낸 모습

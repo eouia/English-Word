@@ -22,6 +22,7 @@
 
 ### commerce
 
+- 발음: /ˈkɑmɚs/
 - 구성: Latin `com-` = together + `merx` = goods
 - 뜻: 상업, 무역, 거래
 - 어원적 연결: 상품을 서로 주고받으며 사고팖
@@ -29,6 +30,7 @@
 
 ### commercial
 
+- 발음: /kəˈmɝʃəl/
 - 구성: `commerce` + `-ial`
 - 뜻: 상업의, 영리 목적의; 광고
 - 어원적 연결: 거래와 이익을 목적으로 함
@@ -36,6 +38,7 @@
 
 ### commercialize
 
+- 발음: /kəˈmɝʃəˌlaɪz/
 - 구성: `commercial` + `-ize`
 - 뜻: 상업화하다, 상품화하다
 - 어원적 연결: 아이디어나 기술을 시장에서 팔 수 있는 형태로 만듦
@@ -43,6 +46,7 @@
 
 ### commercialization
 
+- 발음: /kəˌmɝʃəlɪˈzeɪʃən/
 - 구성: `commercialize` + `-ation`
 - 뜻: 상업화, 상품화
 - 어원적 연결: 연구·문화·기술 등을 거래 가능한 상품이나 사업으로 바꾸는 과정
@@ -50,6 +54,7 @@
 
 ### merchant
 
+- 발음: /ˈmɝtʃənt/
 - 구성: Latin `mercari` = trade
 - 뜻: 상인, 무역상
 - 어원적 연결: 상품을 사고파는 사람
@@ -57,6 +62,7 @@
 
 ### merchandise
 
+- 발음: /ˈmɝtʃəˌndaɪz/
 - 구성: Old French `marchandise` ← `merchant` 계열
 - 뜻: 상품, 물품; 판매하다
 - 어원적 연결: 상인이 사고파는 물건
@@ -64,6 +70,7 @@
 
 ### mercantile
 
+- 발음: /ˈmɝkəˌntaɪl/
 - 구성: Italian/French `mercantile` ← Latin `mercari`
 - 뜻: 상업의, 무역의
 - 어원적 연결: 상인과 무역 활동에 관한
@@ -71,6 +78,7 @@
 
 ### market
 
+- 발음: /ˈmɑrkət/
 - 구성: Latin `mercatus` = trade, market
 - 뜻: 시장, 판매하다
 - 어원적 연결: 상품을 사고파는 장소와 활동
@@ -78,6 +86,7 @@
 
 ### marketplace
 
+- 발음: /ˈmɑrkəˌtpleɪs/
 - 구성: `market` + `place`
 - 뜻: 시장, 거래 공간
 - 어원적 연결: 상품 교환이 이루어지는 장소

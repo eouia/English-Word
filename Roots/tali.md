@@ -19,6 +19,7 @@
 
 ### retaliate
 
+- 발음: /rɪˈtæliˌeɪt/
 - 구성: `re-` = back + Latin `talis` = such kind
 - 뜻: 보복하다, 앙갚음하다
 - 어원적 연결: 받은 공격이나 피해를 같은 식으로 되돌려 줌
@@ -26,6 +27,7 @@
 
 ### retaliation
 
+- 발음: /riˌtæliˈeɪʃən/
 - 구성: `retaliate` + `-ion`
 - 뜻: 보복, 앙갚음
 - 어원적 연결: 받은 피해에 대응해 되돌려 주는 행위
@@ -33,6 +35,7 @@
 
 ### retaliatory
 
+- 발음: /riˈtæljəˌtɔri/
 - 구성: `retaliate` + `-ory`
 - 뜻: 보복의, 보복적인
 - 어원적 연결: 되갚기 위해 행해지는 성질

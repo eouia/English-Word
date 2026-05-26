@@ -19,6 +19,7 @@
 
 ### parlour
 
+- 발음: /ˈpɑrlɚ/
 - 구성: Old French `parleor` = speaking place
 - 뜻: 응접실, 영업용 방
 - 어원적 연결: 사람을 맞아 대화하는 방
@@ -26,6 +27,7 @@
 
 ### parlor
 
+- 발음: /ˈpɑrlɚ/
 - 구성: `parlour`의 American spelling
 - 뜻: 응접실, 영업용 방
 - 어원적 연결: 말하고 손님을 맞는 공간
@@ -33,6 +35,7 @@
 
 ### parley
 
+- 발음: /ˈpɑrli/
 - 구성: Old French `parlee` ← `parler`
 - 뜻: 협상, 회담; 협상하다
 - 어원적 연결: 특히 적이나 상대와 말로 협의함
@@ -40,6 +43,7 @@
 
 ### parliament
 
+- 발음: /ˈpɑrləmənt/
 - 구성: Old French `parlement` ← `parler`
 - 뜻: 의회
 - 어원적 연결: 말하고 토론하는 공식 회의체
@@ -47,6 +51,7 @@
 
 ### parliamentary
 
+- 발음: /ˌpɑrləˈmɛntɚi/
 - 구성: `parliament` + `-ary`
 - 뜻: 의회의, 의회식의
 - 어원적 연결: 토론과 회의로 운영되는 의회에 속함
@@ -54,6 +59,7 @@
 
 ### parliamentarian
 
+- 발음: /ˌpɑrləməˈntɛriən/
 - 구성: `parliamentary` + `-ian`
 - 뜻: 의원, 의회 절차 전문가
 - 어원적 연결: 의회 토론과 절차에 참여하는 사람
@@ -61,6 +67,7 @@
 
 ### parlance
 
+- 발음: /ˈpɑrləns/
 - 구성: Old French `parlaunce` ← `parler`
 - 뜻: 말투, 표현 방식, 용어
 - 어원적 연결: 사람들이 말하는 방식
@@ -68,6 +75,7 @@
 
 ### parole
 
+- 발음: /pɚˈoʊl/
 - 구성: French `parole` = word, speech
 - 뜻: 가석방; 약속의 말
 - 어원적 연결: 원래 “명예의 말, 약속” → 조건을 지키겠다는 약속 아래 풀려남
@@ -89,6 +97,7 @@
 
 ### parler
 
+- 발음: /ˈpɑrlɚ/
 - 구성: French `parler`
 - 뜻: 말하다
 - 어원적 연결: `parl-` 계열의 직접 출발점

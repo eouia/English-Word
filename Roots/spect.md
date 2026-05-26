@@ -18,6 +18,7 @@
 
 ### inspect
 
+- 발음: /ˌɪˈnspɛkt/
 - 구성: `in-` = into + `spect`
 - 뜻: 검사하다, 점검하다
 - 어원적 연결: 안쪽까지 자세히 봄
@@ -25,6 +26,7 @@
 
 ### inspection
 
+- 발음: /ˌɪˈnspɛkʃən/
 - 구성: `in-` + `spect` + `-ion`
 - 뜻: 검사, 점검
 - 어원적 연결: 안을 들여다보는 행위
@@ -32,6 +34,7 @@
 
 ### respect
 
+- 발음: /rɪˈspɛkt/
 - 구성: `re-` = back + `spect`
 - 뜻: 존중하다, 존경
 - 어원적 연결: 다시 돌아보아 가치를 인정함
@@ -39,6 +42,7 @@
 
 ### despise
 
+- 발음: /dɪˈspaɪz/
 - 구성: `de-` = down + Latin `specere` = look
 - 뜻: 경멸하다, 업신여기다
 - 어원적 연결: 아래로 내려다봄
@@ -46,6 +50,7 @@
 
 ### despite
 
+- 발음: /dɪˈspaɪt/
 - 구성: Old French `despit` ← Latin `despectus` = looking down on
 - 뜻: ~에도 불구하고
 - 어원적 연결: 원래는 "멸시, 악의, 반감"의 뜻. `in despite of` = 반감에도 불구하고 → 현대 `despite` = ~에도 불구하고
@@ -53,6 +58,7 @@
 
 ### spite
 
+- 발음: /ˈspaɪt/
 - 구성: shortened form of `despite`
 - 뜻: 악의, 앙심; 괴롭히다
 - 어원적 연결: 멸시나 반감이 남아 있는 마음
@@ -60,6 +66,7 @@
 
 ### respective
 
+- 발음: /rɪˈspɛktɪv/
 - 구성: `respect` + `-ive`
 - 뜻: 각각의
 - 어원적 연결: 각 대상을 따로 돌아보아 구분함
@@ -67,6 +74,7 @@
 
 ### suspect
 
+- 발음: n./adj. /ˈsʌˌspɛkt/, v. /səˈspɛkt/
 - 구성: `sub-` = under + `spect`
 - 뜻: 의심하다, 용의자
 - 어원적 연결: 겉 아래를 수상하게 봄
@@ -74,6 +82,7 @@
 
 ### suspicion
 
+- 발음: /səˈspɪʃən/
 - 구성: Latin `suspicio`
 - 뜻: 의심, 혐의
 - 어원적 연결: 아래에 숨은 것을 보는 느낌
@@ -81,6 +90,7 @@
 
 ### prospect
 
+- 발음: /ˈprɑspɛkt/
 - 구성: `pro-` = forward + `spect`
 - 뜻: 전망, 가능성
 - 어원적 연결: 앞을 바라봄
@@ -88,6 +98,7 @@
 
 ### perspective
 
+- 발음: /pɚˈspɛktɪv/
 - 구성: `per-` = through + `spect`
 - 뜻: 관점, 시각, 원근법
 - 어원적 연결: 꿰뚫어 보는 방식
@@ -95,6 +106,7 @@
 
 ### spectator
 
+- 발음: /ˈspɛkteɪtɚ/
 - 구성: `spectate` + `-or`
 - 뜻: 관중, 구경꾼
 - 어원적 연결: 바라보는 사람
@@ -102,6 +114,7 @@
 
 ### spectacle
 
+- 발음: /ˈspɛktəkəl/
 - 구성: Latin `spectaculum`
 - 뜻: 구경거리, 장관
 - 어원적 연결: 볼 만한 것
@@ -109,6 +122,7 @@
 
 ### spectacular
 
+- 발음: /spɛˈktækjəlɚ/
 - 구성: `spectacle` + `-ar`
 - 뜻: 장관의, 화려한
 - 어원적 연결: 눈에 띄게 볼 만함
@@ -116,6 +130,7 @@
 
 ### conspicuous
 
+- 발음: /kəˈnspɪkjuəs/
 - 구성: Latin `con-` = completely + `spicere` = look, see
 - 뜻: 눈에 잘 띄는, 두드러진
 - 어원적 연결: 완전히 보일 만큼 드러나 있음
@@ -123,6 +138,7 @@
 
 ### inconspicuous
 
+- 발음: /ˌɪˈŋkɑnspɪkwəs/
 - 구성: `in-` = not + `conspicuous`
 - 뜻: 눈에 잘 띄지 않는, 수수한
 - 어원적 연결: 시야에 뚜렷하게 드러나 보이지 않음
@@ -130,6 +146,7 @@
 
 ### conspicuously
 
+- 발음: /kəˈnspɪkjuəsli/
 - 구성: `conspicuous` + `-ly`
 - 뜻: 눈에 띄게, 두드러지게
 - 어원적 연결: 쉽게 보일 만큼 뚜렷한 방식
@@ -151,6 +168,7 @@
 
 ### speculate
 
+- 발음: /ˈspɛkjəˌleɪt/
 - 구성: Latin `speculari` = observe
 - 뜻: 추측하다, 투기하다
 - 어원적 연결: 멀리 바라보며 가능성을 헤아림
@@ -158,6 +176,7 @@
 
 ### introspect
 
+- 발음: /ˈɪntrəˌspɛkt/
 - 구성: `intro-` = inward + `spect`
 - 뜻: 자기 성찰하다
 - 어원적 연결: 자기 안쪽을 들여다봄
@@ -165,6 +184,7 @@
 
 ### retrospective
 
+- 발음: /ˌrɛtrəˈspɛktɪv/
 - 구성: `retro-` = backward + `spect`
 - 뜻: 회고적인, 회고전
 - 어원적 연결: 뒤를 돌아봄

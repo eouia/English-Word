@@ -11,6 +11,7 @@
 
 ### maternal
 
+- 발음: /məˈtɝnəl/
 - 구성: Latin `mater` + `-nal`
 - 뜻: 어머니의, 모계의
 - 어원적 연결: 어머니 쪽에 속함
@@ -18,6 +19,7 @@
 
 ### maternity
 
+- 발음: /məˈtɝnɪti/
 - 구성: `mater` + `-ity`
 - 뜻: 모성, 출산
 - 어원적 연결: 어머니가 되는 상태
@@ -25,6 +27,7 @@
 
 ### matriarch
 
+- 발음: /ˈmeɪtriˌɑrk/
 - 구성: `matri-` = mother + Greek `archein` = rule
 - 뜻: 여가장, 모계 지도자
 - 어원적 연결: 어머니처럼 집단을 이끄는 사람
@@ -32,6 +35,7 @@
 
 ### matriarchy
 
+- 발음: /ˈmeɪtriˌɑrki/
 - 구성: `matriarch` + `-y`
 - 뜻: 모계 사회, 모권제
 - 어원적 연결: 어머니·여성 중심의 사회 구조
@@ -39,6 +43,7 @@
 
 ### matrix
 
+- 발음: /ˈmeɪtrɪks/
 - 구성: Latin `matrix` = womb
 - 뜻: 모체, 행렬, 기반
 - 어원적 연결: 무언가가 생겨나는 어머니 같은 바탕
@@ -57,6 +62,7 @@
 
 ### matriculate
 
+- 발음: /məˈtrɪkjəleɪt/
 - 뜻: 입학하다, 등록하다
 - 구분 포인트: Latin `matricula` = register에서 온 행정어. `matrix`를 거쳐 `mater`와 역사적으로 연결되지만, 현대 학습에서는 "어머니" 이미지보다 "명부에 등록함"으로 기억하는 편이 안전.
 

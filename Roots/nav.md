@@ -21,6 +21,7 @@
 
 ### navigation
 
+- 발음: /ˈnævəˈgeɪʃən/
 - 구성: Latin `navigatio` < `navigare`
 - 뜻: 항해, 길 찾기, 내비게이션
 - 어원적 연결: 배를 움직여 목적지까지 가는 과정
@@ -28,6 +29,7 @@
 
 ### navigate
 
+- 발음: /ˈnævəˌgeɪt/
 - 구성: `navis` = ship + `agere` = drive
 - 뜻: 항해하다, 길을 찾다, 헤쳐 나가다
 - 어원적 연결: 배를 몰아 물길을 지나감
@@ -35,6 +37,7 @@
 
 ### navigator
 
+- 발음: /ˈnævəˌgeɪtɚ/
 - 구성: `navigate` + `-or`
 - 뜻: 항해사, 길을 찾는 사람
 - 어원적 연결: 이동 경로를 판단하고 방향을 잡는 사람
@@ -42,6 +45,7 @@
 
 ### navigable
 
+- 발음: /ˈnævəgəbəl/
 - 구성: `navigate` + `-able`
 - 뜻: 항해할 수 있는, 통행 가능한
 - 어원적 연결: 배나 사람이 길을 따라 지나갈 수 있음
@@ -49,6 +53,7 @@
 
 ### circumnavigate
 
+- 발음: /ˌsɝkəˈmnævəˌgeɪt/
 - 구성: [[circum]] = around + `navigate`
 - 뜻: 배나 비행기로 일주하다
 - 어원적 연결: 어떤 대상을 둘러 항해함
@@ -56,6 +61,7 @@
 
 ### navy
 
+- 발음: /ˈneɪvi/
 - 구성: Old French `navie` < Latin `navis`
 - 뜻: 해군, 함대
 - 어원적 연결: 배들의 집단에서 국가의 해상 군사 조직으로 확장
@@ -63,6 +69,7 @@
 
 ### naval
 
+- 발음: /ˈneɪvəl/
 - 구성: Latin `navalis` < `navis`
 - 뜻: 해군의, 선박의
 - 어원적 연결: 배나 해군에 속함
@@ -70,6 +77,7 @@
 
 ### nautical
 
+- 발음: /ˈnɔtəkəl/
 - 구성: Greek `nautikos` < `naus` = ship
 - 뜻: 항해의, 선박의
 - 어원적 연결: 그리스어의 배 계열. 라틴어 `navis`와 같은 오래된 뿌리로 연결됨
@@ -77,6 +85,7 @@
 
 ### astronaut
 
+- 발음: /ˈæstrəˌnɑt/
 - 구성: [[astr]] = star + Greek `nautes` = sailor
 - 뜻: 우주비행사
 - 어원적 연결: 별 사이를 항해하는 사람이라는 이미지
@@ -91,6 +100,7 @@
 
 ### nausea
 
+- 발음: /ˈnɔziə/
 - 구성: Greek `nausia` < `naus` = ship
 - 뜻: 메스꺼움, 구역질
 - 어원적 연결: 원래 배멀미와 연결된 느낌에서 일반적인 메스꺼움으로 확장

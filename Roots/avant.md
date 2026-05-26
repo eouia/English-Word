@@ -20,6 +20,7 @@
 
 ### advantage
 
+- 발음: /æˈdvæntɪdʒ/
 - 구성: Old French `avantage` ← `avant` = before, in front
 - 뜻: 이점, 유리함
 - 어원적 연결: 남보다 앞선 위치에 있음
@@ -27,6 +28,7 @@
 
 ### advantageous
 
+- 발음: /ˌædvəˈnteɪdʒəs/
 - 구성: `advantage` + `-ous`
 - 뜻: 유리한, 이로운
 - 어원적 연결: 앞선 위치나 조건을 제공함
@@ -34,6 +36,7 @@
 
 ### disadvantage
 
+- 발음: /ˌdɪsəˈdvæntɪdʒ/
 - 구성: `dis-` = opposite, lack + `advantage`
 - 뜻: 불리함, 약점
 - 어원적 연결: 유리한 위치가 없거나 반대로 불리함
@@ -41,6 +44,7 @@
 
 ### vantage
 
+- 발음: /ˈvæntədʒ/
 - 구성: `advantage`에서 앞부분이 약해진 형태
 - 뜻: 유리한 위치, 전망 좋은 지점
 - 어원적 연결: 앞서 보거나 유리하게 볼 수 있는 자리
@@ -48,6 +52,7 @@
 
 ### advance
 
+- 발음: /əˈdvæns/
 - 구성: Old French `avancer` ← `avant` = forward
 - 뜻: 나아가다, 진전, 선불
 - 어원적 연결: 앞쪽으로 움직임
@@ -55,6 +60,7 @@
 
 ### advanced
 
+- 발음: /əˈdvænst/
 - 구성: `advance` + `-ed`
 - 뜻: 고급의, 진보한, 앞선
 - 어원적 연결: 앞 단계로 나아간 상태
@@ -62,6 +68,7 @@
 
 ### advancement
 
+- 발음: /əˈdvænsmənt/
 - 구성: `advance` + `-ment`
 - 뜻: 진보, 발전, 승진
 - 어원적 연결: 앞쪽 단계로 나아감
@@ -69,6 +76,7 @@
 
 ### avant-garde
 
+- 발음: /əˈvɑˈntgɑrd/
 - 구성: French `avant` = before, front + `garde` = guard
 - 뜻: 전위적인, 아방가르드, 전위 예술
 - 어원적 연결: 맨 앞에서 나아가는 선두 부대

@@ -19,6 +19,7 @@
 
 ### topic
 
+- 발음: /ˈtɑpɪk/
 - 구성: Greek `topos` = place
 - 뜻: 주제, 화제
 - 연결: 말이나 글이 놓이는 자리
@@ -26,6 +27,7 @@
 
 ### topical
 
+- 발음: /ˈtɑpəkəl/
 - 구성: `topic` + `-al`
 - 뜻: 주제와 관련된; 시사적인; 국소적인
 - 연결: 특정 주제나 특정 부위에 놓임
@@ -33,6 +35,7 @@
 
 ### topography
 
+- 발음: /təˈpɑgrəfi/
 - 구성: Greek `topos` = place + `graphia` = writing, description
 - 뜻: 지형, 지형 묘사
 - 연결: 장소의 모양을 그리거나 기록함
@@ -47,6 +50,7 @@
 
 ### topology
 
+- 발음: /təˈpɔlədʒi/
 - 구성: Greek `topos` = place + `-logy` = study
 - 뜻: 위상수학, 배치 구조
 - 연결: 위치와 연결 관계를 다루는 학문
@@ -54,6 +58,7 @@
 
 ### topological
 
+- 발음: /təpəˈlɑdʒɪkəl/
 - 구성: `topology` + `-ical`
 - 뜻: 위상수학의, 위치 관계의
 - 연결: 정확한 거리보다 연결과 배치 관계가 중심
@@ -61,6 +66,7 @@
 
 ### utopia
 
+- 발음: /juˈtoʊpiə/
 - 구성: Greek `ou-` = not + `topos` = place
 - 뜻: 유토피아, 이상향
 - 연결: 현실에는 없는 완벽한 장소

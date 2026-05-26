@@ -20,6 +20,7 @@
 
 ### arcane
 
+- 발음: /ˌɑˈrkeɪn/
 - 구성: Latin `arcanus` = secret, hidden
 - 뜻: 난해한, 비밀스러운, 소수만 아는
 - 어원적 연결: 감춰진 지식처럼 쉽게 접근하기 어려움
@@ -27,6 +28,7 @@
 
 ### arcanum
 
+- 발음: /ˈɑrkənəm/
 - 구성: Latin `arcanum` = secret
 - 뜻: 비밀, 신비한 지식
 - 어원적 연결: 감춰진 비밀 지식

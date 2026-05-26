@@ -19,6 +19,7 @@
 
 ### psyche
 
+- 발음: /ˈsaɪki/
 - 구성: Greek `psyche`
 - 뜻: 마음, 정신, 영혼
 - 어원적 연결: 숨과 생명에서 마음의 영역으로 확장
@@ -26,6 +27,7 @@
 
 ### psychology
 
+- 발음: /saɪˈkɑlədʒi/
 - 구성: `psycho-` = mind + [[logos]] = study
 - 뜻: 심리학
 - 어원적 연결: 마음을 체계적으로 설명하는 학문
@@ -33,6 +35,7 @@
 
 ### psychological
 
+- 발음: /ˌsaɪkəˈlɑdʒɪkəl/
 - 구성: `psychology` + `-ical`
 - 뜻: 심리적인
 - 어원적 연결: 마음과 정신 상태에 관련됨
@@ -40,6 +43,7 @@
 
 ### psychiatrist
 
+- 발음: /səˈkaɪətrəst/
 - 구성: `psyche` = mind + Greek `iatros` = doctor
 - 뜻: 정신과 의사
 - 어원적 연결: 마음의 병을 다루는 의사
@@ -47,6 +51,7 @@
 
 ### psychiatry
 
+- 발음: /saɪˈkaɪətri/
 - 구성: `psyche` + Greek `iatreia` = healing
 - 뜻: 정신의학
 - 어원적 연결: 마음의 병을 치료하는 의학 분야
@@ -54,6 +59,7 @@
 
 ### psychic
 
+- 발음: /ˈsaɪkɪk/
 - 구성: `psyche` + `-ic`
 - 뜻: 정신의, 초능력의
 - 어원적 연결: 마음이나 정신의 힘과 관련됨
@@ -61,6 +67,7 @@
 
 ### psychosis
 
+- 발음: /saɪˈkoʊsəs/
 - 구성: `psych-` + `-osis` = condition
 - 뜻: 정신증
 - 어원적 연결: 정신 기능에 심각한 이상이 생긴 상태
@@ -68,6 +75,7 @@
 
 ### psychosomatic
 
+- 발음: /saɪˌkoʊsəˈmætɪk/
 - 구성: `psycho-` = mind + Greek `soma` = body
 - 뜻: 심신의, 정신 신체의
 - 어원적 연결: 마음의 상태가 몸의 증상과 연결됨

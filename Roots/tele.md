@@ -19,6 +19,7 @@
 
 ### tele
 
+- 발음: /ˈtɛli/
 - 구성: Greek `tele` = far, distant
 - 뜻: 멀리, 원격으로
 - 연결: 공간적으로 떨어진 곳까지 닿음
@@ -26,6 +27,7 @@
 
 ### telescope
 
+- 발음: /ˈtɛləˌskoʊp/
 - 구성: `tele-` = far + `scope` = look
 - 뜻: 망원경
 - 연결: 멀리 있는 것을 보게 해 주는 도구
@@ -33,6 +35,7 @@
 
 ### telephone
 
+- 발음: /ˈtɛləˌfoʊn/
 - 구성: `tele-` = far + Greek `phone` = voice, sound
 - 뜻: 전화
 - 연결: 먼 거리로 소리를 보냄
@@ -40,6 +43,7 @@
 
 ### television
 
+- 발음: /ˈtɛləˌvɪʒən/
 - 구성: `tele-` = far + `vision` = seeing
 - 뜻: 텔레비전, TV
 - 연결: 먼 곳의 영상을 보게 함
@@ -47,6 +51,7 @@
 
 ### telegraph
 
+- 발음: /ˈtɛləˌgræf/
 - 구성: `tele-` = far + `graph` = write
 - 뜻: 전신, 전보
 - 연결: 먼 거리로 글이나 신호를 보냄
@@ -54,6 +59,7 @@
 
 ### telephoto
 
+- 발음: /ˈtɛləˌfoʊtoʊ/
 - 구성: `tele-` = far + `photo` = light/image
 - 뜻: 망원 사진의, 망원 렌즈의
 - 연결: 멀리 있는 장면을 가까이 찍음
@@ -61,6 +67,7 @@
 
 ### telecommute
 
+- 발음: /ˈtɛləkəˌmjut/
 - 구성: `tele-` = far + `commute`
 - 뜻: 재택근무하다, 원격근무하다
 - 연결: 멀리 떨어진 곳에서 일함

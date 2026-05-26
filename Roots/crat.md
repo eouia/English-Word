@@ -18,6 +18,7 @@
 
 ### democracy
 
+- 발음: /dɪˈmɑkrəsi/
 - 구성: [[dem]] = people + `-cracy` = rule
 - 뜻: 민주주의
 - 어원적 연결: 민중이 권력을 가지는 체제
@@ -25,6 +26,7 @@
 
 ### democrat
 
+- 발음: /ˈdɛməˌkræt/
 - 구성: [[dem]] = people + `-crat` = ruler/supporter
 - 뜻: 민주주의자, 민주당원
 - 어원적 연결: 민중 지배를 지지하는 사람
@@ -32,6 +34,7 @@
 
 ### aristocracy
 
+- 발음: /ˌɛrəˈstɑkrəsi/
 - 구성: `aristo-` = best, noble + `-cracy`
 - 뜻: 귀족정, 귀족 계급
 - 어원적 연결: "최고층"이 지배하는 체제
@@ -39,6 +42,7 @@
 
 ### aristocrat
 
+- 발음: /ɚˈɪstəˌkræt/
 - 구성: `aristo-` + `-crat`
 - 뜻: 귀족
 - 어원적 연결: 귀족 지배층의 사람
@@ -46,6 +50,7 @@
 
 ### autocracy
 
+- 발음: /ɔˈtɑkrəsi/
 - 구성: `auto-` = self + `-cracy`
 - 뜻: 독재 정치
 - 어원적 연결: 한 사람이 스스로 권력을 가짐
@@ -53,6 +58,7 @@
 
 ### autocrat
 
+- 발음: /ˈɔtəˌkræt/
 - 구성: `auto-` + `-crat`
 - 뜻: 독재자
 - 어원적 연결: 스스로 절대 권력을 쥔 사람
@@ -60,6 +66,7 @@
 
 ### bureaucracy
 
+- 발음: /bjʊˈrɑkrəsi/
 - 구성: French `bureau` = office + `-cracy`
 - 뜻: 관료제
 - 어원적 연결: 사무실/관료 조직이 지배하는 체계
@@ -67,6 +74,7 @@
 
 ### bureaucrat
 
+- 발음: /ˈbjʊrəˌkræt/
 - 구성: `bureau` + `-crat`
 - 뜻: 관료
 - 어원적 연결: 관료제 안에서 권한을 행사하는 사람
@@ -74,6 +82,7 @@
 
 ### meritocracy
 
+- 발음: /mɛrɪˈtɔkrəsi/
 - 구성: `merit` = worth + `-cracy`
 - 뜻: 능력주의
 - 어원적 연결: 능력 있는 사람이 권력을 얻는 체제
@@ -88,6 +97,7 @@
 
 ### theocracy
 
+- 발음: /θiˈɑkrəsi/
 - 구성: `theo-` = god + `-cracy`
 - 뜻: 신정 정치
 - 어원적 연결: 신의 권위로 지배하는 체제

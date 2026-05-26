@@ -6,6 +6,7 @@
 
 ### renewable
 
+- 발음: /riˈnuəbəl/
 - 핵심 의미: 재생 가능한
 - 사용 맥락: `renewable energy`, `renewable resources`
 - 주의: 시간이 지나면 자연적으로 보충되는 에너지원. 화석연료와 대비.
@@ -36,18 +37,21 @@
 
 ### electrification
 
+- 발음: /ɪˌlɛktrəfɪˈkeɪʃən/
 - 핵심 의미: 전기화
 - 사용 맥락: `electrification of transport`, `rural electrification`
 - 주의: 난방, 교통, 산업 공정을 전기로 바꾸는 흐름. 시골 전력 공급이라는 뜻도 있음.
 
 ### sustainability
 
+- 발음: /səˌsteɪnəˈbɪlɪti/
 - 핵심 의미: 지속가능성
 - 사용 맥락: `energy sustainability`, `sustainability goals`
 - 주의: 환경뿐 아니라 경제성, 안정성, 사회적 수용성을 함께 고려.
 
 ### efficiency
 
+- 발음: /ɪˈfɪʃənsi/
 - 핵심 의미: 효율, 효율성
 - 사용 맥락: `energy efficiency`, `improve efficiency`
 - 주의: 같은 서비스를 제공하는 데 필요한 에너지를 줄이는 것.
@@ -62,6 +66,7 @@
 
 ### photovoltaic
 
+- 발음: /ˌfoʊtəˌvoʊˈlteɪɪk/
 - 핵심 의미: 광전지의, 태양광 발전의
 - 사용 맥락: `photovoltaic panels`, `PV cells`
 - 주의: 햇빛을 직접 전기로 바꾸는 기술. 약어 `PV`.
@@ -74,6 +79,7 @@
 
 ### turbine
 
+- 발음: /ˈtɝbaɪn/
 - 핵심 의미: 터빈
 - 사용 맥락: `wind turbine`, `hydroelectric turbine`
 - 주의: 흐르는 공기, 물, 증기 등이 회전시키는 장치.
@@ -86,18 +92,21 @@
 
 ### hydropower
 
+- 발음: /ˈhaɪdroʊˌpaʊr/
 - 핵심 의미: 수력 발전
 - 사용 맥락: `hydropower dam`, `hydropower generation`
 - 주의: 물의 흐름이나 낙차를 이용한 전력 생산.
 
 ### geothermal
 
+- 발음: /ˌdʒioʊˈθɝməl/
 - 핵심 의미: 지열의
 - 사용 맥락: `geothermal energy`, `geothermal power plant`
 - 주의: 지구 내부의 열을 이용하는 에너지.
 
 ### biomass
 
+- 발음: /ˈbaɪəmæs/
 - 핵심 의미: 바이오매스, 생물자원
 - 사용 맥락: `biomass energy`, `biomass fuel`
 - 주의: 식물, 목재, 농업 폐기물 등 생물 유래 물질. 탄소중립성은 조건에 따라 논쟁적.
@@ -106,36 +115,42 @@
 
 ### grid
 
+- 발음: /ˈgrɪd/
 - 핵심 의미: 전력망, 격자
 - 사용 맥락: `electric grid`, `grid stability`
 - 주의: 일반 의미는 격자. 에너지 문맥에서는 전기를 생산지에서 소비지로 보내는 전력망.
 
 ### [[miss#transmission|transmission]]
 
+- 발음: /træˈnsmɪʃən/
 - 핵심 의미: 송전, 전송
 - 사용 맥락: `transmission lines`, `electricity transmission`
 - 주의: 질병 전파나 정보 전송도 뜻함. 전력에서는 먼 거리로 전기를 보내는 것.
 
 ### [[trib#distribution|distribution]]
 
+- 발음: /ˌdɪstrəˈbjuʃən/
 - 핵심 의미: 배전, 분배
 - 사용 맥락: `distribution network`, `electricity distribution`
 - 주의: 전력망에서는 소비자 가까운 지역망으로 전기를 나누어 보내는 단계.
 
 ### storage
 
+- 발음: /ˈstɔrədʒ/
 - 핵심 의미: 저장
 - 사용 맥락: `energy storage`, `battery storage`
 - 주의: 재생에너지의 변동성을 보완하기 위해 전기를 저장하는 기술.
 
 ### [[batt#battery|battery]]
 
+- 발음: /ˈbætɚi/
 - 핵심 의미: 배터리, 전지
 - 사용 맥락: `lithium-ion battery`, `grid-scale battery`
 - 주의: 법률에서는 폭행, 군사에서는 포대라는 뜻도 있음.
 
 ### [[cap#capacity|capacity]]
 
+- 발음: /kəˈpæsəti/
 - 핵심 의미: 용량, 발전 능력
 - 사용 맥락: `installed capacity`, `storage capacity`
 - 주의: 일반 의미는 능력·수용량. 전력에서는 설비가 낼 수 있는 최대 출력.
@@ -154,12 +169,14 @@
 
 ### reliability
 
+- 발음: /riˌlaɪəˈbɪləti/
 - 핵심 의미: 신뢰성, 안정적 공급 능력
 - 사용 맥락: `grid reliability`, `reliable power supply`
 - 주의: 전기가 필요할 때 안정적으로 공급되는 능력.
 
 ### [[sult#resilience|resilience]]
 
+- 발음: /rɪˈzɪliəns/
 - 핵심 의미: 회복력, 탄력성
 - 사용 맥락: `grid resilience`, `energy resilience`
 - 주의: 폭풍, 화재, 사이버공격 같은 충격 뒤에도 버티고 회복하는 능력.
@@ -168,24 +185,28 @@
 
 ### [[sed-sess#subsidy|subsidy]]
 
+- 발음: /ˈsʌbsɪdi/
 - 핵심 의미: 보조금
 - 사용 맥락: `renewable energy subsidies`, `subsidize solar panels`
 - 주의: 정부가 특정 기술이나 산업을 키우기 위해 비용을 지원하는 것.
 
 ### incentive
 
+- 발음: /ˌɪˈnsɛntɪv/
 - 핵심 의미: 장려책, 유인
 - 사용 맥락: `tax incentive`, `incentives for clean energy`
 - 주의: 사람이나 기업이 특정 행동을 하도록 만드는 경제적·정책적 동기.
 
 ### [[mand#mandate|mandate]]
 
+- 발음: /ˈmæˌndeɪt/
 - 핵심 의미: 의무 규정, 명령, 위임
 - 사용 맥락: `renewable energy mandate`, `clean energy mandate`
 - 주의: 에너지 문맥에서는 일정 비율 이상의 재생에너지 사용을 요구하는 규정.
 
 ### [[stand#standard|standard]]
 
+- 발음: /ˈstændɚd/
 - 핵심 의미: 기준, 표준
 - 사용 맥락: `renewable portfolio standard`, `efficiency standard`
 - 주의: 기술·정책에서 지켜야 할 기준이나 성능 요구.
@@ -210,6 +231,7 @@
 
 ### scalability
 
+- 발음: /ˈskeɪləˈbɪlɪti/
 - 핵심 의미: 확장성
 - 사용 맥락: `scalability of renewable technology`
 - 주의: 기술을 작은 실험에서 대규모 사회 시스템으로 키울 수 있는 능력.
@@ -242,6 +264,7 @@
 
 ### lifecycle
 
+- 발음: /ˈlaɪˌfsaɪkəl/
 - 핵심 의미: 생애주기
 - 사용 맥락: `lifecycle emissions`, `lifecycle assessment`
 - 주의: 생산, 운송, 사용, 폐기까지 전체 과정의 영향을 보는 관점.
@@ -254,6 +277,7 @@
 
 ### electrified
 
+- 발음: /ɪˈlɛktrəˌfaɪd/
 - 핵심 의미: 전기화된, 전기를 공급받는
 - 사용 맥락: `electrified transport`, `electrified rural areas`
 - 주의: 감정적으로 "짜릿한"이라는 뜻도 있지만, 에너지 문맥에서는 전기 기반으로 바뀐 상태.
@@ -268,6 +292,7 @@
 
 ### IRENA
 
+- 발음: /ˌɪˈreɪnə/
 - 핵심 의미: 국제재생에너지기구
 - 사용 맥락: `IRENA renewable energy statistics`
 - 주의: 재생에너지 보급과 정책을 다루는 국제기구.
@@ -286,12 +311,14 @@
 
 ### OPEC
 
+- 발음: /ˈoʊˌpɛk/
 - 핵심 의미: 석유수출국기구
 - 사용 맥락: `OPEC oil production`
 - 주의: 재생에너지 자체 기관은 아니지만, 화석연료 시장과 에너지 전환 논의에서 자주 등장.
 
 ### Tesla
 
+- 발음: /ˈtɛslə/
 - 핵심 의미: 전기차·배터리 기업
 - 사용 맥락: `Tesla battery storage`, `Tesla electric vehicles`
 - 주의: 특정 기업명이지만, 전기차와 배터리 보급 논의에서 자주 언급됨.

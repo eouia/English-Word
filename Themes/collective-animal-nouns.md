@@ -6,24 +6,28 @@
 
 ### herd
 
+- 발음: /ˈhɝd/
 - 핵심 의미: 큰 초식동물이나 가축의 무리
 - 사용 맥락: `a herd of cattle`, `a herd of elephants`, `a herd of deer`
 - 주의: 발굽이 있는 동물, 풀을 뜯는 동물에 넓게 쓰임. 일상 영어에서 가장 안정적인 선택 중 하나.
 
 ### flock
 
+- 발음: /ˈflɑk/
 - 핵심 의미: 새나 양의 무리
 - 사용 맥락: `a flock of birds`, `a flock of sheep`
 - 주의: 새가 함께 날거나 모여 있는 장면에 자연스러움. `herd of sheep`도 가능하지만 `flock of sheep`이 더 전형적.
 
 ### [[pack#pack|pack]]
 
+- 발음: /ˈpæk/
 - 핵심 의미: 함께 사냥하거나 움직이는 포식성 동물의 무리
 - 사용 맥락: `a pack of wolves`, `a pack of dogs`
 - 주의: `a pack of wolf`가 아니라 `a pack of wolves`. 집단 뒤의 동물명은 보통 복수형.
 
 ### [[schol#school|school]]
 
+- 발음: /ˈskul/
 - 핵심 의미: 함께 헤엄치는 물고기 무리
 - 사용 맥락: `a school of fish`
 - 주의: 학교의 `school`과 같은 철자지만 여기서는 동물 무리. 바다 생물에는 `school of dolphins`, `school of whales`도 가능하지만 `pod`가 더 자주 쓰일 때가 있음.
@@ -36,12 +40,14 @@
 
 ### swarm
 
+- 발음: /ˈswɔrm/
 - 핵심 의미: 벌레나 곤충이 떼 지어 움직이는 무리
 - 사용 맥락: `a swarm of bees`, `a swarm of locusts`, `a swarm of flies`
 - 주의: 많고 빠르게 움직이며 성가시거나 위협적인 느낌이 붙기 쉬움.
 
 ### [[colon#colony|colony]]
 
+- 발음: /ˈkɑləni/
 - 핵심 의미: 일정한 장소에 정착해 사는 동물·곤충의 군집
 - 사용 맥락: `a colony of ants`, `a colony of bees`, `a colony of penguins`
 - 주의: 단순히 지나가는 무리보다 둥지·서식지·사회적 생활의 이미지.
@@ -56,6 +62,7 @@
 
 ### a pod of dolphins / whales
 
+- 발음: /ˈweɪlz/
 - 핵심 의미: 돌고래나 고래의 무리
 - 사용 맥락: `a pod of dolphins`, `a pod of whales`
 - 주의: 바다 포유류 집단에 흔함. `school`도 가능하지만 `pod`가 더 자연스러운 경우가 많음.
@@ -74,6 +81,7 @@
 
 ### a litter of puppies / kittens
 
+- 발음: /ˈkɪtənz/
 - 핵심 의미: 한배에서 태어난 새끼들의 무리
 - 사용 맥락: `a litter of puppies`, `a litter of kittens`
 - 주의: 성체의 무리가 아니라 같은 어미에게서 난 새끼들.
@@ -124,6 +132,7 @@
 
 ### a raft of ducks / otters
 
+- 발음: /ˈɑtɚz/
 - 핵심 의미: 물 위에 떠 있는 오리나 수달 무리
 - 사용 맥락: `a raft of ducks`, `a raft of otters`
 - 주의: 물 위에 모여 떠 있는 모습에서 나온 표현.

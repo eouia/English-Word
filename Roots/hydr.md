@@ -9,6 +9,7 @@
 
 ### hydrate
 
+- 발음: /ˈhaɪˌdreɪt/
 - 구성: Greek `hydor` + `-ate`
 - 뜻: 수분을 공급하다, 수화물
 - 어원적 연결: 물을 더하거나 포함함
@@ -16,6 +17,7 @@
 
 ### dehydrate
 
+- 발음: /dɪˈhaɪdreɪt/
 - 구성: `de-` = remove + `hydrate`
 - 뜻: 탈수되다, 수분을 빼다
 - 어원적 연결: 물이 빠져나감
@@ -23,6 +25,7 @@
 
 ### hydrogen
 
+- 발음: /ˈhaɪdrədʒən/
 - 구성: `hydro-` = water + `-gen` = producing
 - 뜻: 수소
 - 어원적 연결: 물을 만드는 원소라는 이름
@@ -30,6 +33,7 @@
 
 ### hydraulic
 
+- 발음: /haɪˈdrɔlɪk/
 - 구성: `hydro-` = water + Greek `aulos` = pipe
 - 뜻: 수압의, 유압의
 - 어원적 연결: 물이나 액체의 압력으로 작동함
@@ -37,6 +41,7 @@
 
 ### hydroelectric
 
+- 발음: /ˌhaɪdroʊɪˈlɛktrɪk/
 - 구성: `hydro-` = water + `electric`
 - 뜻: 수력 발전의
 - 어원적 연결: 물의 힘으로 전기를 만듦

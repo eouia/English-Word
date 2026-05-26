@@ -18,6 +18,7 @@
 
 ### student
 
+- 발음: /ˈstudənt/
 - 구성: Latin `studens` = eager, studying
 - 뜻: 학생, 배우는 사람
 - 연결: 배움에 힘쓰고 몰두하는 사람
@@ -25,6 +26,7 @@
 
 ### study
 
+- 발음: /ˈstʌdi/
 - 구성: Old French `estudie`, from Latin `studium`
 - 뜻: 공부하다, 연구하다; 공부, 연구
 - 연결: 관심을 가지고 깊이 파고듦
@@ -32,6 +34,7 @@
 
 ### studies
 
+- 발음: /ˈstʌdiz/
 - 구성: `study`의 복수형
 - 뜻: 학업, 연구들, 학문 분야
 - 연결: 여러 과목이나 연구 활동
@@ -39,6 +42,7 @@
 
 ### studied
 
+- 발음: /ˈstʌdid/
 - 구성: `study` + `-ed`
 - 뜻: 공부한; 신중하게 계획된, 꾸민 듯한
 - 연결: 충분히 살피고 의도적으로 만든 상태
@@ -46,6 +50,7 @@
 
 ### studious
 
+- 발음: /ˈstudiəs/
 - 구성: Latin `studiosus` = eager, devoted
 - 뜻: 공부에 열심인, 학구적인
 - 연결: 배움에 꾸준히 몰두함
@@ -53,6 +58,7 @@
 
 ### studiously
 
+- 발음: /ˈstudiəsli/
 - 구성: `studious` + `-ly`
 - 뜻: 열심히, 신중하게; 일부러
 - 연결: 주의와 노력을 들여 행동함
@@ -60,6 +66,7 @@
 
 ### studio
 
+- 발음: /ˈstudiˌoʊ/
 - 구성: Italian `studio`, from Latin `studium`
 - 뜻: 작업실, 스튜디오
 - 연결: 예술가나 제작자가 몰두해 작업하는 공간

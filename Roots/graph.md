@@ -20,6 +20,7 @@
 
 ### graph
 
+- 발음: /ˈgræf/
 - 구성: Greek `graphein` = write, draw
 - 뜻: 그래프, 도표; 그래프로 나타내다
 - 연결: 수나 관계를 선과 점으로 그려 기록함
@@ -27,6 +28,7 @@
 
 ### graphic
 
+- 발음: /ˈgræfɪk/
 - 구성: `graph` + `-ic`
 - 뜻: 그림의, 도표의, 생생한
 - 연결: 눈에 보이게 그려 보여 줌
@@ -34,6 +36,7 @@
 
 ### graphics
 
+- 발음: /ˈgræfɪks/
 - 구성: `graphic` + `-s`
 - 뜻: 그래픽, 시각 자료
 - 연결: 그려서 보여 주는 이미지나 도표
@@ -41,6 +44,7 @@
 
 ### photograph
 
+- 발음: /ˈfoʊtəˌgræf/
 - 구성: Greek `photo-` = light + `graph` = write, draw
 - 뜻: 사진
 - 연결: 빛으로 그린 기록
@@ -48,6 +52,7 @@
 
 ### photography
 
+- 발음: /fəˈtɑgrəfi/
 - 구성: `photo-` = light + `graphy` = writing, drawing
 - 뜻: 사진술, 사진 촬영
 - 연결: 빛으로 이미지를 기록하는 기술
@@ -55,6 +60,7 @@
 
 ### biography
 
+- 발음: /baɪˈɑgrəfi/
 - 구성: Greek `bio-` = life + `graphy` = writing
 - 뜻: 전기, 일대기
 - 연결: 한 사람의 삶을 적은 기록
@@ -62,6 +68,7 @@
 
 ### geography
 
+- 발음: /dʒiˈɑgrəfi/
 - 구성: Greek `geo-` = earth + `graphy` = writing, description
 - 뜻: 지리, 지리학
 - 연결: 땅과 지역을 기록하고 설명함
@@ -69,6 +76,7 @@
 
 ### topography
 
+- 발음: /təˈpɑgrəfi/
 - 구성: Greek `topos` = place + `graphia` = writing, description
 - 뜻: 지형, 지형 묘사
 - 연결: 장소의 모양을 그려 적음
@@ -76,6 +84,7 @@
 
 ### paragraph
 
+- 발음: /ˈpærəˌgræf/
 - 구성: Greek `para-` = beside + `graphein` = write
 - 뜻: 문단
 - 연결: 원래는 글 옆에 표시를 해 새 단락을 알린 것
@@ -83,6 +92,7 @@
 
 ### diagram
 
+- 발음: /ˈdaɪəˌgræm/
 - 구성: `dia-` = across, through + `graph` = draw
 - 뜻: 도표, 도식
 - 연결: 선을 가로질러 그려 구조를 보여 줌
@@ -90,6 +100,7 @@
 
 ### demographic
 
+- 발음: /ˌdɛməˈgræfɪk/
 - 구성: `demo` = people + `graph` = write, record
 - 뜻: 인구통계의
 - 연결: 사람 집단을 기록하고 분류함

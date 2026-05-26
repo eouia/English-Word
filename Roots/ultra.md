@@ -18,6 +18,7 @@
 
 ### ultra
 
+- 발음: /ˈʌltrə/
 - 구성: Latin `ultra` = beyond
 - 뜻: 극단주의자, 극단적인, 초고도의
 - 어원적 연결: 보통 기준을 넘어선 상태
@@ -25,6 +26,7 @@
 
 ### ultraviolet
 
+- 발음: /ˌʌltrəˈvaɪəlɪt/
 - 구성: `ultra-` = beyond + `violet`
 - 뜻: 자외선의
 - 어원적 연결: 보라색보다 더 짧은 파장 쪽, 눈에 보이는 범위 너머
@@ -32,6 +34,7 @@
 
 ### ultrasound
 
+- 발음: /ˌʌltrəˈsaʊnd/
 - 구성: `ultra-` = beyond + `sound`
 - 뜻: 초음파, 초음파 검사
 - 어원적 연결: 사람이 들을 수 있는 소리의 범위를 넘어선 주파수
@@ -39,6 +42,7 @@
 
 ### ultramodern
 
+- 발음: /ˌʌltrəˈmɑdɚn/
 - 구성: `ultra-` = beyond, extremely + `modern`
 - 뜻: 초현대적인
 - 어원적 연결: 보통의 현대적 수준을 넘어섬
@@ -46,6 +50,7 @@
 
 ### ultraconservative
 
+- 발음: /ˌʌltrəkəˈnsɝvətɪv/
 - 구성: `ultra-` = extremely + `conservative`
 - 뜻: 극보수적인
 - 어원적 연결: 보수적 성향이 보통 수준을 넘어 극단에 가까움
@@ -60,6 +65,7 @@
 
 ### ultimate
 
+- 발음: /ˈʌltəmət/
 - 구성: Latin `ultimus` = farthest, last
 - 뜻: 최후의, 궁극적인, 최고의
 - 어원적 연결: 가장 먼 끝, 마지막 단계
@@ -67,6 +73,7 @@
 
 ### ultimately
 
+- 발음: /ˈʌltəmətli/
 - 구성: `ultimate` + `-ly`
 - 뜻: 궁극적으로, 결국
 - 어원적 연결: 마지막 단계에 이르면
@@ -74,6 +81,7 @@
 
 ### ulterior
 
+- 발음: /əˈltɪriɚ/
 - 구성: Latin `ulterior` = farther, more distant
 - 뜻: 숨은, 이면의, 더 먼
 - 어원적 연결: 겉으로 보이는 것 너머에 있음

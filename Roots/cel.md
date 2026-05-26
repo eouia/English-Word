@@ -19,6 +19,7 @@
 
 ### conceal
 
+- 발음: /kəˈnsil/
 - 구성: Latin `con-` = completely + `celare` = hide
 - 뜻: 숨기다, 감추다
 - 어원적 연결: 어떤 사실이나 물건을 보이지 않게 숨김
@@ -26,6 +27,7 @@
 
 ### concealed
 
+- 발음: /kəˈnsild/
 - 구성: `conceal` + `-ed`
 - 뜻: 숨겨진, 감춰진
 - 어원적 연결: 밖으로 드러나지 않게 숨겨진 상태
@@ -33,6 +35,7 @@
 
 ### concealing
 
+- 발음: /kəˈnsilɪŋ/
 - 구성: `conceal` + `-ing`
 - 뜻: 숨기는, 감추는
 - 어원적 연결: 보이지 않게 만드는 과정
@@ -40,6 +43,7 @@
 
 ### concealment
 
+- 발음: /kəˈnsilmənt/
 - 구성: `conceal` + `-ment`
 - 뜻: 은폐, 숨김
 - 어원적 연결: 숨겨 보이지 않게 하는 행위나 상태
@@ -47,6 +51,7 @@
 
 ### occult
 
+- 발음: /əˈkʌlt/
 - 구성: Latin `ob-` = over, against + `celare` = hide
 - 뜻: 신비주의의, 비밀스러운; 숨기다
 - 어원적 연결: 가려져 숨겨진 지식이나 현상

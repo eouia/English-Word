@@ -19,6 +19,7 @@
 
 ### quantity
 
+- 발음: /ˈkwɑntəti/
 - 구성: Latin `quantitas` ← `quantus`
 - 뜻: 양, 수량, 분량
 - 어원적 연결: 얼마나 많은지 나타내는 값이나 규모
@@ -26,6 +27,7 @@
 
 ### quantitative
 
+- 발음: /ˈkwɑntɪˌteɪtɪv/
 - 구성: `quantity` + `-ative`
 - 뜻: 양적인, 수량에 관한
 - 어원적 연결: 성질보다 수치와 양으로 따짐
@@ -33,6 +35,7 @@
 
 ### quantify
 
+- 발음: /ˈkwɑntɪˌfaɪ/
 - 구성: `quant` + `-ify`
 - 뜻: 수량화하다, 양으로 나타내다
 - 어원적 연결: 추상적인 것을 숫자나 양으로 표시함
@@ -40,6 +43,7 @@
 
 ### quantifiable
 
+- 발음: /ˌkwɑntɪˈfaɪəbɛl/
 - 구성: `quantify` + `-able`
 - 뜻: 수량화할 수 있는
 - 어원적 연결: 숫자나 양으로 측정 가능함
@@ -47,6 +51,7 @@
 
 ### quantum
 
+- 발음: /ˈkwɑntəm/
 - 구성: Latin `quantum` = how much, amount
 - 뜻: 양, 몫; 양자
 - 어원적 연결: 물리학에서는 더 이상 나눌 수 없는 에너지의 최소량 이미지
@@ -54,6 +59,7 @@
 
 ### quota
 
+- 발음: /ˈkwoʊtə/
 - 구성: Medieval Latin `quota` ← Latin `quotus` / `quantus` 계열
 - 뜻: 할당량, 몫
 - 어원적 연결: 정해진 양이나 비율만큼 나누어 맡김

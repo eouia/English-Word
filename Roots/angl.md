@@ -17,6 +17,7 @@
 
 ### angle
 
+- 발음: /ˈæŋgəl/
 - 구성: Latin `angulus`
 - 의미: 각, 각도, 관점
 - 어원적 연결: 두 선이 꺾여 만나는 모서리
@@ -24,6 +25,7 @@
 
 ### angular
 
+- 발음: /ˈæŋgjəlɚ/
 - 구성: `angle` + `-ar`
 - 의미: 각진, 모난
 - 어원적 연결: 둥글지 않고 각이 드러남
@@ -31,6 +33,7 @@
 
 ### triangle
 
+- 발음: /ˈtraɪˌæŋgəl/
 - 구성: [[tri]] = three + `angle`
 - 의미: 삼각형
 - 어원적 연결: 세 각을 가진 도형
@@ -38,6 +41,7 @@
 
 ### rectangle
 
+- 발음: /ˈrɛktæŋgəl/
 - 구성: Latin `rectus` = right, straight + `angle`
 - 의미: 직사각형
 - 어원적 연결: 바른 각, 즉 직각을 가진 도형
@@ -52,6 +56,7 @@
 
 ### diagonal
 
+- 발음: /daɪˈægənəl/
 - 구성: Greek [[dia]] = across + `gonia` = angle
 - 의미: 대각선의, 대각선
 - 어원적 연결: 각에서 각으로 가로질러 감
@@ -59,6 +64,7 @@
 
 ### polygon
 
+- 발음: /ˈpɑlɪˌgɑn/
 - 구성: Greek `poly-` = many + `gonia` = angle
 - 의미: 다각형
 - 어원적 연결: 많은 각을 가진 도형
@@ -66,6 +72,7 @@
 
 ### angler
 
+- 발음: /ˈæŋglɚ/
 - 구성: Old English `angel` = fishhook + `-er`
 - 의미: 낚시꾼
 - 어원적 연결: 굽은 갈고리로 낚는 사람

@@ -9,6 +9,7 @@
 
 ### predatory
 
+- 발음: /ˈprɛdəˌtɔri/
 - 구성: Latin `praedatorius` < `praedator` = plunderer, predator
 - 뜻: 약탈하는, 포식성의, 착취적인
 - 어원적 연결: 먹잇감이나 약자를 노려 빼앗는 성질
@@ -16,6 +17,7 @@
 
 ### predator
 
+- 발음: /ˈprɛdətɚ/
 - 구성: Latin `praedator` = plunderer
 - 뜻: 포식자, 약탈자, 착취자
 - 어원적 연결: 먹잇감이나 전리품을 잡아 빼앗는 존재
@@ -23,6 +25,7 @@
 
 ### predation
 
+- 발음: /prəˈdeɪʃən/
 - 구성: Latin `praedatio` = plundering
 - 뜻: 포식, 약탈
 - 어원적 연결: 먹잇감을 잡아먹거나 남의 것을 빼앗는 행위
@@ -37,6 +40,7 @@
 
 ### prey
 
+- 발음: /ˈpreɪ/
 - 구성: Old French `preie` < Latin `praeda`
 - 뜻: 먹잇감, 희생자; 잡아먹다
 - 어원적 연결: 포식자나 약탈자의 대상
@@ -44,6 +48,7 @@
 
 ### depredation
 
+- 발음: /ˌdɛprəˈdeɪʃən/
 - 구성: `de-` = down, thoroughly + Latin `praedari` = plunder
 - 뜻: 약탈, 파괴, 피해
 - 어원적 연결: 철저히 빼앗고 훼손함

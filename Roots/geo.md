@@ -9,6 +9,7 @@
 
 ### geography
 
+- 발음: /dʒiˈɑgrəfi/
 - 구성: `geo` = earth + [[graph]] = write, describe
 - 뜻: 지리학
 - 어원적 연결: 지구와 땅을 기록하고 설명함
@@ -16,6 +17,7 @@
 
 ### geology
 
+- 발음: /dʒiˈɑlədʒi/
 - 구성: `geo` + [[logos]] = study
 - 뜻: 지질학
 - 어원적 연결: 지구의 물질과 구조를 연구함
@@ -23,6 +25,7 @@
 
 ### geometry
 
+- 발음: /dʒiˈɑmətri/
 - 구성: `geo` = earth + [[metr]] = measure
 - 뜻: 기하학
 - 어원적 연결: 원래는 땅을 재는 기술
@@ -30,6 +33,7 @@
 
 ### geopolitical
 
+- 발음: /ˌdʒioʊpəˈlɪtɪkəl/
 - 구성: `geo` + [[polis]]
 - 뜻: 지정학적인
 - 어원적 연결: 지리와 정치가 결합됨
@@ -37,6 +41,7 @@
 
 ### geocentric
 
+- 발음: /ˌdʒioʊˈsɛntrɪk/
 - 구성: `geo` = earth + `centric` = centered
 - 뜻: 지구 중심의
 - 어원적 연결: 지구를 중심으로 봄

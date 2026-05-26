@@ -19,6 +19,7 @@
 
 ### decimal
 
+- 발음: /ˈdɛsəməl/
 - 구성: Latin `decimus` = tenth + `-al`
 - 뜻: 십진법의, 소수
 - 어원적 연결: 10을 기준으로 자리값을 나누고 셈
@@ -40,6 +41,7 @@
 
 ### deciliter
 
+- 발음: /ˈdɛsəˌlitɚ/
 - 구성: `deci-` = one tenth + `liter`
 - 뜻: 데시리터, 1리터의 10분의 1
 - 어원적 연결: 리터를 10으로 나눈 한 단위
@@ -47,6 +49,7 @@
 
 ### decibel
 
+- 발음: /ˈdɛsəˌbɛl/
 - 구성: `deci-` = one tenth + `bel`
 - 뜻: 데시벨
 - 어원적 연결: `bel`의 10분의 1 단위
@@ -54,6 +57,7 @@
 
 ### decade
 
+- 발음: /dɛˈkeɪd/
 - 구성: Greek `dekas` = group of ten
 - 뜻: 10년, 10개 묶음
 - 어원적 연결: 10개를 한 단위로 묶음
@@ -61,6 +65,7 @@
 
 ### decennial
 
+- 발음: /dəˈsɛniəl/
 - 구성: Latin `decem` = ten + `annus` = year
 - 뜻: 10년마다의, 10주년의
 - 어원적 연결: 10년 단위로 반복됨
@@ -68,6 +73,7 @@
 
 ### decathlon
 
+- 발음: /diˈkæθlɔn/
 - 구성: Greek `deka` = ten + `athlon` = contest
 - 뜻: 10종 경기
 - 어원적 연결: 10개의 경기 종목
@@ -75,6 +81,7 @@
 
 ### decimate
 
+- 발음: /ˈdɛsəˌmeɪt/
 - 구성: Latin `decimare` = take a tenth
 - 뜻: 대량으로 파괴하다, 크게 줄이다
 - 어원적 연결: 원래는 10명 중 1명을 처벌하거나 제거함. 현대에는 "크게 파괴하다"로 확대.

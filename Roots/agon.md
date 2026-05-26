@@ -20,6 +20,7 @@
 
 ### antagonist
 
+- 발음: /æˈntægənəst/
 - 구성: Greek `anti-` = against + `agonistes` = competitor
 - 뜻: 적대자, 상대역, 길항제
 - 어원적 연결: 맞서 싸우는 사람이나 힘
@@ -27,6 +28,7 @@
 
 ### antagonistic
 
+- 발음: /æˌntægəˈnɪstɪk/
 - 구성: `antagonist` + `-ic`
 - 뜻: 적대적인, 반대하는
 - 어원적 연결: 상대와 맞서 싸우는 태도
@@ -34,6 +36,7 @@
 
 ### antagonism
 
+- 발음: /æˈntægəˌnɪzəm/
 - 구성: `antagonist` + `-ism`
 - 뜻: 적대감, 대립
 - 어원적 연결: 서로 맞서는 상태
@@ -41,6 +44,7 @@
 
 ### protagonist
 
+- 발음: /proʊˈtægənəst/
 - 구성: Greek `protos` = first + `agonistes` = actor, competitor
 - 뜻: 주인공, 주창자
 - 어원적 연결: 무대나 싸움에서 첫째 역할을 맡은 사람
@@ -48,6 +52,7 @@
 
 ### agonize
 
+- 발음: /ˈægəˌnaɪz/
 - 구성: Greek `agon` = struggle + `-ize`
 - 뜻: 괴로워하다, 고심하다
 - 어원적 연결: 마음속에서 싸우듯 고통스러워함
@@ -55,6 +60,7 @@
 
 ### agonizing
 
+- 발음: /ˈægənaɪzɪŋ/
 - 구성: `agonize` + `-ing`
 - 뜻: 고통스러운, 괴로운
 - 어원적 연결: 싸움 같은 고통을 주는
@@ -62,6 +68,7 @@
 
 ### agony
 
+- 발음: /ˈægəni/
 - 구성: Greek `agonia` = struggle, anguish
 - 뜻: 극심한 고통, 고뇌
 - 어원적 연결: 몸부림치는 싸움 같은 고통

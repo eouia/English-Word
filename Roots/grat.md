@@ -21,6 +21,7 @@
 
 ### agreement
 
+- 발음: /əˈgrimənt/
 - 구성: `agree` + `-ment`
 - 뜻: 합의, 동의, 계약
 - 어원적 연결: 서로 마음이나 뜻이 맞아 받아들인 상태
@@ -51,6 +52,7 @@
 
 ### agree
 
+- 발음: /əˈgri/
 - 구성: Old French `agreer` ← Latin `gratus` = pleasing
 - 뜻: 동의하다, 의견이 맞다
 - 어원적 연결: 어떤 의견이나 조건이 마음에 맞아 받아들여짐
@@ -58,6 +60,7 @@
 
 ### agreeable
 
+- 발음: /əˈgriəbəl/
 - 구성: `agree` + `-able`
 - 뜻: 기분 좋은, 동의할 수 있는
 - 어원적 연결: 마음에 들어 받아들일 만함
@@ -65,6 +68,7 @@
 
 ### disagreement
 
+- 발음: /dɪsəˈgrimənt/
 - 구성: `dis-` = apart/not + `agreement`
 - 뜻: 불일치, 의견 차이, 다툼
 - 어원적 연결: 서로 마음이나 뜻이 맞지 않음
@@ -72,6 +76,7 @@
 
 ### gratitude
 
+- 발음: /ˈgrætəˌtud/
 - 구성: Latin `gratitudo` ← `gratus` = thankful
 - 뜻: 감사, 고마움
 - 어원적 연결: 받은 것이 마음에 들어 고마워하는 마음
@@ -79,6 +84,7 @@
 
 ### grateful
 
+- 발음: /ˈgreɪtfəl/
 - 구성: `grate`/`grat-` + `-ful`
 - 뜻: 고마워하는, 감사하는
 - 어원적 연결: 받은 호의가 기쁘고 마음에 들어 고마움
@@ -86,6 +92,7 @@
 
 ### gratify
 
+- 발음: /ˈgrætəˌfaɪ/
 - 구성: Latin `gratificari` = oblige, please
 - 뜻: 만족시키다, 기쁘게 하다
 - 어원적 연결: 상대가 기뻐하고 마음에 들게 함
@@ -93,6 +100,7 @@
 
 ### gratification
 
+- 발음: /ˌgrætəfəˈkeɪʃən/
 - 구성: `gratify` + `-ation`
 - 뜻: 만족, 충족
 - 어원적 연결: 마음에 들어 기쁜 상태
@@ -100,6 +108,7 @@
 
 ### congratulate
 
+- 발음: /kəˈngrætʃəˌleɪt/
 - 구성: Latin `con-` = together + `gratulari` = show joy
 - 뜻: 축하하다
 - 어원적 연결: 함께 기뻐하고 좋은 마음을 표현함
@@ -107,6 +116,7 @@
 
 ### grace
 
+- 발음: /ˈgreɪs/
 - 구성: Latin `gratia` = favor, thanks, pleasing quality
 - 뜻: 은혜, 우아함, 품위
 - 어원적 연결: 마음에 드는 호의나 아름다운 성질
@@ -114,6 +124,7 @@
 
 ### gracious
 
+- 발음: /ˈgreɪʃəs/
 - 구성: `grace` + `-ous`
 - 뜻: 품위 있는, 친절한, 너그러운
 - 어원적 연결: 호의를 베풀고 마음 좋게 대하는 성질

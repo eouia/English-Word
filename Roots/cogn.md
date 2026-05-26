@@ -18,6 +18,7 @@
 
 ### recognize
 
+- 발음: /ˈrɛkəˌgnaɪz/
 - 구성: `re-` = again + `cognoscere`
 - 의미: 알아보다, 인식하다, 인정하다
 - 어원적 연결: 전에 알던 것을 다시 알아봄
@@ -25,6 +26,7 @@
 
 ### recognition
 
+- 발음: /ˌrɛkəˈgnɪʃən/
 - 구성: `recognize` + `-ion`
 - 의미: 인식, 인정
 - 어원적 연결: 알아보거나 공식적으로 인정하는 행위
@@ -32,6 +34,7 @@
 
 ### recognizable
 
+- 발음: /ˌrɛkəˈgnaɪzəbəl/
 - 구성: `recognize` + `-able`
 - 의미: 알아볼 수 있는
 - 어원적 연결: 다시 보고 알 수 있음
@@ -39,6 +42,7 @@
 
 ### cognitive
 
+- 발음: /ˈkɑgnɪtɪv/
 - 구성: Latin `cognit-` = known + `-ive`
 - 의미: 인지의, 사고의
 - 어원적 연결: 알고 이해하는 정신 작용
@@ -46,6 +50,7 @@
 
 ### cognition
 
+- 발음: /kɑˈgnɪʃən/
 - 구성: Latin `cognitio`
 - 의미: 인지, 지식 작용
 - 어원적 연결: 무언가를 알아 가는 과정
@@ -53,6 +58,7 @@
 
 ### cognizant
 
+- 발음: /ˈkɑgnəzənt/
 - 구성: `cognize` 계열 + `-ant`
 - 의미: 알고 있는, 인식하고 있는
 - 어원적 연결: 어떤 사실을 지식으로 갖고 있음
@@ -60,6 +66,7 @@
 
 ### incognito
 
+- 발음: /ˌɪnkɔˈgnitoʊ/
 - 구성: [[in]] = not + Latin `cognitus` = known
 - 의미: 신분을 숨긴, 익명의
 - 어원적 연결: 알려지지 않은 상태
@@ -67,6 +74,7 @@
 
 ### ignorant
 
+- 발음: /ˈɪgnɚənt/
 - 구성: Latin `ignorare` = not know
 - 의미: 무지한, 모르는
 - 어원적 연결: 알지 못하는 상태
@@ -74,6 +82,7 @@
 
 ### ignore
 
+- 발음: /ˌɪˈgnɔr/
 - 구성: Latin `ignorare` = not know, disregard
 - 의미: 무시하다
 - 어원적 연결: 알지 않으려 하거나 모르는 체함

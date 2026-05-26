@@ -20,6 +20,7 @@
 
 ### dioxide
 
+- 발음: /daɪˈɑˌksaɪd/
 - 구성: `di-` = two + `oxide`
 - 뜻: 이산화물
 - 어원적 연결: 산소 원자가 두 개 들어감
@@ -27,6 +28,7 @@
 
 ### dichotomy
 
+- 발음: /daɪˈkɑtəmi/
 - 구성: Greek `dicha` = in two + `tome` = cutting
 - 뜻: 양분, 이분법
 - 어원적 연결: 둘로 잘라 나눔
@@ -34,6 +36,7 @@
 
 ### dilemma
 
+- 발음: /dɪˈlɛmə/
 - 구성: Greek `di-` = two + `lemma` = premise
 - 뜻: 딜레마, 난처한 양자택일
 - 어원적 연결: 두 전제나 선택지 사이에 놓임
@@ -41,6 +44,7 @@
 
 ### diphthong
 
+- 발음: /ˈdɪˌfθɔŋ/
 - 구성: `di-` = two + Greek `phthongos` = sound
 - 뜻: 이중모음
 - 어원적 연결: 한 음절 안에서 두 모음 소리가 이어짐
@@ -48,6 +52,7 @@
 
 ### diode
 
+- 발음: /ˈdaɪˌoʊd/
 - 구성: `di-` = two + `-ode` = way
 - 뜻: 다이오드
 - 어원적 연결: 두 전극을 가진 전자 부품
@@ -69,6 +74,7 @@
 
 ### dimorphism
 
+- 발음: /daɪˈmɔrfɪzəm/
 - 구성: `di-` = two + Greek `morphe` = form
 - 뜻: 이형성
 - 어원적 연결: 두 가지 형태가 있음

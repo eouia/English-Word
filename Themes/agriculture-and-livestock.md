@@ -6,48 +6,56 @@
 
 ### agriculture
 
+- 발음: /ˈægrɪˌkʌltʃɚ/
 - 핵심 의미: 농업
 - 사용 맥락: `modern agriculture`, `agricultural production`
 - 주의: 작물 재배뿐 아니라 축산, 토지 이용, 식량 생산 체계 전반을 포함.
 
 ### cultivation
 
+- 발음: /ˌkʌltɪˈveɪʃən/
 - 핵심 의미: 경작, 재배
 - 사용 맥락: `rice cultivation`, `cultivation of crops`
 - 주의: 식물을 길러 수확하는 과정. 비유적으로 능력·태도를 기른다는 뜻도 있음.
 
 ### crop
 
+- 발음: /ˈkrɑp/
 - 핵심 의미: 작물, 수확량
 - 사용 맥락: `staple crops`, `crop yield`
 - 주의: 머리카락을 짧게 자르다, 사진을 자르다라는 동사도 있음.
 
 ### harvest
 
+- 발음: /ˈhɑrvəst/
 - 핵심 의미: 수확, 수확하다
 - 사용 맥락: `harvest season`, `harvest grain`
 - 주의: 농작물 수확에서, 데이터·에너지 등을 모으는 비유로도 확장.
 
 ### [[yield#yield|yield]]
 
+- 발음: /ˈjild/
 - 핵심 의미: 수확량, 산출량, 생산하다
 - 사용 맥락: `crop yield`, `high-yield varieties`
 - 주의: 일반 의미로는 양보하다. 농업·경제에서는 생산량.
 
 ### arable
 
+- 발음: /ˈærəbəl/
 - 핵심 의미: 경작 가능한
 - 사용 맥락: `arable land`, `loss of arable soil`
 - 주의: 농작물을 재배할 수 있는 토지에 쓰는 형용사.
 
 ### acreage
 
+- 발음: /ˈeɪkɚɪdʒ/
 - 핵심 의미: 경작 면적, 토지 면적
 - 사용 맥락: `increase acreage`, `cultivated acreage`
 - 주의: 농업 생산 규모를 말할 때 자주 쓰임.
 
 ### [[plant#plantation|plantation]]
 
+- 발음: /ˌplæˈnteɪʃən/
 - 핵심 의미: 대규모 농장, 플랜테이션
 - 사용 맥락: `tea plantation`, `sugar plantation`
 - 주의: 역사적으로 식민지, 노예노동, 단일작물 재배와 연결될 수 있음.
@@ -56,48 +64,56 @@
 
 ### soil
 
+- 발음: /ˈsɔɪl/
 - 핵심 의미: 토양, 흙
 - 사용 맥락: `soil fertility`, `soil erosion`
 - 주의: 동사로는 더럽히다. 농업에서는 생산성의 기반.
 
 ### [[fer-fertile#fertility|fertility]]
 
+- 발음: /fɚˈtɪləti/
 - 핵심 의미: 비옥도, 생식력
 - 사용 맥락: `soil fertility`, `fertility rate`
 - 주의: 토양 맥락에서는 작물이 잘 자랄 수 있는 영양 상태. 인구학에서는 출산율.
 
 ### [[fer-fertile#fertilizer|fertilizer]]
 
+- 발음: /ˈfɝtəˌlaɪzɚ/
 - 핵심 의미: 비료
 - 사용 맥락: `chemical fertilizer`, `apply fertilizer`
 - 주의: 토양에 영양분을 공급해 작물 성장을 돕는 물질.
 
 ### manure
 
+- 발음: /məˈnʊr/
 - 핵심 의미: 거름, 가축 분뇨
 - 사용 맥락: `use manure as fertilizer`
 - 주의: 동물 배설물을 농업 비료로 활용한 것.
 
 ### irrigation
 
+- 발음: /ˌɪrəˈgeɪʃən/
 - 핵심 의미: 관개, 물대기
 - 사용 맥락: `irrigation system`, `irrigated farmland`
 - 주의: 농작물에 인공적으로 물을 공급하는 체계.
 
 ### drainage
 
+- 발음: /ˈdreɪnədʒ/
 - 핵심 의미: 배수, 배수 체계
 - 사용 맥락: `soil drainage`, `drainage system`
 - 주의: 물을 빼내 토양이 너무 젖지 않게 하는 것.
 
 ### erosion
 
+- 발음: /ɪˈroʊʒən/
 - 핵심 의미: 침식, 약화
 - 사용 맥락: `soil erosion`, `erosion by wind and water`
 - 주의: 토양이 물·바람에 씻겨 나가는 현상. 권리나 신뢰가 약해지는 비유도 가능.
 
 ### drought
 
+- 발음: /ˈdraʊt/
 - 핵심 의미: 가뭄
 - 사용 맥락: `drought-resistant crops`, `severe drought`
 - 주의: 일시적으로 비가 적은 날씨가 아니라 장기간 물 부족 상태.
@@ -106,30 +122,35 @@
 
 ### pesticide
 
+- 발음: /ˈpɛstəˌsaɪd/
 - 핵심 의미: 농약, 살충제
 - 사용 맥락: `pesticide use`, `pesticide residue`
 - 주의: 해충, 잡초, 병원체 등을 막는 화학물질 전반. `insecticide`는 살충제.
 
 ### [[herb#herbicide|herbicide]]
 
+- 발음: /ˈhɝbɪˌsaɪd/
 - 핵심 의미: 제초제
 - 사용 맥락: `herbicide-resistant weeds`
 - 주의: 잡초를 죽이는 농약. `pesticide`의 한 종류.
 
 ### pest
 
+- 발음: /ˈpɛst/
 - 핵심 의미: 해충, 유해 생물
 - 사용 맥락: `crop pests`, `pest control`
 - 주의: 일상에서는 성가신 사람도 뜻함. 농업에서는 작물에 피해를 주는 생물.
 
 ### blight
 
+- 발음: /ˈblaɪt/
 - 핵심 의미: 병해, 마름병, 황폐화
 - 사용 맥락: `potato blight`, `crop blight`
 - 주의: 식물 질병뿐 아니라 도시나 사회가 황폐해진 상태도 뜻함.
 
 ### infestation
 
+- 발음: /ˌɪˈnfɛˈsteɪʃən/
 - 핵심 의미: 해충·기생충의 대량 발생
 - 사용 맥락: `locust infestation`, `pest infestation`
 - 주의: 해로운 생물이 한 지역이나 작물에 많이 퍼진 상태.
@@ -148,6 +169,7 @@
 
 ### mechanization
 
+- 발음: /ˌmɛkənəˈzeɪʃən/
 - 핵심 의미: 기계화
 - 사용 맥락: `agricultural mechanization`, `farm mechanization`
 - 주의: 노동을 기계로 대체하거나 보조해 생산성을 높이는 과정.
@@ -156,60 +178,70 @@
 
 ### livestock
 
+- 발음: /ˈlaɪˌvstɑk/
 - 핵심 의미: 가축
 - 사용 맥락: `livestock farming`, `raise livestock`
 - 주의: 소, 돼지, 양, 닭 등 사육되는 동물 전체. 단수처럼 보이지만 집합명사.
 
 ### cattle
 
+- 발음: /ˈkætəl/
 - 핵심 의미: 소, 소 떼
 - 사용 맥락: `cattle ranch`, `raise cattle`
 - 주의: 집합명사라 보통 복수 취급. 개별 한 마리는 `cow`, `bull`, `calf` 등.
 
 ### poultry
 
+- 발음: /ˈpoʊltri/
 - 핵심 의미: 가금류
 - 사용 맥락: `poultry farm`, `poultry production`
 - 주의: 닭, 오리, 칠면조 등 식용으로 기르는 새.
 
 ### herd
 
+- 발음: /ˈhɝd/
 - 핵심 의미: 무리, 떼, 가축 무리
 - 사용 맥락: `a herd of cattle`, `herd immunity`
 - 주의: 축산에서는 소·양 등의 무리. 전염병 맥락에서는 집단면역.
 
 ### pasture
 
+- 발음: /ˈpæstʃɚ/
 - 핵심 의미: 목초지, 방목지
 - 사용 맥락: `graze on pasture`, `pasture land`
 - 주의: 가축이 풀을 뜯는 땅. 동사 `pasture`는 방목하다.
 
 ### grazing
 
+- 발음: /ˈgreɪzɪŋ/
 - 핵심 의미: 방목, 풀 뜯기
 - 사용 맥락: `grazing land`, `overgrazing`
 - 주의: 가축이 풀을 뜯어 먹는 행위. 과도하면 토양 침식과 사막화를 부를 수 있음.
 
 ### domestication
 
+- 발음: /dəˌmɛstəˈkeɪʃən/
 - 핵심 의미: 가축화, 재배화
 - 사용 맥락: `animal domestication`, `domestication of crops`
 - 주의: 야생 동식물을 인간 생활에 맞게 길들이고 변화시키는 과정.
 
 ### breeding
 
+- 발음: /ˈbridɪŋ/
 - 핵심 의미: 번식, 품종 개량
 - 사용 맥락: `selective breeding`, `livestock breeding`
 - 주의: 원하는 형질을 얻기 위해 동식물을 계획적으로 번식시키는 것.
 
 ### husbandry
 
+- 발음: /ˈhʌzbəndri/
 - 핵심 의미: 축산 관리, 사육법
 - 사용 맥락: `animal husbandry`, `good husbandry practices`
 - 주의: 예전에는 절약·관리라는 뜻도 있었지만, 현대 학습에서는 가축 사육 관리로 중요.
 
 ### veterinary
 
+- 발음: /ˈvɛtrəˌnɛri/
 - 핵심 의미: 수의학의, 수의사의
 - 사용 맥락: `veterinary care`, `veterinary medicine`
 - 주의: 가축 질병 관리, 동물 복지, 식품 안전과 연결.
@@ -224,6 +256,7 @@
 
 ### agribusiness
 
+- 발음: /ˈægrəˌbɪznəs/
 - 핵심 의미: 농기업, 농업 관련 산업
 - 사용 맥락: `large agribusiness firms`, `agribusiness sector`
 - 주의: 농산물 생산, 가공, 유통, 장비, 종자, 비료 산업까지 포함.
@@ -236,12 +269,14 @@
 
 ### famine
 
+- 발음: /ˈfæmən/
 - 핵심 의미: 기근
 - 사용 맥락: `severe famine`, `famine relief`
 - 주의: 단순 식량 부족보다 광범위하고 심각한 굶주림 상태.
 
 ### malnutrition ([[mal#malnutrition|mal]], [[nutri#malnutrition|nutri]])
 
+- 발음: /ˌmælnuˈtrɪʃən/
 - 핵심 의미: 영양실조
 - 사용 맥락: `child malnutrition`, `chronic malnutrition`
 - 주의: 음식이 부족한 경우뿐 아니라 영양 균형이 심각하게 부족한 상태.
@@ -254,6 +289,7 @@
 
 ### organic
 
+- 발음: /ɔˈrgænɪk/
 - 핵심 의미: 유기농의, 유기체의
 - 사용 맥락: `organic farming`, `organic produce`
 - 주의: 화학 합성 농약·비료 사용을 제한하는 농업 방식. 화학에서는 탄소 기반 물질.
@@ -286,12 +322,14 @@
 
 ### USDA
 
+- 발음: /ˌjuˌɛˌsdiˈeɪ/
 - 핵심 의미: 미국 농무부
 - 사용 맥락: `USDA agricultural data`, `USDA regulations`
 - 주의: 농업 정책, 식품 안전, 농촌 개발 등과 관련된 미국 정부 기관.
 
 ### FAO
 
+- 발음: /ˈfaʊ/
 - 핵심 의미: 유엔식량농업기구
 - 사용 맥락: `FAO report`, `FAO food security data`
 - 주의: 세계 식량, 농업, 기아 문제를 다루는 유엔 전문기구.

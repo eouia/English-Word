@@ -17,6 +17,7 @@
 
 ### state
 
+- 발음: /ˈsteɪt/
 - 구성: Latin `status` = standing, condition
 - 의미: 상태, 국가, 진술하다
 - 어원적 연결: 어떤 방식으로 서 있는 상태
@@ -24,6 +25,7 @@
 
 ### statement
 
+- 발음: /ˈsteɪtmənt/
 - 구성: `state` + `-ment`
 - 의미: 진술, 성명, 명세서
 - 어원적 연결: 말로 공식적으로 세워 둔 내용
@@ -31,6 +33,7 @@
 
 ### status
 
+- 발음: /ˈstætəs/
 - 구성: Latin `status`
 - 의미: 지위, 상태
 - 어원적 연결: 사회나 상황 안에서 서 있는 자리
@@ -38,6 +41,7 @@
 
 ### statute
 
+- 발음: /ˈstætʃut/
 - 구성: Latin `statuere` = set up, establish
 - 의미: 법령, 성문법
 - 어원적 연결: 공식적으로 세워 둔 규칙
@@ -45,6 +49,7 @@
 
 ### constitute
 
+- 발음: /ˈkɑnstəˌtut/
 - 구성: `con-` = together + Latin `statuere` = set up, establish
 - 의미: 구성하다, ~이 되다, 설립하다
 - 어원적 연결: 여러 요소를 함께 세워 하나의 구조나 상태를 이룸
@@ -52,6 +57,7 @@
 
 ### constitution
 
+- 발음: /ˌkɑnstəˈtuʃən/
 - 구성: Latin `constituere` = set up, establish
 - 의미: 헌법, 구성, 체질
 - 어원적 연결: 국가나 조직의 기본 구조를 함께 세워 둔 것
@@ -60,6 +66,7 @@
 
 ### constituent
 
+- 발음: /kəˈnstɪtʃuənt/
 - 구성: Latin `constituens` ← `constituere`
 - 의미: 구성 요소, 선거구민
 - 어원적 연결: 전체를 함께 세우는 일부. 정치에서는 대표를 세우는 지역 유권자
@@ -67,6 +74,7 @@
 
 ### constitutional
 
+- 발음: /ˌkɑnstəˈtuʃənəl/
 - 구성: `constitution` + `-al`
 - 의미: 헌법상의, 합헌의; 체질상의
 - 어원적 연결: 세워진 기본 구조나 헌법에 속함
@@ -74,6 +82,7 @@
 
 ### unconstitutional
 
+- 발음: /ˌʌˌnkɑnstəˈtuʃənəl/
 - 구성: `un-` + `constitutional`
 - 의미: 위헌의
 - 어원적 연결: 헌법으로 세워 둔 기준에 맞지 않음
@@ -88,6 +97,7 @@
 
 ### statue
 
+- 발음: /ˈstæˌtʃu/
 - 구성: Latin `statua` < `statuere`
 - 의미: 조각상, 입상
 - 어원적 연결: 세워 놓은 형상
@@ -95,6 +105,7 @@
 
 ### station
 
+- 발음: /ˈsteɪʃən/
 - 구성: Latin `statio` = standing place
 - 의미: 역, 위치, 배치하다
 - 어원적 연결: 서 있는 자리, 정해진 위치
@@ -102,6 +113,7 @@
 
 ### stationary
 
+- 발음: /ˈsteɪʃəˌnɛri/
 - 구성: `station` + `-ary`
 - 의미: 움직이지 않는, 고정된
 - 어원적 연결: 제자리에 서 있음
@@ -109,6 +121,7 @@
 
 ### stationery
 
+- 발음: /ˈsteɪʃəˌnɛri/
 - 구성: 역사적으로 `stationer` = 정해진 자리에 서서 파는 상인
 - 의미: 문구류
 - 어원적 연결: 이동 상인이 아니라 고정된 가게에서 팔던 물건
@@ -116,6 +129,7 @@
 
 ### stable
 
+- 발음: /ˈsteɪbəl/
 - 구성: Latin `stabilis` < `stare`
 - 의미: 안정된, 마구간
 - 어원적 연결: 단단히 서 있어 흔들리지 않음
@@ -123,6 +137,7 @@
 
 ### establish
 
+- 발음: /ɪˈstæblɪʃ/
 - 구성: Old French `establiss-` < Latin `stabilis`
 - 의미: 설립하다, 확립하다
 - 어원적 연결: 안정적으로 서게 만듦
@@ -130,6 +145,7 @@
 
 ### established
 
+- 발음: /ɪˈstæblɪʃt/
 - 구성: `establish` + `-ed`
 - 의미: 확립된, 인정받은
 - 어원적 연결: 이미 안정적으로 세워진 상태
@@ -137,6 +153,7 @@
 
 ### establishment
 
+- 발음: /ɪˈstæblɪʃmənt/
 - 구성: `establish` + `-ment`
 - 의미: 설립, 기관, 기성 체제
 - 어원적 연결: 세워진 조직이나 제도
@@ -144,6 +161,7 @@
 
 ### stability
 
+- 발음: /stəˈbɪlɪti/
 - 구성: `stable` + `-ity`
 - 의미: 안정성
 - 어원적 연결: 흔들리지 않고 서 있는 성질
@@ -151,6 +169,7 @@
 
 ### stabilize
 
+- 발음: /ˈsteɪbəˌlaɪz/
 - 구성: `stable` + `-ize`
 - 의미: 안정시키다, 안정되다
 - 어원적 연결: 흔들리지 않고 서 있는 상태로 만들거나 그렇게 됨
@@ -158,6 +177,7 @@
 
 ### stabilization
 
+- 발음: /ˌsteɪbələˈzeɪʃən/
 - 구성: `stabilize` + `-ation`
 - 의미: 안정화
 - 어원적 연결: 안정된 상태로 세우는 과정
@@ -165,6 +185,7 @@
 
 ### unstable
 
+- 발음: /əˈnsteɪbəl/
 - 구성: `un-` = not + `stable`
 - 의미: 불안정한
 - 어원적 연결: 단단히 서 있지 못하고 흔들림
@@ -172,6 +193,7 @@
 
 ### destabilize
 
+- 발음: /dɪˈsteɪbəˌlaɪz/
 - 구성: `de-` = reverse, remove + `stabilize`
 - 의미: 불안정하게 만들다
 - 어원적 연결: 서 있던 안정 상태를 무너뜨림
@@ -179,6 +201,7 @@
 
 ### statistics
 
+- 발음: /stəˈtɪstɪks/
 - 구성: German `Statistik` < state affairs
 - 의미: 통계, 통계학
 - 어원적 연결: 원래 국가의 상태를 수치로 파악하는 학문
@@ -186,6 +209,7 @@
 
 ### estate
 
+- 발음: /ɪˈsteɪt/
 - 구성: Old French `estat` < Latin `status`
 - 의미: 재산, 토지, 계층
 - 어원적 연결: 사회적 상태나 지위에서 재산, 토지 보유 상태로 확장

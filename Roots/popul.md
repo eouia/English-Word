@@ -18,6 +18,7 @@
 
 ### popular
 
+- 발음: /ˈpɑpjəlɚ/
 - 구성: Latin `popularis`
 - 뜻: 대중적인, 인기 있는
 - 어원적 연결: 많은 사람들에게 속하거나 받아들여짐
@@ -25,6 +26,7 @@
 
 ### popularity
 
+- 발음: /ˌpɑpjəˈlɛrəti/
 - 구성: `popular` + `-ity`
 - 뜻: 인기, 대중성
 - 어원적 연결: 사람들 사이에서 널리 받아들여지는 성질
@@ -32,6 +34,7 @@
 
 ### popularize
 
+- 발음: /ˈpɑpjəlɚˌaɪz/
 - 구성: `popular` + `-ize`
 - 뜻: 대중화하다, 널리 알리다
 - 어원적 연결: 많은 사람이 알거나 쓰게 만듦
@@ -39,6 +42,7 @@
 
 ### population
 
+- 발음: /ˌpɑpjəˈleɪʃən/
 - 구성: Latin `populatio` / `populus`
 - 뜻: 인구, 주민
 - 어원적 연결: 한 지역의 사람들 전체
@@ -46,6 +50,7 @@
 
 ### populate
 
+- 발음: /ˈpɑpjəˌleɪt/
 - 구성: `popul` + `-ate`
 - 뜻: 거주하다, 채우다
 - 어원적 연결: 어떤 장소를 사람들로 채움
@@ -53,6 +58,7 @@
 
 ### populous
 
+- 발음: /ˈpɑpjələs/
 - 구성: `popul` + `-ous`
 - 뜻: 인구가 많은
 - 어원적 연결: 사람들이 많은 상태
@@ -60,6 +66,7 @@
 
 ### populace
 
+- 발음: /ˈpɑpjələs/
 - 구성: Latin `populus`
 - 뜻: 일반 대중, 서민층
 - 어원적 연결: 사회의 일반 사람들
@@ -67,6 +74,7 @@
 
 ### people
 
+- 발음: /ˈpipəl/
 - 구성: Old French `peuple`, Latin `populus`
 - 뜻: 사람들, 국민, 민족
 - 어원적 연결: Latin `populus`가 프랑스어를 거쳐 영어 기본어처럼 굳어짐
@@ -74,6 +82,7 @@
 
 ### public
 
+- 발음: /ˈpʌblɪk/
 - 구성: Latin `publicus` = of the people
 - 뜻: 공공의, 대중의, 공개적인
 - 어원적 연결: 사람들 전체에 속함
@@ -81,6 +90,7 @@
 
 ### publicity
 
+- 발음: /pəˈblɪsəti/
 - 구성: `public` + `-ity`
 - 뜻: 홍보, 세간의 주목, 공개성
 - 어원적 연결: 사람들 앞에 공개되어 알려짐
@@ -88,6 +98,7 @@
 
 ### publish
 
+- 발음: /ˈpʌblɪʃ/
 - 구성: Old French `publier`, Latin `publicare`
 - 뜻: 출판하다, 발표하다
 - 어원적 연결: 사람들 앞에 공개함
@@ -95,6 +106,7 @@
 
 ### republic
 
+- 발음: /riˈpʌblək/
 - 구성: Latin `res publica` = public thing
 - 뜻: 공화국
 - 어원적 연결: 한 사람의 사유물이 아니라 사람들 전체의 공적 일

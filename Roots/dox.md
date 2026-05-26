@@ -20,6 +20,7 @@
 
 ### paradox
 
+- 발음: /ˈpɛrəˌdɑks/
 - 구성: `para-` = contrary to + `doxa` = opinion
 - 뜻: 역설, 모순처럼 보이는 말
 - 어원적 연결: 일반적인 의견이나 기대에 어긋남
@@ -27,6 +28,7 @@
 
 ### paradoxical
 
+- 발음: /ˌpɛrəˈdɑksɪkəl/
 - 구성: `paradox` + `-ical`
 - 뜻: 역설적인
 - 어원적 연결: 겉으로는 앞뒤가 맞지 않아 보이나 생각할 지점이 있음
@@ -34,6 +36,7 @@
 
 ### paradoxically
 
+- 발음: /ˌpɛrəˈdɑksəkli/
 - 구성: `paradoxical` + `-ly`
 - 뜻: 역설적으로
 - 어원적 연결: 예상과 반대로 보이는 방식
@@ -41,6 +44,7 @@
 
 ### orthodox
 
+- 발음: /ˈɔrθəˌdɑks/
 - 구성: Greek `orthos` = right, straight + `doxa` = opinion
 - 뜻: 정통의, 정설의
 - 어원적 연결: 바른 의견, 정통으로 인정된 믿음
@@ -48,6 +52,7 @@
 
 ### orthodoxy
 
+- 발음: /ˈɔrθəˌdɑksi/
 - 구성: `orthodox` + `-y`
 - 뜻: 정통, 정설, 정통 교리
 - 어원적 연결: 바른 믿음으로 인정된 체계
@@ -55,6 +60,7 @@
 
 ### unorthodox
 
+- 발음: /əˈnɔrθəˌdɑks/
 - 구성: `un-` + `orthodox`
 - 뜻: 비정통적인, 관습에서 벗어난
 - 어원적 연결: 정통 의견과 맞지 않음
@@ -62,6 +68,7 @@
 
 ### heterodox
 
+- 발음: /ˈhɛtɚəˌdɑks/
 - 구성: Greek `heteros` = other, different + `doxa` = opinion
 - 뜻: 이단적인, 비정통의
 - 어원적 연결: 다른 의견을 가짐
@@ -69,6 +76,7 @@
 
 ### heterodoxy
 
+- 발음: /ˈhɛtɚəˌdɑksi/
 - 구성: `heterodox` + `-y`
 - 뜻: 이단, 비정통 견해
 - 어원적 연결: 정통과 다른 의견의 체계
@@ -83,6 +91,7 @@
 
 ### doxology
 
+- 발음: /dɑˈksɑlədʒi/
 - 구성: `doxa` = glory + [[logos]]
 - 뜻: 송영, 하나님께 영광을 돌리는 찬양문
 - 어원적 연결: 영광을 말로 표현함
@@ -90,6 +99,7 @@
 
 ### dogma
 
+- 발음: /ˈdɑgmə/
 - 구성: Greek `dogma` ← `dokein` = think, seem good
 - 뜻: 교리, 독단적 신념
 - 어원적 연결: 참으로 받아들여진 견해
@@ -97,6 +107,7 @@
 
 ### dogmatic
 
+- 발음: /dɑˈgmætɪk/
 - 구성: `dogma` + `-tic`
 - 뜻: 독단적인, 교조적인
 - 어원적 연결: 자기 견해를 확정된 진리처럼 고집함
@@ -104,6 +115,7 @@
 
 ### dogmatism
 
+- 발음: /ˈdɑgməˌtɪzəm/
 - 구성: `dogmatic` + `-ism`
 - 뜻: 독단주의, 교조주의
 - 어원적 연결: 의견을 검토 없이 확정된 교리처럼 붙듦

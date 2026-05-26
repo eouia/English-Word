@@ -20,6 +20,7 @@
 
 ### government
 
+- 발음: /ˈgʌvɚmənt/
 - 구성: `govern` + `-ment`
 - 뜻: 정부, 통치, 지배 체계
 - 어원적 연결: 사회나 국가의 방향을 잡아 이끄는 체계
@@ -27,6 +28,7 @@
 
 ### govern
 
+- 발음: /ˈgʌvɚn/
 - 구성: Old French `governer` ← Latin `gubernare`
 - 뜻: 다스리다, 통제하다, 지배하다
 - 어원적 연결: 배를 조종하듯 방향을 잡아 이끎
@@ -34,6 +36,7 @@
 
 ### governor
 
+- 발음: /ˈgʌvɚnɚ/
 - 구성: `govern` + `-or`
 - 뜻: 주지사, 통치자, 조절 장치
 - 어원적 연결: 방향과 질서를 관리하는 사람이나 장치
@@ -41,6 +44,7 @@
 
 ### governance
 
+- 발음: /ˈgʌvɚnəns/
 - 구성: `govern` + `-ance`
 - 뜻: 통치 방식, 거버넌스
 - 어원적 연결: 조직이나 사회를 이끄는 방식
@@ -48,6 +52,7 @@
 
 ### governmental
 
+- 발음: /ˈgʌvɚˌmɛntəl/
 - 구성: `government` + `-al`
 - 뜻: 정부의, 통치상의
 - 어원적 연결: 정부라는 통치 체계와 관련됨
@@ -55,6 +60,7 @@
 
 ### self-government
 
+- 발음: /ˈsɛˈlfgʌvɚnmənt/
 - 구성: `self` + `government`
 - 뜻: 자치, 자기 통치
 - 어원적 연결: 스스로 방향을 잡고 다스림
@@ -62,6 +68,7 @@
 
 ### gubernatorial
 
+- 발음: /guˌbɝnəˈtɔˌriəl/
 - 구성: Latin `gubernator` = governor + `-ial`
 - 뜻: 주지사의
 - 어원적 연결: `governor`와 같은 라틴어 형태를 보존한 단어

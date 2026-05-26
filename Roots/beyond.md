@@ -18,6 +18,7 @@
 
 ### beyond
 
+- 발음: /bɪˈɑnd/
 - 구성: Old English `be-` + `geondan` = yonder, on the far side
 - 뜻: 너머에, 넘어서, ~이상으로
 - 연결: 기준선이나 한계를 지나 저쪽에 있음
@@ -25,6 +26,7 @@
 
 ### yonder
 
+- 발음: /ˈjɑndɚ/
 - 구성: Old English `geond` 계열
 - 뜻: 저쪽의, 저 너머에
 - 연결: 말하는 사람에게서 떨어진 저편을 가리킴

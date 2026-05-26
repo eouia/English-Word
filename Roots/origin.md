@@ -19,6 +19,7 @@
 
 ### original
 
+- 발음: /ɚˈɪdʒənəl/
 - 구성: Latin `origo/origin-` = beginning, source + `-al`
 - 뜻: 원래의, 최초의; 독창적인
 - 연결: 처음 생겨난 상태나 근원에 가까움
@@ -26,6 +27,7 @@
 
 ### origin
 
+- 발음: /ˈɔrədʒən/
 - 구성: Latin `originem` = beginning, source
 - 뜻: 기원, 출처, 시작점
 - 연결: 어떤 것이 처음 생겨난 곳이나 이유
@@ -33,6 +35,7 @@
 
 ### originate
 
+- 발음: /ɚˈɪdʒəˌneɪt/
 - 구성: `origin` + `-ate`
 - 뜻: 비롯되다, 시작되다; 만들어 내다
 - 연결: 어떤 근원에서 처음 생겨남
@@ -40,6 +43,7 @@
 
 ### originality
 
+- 발음: /ɚˌɪdʒəˈnælɪti/
 - 구성: `original` + `-ity`
 - 뜻: 독창성, 참신함
 - 연결: 남을 베낀 것이 아니라 자기 안에서 처음 생겨난 성질
@@ -61,6 +65,7 @@
 
 ### originally
 
+- 발음: /ɚˈɪdʒənəli/
 - 구성: `original` + `-ly`
 - 뜻: 원래는, 처음에는
 - 연결: 처음 상태나 출발 시점을 가리킴
@@ -68,6 +73,7 @@
 
 ### aboriginal
 
+- 발음: /ˌæbɚˈɪdʒənəl/
 - 구성: Latin `ab origine` = from the beginning
 - 뜻: 원주민의, 토착의
 - 연결: 처음부터 그 땅에 있던 사람이나 문화
@@ -75,6 +81,7 @@
 
 ### orient
 
+- 발음: /ˈɔriˌɛnt/
 - 구성: Latin `oriens` = rising, east
 - 뜻: 방향을 맞추다, 적응시키다; 동쪽
 - 연결: 해가 떠오르는 방향을 기준으로 위치를 잡음
@@ -82,6 +89,7 @@
 
 ### orientation
 
+- 발음: /ˌɔriɛˈnteɪʃən/
 - 구성: `orient` + `-ation`
 - 뜻: 방향 설정, 적응 교육, 오리엔테이션
 - 연결: 어디를 기준으로 움직일지 방향을 잡게 함
@@ -89,6 +97,7 @@
 
 ### disoriented
 
+- 발음: /dɪˈsɔriˌɛntɪd/
 - 구성: `dis-` = apart/not + `orient` + `-ed`
 - 뜻: 방향 감각을 잃은, 혼란스러운
 - 연결: 기준 방향을 잃어 어디인지 모르는 상태

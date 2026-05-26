@@ -19,6 +19,7 @@
 
 ### tranquil
 
+- 발음: /ˈtræŋkwəl/
 - 구성: Latin `tranquillus` = calm, quiet, still
 - 뜻: 고요한, 평온한, 차분한
 - 어원적 연결: 흔들림이나 소란이 사라져 잔잔함
@@ -26,6 +27,7 @@
 
 ### tranquility
 
+- 발음: /træˈŋkwɪlɪti/
 - 구성: `tranquil` + `-ity`
 - 뜻: 평온, 고요, 안정
 - 어원적 연결: 소란이나 불안이 없는 상태
@@ -33,6 +35,7 @@
 
 ### tranquillity
 
+- 발음: /træˈŋkwɪlɪti/
 - 구성: `tranquility`의 British spelling
 - 뜻: 평온, 고요
 - 어원적 연결: `tranquility`와 같음
@@ -40,6 +43,7 @@
 
 ### tranquilize
 
+- 발음: /ˈtræŋkwəˌlaɪz/
 - 구성: `tranquil` + `-ize`
 - 뜻: 진정시키다, 안정제를 투여하다
 - 어원적 연결: 불안하거나 흥분한 상태를 평온하게 만듦
@@ -47,6 +51,7 @@
 
 ### tranquilizer
 
+- 발음: /ˈtræŋkwəˌlaɪzɚ/
 - 구성: `tranquilize` + `-er`
 - 뜻: 진정제, 안정제
 - 어원적 연결: 마음이나 몸의 흥분을 가라앉히는 것

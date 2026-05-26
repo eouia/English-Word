@@ -19,6 +19,7 @@
 
 ### search
 
+- 발음: /ˈsɝtʃ/
 - 구성: Old French `cerchier` ← Late Latin `circare`
 - 뜻: 찾다, 검색하다, 조사하다
 - 어원적 연결: 주변을 돌며 자세히 살핌
@@ -26,6 +27,7 @@
 
 ### research
 
+- 발음: /riˈsɝtʃ/
 - 구성: `re-` + `search`
 - 뜻: 연구, 조사하다
 - 어원적 연결: 다시 살피고 반복해서 찾음
@@ -33,6 +35,7 @@
 
 ### circle
 
+- 발음: /ˈsɝkəl/
 - 구성: Latin `circulus` = 작은 고리, 원
 - 뜻: 원, 동그라미, 집단
 - 어원적 연결: 둥근 형태 또는 둘러싼 무리
@@ -40,6 +43,7 @@
 
 ### circular
 
+- 발음: /ˈsɝkjəlɚ/
 - 구성: `circle` + `-ar`
 - 뜻: 원형의, 순환하는
 - 어원적 연결: 원처럼 둥글거나 되돌아옴
@@ -47,6 +51,7 @@
 
 ### circulate
 
+- 발음: /ˈsɝkjəˌleɪt/
 - 구성: Latin `circulus` + 동사형
 - 뜻: 순환하다, 유통되다, 퍼지다
 - 어원적 연결: 원을 그리듯 돌고 퍼짐
@@ -54,6 +59,7 @@
 
 ### circulation
 
+- 발음: /ˈsɝkjəˌleɪʃən/
 - 구성: `circulate` + `-ion`
 - 뜻: 순환, 유통, 발행 부수
 - 어원적 연결: 돌고 도는 흐름
@@ -61,6 +67,7 @@
 
 ### circuit
 
+- 발음: /ˈsɝkət/
 - 구성: Latin `circum` = around + `ire` = go
 - 뜻: 회로, 순회, 한 바퀴 도는 길
 - 어원적 연결: 둘레를 돌아가는 경로
@@ -68,6 +75,7 @@
 
 ### circumference
 
+- 발음: /ˌsɝˈkʌmfrəns/
 - 구성: Latin `circum` = around + [[fer]] = carry
 - 뜻: 둘레, 원주
 - 어원적 연결: 원 주위를 따라 가져간 선
@@ -75,6 +83,7 @@
 
 ### circumstantial
 
+- 발음: /ˌsɝkəˈmstænʃəl/
 - 구성: `circumstance` + `-al`
 - 뜻: 정황적인, 상황에 따른
 - 어원적 연결: 중심 사실 주변의 조건에 근거함
@@ -82,6 +91,7 @@
 
 ### circumvent
 
+- 발음: /ˌsɝkəˈmvɛnt/
 - 구성: Latin `circum` = around + `venire` = come
 - 뜻: 우회하다, 피하다, 교묘히 회피하다
 - 어원적 연결: 정면으로 가지 않고 빙 돌아감
@@ -89,6 +99,7 @@
 
 ### circumnavigate
 
+- 발음: /ˌsɝkəˈmnævəˌgeɪt/
 - 구성: Latin `circum` = around + `navigate`
 - 뜻: 일주하다, 둘러 항해하다
 - 어원적 연결: 주변을 한 바퀴 돌아 항해함
@@ -96,6 +107,7 @@
 
 ### circus
 
+- 발음: /ˈsɝkəs/
 - 구성: Latin `circus` = ring, circular arena
 - 뜻: 서커스, 원형 경기장
 - 어원적 연결: 원형 공간에서 열리던 공연·경기
@@ -103,6 +115,7 @@
 
 ### circa
 
+- 발음: /ˈsɝkə/
 - 구성: Latin `circa` = around, about
 - 뜻: 약, 대략
 - 어원적 연결: 정확한 중심값 주변

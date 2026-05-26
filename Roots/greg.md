@@ -21,6 +21,7 @@
 
 ### segregation
 
+- 발음: /ˌsɛgrəˈgeɪʃən/
 - 구성: `se-` = apart + Latin `grex/gregis` = flock
 - 뜻: 분리, 격리; 인종 분리
 - 어원적 연결: 한 집단을 무리에서 따로 떼어 둠
@@ -29,6 +30,7 @@
 
 ### segregate
 
+- 발음: /ˈsɛgrəˌgeɪt/
 - 구성: `se-` + `greg`
 - 뜻: 분리하다, 격리하다
 - 어원적 연결: 집단에서 따로 떼어 놓음
@@ -36,6 +38,7 @@
 
 ### segregated
 
+- 발음: /ˈsɛgrəˌgeɪtɪd/
 - 구성: `segregate` + `-ed`
 - 뜻: 분리된, 격리된
 - 어원적 연결: 한 무리에서 따로 떼어진 상태
@@ -43,6 +46,7 @@
 
 ### desegregate
 
+- 발음: /dɪˈsɛgrəˌgeɪt/
 - 구성: `de-` = reverse + `segregate`
 - 뜻: 인종 분리를 철폐하다, 통합하다
 - 어원적 연결: 따로 떼어 둔 상태를 되돌림
@@ -50,6 +54,7 @@
 
 ### desegregation
 
+- 발음: /dɪˌsɛgrəˈgeɪʃən/
 - 구성: `desegregate` + `-ion`
 - 뜻: 인종 분리 철폐, 통합
 - 어원적 연결: 분리된 집단을 다시 같은 공간·제도 안으로 돌려놓는 과정
@@ -57,6 +62,7 @@
 
 ### aggregate
 
+- 발음: n./adj. /ˈægrəgət/, v. /ˈægrəgeɪt/
 - 구성: `ad-` = to + `greg`
 - 뜻: 모으다; 총합, 집합체
 - 어원적 연결: 여러 개체를 한 무리로 모음
@@ -64,6 +70,7 @@
 
 ### aggregation
 
+- 발음: /ˌægrəˈgeɪʃən/
 - 구성: `aggregate` + `-ion`
 - 뜻: 집합, 집계
 - 어원적 연결: 흩어진 것을 한 무리로 모으는 과정
@@ -71,6 +78,7 @@
 
 ### congregate
 
+- 발음: /ˈkɑŋgrəˌgeɪt/
 - 구성: `con-` = together + `greg`
 - 뜻: 모이다, 집합하다
 - 어원적 연결: 사람들이 한 무리로 함께 모임
@@ -78,6 +86,7 @@
 
 ### congregation
 
+- 발음: /ˌkɑŋgrəˈgeɪʃən/
 - 구성: `congregate` + `-ion`
 - 뜻: 신도 회중, 모인 사람들
 - 어원적 연결: 예배나 공동체 활동을 위해 함께 모인 무리
@@ -85,6 +94,7 @@
 
 ### gregarious
 
+- 발음: /grəˈgɛriəs/
 - 구성: Latin `gregarius` = belonging to a flock
 - 뜻: 사교적인, 무리 지어 사는
 - 어원적 연결: 무리 속에 있기를 좋아함
@@ -92,6 +102,7 @@
 
 ### egregious
 
+- 발음: /ɪˈgridʒəs/
 - 구성: `e-/ex-` = out + `greg`
 - 뜻: 터무니없는, 지독한
 - 어원적 연결: 무리 밖으로 두드러질 만큼 눈에 띔

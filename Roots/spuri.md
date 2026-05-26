@@ -19,6 +19,7 @@
 
 ### spurious
 
+- 발음: /ˈspjʊriəs/
 - 구성: Latin `spurius` = illegitimate, false
 - 뜻: 가짜의, 허위의, 타당하지 않은
 - 어원적 연결: 진짜 출처나 근거를 갖지 못함

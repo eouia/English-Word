@@ -21,6 +21,7 @@
 
 ### ubiquitous
 
+- 발음: /juˈbɪkwɪtəs/
 - 구성: Latin `ubique` = everywhere + `-ous`
 - 뜻: 어디에나 있는, 아주 흔한
 - 어원적 연결: 한 장소에만 있지 않고 곳곳에 퍼져 있음
@@ -35,6 +36,7 @@
 
 ### ubiquity
 
+- 발음: /juˈbɪkwɪti/
 - 구성: Latin `ubique` 계열 명사형
 - 뜻: 편재, 어디에나 있음
 - 어원적 연결: 존재나 사용이 곳곳에 퍼진 상태

@@ -9,6 +9,7 @@
 
 ### complicated
 
+- 발음: /ˈkɑmpləˌkeɪtəd/
 - 구성: `com-` = together + `plic` = fold
 - 뜻: 복잡한
 - 어원적 연결: 여러 겹으로 함께 접혀 얽힘
@@ -16,6 +17,7 @@
 
 ### complicate
 
+- 발음: /ˈkɑmpləˌkeɪt/
 - 구성: `com-` = together + `plic`
 - 뜻: 복잡하게 만들다
 - 어원적 연결: 일을 여러 겹으로 접어 얽히게 함
@@ -23,6 +25,7 @@
 
 ### complication
 
+- 발음: /ˌkɑmpləˈkeɪʃən/
 - 구성: `complicate` + `-ion`
 - 뜻: 복잡한 문제, 합병증
 - 어원적 연결: 단순한 흐름에 여러 겹이 얽혀 생긴 문제
@@ -30,6 +33,7 @@
 
 ### duplicate
 
+- 발음: /ˈdupləkət/
 - 구성: Latin `duplex` = twofold
 - 뜻: 복제하다, 사본; 이중의
 - 어원적 연결: 두 겹으로 접히거나 둘로 겹침
@@ -37,6 +41,7 @@
 
 ### duplicity
 
+- 발음: /duˈplɪsɪti/
 - 구성: Latin `duplex` = double
 - 뜻: 이중성, 표리부동
 - 어원적 연결: 겉과 속이 두 겹으로 나뉨
@@ -44,6 +49,7 @@
 
 ### replicate
 
+- 발음: /ˈrɛpləˌkeɪt/
 - 구성: `re-` = again + `plic`
 - 뜻: 복제하다, 반복하다
 - 어원적 연결: 같은 접힘·형태를 다시 만듦
@@ -51,6 +57,7 @@
 
 ### reply
 
+- 발음: /rɪˈplaɪ/
 - 구성: Old French `replier` ← Latin `replicare`
 - 뜻: 대답하다, 답장하다
 - 어원적 연결: 말이나 주장에 다시 접어 맞받아침
@@ -58,6 +65,7 @@
 
 ### pliable
 
+- 발음: /ˈplaɪəbəl/
 - 구성: Old French `plier` ← Latin `plicare`
 - 뜻: 잘 휘는, 유연한
 - 어원적 연결: 쉽게 접히거나 구부러짐
@@ -65,6 +73,7 @@
 
 ### pliant
 
+- 발음: /ˈplaɪənt/
 - 구성: `ply/pli` 계열
 - 뜻: 잘 휘는, 순응적인
 - 어원적 연결: 물리적으로나 태도상 쉽게 굽힘

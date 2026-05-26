@@ -19,6 +19,7 @@
 
 ### somatic
 
+- 발음: /ˌsoʊˈmɑtɪk/
 - 구성: Greek `soma` + `-atic`
 - 뜻: 신체의, 체세포의
 - 어원적 연결: 마음이나 생식세포가 아니라 몸 자체에 관련됨
@@ -26,6 +27,7 @@
 
 ### psychosomatic
 
+- 발음: /saɪˌkoʊsəˈmætɪk/
 - 구성: [[psych]] = mind + `soma` = body
 - 뜻: 심신의, 정신 신체의
 - 어원적 연결: 마음 상태가 몸의 증상과 연결됨
@@ -33,6 +35,7 @@
 
 ### chromosome
 
+- 발음: /ˈkroʊməˌsoʊm/
 - 구성: Greek `chroma` = color + `soma` = body
 - 뜻: 염색체
 - 어원적 연결: 염색되는 작은 몸체

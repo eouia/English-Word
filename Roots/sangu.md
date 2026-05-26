@@ -19,6 +19,7 @@
 
 ### sanguine
 
+- 발음: /ˈsæŋgwɪn/
 - 구성: Latin `sanguineus` ← `sanguis`
 - 뜻: 낙관적인, 자신 있는; 혈색의
 - 어원적 연결: 혈색 좋고 쾌활한 기질에서 낙관성으로 확장

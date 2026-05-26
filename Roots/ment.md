@@ -20,6 +20,7 @@
 
 ### mental
 
+- 발음: /ˈmɛntəl/
 - 구성: Latin `mens` / `mentis` + `-al`
 - 뜻: 정신의, 마음의
 - 어원적 연결: 마음과 생각에 관련됨
@@ -27,6 +28,7 @@
 
 ### mentality
 
+- 발음: /mɛˈntæləti/
 - 구성: `mental` + `-ity`
 - 뜻: 사고방식, 정신 상태
 - 어원적 연결: 마음이 작동하는 방식
@@ -34,6 +36,7 @@
 
 ### dementia
 
+- 발음: /dɪˈmɛnʃiə/
 - 구성: `de-` = away + Latin `mens` = mind
 - 뜻: 치매
 - 어원적 연결: 마음이나 정신 기능이 벗어나 약해진 상태
@@ -41,6 +44,7 @@
 
 ### demented
 
+- 발음: /dɪˈmɛntɪd/
 - 구성: `de-` + `mens` + `-ed`
 - 뜻: 정신이 이상해진, 미친 듯한
 - 어원적 연결: 제정신에서 벗어난 상태
@@ -48,6 +52,7 @@
 
 ### mention
 
+- 발음: /ˈmɛnʃən/
 - 구성: Latin `mentio` = a calling to mind
 - 뜻: 언급하다, 언급
 - 어원적 연결: 어떤 것을 마음에 떠올려 말함
@@ -55,6 +60,7 @@
 
 ### comment
 
+- 발음: /ˈkɑmɛnt/
 - 구성: Latin `commentari` = think over, explain
 - 뜻: 논평하다, 의견
 - 어원적 연결: 마음으로 생각해 설명을 덧붙임
@@ -62,6 +68,7 @@
 
 ### commentary
 
+- 발음: /ˈkɑməˌntɛri/
 - 구성: `comment` + `-ary`
 - 뜻: 해설, 논평
 - 어원적 연결: 생각한 내용을 설명으로 덧붙임

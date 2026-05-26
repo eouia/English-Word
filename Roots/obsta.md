@@ -9,6 +9,7 @@
 
 ### oust
 
+- 발음: /ˈaʊst/
 - 구성: Anglo-French `ouster`, Old French `oster` < Latin `obstare`
 - 뜻: 몰아내다, 축출하다, 자리에서 내쫓다
 - 어원적 연결: 앞을 막고 서는 이미지에서 "제거하다, 쫓아내다"로 변화
@@ -16,6 +17,7 @@
 
 ### ouster
 
+- 발음: /ˈaʊstɚ/
 - 구성: `oust` + 명사형 `-er`
 - 뜻: 축출, 해임, 배제
 - 어원적 연결: 어떤 사람을 자리나 권리에서 몰아내는 행위
@@ -23,6 +25,7 @@
 
 ### ousted
 
+- 발음: /ˈaʊstɪd/
 - 구성: `oust` + `-ed`
 - 뜻: 축출된, 쫓겨난
 - 어원적 연결: 차지하던 자리에서 밀려난 상태
@@ -30,6 +33,7 @@
 
 ### obstacle
 
+- 발음: /ˈɑbstəkəl/
 - 구성: Latin `ob-` = against, in the way + `stare` = stand
 - 뜻: 장애물, 방해 요인
 - 어원적 연결: 앞에 서서 길을 막는 것
@@ -37,6 +41,7 @@
 
 ### obstinate
 
+- 발음: /ˈɑbstənət/
 - 구성: Latin `obstinare` = persist, stand firm
 - 뜻: 완고한, 고집 센
 - 어원적 연결: 반대 앞에서도 버티고 서 있음
@@ -44,6 +49,7 @@
 
 ### obstinacy
 
+- 발음: /ˈɑbstənəsi/
 - 구성: `obstinate` + `-acy`
 - 뜻: 완고함, 고집
 - 어원적 연결: 자기 입장을 굽히지 않고 버티는 성질

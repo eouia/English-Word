@@ -18,6 +18,7 @@
 
 ### desperate
 
+- 발음: /ˈdɛsprɪt/
 - 구성: `de-` = away + `sperare`
 - 뜻: 절망적인, 필사적인, 간절한
 - 어원적 연결: 희망이 사라진 상태에서 마지막 수단까지 쓰려는 느낌
@@ -25,6 +26,7 @@
 
 ### desperately
 
+- 발음: /ˈdɛspɚətli/
 - 구성: `desperate` + `-ly`
 - 뜻: 필사적으로, 몹시
 - 어원적 연결: 절박한 마음으로 행동함
@@ -32,6 +34,7 @@
 
 ### desperation
 
+- 발음: /ˌdɛspɚˈeɪʃən/
 - 구성: `desperate` + `-ion`
 - 뜻: 절망, 자포자기, 절박함
 - 어원적 연결: 희망이 거의 사라져 절박해진 상태
@@ -39,6 +42,7 @@
 
 ### despair
 
+- 발음: /dɪˈspɛr/
 - 구성: Old French `desesperer`, Latin `desperare`
 - 뜻: 절망하다, 절망
 - 어원적 연결: 희망에서 완전히 멀어짐
@@ -46,6 +50,7 @@
 
 ### prosper
 
+- 발음: /ˈprɑspɚ/
 - 구성: Latin `prosperare`
 - 뜻: 번영하다, 성공하다
 - 어원적 연결: 전통적으로 `pro-` = according to, toward + `sperare` = hope와 연결. 기대한 대로 잘 풀리는 상태
@@ -53,6 +58,7 @@
 
 ### prosperity
 
+- 발음: /prɑˈspɛrəti/
 - 구성: `prosper` + `-ity`
 - 뜻: 번영, 번창
 - 어원적 연결: 일이 기대한 방향으로 잘 풀린 상태
@@ -60,6 +66,7 @@
 
 ### prosperous
 
+- 발음: /ˈprɑspɚəs/
 - 구성: `prosper` + `-ous`
 - 뜻: 번영하는, 성공한
 - 어원적 연결: 희망하고 기대한 대로 잘되는 상태

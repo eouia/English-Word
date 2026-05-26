@@ -21,6 +21,7 @@
 
 ### succumb
 
+- 발음: /səˈkʌm/
 - 구성: `sub-` = under, down + Latin `cumbere` = lie down
 - 뜻: 굴복하다, 지다, 병으로 죽다
 - 어원적 연결: 압력이나 힘 아래 눕듯이 무너짐
@@ -28,6 +29,7 @@
 
 ### succumbed
 
+- 발음: /səˈkʌmd/
 - 구성: `succumb` + `-ed`
 - 뜻: 굴복한, 병이나 압력에 진
 - 어원적 연결: 더 버티지 못하고 무너진 상태
@@ -35,6 +37,7 @@
 
 ### succumbing
 
+- 발음: /səˈkʌmɪŋ/
 - 구성: `succumb` + `-ing`
 - 뜻: 굴복하는, 넘어가는
 - 어원적 연결: 압력 아래 점점 무너지는 과정
@@ -42,6 +45,7 @@
 
 ### incumbent
 
+- 발음: /ˌɪˈnkʌmbənt/
 - 구성: Latin `incumbere` = lie upon, lean upon
 - 뜻: 현직의, 재임 중인; 의무로 지워진
 - 어원적 연결: 어떤 자리나 책임 위에 놓여 있음
@@ -49,6 +53,7 @@
 
 ### incumbency
 
+- 발음: /ˌɪˈnkʌmbənsi/
 - 구성: `incumbent` + `-cy`
 - 뜻: 재임, 현직 기간
 - 어원적 연결: 어떤 직위 위에 놓여 있는 상태
@@ -63,6 +68,7 @@
 
 ### incumbent on/upon
 
+- 발음: /əˈpɑn/
 - 구성: `incumbent` + `on/upon`
 - 뜻: ~에게 의무로 지워진
 - 어원적 연결: 책임이 누군가 위에 놓임

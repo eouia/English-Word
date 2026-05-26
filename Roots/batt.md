@@ -19,6 +19,7 @@
 
 ### abate
 
+- 발음: /əˈbeɪt/
 - 구성: Old French `abatre` = beat down
 - 뜻: 줄어들다, 누그러지다, 약해지다
 - 어원적 연결: 강한 것을 쳐서 낮춤
@@ -26,6 +27,7 @@
 
 ### abatement
 
+- 발음: /əˈbeɪtmənt/
 - 구성: `abate` + `-ment`
 - 뜻: 감소, 완화, 감면
 - 어원적 연결: 세기나 부담이 낮아진 상태
@@ -33,6 +35,7 @@
 
 ### rebate
 
+- 발음: /ˈriˌbeɪt/
 - 구성: Old French `rebatre` = beat back
 - 뜻: 환급, 할인액, 일부 돌려주다
 - 어원적 연결: 가격이나 금액을 뒤로 쳐서 낮춤
@@ -40,6 +43,7 @@
 
 ### debate
 
+- 발음: /dəˈbeɪt/
 - 구성: Old French `debatre` = fight, contend, debate
 - 뜻: 토론하다, 논쟁하다
 - 어원적 연결: 말로 서로 치고받듯 다툼
@@ -47,6 +51,7 @@
 
 ### combat
 
+- 발음: /ˈkɑmbæt/
 - 구성: `com-` = together + Old French `batre` = beat
 - 뜻: 전투, 싸우다, 방지하다
 - 어원적 연결: 서로 맞서 치고 싸움
@@ -54,6 +59,7 @@
 
 ### battle
 
+- 발음: /ˈbætəl/
 - 구성: Old French `bataille` 계열
 - 뜻: 전투, 싸움
 - 어원적 연결: 서로 치고 맞붙는 싸움
@@ -61,6 +67,7 @@
 
 ### battalion
 
+- 발음: /bəˈtæljən/
 - 구성: Italian/French `battaglia` 계열
 - 뜻: 대대, 전투 부대
 - 어원적 연결: 전투를 위해 조직된 병력
@@ -68,6 +75,7 @@
 
 ### batter
 
+- 발음: /ˈbætɚ/
 - 구성: Old French `batre` = beat
 - 뜻: 세게 치다, 두들겨 패다
 - 어원적 연결: 반복해서 두드림
@@ -75,6 +83,7 @@
 
 ### battery
 
+- 발음: /ˈbætɚi/
 - 구성: Old French `baterie` = beating, action of striking
 - 뜻: 배터리, 포대, 폭행
 - 어원적 연결: 원래 두드림·타격. 포대는 포를 쏘는 장비 집합, 전지는 여러 셀이 한 줄로 배열된 장치로 확장.

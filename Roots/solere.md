@@ -19,6 +19,7 @@
 
 ### obsolete
 
+- 발음: /ˈɑbsəˌlit/
 - 구성: Latin `obsolescere` 계열
 - 뜻: 더 이상 쓰이지 않는, 구식의
 - 어원적 연결: 예전에는 익숙하게 쓰였지만 이제 사용에서 멀어짐
@@ -26,6 +27,7 @@
 
 ### obsolescence
 
+- 발음: /ˌɑbsəˈlɛsəns/
 - 구성: `obsolete` 계열 + `-ence`
 - 뜻: 노후화, 구식화, 폐용
 - 어원적 연결: 쓰임에서 멀어져 낡아 가는 과정이나 상태
@@ -33,6 +35,7 @@
 
 ### obsolescent
 
+- 발음: /ˌɑbsəˈlɛsənt/
 - 구성: Latin `obsolescens` = becoming obsolete
 - 뜻: 구식이 되어 가는, 쇠퇴하는
 - 어원적 연결: 아직 완전히 사라지지는 않았지만 쓰임에서 멀어지는 중

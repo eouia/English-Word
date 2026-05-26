@@ -19,6 +19,7 @@
 
 ### role
 
+- 발음: /ˈroʊl/
 - 구성: Old French `rolle` = roll, list
 - 뜻: 역할, 배역, 기능
 - 연결: 배우가 맡은 대사가 적힌 두루마리에서 "맡은 배역"으로 확장
@@ -33,6 +34,7 @@
 
 ### roll
 
+- 발음: /ˈroʊl/
 - 구성: Old French `rolle`, from Latin `rotulus`
 - 뜻: 구르다, 말다; 두루마리, 명단
 - 연결: 종이를 말거나 바퀴처럼 굴러가는 움직임
@@ -47,6 +49,7 @@
 
 ### enroll
 
+- 발음: /ɛˈnroʊl/
 - 구성: `en-` = in/on + `roll`
 - 뜻: 등록하다, 입학하다
 - 연결: 이름을 명단 두루마리에 올림
@@ -54,6 +57,7 @@
 
 ### enrollment
 
+- 발음: /ɛˈnroʊlmənt/
 - 구성: `enroll` + `-ment`
 - 뜻: 등록, 입학, 등록자 수
 - 연결: 명단에 이름을 올리는 행위나 그 결과
@@ -61,6 +65,7 @@
 
 ### payroll
 
+- 발음: /ˈpeɪˌroʊl/
 - 구성: `pay` + `roll`
 - 뜻: 급여 명부, 급여 총액
 - 연결: 돈을 지급해야 할 사람들의 명단
@@ -68,6 +73,7 @@
 
 ### scroll
 
+- 발음: /ˈskroʊl/
 - 구성: Old French `escroue` = strip, scroll
 - 뜻: 두루마리, 스크롤하다
 - 연결: 말린 문서를 펴거나 화면을 아래위로 굴려 봄
@@ -75,6 +81,7 @@
 
 ### control
 
+- 발음: /kəˈntroʊl/
 - 구성: Old French `contreroller` = check by a counter-roll
 - 뜻: 통제하다, 지배하다
 - 연결: 원래는 대조 명부로 확인한다는 행정적 이미지

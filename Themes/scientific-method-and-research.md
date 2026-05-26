@@ -6,24 +6,28 @@
 
 ### hypothesis ([[hypo#hypothesis|hypo]], [[thes#hypothesis|thes]])
 
+- 발음: /haɪˈpɑθəsəs/
 - 핵심 의미: 가설
 - 사용 맥락: `test a hypothesis`, `formulate a hypothesis`
 - 주의: 단순 추측이 아니라 관찰과 이론을 바탕으로 검증 가능한 설명.
 
 ### [[theor#theory|theory]]
 
+- 발음: /ˈθɪri/
 - 핵심 의미: 이론
 - 사용 맥락: `scientific theory`, `theory of evolution`
 - 주의: 일상어의 "막연한 추측"과 달리, 과학에서는 증거로 뒷받침된 설명 체계.
 
 ### empirical
 
+- 발음: /ˌɛˈmpɪrɪkəl/
 - 핵심 의미: 경험적, 실증적
 - 사용 맥락: `empirical evidence`, `empirical research`
 - 주의: 관찰과 측정에 근거한다는 뜻. 순수한 추론이나 권위와 대비.
 
 ### [[vari#variable|variable]]
 
+- 발음: /ˈvɛriəbəl/
 - 핵심 의미: 변수
 - 사용 맥락: `independent variable`, `dependent variable`
 - 주의: 실험이나 분석에서 달라질 수 있는 요소.
@@ -42,12 +46,14 @@
 
 ### [[exempl#sample|sample]]
 
+- 발음: /ˈsæmpəl/
 - 핵심 의미: 표본
 - 사용 맥락: `representative sample`, `sample size`
 - 주의: 전체 모집단을 직접 조사하기 어려울 때 선택한 일부.
 
 ### methodology
 
+- 발음: /ˌmɛθəˈdɑlədʒi/
 - 핵심 의미: 연구 방법론
 - 사용 맥락: `research methodology`, `methodological flaws`
 - 주의: 단순한 방법 하나가 아니라 연구 설계와 절차의 체계.
@@ -56,48 +62,56 @@
 
 ### data
 
+- 발음: /ˈdeɪtə/
 - 핵심 의미: 자료, 데이터
 - 사용 맥락: `collect data`, `analyze data`
 - 주의: 단수처럼 쓰이기도 하지만 학술 문맥에서는 복수 취급도 가능.
 
 ### [[vid-see#evidence|evidence]]
 
+- 발음: /ˈɛvədəns/
 - 핵심 의미: 증거
 - 사용 맥락: `supporting evidence`, `lack of evidence`
 - 주의: 결론을 뒷받침하는 관찰, 자료, 실험 결과.
 
 ### [[fer-relate#correlation|correlation]]
 
+- 발음: /ˌkɔrəˈleɪʃən/
 - 핵심 의미: 상관관계
 - 사용 맥락: `correlation between income and education`
 - 주의: 두 현상이 함께 변한다는 뜻. 원인관계를 뜻하지 않음.
 
 ### [[caus#causation|causation]]
 
+- 발음: /ˌkɔˈzeɪʃən/
 - 핵심 의미: 인과관계
 - 사용 맥락: `correlation does not imply causation`
 - 주의: 한 요인이 다른 결과를 일으킨다는 관계.
 
 ### bias
 
+- 발음: /ˈbaɪəs/
 - 핵심 의미: 편향
 - 사용 맥락: `selection bias`, `confirmation bias`
 - 주의: 연구 설계나 해석이 한쪽으로 치우쳐 결과를 왜곡하는 것.
 
 ### [[val#validity|validity]]
 
+- 발음: /vəˈlɪdəti/
 - 핵심 의미: 타당도
 - 사용 맥락: `internal validity`, `validity of a study`
 - 주의: 연구가 실제로 측정하려는 것을 제대로 측정하는지의 문제.
 
 ### reliability
 
+- 발음: /riˌlaɪəˈbɪləti/
 - 핵심 의미: 신뢰도
 - 사용 맥락: `reliability of measurements`
 - 주의: 같은 조건에서 반복해도 일관된 결과가 나오는 정도.
 
 ### replication
 
+- 발음: /ˌrɛpləˈkeɪʃən/
 - 핵심 의미: 반복 검증, 재현
 - 사용 맥락: `replication crisis`, `replicate the results`
 - 주의: 다른 연구자가 같은 방법으로 비슷한 결과를 얻는지 확인.
@@ -112,6 +126,7 @@
 
 ### plagiarism
 
+- 발음: /ˈpleɪdʒɚˌɪzəm/
 - 핵심 의미: 표절
 - 사용 맥락: `academic plagiarism`, `plagiarism detection`
 - 주의: 남의 글, 아이디어, 자료를 출처 없이 자신의 것처럼 쓰는 행위.

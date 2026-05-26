@@ -17,6 +17,7 @@
 
 ### square
 
+- 발음: /ˈskwɛr/
 - 구성: Old French `esquarre` < Vulgar Latin `exquadra`
 - 의미: 정사각형, 광장, 제곱하다, 반듯한
 - 어원적 연결: 네 변이 맞는 모양
@@ -24,6 +25,7 @@
 
 ### squared
 
+- 발음: /ˈskwɛrd/
 - 구성: `square` + `-ed`
 - 의미: 제곱한, 네모지게 만든
 - 어원적 연결: 수를 정사각형 넓이처럼 곱함
@@ -31,6 +33,7 @@
 
 ### squarely
 
+- 발음: /ˈskwɛrli/
 - 구성: `square` + `-ly`
 - 의미: 정면으로, 똑바로, 공정하게
 - 어원적 연결: 반듯하게 맞선 상태
@@ -38,6 +41,7 @@
 
 ### quadratic
 
+- 발음: /kwɑˈdrɑtɪk/
 - 구성: Latin `quadratus` = made square + `-ic`
 - 의미: 이차의, 제곱의
 - 어원적 연결: 제곱 항과 관련됨
@@ -45,6 +49,7 @@
 
 ### quadrant
 
+- 발음: /ˈkwɑdrənt/
 - 구성: Latin `quadrans` = fourth part
 - 의미: 사분면, 4분의 1 구역
 - 어원적 연결: 전체를 네 부분으로 나눈 한 부분
@@ -52,6 +57,7 @@
 
 ### quarter
 
+- 발음: /ˈkwɔrtɚ/
 - 구성: Latin `quartarius` = fourth part
 - 의미: 4분의 1, 분기, 15분
 - 어원적 연결: 넷으로 나눈 한 몫
@@ -59,6 +65,7 @@
 
 ### quart
 
+- 발음: /ˈkwɔrt/
 - 구성: Latin `quartus` = fourth
 - 의미: 쿼트, 4분의 1갤런 단위
 - 어원적 연결: 원래 4분의 1 단위
@@ -66,6 +73,7 @@
 
 ### quartet
 
+- 발음: /kwɔˈrtɛt/
 - 구성: Italian `quartetto` < Latin `quartus`
 - 의미: 4중주, 4인조
 - 어원적 연결: 네 명 또는 네 악기로 이뤄진 묶음
@@ -73,6 +81,7 @@
 
 ### quadruple
 
+- 발음: /kwɑˈdrupəl/
 - 구성: Latin `quadruplus` = fourfold
 - 의미: 네 배의, 네 배가 되다
 - 어원적 연결: 네 겹
@@ -94,6 +103,7 @@
 
 ### squad
 
+- 발음: /ˈskwɑd/
 - 구성: French `escouade` / Italian `squadra` < Vulgar Latin `exquadra`
 - 의미: 분대, 팀
 - 어원적 연결: 원래 네모난 대형이나 작은 무리 이미지에서 군사 단위로 확장

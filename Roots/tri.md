@@ -20,6 +20,7 @@
 
 ### triangle
 
+- 발음: /ˈtraɪˌæŋgəl/
 - 구성: `tri-` = three + [[angl]] = angle
 - 뜻: 삼각형
 - 어원적 연결: 세 각을 가진 도형
@@ -27,6 +28,7 @@
 
 ### trilogy
 
+- 발음: /ˈtrɪlədʒi/
 - 구성: `tri-` = three + Greek `logos` = story, speech
 - 뜻: 3부작
 - 어원적 연결: 세 작품으로 이루어진 이야기 묶음
@@ -34,6 +36,7 @@
 
 ### tricycle
 
+- 발음: /ˈtrɪsɪkəl/
 - 구성: `tri-` = three + Greek `kyklos` = wheel
 - 뜻: 세발자전거
 - 어원적 연결: 바퀴가 세 개
@@ -41,6 +44,7 @@
 
 ### tripod
 
+- 발음: /ˈtraɪˌpɑd/
 - 구성: `tri-` = three + Greek `pod` = foot
 - 뜻: 삼각대
 - 어원적 연결: 발이 세 개
@@ -48,6 +52,7 @@
 
 ### triple
 
+- 발음: /ˈtrɪpəl/
 - 구성: Latin `triplus`
 - 뜻: 세 배의, 세 겹의
 - 어원적 연결: 셋으로 늘어남
@@ -55,6 +60,7 @@
 
 ### triplicate
 
+- 발음: /ˈtrɪplɪkət/
 - 구성: `tri-` = three + `plic` = fold
 - 뜻: 세 부로 된, 세 통 작성하다
 - 어원적 연결: 세 겹으로 접히거나 세 벌로 만듦
@@ -69,6 +75,7 @@
 
 ### triennial
 
+- 발음: /traɪˈɛniəl/
 - 구성: `tri-` = three + Latin `annus` = year
 - 뜻: 3년마다의
 - 어원적 연결: 세 해 단위로 반복됨
@@ -76,6 +83,7 @@
 
 ### triumvirate
 
+- 발음: /traɪˈʌmvɚət/
 - 구성: Latin `tres` = three + `vir` = man
 - 뜻: 삼두 정치, 세 사람의 지배 집단
 - 어원적 연결: 세 남자 또는 세 인물이 권력을 나눔
@@ -83,6 +91,7 @@
 
 ### trinity
 
+- 발음: /ˈtrɪnəti/
 - 구성: Latin `trinitas`
 - 뜻: 셋이 하나인 집합, 삼위일체
 - 어원적 연결: 셋으로 이루어진 하나의 묶음

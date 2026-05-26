@@ -19,6 +19,7 @@
 
 ### infrequent
 
+- 발음: /ˌɪˈnfrikwənt/
 - 구성: `in-` = not + `frequent`
 - 뜻: 드문, 자주 있지 않은
 - 어원적 연결: 많이 반복되어 나타나는 상태가 아님
@@ -26,6 +27,7 @@
 
 ### infrequently
 
+- 발음: /ˌɪˈnfrikwəntli/
 - 구성: `infrequent` + `-ly`
 - 뜻: 드물게, 자주 있지 않게
 - 어원적 연결: 반복 빈도가 낮은 방식
@@ -33,6 +35,7 @@
 
 ### frequent
 
+- 발음: adj. /ˈfrikwənt/, v. /friˈkwɛnt/
 - 구성: Latin `frequens` = crowded, repeated
 - 뜻: 빈번한, 자주 일어나는; 자주 가다
 - 어원적 연결: 많은 일이 모여 반복적으로 나타남
@@ -40,6 +43,7 @@
 
 ### frequently
 
+- 발음: /ˈfrikwəntli/
 - 구성: `frequent` + `-ly`
 - 뜻: 자주, 빈번히
 - 어원적 연결: 반복되는 일이 많이 모이는 방식
@@ -47,6 +51,7 @@
 
 ### frequency
 
+- 발음: /ˈfrikwənsi/
 - 구성: Latin `frequentia` = crowding, multitude
 - 뜻: 빈도, 주파수
 - 어원적 연결: 어떤 일이 얼마나 자주 반복되는지의 정도
@@ -54,6 +59,7 @@
 
 ### frequented
 
+- 발음: /ˈfrikwəntɪd/
 - 구성: `frequent` + `-ed`
 - 뜻: 자주 찾는, 사람이 많이 드나드는
 - 어원적 연결: 반복 방문이 많아 사람이 모이는 상태

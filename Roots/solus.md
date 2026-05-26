@@ -19,6 +19,7 @@
 
 ### solo
 
+- 발음: /ˈsoʊˌloʊ/
 - 구성: Italian `solo` ← Latin `solus` = alone
 - 뜻: 독주, 독창, 혼자 하는
 - 어원적 연결: 함께하지 않고 혼자 수행함
@@ -26,6 +27,7 @@
 
 ### sole
 
+- 발음: /ˈsoʊl/
 - 구성: Old French `sol` ← Latin `solus` = alone
 - 뜻: 유일한, 단독의
 - 어원적 연결: 다른 것이 없이 혼자 하나만 있음
@@ -33,6 +35,7 @@
 
 ### solely
 
+- 발음: /ˈsoʊəli/
 - 구성: `sole` + `-ly`
 - 뜻: 오로지, 단독으로
 - 어원적 연결: 다른 이유나 대상 없이 하나만
@@ -40,6 +43,7 @@
 
 ### solitary
 
+- 발음: /ˈsɑləˌtɛri/
 - 구성: Latin `solitarius` = alone
 - 뜻: 혼자의, 고독한, 외딴
 - 어원적 연결: 다른 사람과 떨어져 홀로 있음
@@ -47,6 +51,7 @@
 
 ### solitude
 
+- 발음: /ˈsɑləˌtud/
 - 구성: Latin `solitudo` = loneliness, being alone
 - 뜻: 고독, 혼자 있음
 - 어원적 연결: 홀로 있는 상태
@@ -54,6 +59,7 @@
 
 ### desolate
 
+- 발음: /ˈdɛsələt/
 - 구성: Latin `desolare` = leave alone, abandon
 - 뜻: 황량한, 쓸쓸한, 버려진
 - 어원적 연결: 홀로 남겨져 텅 빈 상태
@@ -61,6 +67,7 @@
 
 ### soliloquy
 
+- 발음: /səˈlɪləkwi/
 - 구성: Latin `solus` = alone + `loqui` = speak
 - 뜻: 독백
 - 어원적 연결: 혼자 말함

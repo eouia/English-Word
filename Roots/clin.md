@@ -22,6 +22,7 @@
 
 ### incline
 
+- 발음: n. /ˈɪnklaɪn/, v. /ˌɪˈnklaɪn/
 - 구성: `in-` = toward + Latin `clinare`
 - 뜻: 기울다, 마음이 향하다
 - 어원적 연결: 몸이나 마음이 어떤 쪽으로 기울어짐
@@ -29,6 +30,7 @@
 
 ### inclination
 
+- 발음: /ˌɪnkləˈneɪʃən/
 - 구성: `incline` + `-ation`
 - 뜻: 경향, 성향, 기울기
 - 어원적 연결: 한쪽으로 기울어진 방향
@@ -36,6 +38,7 @@
 
 ### decline
 
+- 발음: /dɪˈklaɪn/
 - 구성: `de-` = down, away + Latin `clinare`
 - 뜻: 감소하다, 쇠퇴하다, 거절하다
 - 어원적 연결: 아래로 기울거나 물러남
@@ -43,6 +46,7 @@
 
 ### recline
 
+- 발음: /rɪˈklaɪn/
 - 구성: `re-` = back + Latin `clinare`
 - 뜻: 기대다, 눕다
 - 어원적 연결: 뒤로 기울어 기대거나 눕음
@@ -50,6 +54,7 @@
 
 ### proclivity
 
+- 발음: /proʊˈklɪvəti/
 - 구성: Latin `proclivis` = sloping forward
 - 뜻: 성향, 경향
 - 어원적 연결: 어떤 쪽으로 앞으로 기울어진 성질
@@ -59,6 +64,7 @@
 
 ### clinic
 
+- 발음: /ˈklɪnɪk/
 - 구성: Greek `kline` = bed
 - 뜻: 병원, 진료소
 - 어원적 연결: 병상에 누운 환자를 보는 곳
@@ -66,6 +72,7 @@
 
 ### clinical
 
+- 발음: /ˈklɪnəkəl/
 - 구성: `clinic` + `-al`
 - 뜻: 임상의, 냉정한
 - 어원적 연결: 병상 곁의 실제 진료와 관련됨
@@ -73,6 +80,7 @@
 
 ### clinician
 
+- 발음: /klɪˈnɪʃən/
 - 구성: `clinical` + `-ian`
 - 뜻: 임상의
 - 어원적 연결: 실제 환자 진료를 하는 사람

@@ -21,6 +21,7 @@
 
 ### deliberation
 
+- 발음: /dɪˌlɪbɚˈeɪʃən/
 - 구성: Latin `deliberare` = weigh well, consider + `-tion`
 - 뜻: 숙고, 심의, 신중한 논의
 - 어원적 연결: 선택지의 무게를 하나씩 달아 보고 판단함
@@ -28,6 +29,7 @@
 
 ### deliberate
 
+- 발음: adj. /dɪˈlɪbɚət/, v. /dɪˈlɪbɚˌeɪt/
 - 구성: Latin `deliberatus` = considered, resolved
 - 뜻: 신중한; 의도적인; 숙고하다
 - 어원적 연결: 충분히 저울질한 뒤 결정함
@@ -35,6 +37,7 @@
 
 ### deliberately
 
+- 발음: /dɪˈlɪbɚətli/
 - 구성: `deliberate` + `-ly`
 - 뜻: 신중하게; 의도적으로
 - 어원적 연결: 생각 없이 한 행동이 아니라 따져 보고 선택한 방식
@@ -42,6 +45,7 @@
 
 ### deliberative
 
+- 발음: /dɪˈlɪbɚˌeɪtɪv/
 - 구성: `deliberate` + `-ive`
 - 뜻: 심의하는, 숙의적인
 - 어원적 연결: 결정을 내리기 전에 여러 의견과 근거를 저울질함
@@ -49,6 +53,7 @@
 
 ### equilibrium
 
+- 발음: /ˌikwəˈlɪbriəm/
 - 구성: Latin `aequi-` = equal + `libra` = balance
 - 뜻: 균형, 평형
 - 어원적 연결: 저울 양쪽이 같은 무게로 맞춰진 상태
@@ -63,6 +68,7 @@
 
 ### Libra
 
+- 발음: /ˈlibrɑ/
 - 구성: Latin `libra` = scales
 - 뜻: 천칭자리, 천칭궁
 - 어원적 연결: 별자리 이름 자체가 "저울"을 가리킴

@@ -20,6 +20,7 @@
 
 ### mission
 
+- 발음: /ˈmɪʃən/
 - 구성: Latin `missio`
 - 뜻: 임무, 사명, 파견
 - 어원적 연결: 어떤 목적을 위해 보내진 일
@@ -27,6 +28,7 @@
 
 ### admission
 
+- 발음: /æˈdmɪʃən/
 - 구성: `ad-` = to + Latin `mittere`
 - 뜻: 입장, 입학 허가, 인정
 - 어원적 연결: 안으로 들여보냄
@@ -34,6 +36,7 @@
 
 ### permission
 
+- 발음: /pɚˈmɪʃən/
 - 구성: `per-` = through + Latin `mittere`
 - 뜻: 허가
 - 어원적 연결: 통과해 지나가도록 보내 줌
@@ -41,6 +44,7 @@
 
 ### dismissal
 
+- 발음: /dɪˈsmɪsəl/
 - 구성: `dismiss` + `-al`
 - 뜻: 해고, 해산, 묵살
 - 어원적 연결: 밖으로 보내 버림
@@ -48,6 +52,7 @@
 
 ### transmission
 
+- 발음: /træˈnsmɪʃən/
 - 구성: `trans-` = across + Latin `mittere`
 - 뜻: 전송, 전달, 전염
 - 어원적 연결: 가로질러 보냄
@@ -55,6 +60,7 @@
 
 ### submission
 
+- 발음: /səˈbmɪʃən/
 - 구성: `sub-` = under + Latin `mittere`
 - 뜻: 제출, 복종
 - 어원적 연결: 아래에 보내어 맡김
@@ -62,6 +68,7 @@
 
 ### omission
 
+- 발음: /oʊˈmɪʃən/
 - 구성: `ob-` = away + Latin `mittere`
 - 뜻: 누락, 생략
 - 어원적 연결: 보내지 않고 빠뜨림

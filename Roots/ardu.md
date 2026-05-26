@@ -18,6 +18,7 @@
 
 ### arduous
 
+- 발음: /ˈɑrdʒuəs/
 - 구성: Latin `arduus` = high, steep, difficult
 - 뜻: 힘든, 고된, 어려운
 - 어원적 연결: 가파른 길을 오르는 것처럼 많은 노력이 필요함

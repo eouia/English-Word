@@ -20,6 +20,7 @@
 
 ### defunct
 
+- 발음: /dɪˈfʌŋkt/
 - 구성: Latin `defunctus` = finished, dead
 - 뜻: 더 이상 존재하지 않는, 폐지된, 작동하지 않는
 - 어원적 연결: 맡은 역할을 끝내고 사라진 상태
@@ -27,6 +28,7 @@
 
 ### function
 
+- 발음: /ˈfʌŋkʃən/
 - 구성: Latin `functio` = performance, execution
 - 뜻: 기능, 역할; 기능하다
 - 어원적 연결: 어떤 것이 맡은 일을 수행함
@@ -34,6 +36,7 @@
 
 ### functional
 
+- 발음: /ˈfʌŋkʃənəl/
 - 구성: `function` + `-al`
 - 뜻: 기능적인, 작동하는, 실용적인
 - 어원적 연결: 실제로 맡은 일을 수행할 수 있음
@@ -41,6 +44,7 @@
 
 ### functionary
 
+- 발음: /ˈfʌŋkʃəˌnɛri/
 - 구성: `function` + `-ary`
 - 뜻: 하급 관리, 공무원
 - 어원적 연결: 정해진 직무를 수행하는 사람
@@ -48,6 +52,7 @@
 
 ### dysfunction
 
+- 발음: /dɪˈsfʌŋkʃən/
 - 구성: `dys-` = bad, difficult + `function`
 - 뜻: 기능 장애, 역기능
 - 어원적 연결: 맡은 기능을 제대로 수행하지 못함
@@ -55,6 +60,7 @@
 
 ### dysfunctional
 
+- 발음: /dɪˈsfʌŋkʃənəl/
 - 구성: `dysfunction` + `-al`
 - 뜻: 제대로 기능하지 않는, 역기능적인
 - 어원적 연결: 구조나 관계가 맡은 역할을 제대로 수행하지 못함
@@ -62,6 +68,7 @@
 
 ### malfunction
 
+- 발음: /mæˈlfʌŋkʃən/
 - 구성: [[mal]] = badly + `function`
 - 뜻: 오작동, 제대로 작동하지 않다
 - 어원적 연결: 기계나 장치가 자기 기능을 나쁘게 수행함
@@ -69,6 +76,7 @@
 
 ### perfunctory
 
+- 발음: /pɚˈfʌŋktɚi/
 - 구성: Latin `perfunctus` = done with, discharged
 - 뜻: 형식적인, 건성의
 - 어원적 연결: 해야 할 일을 그저 끝내기만 한 태도
@@ -76,6 +84,7 @@
 
 ### fungible
 
+- 발음: /ˈfʌndʒɪbəl/
 - 구성: Medieval Latin `fungibilis`, from `fungi` = perform, use
 - 뜻: 대체 가능한, 서로 교환 가능한
 - 어원적 연결: 같은 기능을 수행할 수 있어 서로 바꿔 쓸 수 있음

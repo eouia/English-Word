@@ -19,6 +19,7 @@
 
 ### philosophy
 
+- 발음: /fəˈlɑsəfi/
 - 구성: Greek `philo` = loving + `sophia` = wisdom
 - 뜻: 철학, 사고방식
 - 어원적 연결: 지혜를 사랑하고 추구함
@@ -26,6 +27,7 @@
 
 ### philosopher
 
+- 발음: /fəˈlɑsəfɚ/
 - 구성: `philosophy` + `-er`
 - 뜻: 철학자
 - 어원적 연결: 지혜를 사랑하고 탐구하는 사람
@@ -33,6 +35,7 @@
 
 ### philosophical
 
+- 발음: /ˌfɪləˈsɑfɪkəl/
 - 구성: `philosophy` + `-ical`
 - 뜻: 철학적인, 사색적인
 - 어원적 연결: 지혜와 근본 원리를 따지는 태도
@@ -40,6 +43,7 @@
 
 ### philanthropy
 
+- 발음: /fɪˈlænθrəpi/
 - 구성: Greek `philo` = loving + `anthropos` = human
 - 뜻: 박애, 자선 활동
 - 어원적 연결: 사람을 사랑함 → 인류애와 공익적 기부
@@ -47,6 +51,7 @@
 
 ### philanthropist
 
+- 발음: /fəˈlænθrəpəst/
 - 구성: `philanthropy` + `-ist`
 - 뜻: 자선가, 박애주의자
 - 어원적 연결: 사람을 사랑해 공익을 위해 돕는 사람
@@ -61,6 +66,7 @@
 
 ### Anglophile
 
+- 발음: /ˈængləˌfaɪl/
 - 구성: `Anglo-` = English + `-phile`
 - 뜻: 영국·영어권 문화 애호가
 - 어원적 연결: 영국적인 것을 좋아하는 사람
@@ -82,6 +88,7 @@
 
 ### audiophile
 
+- 발음: /ˌɔˈdioʊˌfil/
 - 구성: Latin `audio` = hear + Greek `-phile`
 - 뜻: 오디오 애호가, 음향 애호가
 - 어원적 연결: 좋은 소리와 음향 장비를 좋아하는 사람

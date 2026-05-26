@@ -20,6 +20,7 @@
 
 ### endure
 
+- 발음: /ɛˈndjʊr/
 - 구성: `en-`/`in-` + `dur`
 - 뜻: 견디다, 지속되다
 - 어원적 연결: 단단해져 깨지지 않고 버팀
@@ -27,6 +28,7 @@
 
 ### endurance
 
+- 발음: /ˈɛndɚəns/
 - 구성: `endure` + `-ance`
 - 뜻: 인내, 지구력, 지속력
 - 어원적 연결: 오래 버티는 힘
@@ -34,6 +36,7 @@
 
 ### enduring
 
+- 발음: /ɛˈndjʊrɪŋ/
 - 구성: `endure` + `-ing`
 - 뜻: 오래 지속되는, 견디는
 - 어원적 연결: 시간이 지나도 버티고 남음
@@ -41,6 +44,7 @@
 
 ### durable
 
+- 발음: /ˈdʊrəbəl/
 - 구성: Latin `durabilis` ← `durare`
 - 뜻: 내구성 있는, 오래가는
 - 어원적 연결: 단단해서 오래 지속됨
@@ -48,6 +52,7 @@
 
 ### durability
 
+- 발음: /dɚəˈbɪlɪti/
 - 구성: `durable` + `-ity`
 - 뜻: 내구성
 - 어원적 연결: 오래 버티는 성질
@@ -55,6 +60,7 @@
 
 ### duration
 
+- 발음: /ˈdʊˈreɪʃən/
 - 구성: Latin `duratio` ← `durare`
 - 뜻: 지속 기간
 - 어원적 연결: 어떤 상태가 계속 버티는 시간
@@ -62,6 +68,7 @@
 
 ### during
 
+- 발음: /ˈdʊrɪŋ/
 - 구성: Middle English, from `dure` = last, continue
 - 뜻: ~동안
 - 어원적 연결: 어떤 일이 지속되는 시간 안에서
@@ -69,6 +76,7 @@
 
 ### duress
 
+- 발음: /ˈdʊrɛs/
 - 구성: Old French `duresce` ← Latin `duritia` = hardness
 - 뜻: 강압, 협박, 압박
 - 어원적 연결: 단단하고 가혹한 압력
@@ -83,6 +91,7 @@
 
 ### obdurate
 
+- 발음: /ˈɑbdɚət/
 - 구성: Latin `ob-` = against + `durare`
 - 뜻: 완고한, 고집 센
 - 어원적 연결: 마음이 단단하게 굳어 바뀌지 않음

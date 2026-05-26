@@ -18,6 +18,7 @@
 
 ### fecal
 
+- 발음: /ˈfikəl/
 - 구성: Latin `faec-` = dregs, excrement + `-al`
 - 뜻: 대변의, 배설물의
 - 연결: 몸에서 남은 찌꺼기와 관련됨
@@ -25,6 +26,7 @@
 
 ### feces
 
+- 발음: /ˈfiˌsiz/
 - 구성: Latin `faeces` = dregs, excrement
 - 뜻: 대변, 배설물
 - 연결: 몸에서 소화 후 남아 배출되는 찌꺼기

@@ -18,6 +18,7 @@
 
 ### monarch
 
+- 발음: /ˈmɑˌnɑrk/
 - 구성: `mono-` = one + `arch`
 - 뜻: 군주
 - 어원적 연결: 한 사람이 지배함
@@ -25,6 +26,7 @@
 
 ### monarchy
 
+- 발음: /ˈmɑnɑrki/
 - 구성: `mono-` = one + `archy`
 - 뜻: 군주제
 - 어원적 연결: 한 사람이 지배하는 체제
@@ -32,6 +34,7 @@
 
 ### anarchy
 
+- 발음: /ˈænɚˌki/
 - 구성: `an-` = without + `archy`
 - 뜻: 무정부 상태, 무질서
 - 어원적 연결: 지배자나 통치 질서가 없음
@@ -39,6 +42,7 @@
 
 ### hierarchy
 
+- 발음: /ˈhaɪɚˌɑrki/
 - 구성: Greek `hieros` = sacred + `archy`
 - 뜻: 위계, 계층 구조
 - 어원적 연결: 원래 신성한 지배 질서. 현대에는 위아래 등급 구조
@@ -46,6 +50,7 @@
 
 ### patriarch
 
+- 발음: /ˈpeɪtriˌɑrk/
 - 구성: `patri-` = father + `arch`
 - 뜻: 가장, 남성 원로
 - 어원적 연결: 아버지 우두머리
@@ -53,6 +58,7 @@
 
 ### matriarch
 
+- 발음: /ˈmeɪtriˌɑrk/
 - 구성: `matri-` = mother + `arch`
 - 뜻: 여성 가장, 여족장
 - 어원적 연결: 어머니 우두머리
@@ -62,6 +68,7 @@
 
 ### archaic
 
+- 발음: /ɑˈrkeɪɪk/
 - 구성: Greek `arkhaikos`
 - 뜻: 고대의, 낡은
 - 어원적 연결: 처음 시기의 것
@@ -69,6 +76,7 @@
 
 ### archaeology
 
+- 발음: /ˌɑrkiˈɑlədʒi/
 - 구성: `archaeo-` = ancient + [[logos]]
 - 뜻: 고고학
 - 어원적 연결: 오래된 것에 대한 학문
@@ -76,6 +84,7 @@
 
 ### archetype
 
+- 발음: /ˈɑrkɪˌtaɪp/
 - 구성: `arch-` = original + `type`
 - 뜻: 원형, 전형
 - 어원적 연결: 처음 되는 본보기
@@ -83,6 +92,7 @@
 
 ### archive
 
+- 발음: /ˈɑˌrkaɪv/
 - 구성: Greek `arkheion` = public records office
 - 뜻: 기록 보관소, 기록하다
 - 어원적 연결: 통치 관청의 기록 보관소에서 온 말
@@ -90,6 +100,7 @@
 
 ### architect
 
+- 발음: /ˈɑrkəˌtɛkt/
 - 구성: `archi-` = chief + `tecton` = builder
 - 뜻: 건축가, 설계자
 - 어원적 연결: 우두머리 건축자
@@ -97,6 +108,7 @@
 
 ### architecture
 
+- 발음: /ˈɑrkəˌtɛktʃɚ/
 - 구성: `architect` + `-ure`
 - 뜻: 건축, 구조, 설계
 - 어원적 연결: 우두머리 건축자가 만드는 설계 체계

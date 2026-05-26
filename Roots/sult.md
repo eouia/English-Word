@@ -21,6 +21,7 @@
 
 ### desultory
 
+- 발음: /ˈdɛsəˌltɔri/
 - 구성: Latin `desultor` = one who jumps down/from one thing to another + `-ory`
 - 뜻: 산만한, 두서없는, 일관성 없는
 - 어원적 연결: 말에서 말로 뛰어 옮기듯 주제나 행동이 이리저리 건너뜀
@@ -28,6 +29,7 @@
 
 ### salient
 
+- 발음: /ˈseɪliənt/
 - 구성: Latin `salire` = leap
 - 뜻: 두드러진, 눈에 띄는
 - 어원적 연결: 밖으로 뛰어나온 것처럼 눈에 확 띔
@@ -35,6 +37,7 @@
 
 ### assail
 
+- 발음: /əˈseɪl/
 - 구성: Latin `ad-` = toward + `salire` = leap
 - 뜻: 공격하다, 몰아치다
 - 어원적 연결: 상대에게 뛰어들어 공격함
@@ -42,6 +45,7 @@
 
 ### assault
 
+- 발음: /əˈsɔlt/
 - 구성: Old French `asaut` ← Latin `ad-` + `saltus` = leap
 - 뜻: 공격, 폭행; 공격하다
 - 어원적 연결: 상대에게 뛰어드는 공격
@@ -49,6 +53,7 @@
 
 ### insult
 
+- 발음: n. /ˈɪˌnsʌlt/, v. /ˌɪˈnsʌlt/
 - 구성: Latin `in-` = on/upon + `salire` = leap
 - 뜻: 모욕하다; 모욕
 - 어원적 연결: 남 위로 뛰어올라 짓밟듯 무례하게 대함
@@ -56,6 +61,7 @@
 
 ### exult
 
+- 발음: /ɪˈgzʌlt/
 - 구성: Latin `ex-` = out/up + `salire` = leap
 - 뜻: 크게 기뻐하다, 환희하다
 - 어원적 연결: 기뻐서 뛰어오르는 모습
@@ -63,6 +69,7 @@
 
 ### result
 
+- 발음: /rɪˈzʌlt/
 - 구성: Latin `re-` = back + `salire` = leap
 - 뜻: 결과; 결과로 생기다
 - 어원적 연결: 어떤 행동 뒤에 다시 튀어나와 나타난 것
@@ -70,6 +77,7 @@
 
 ### resilient
 
+- 발음: /rɪˈzɪljənt/
 - 구성: Latin `resilire` ← `re-` = back + `salire` = leap
 - 뜻: 회복력 있는, 탄력 있는
 - 어원적 연결: 눌리거나 충격을 받아도 다시 튀어 오름
@@ -77,6 +85,7 @@
 
 ### resilience
 
+- 발음: /rɪˈzɪliəns/
 - 구성: `resilient` 계열 + `-ence`
 - 뜻: 회복력, 탄력성
 - 어원적 연결: 어려움 뒤에 다시 튀어 올라 회복하는 힘
@@ -84,6 +93,7 @@
 
 ### resiliency
 
+- 발음: /rɪˈzɪljənsi/
 - 구성: `resilient` 계열 + `-cy`
 - 뜻: 회복력, 탄력성
 - 어원적 연결: `resilience`와 거의 같은 뜻. 특히 기술·조직 맥락에서 자주 사용
@@ -91,6 +101,7 @@
 
 ### somersault
 
+- 발음: /ˈsʌmɚˌsɔlt/
 - 구성: Old French `sombresaut`, from `sobre` = over + `saut` = leap
 - 뜻: 공중제비
 - 어원적 연결: 몸을 넘겨 뛰는 동작
@@ -98,6 +109,7 @@
 
 ### sally
 
+- 발음: /ˈsæli/
 - 구성: Latin `salire` = leap
 - 뜻: 돌격, 출격; 재치 있는 말
 - 어원적 연결: 밖으로 뛰쳐나가는 움직임. 말에서는 갑자기 튀어나온 재치

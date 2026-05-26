@@ -20,6 +20,7 @@
 
 ### diagnosis
 
+- 발음: /ˌdaɪəˈgnoʊsəs/
 - 구성: `dia-` = through, apart + Greek `gnosis` = knowledge
 - 뜻: 진단, 식별
 - 어원적 연결: 여러 가능성 사이를 구분해 알아냄
@@ -27,6 +28,7 @@
 
 ### diagnose
 
+- 발음: /ˌdaɪəˈgnoʊs/
 - 구성: back-formation from `diagnosis`
 - 뜻: 진단하다
 - 어원적 연결: 증상 사이를 구분해 병을 알아냄
@@ -34,6 +36,7 @@
 
 ### diagnostic
 
+- 발음: /ˌdaɪəˈgnɑstɪk/
 - 구성: `diagnosis` 계열 + `-ic`
 - 뜻: 진단의, 진단에 쓰이는
 - 어원적 연결: 구분해 알아내는 데 관련됨
@@ -41,6 +44,7 @@
 
 ### dialogue
 
+- 발음: /ˈdaɪəˌlɔg/
 - 구성: `dia-` = through, between + [[logos]] = speech
 - 뜻: 대화, 문답
 - 어원적 연결: 말이 서로 사이를 지나감
@@ -48,6 +52,7 @@
 
 ### diameter
 
+- 발음: /daɪˈæmətɚ/
 - 구성: `dia-` = across + [[metr]] = measure
 - 뜻: 지름
 - 어원적 연결: 원을 가로질러 잰 길이
@@ -55,6 +60,7 @@
 
 ### diagonal
 
+- 발음: /daɪˈægənəl/
 - 구성: `dia-` = across + Greek `gonia` = angle
 - 뜻: 대각선의, 대각선
 - 어원적 연결: 각에서 각으로 가로지름
@@ -62,6 +68,7 @@
 
 ### diagram
 
+- 발음: /ˈdaɪəˌgræm/
 - 구성: `dia-` = across, through + Greek `graphein` = write, draw
 - 뜻: 도표, 도식
 - 어원적 연결: 선을 가로질러 그어 표시한 그림
@@ -69,6 +76,7 @@
 
 ### dialect
 
+- 발음: /ˈdaɪəˌlɛkt/
 - 구성: Greek `dialektos` ← `dia-` + `legein` = speak
 - 뜻: 방언
 - 어원적 연결: 사람들 사이에서 오가는 말 방식
@@ -76,6 +84,7 @@
 
 ### dialysis
 
+- 발음: /daɪˈæləsəs/
 - 구성: `dia-` = through, apart + [[lys]] = loosen
 - 뜻: 투석, 분리
 - 어원적 연결: 막을 통과해 분리하고 풀어 냄
@@ -83,6 +92,7 @@
 
 ### diaspora
 
+- 발음: /daɪˈæspɚə/
 - 구성: `dia-` = across + Greek `speirein` = scatter
 - 뜻: 디아스포라, 흩어진 공동체
 - 어원적 연결: 여러 곳으로 흩어져 퍼짐
@@ -90,6 +100,7 @@
 
 ### diaphanous
 
+- 발음: /daɪˈæfənɪs/
 - 구성: `dia-` = through + Greek `phainein` = show
 - 뜻: 비치는, 투명한, 섬세한
 - 어원적 연결: 빛이 통과해 보임
@@ -97,6 +108,7 @@
 
 ### diarrhea
 
+- 발음: /ˌdaɪɚˈiə/
 - 구성: `dia-` = through + Greek `rhein` = flow
 - 뜻: 설사
 - 어원적 연결: 몸을 통과해 흘러나감
@@ -104,6 +116,7 @@
 
 ### diaphragm
 
+- 발음: /ˈdaɪəˌfræm/
 - 구성: `dia-` = across + Greek `phragma` = fence, partition
 - 뜻: 횡격막, 조리개
 - 어원적 연결: 가로질러 막아 나누는 막
