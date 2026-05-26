@@ -3224,8 +3224,8 @@
     },
     "Roots/vers.md": {
       "doc": "Roots/vers.md",
-      "heading_count": 20,
-      "mtime": 1779102892.0,
+      "heading_count": 21,
+      "mtime": 1779780282.0,
       "root": "vers"
     },
     "Roots/vest.md": {
@@ -3355,8 +3355,8 @@
       "root": "yield"
     }
   },
-  "generated_at": "2026-05-21T12:53:22.678100+00:00",
-  "root": "/Users/seongnohyi/Workspace/English-Word",
+  "generated_at": "2026-05-26T07:25:24.330304+00:00",
+  "root": "/Users/macmini/Workspace/English-Word",
   "schema": 1,
   "terms": {
     "-cide": [
@@ -4919,7 +4919,7 @@
       {
         "doc": "Roots/vers.md",
         "heading": "advertent",
-        "line": 82,
+        "line": 90,
         "root": "vers",
         "section": "단어들",
         "term": "advertent"
@@ -4929,7 +4929,7 @@
       {
         "doc": "Roots/vers.md",
         "heading": "advertise",
-        "line": 61,
+        "line": 69,
         "root": "vers",
         "section": "단어들",
         "term": "advertise"
@@ -4939,7 +4939,7 @@
       {
         "doc": "Roots/vers.md",
         "heading": "advertisement",
-        "line": 75,
+        "line": 83,
         "root": "vers",
         "section": "단어들",
         "term": "advertisement"
@@ -4949,7 +4949,7 @@
       {
         "doc": "Roots/vers.md",
         "heading": "advertising",
-        "line": 68,
+        "line": 76,
         "root": "vers",
         "section": "단어들",
         "term": "advertising"
@@ -13639,7 +13639,7 @@
       {
         "doc": "Roots/vers.md",
         "heading": "controversial",
-        "line": 117,
+        "line": 125,
         "root": "vers",
         "section": "단어들",
         "term": "controversial"
@@ -13649,7 +13649,7 @@
       {
         "doc": "Roots/vers.md",
         "heading": "controversy",
-        "line": 110,
+        "line": 118,
         "root": "vers",
         "section": "단어들",
         "term": "controversy"
@@ -18121,6 +18121,16 @@
         "root": "vest",
         "section": "단어들",
         "term": "divest"
+      }
+    ],
+    "divorce": [
+      {
+        "doc": "Roots/vers.md",
+        "heading": "divorce",
+        "line": 61,
+        "root": "vers",
+        "section": "단어들",
+        "term": "divorce"
       }
     ],
     "dogma": [
@@ -26735,7 +26745,7 @@
       {
         "doc": "Roots/vers.md",
         "heading": "inadvertence",
-        "line": 103,
+        "line": 111,
         "root": "vers",
         "section": "단어들",
         "term": "inadvertence"
@@ -26745,7 +26755,7 @@
       {
         "doc": "Roots/vers.md",
         "heading": "inadvertent",
-        "line": 89,
+        "line": 97,
         "root": "vers",
         "section": "단어들",
         "term": "inadvertent"
@@ -26755,7 +26765,7 @@
       {
         "doc": "Roots/vers.md",
         "heading": "inadvertently",
-        "line": 96,
+        "line": 104,
         "root": "vers",
         "section": "단어들",
         "term": "inadvertently"
@@ -51021,7 +51031,7 @@
       {
         "doc": "Roots/vers.md",
         "heading": "uncontroversial",
-        "line": 124,
+        "line": 132,
         "root": "vers",
         "section": "단어들",
         "term": "uncontroversial"
@@ -51031,7 +51041,7 @@
       {
         "doc": "Roots/vers.md",
         "heading": "uncontroversially",
-        "line": 131,
+        "line": 139,
         "root": "vers",
         "section": "단어들",
         "term": "uncontroversially"
@@ -52095,7 +52105,7 @@
       {
         "doc": "Roots/vers.md",
         "heading": "versatile",
-        "line": 145,
+        "line": 153,
         "root": "vers",
         "section": "단어들",
         "term": "versatile"
@@ -52105,7 +52115,7 @@
       {
         "doc": "Roots/vers.md",
         "heading": "version",
-        "line": 138,
+        "line": 146,
         "root": "vers",
         "section": "단어들",
         "term": "version"
@@ -52115,7 +52125,7 @@
       {
         "doc": "Roots/vers.md",
         "heading": "versus",
-        "line": 152,
+        "line": 160,
         "root": "vers",
         "section": "단어들",
         "term": "versus"

@@ -58,6 +58,14 @@
 - 어원적 연결: 옆길로 돌림
 - 사용 맥락: `divert attention` = 주의를 돌리다
 
+### divorce
+
+- 구성: Latin `divortium` / `divertere` = turn apart, separate
+- 뜻: 이혼, 이혼하다
+- 어원적 연결: 부부가 같은 길에서 서로 다른 방향으로 돌아서 갈라짐
+- 사용 맥락: `file for divorce` = 이혼을 신청하다
+- 주의: 법률·관계 맥락의 "갈라섬". 일반적인 "다양함"은 `diverse`, 주의나 길을 "돌림"은 `divert`.
+
 ### advertise
 
 - 구성: `ad-` = to + `vert`
@@ -164,6 +172,7 @@
 - `reverse`: 뒤로 돌림
 - `diverse`: 여러 방향으로 돌아 흩어짐
 - `divert`: 옆으로 돌림
+- `divorce`: 서로 다른 방향으로 돌아서 갈라짐
 - `advertise`: 주의를 그쪽으로 돌림
 - `inadvertently`: 주의를 돌리지 못한 채 무심코
 - `controversy`: 반대 방향으로 돌아선 논쟁
