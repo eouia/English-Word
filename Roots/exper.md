@@ -73,6 +73,15 @@
 - 어원적 연결: 경험으로 검증된 숙련 능력
 - 사용 맥락: `technical expertise` = 기술 전문성
 
+### empirical
+
+- 발음: /ɛmˈpɪrɪkəl/
+- 구성: Greek `empeiria` = experience + `-ical`
+- 뜻: 경험적, 실증적인
+- 어원적 연결: 관찰과 경험으로 확인한 것에 근거함
+- 사용 맥락: `empirical evidence` = 실증적 증거
+- 주의: Latin `experiri`와 직접 같은 형태는 아니지만 "시험·경험" 이미지가 가까움.
+
 ### inexpert
 
 - 구성: `in-` = not + `expert`
@@ -98,14 +107,10 @@
 - `experienced`: 겪어서 능숙함
 - `expert`: 시험과 경험으로 검증된 사람
 - `expertise`: 검증된 전문 능력
+- `empirical`: 관찰과 경험에 근거함
 - `peril`: 시험·시도가 위험으로 이어진 상태
 
 ## 비교 단어
-
-### empirical
-
-- 뜻: 경험적, 실증적인
-- 구분 포인트: Greek `empeiria` = experience 계열. 관찰과 경험에 근거한다는 점에서 `experiment`와 함께 외우기 좋음.
 
 ### trial
 

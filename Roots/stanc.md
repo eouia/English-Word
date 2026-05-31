@@ -114,6 +114,14 @@
 - 어원적 연결: 실체와 바탕이 충분히 있음
 - 사용 맥락: `substantial evidence` = 상당한 증거
 
+### substantiate
+
+- 발음: /səbˈstænʃiˌeɪt/
+- 구성: `substance` + `-ate`
+- 뜻: 입증하다, 구체적 증거로 뒷받침하다
+- 어원적 연결: 주장에 실체와 바탕을 세워 줌
+- 사용 맥락: `substantiate a claim` = 주장을 입증하다
+
 ### circumstance
 
 - 발음: /ˈsɝkəˌmstæns/
@@ -132,6 +140,7 @@
 - `distance`: 떨어져 서 있음
 - `constant`: 단단히 서서 변하지 않음
 - `substance`: 아래에서 받치는 실체
+- `substantiate`: 주장에 실체를 세워 입증함
 - `circumstance`: 주변에 서 있는 조건
 
 ## 비교 단어

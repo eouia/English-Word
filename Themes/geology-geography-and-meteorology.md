@@ -109,7 +109,7 @@
 - 사용 맥락: `fossil record`, `fossil evidence`
 - 주의: 과거 생물의 몸체나 흔적이 암석에 보존된 것.
 
-### mineral
+### [[mine#mineral|mineral]]
 
 - 발음: /ˈmɪnɚəl/
 - 핵심 의미: 광물

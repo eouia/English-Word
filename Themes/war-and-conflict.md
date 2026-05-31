@@ -32,7 +32,7 @@
 - 사용 맥락: `military aggression`, `act of aggression`
 - 주의: 일반 의미는 공격적 태도. 국제관계에서는 한 국가가 다른 국가를 공격하는 행위.
 
-### invasion
+### [[vad#invasion|invasion]]
 
 - 발음: /ˌɪˈnveɪʒən/
 - 핵심 의미: 침공, 침입

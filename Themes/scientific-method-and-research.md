@@ -18,7 +18,7 @@
 - 사용 맥락: `scientific theory`, `theory of evolution`
 - 주의: 일상어의 "막연한 추측"과 달리, 과학에서는 증거로 뒷받침된 설명 체계.
 
-### empirical
+### [[exper#empirical|empirical]]
 
 - 발음: /ˌɛˈmpɪrɪkəl/
 - 핵심 의미: 경험적, 실증적

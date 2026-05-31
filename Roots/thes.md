@@ -65,6 +65,14 @@
 - 연결: 여러 요소를 함께 놓아 하나로 만듦
 - 사용 맥락: `a synthesis of ideas` = 생각들의 종합
 
+### synthesize
+
+- 발음: /ˈsɪnθəˌsaɪz/
+- 구성: `syn-` = together + `thesis` + `-ize`
+- 뜻: 종합하다, 합성하다
+- 연결: 여러 자료나 요소를 함께 놓아 하나의 설명이나 결과로 만듦
+- 사용 맥락: `synthesize evidence from several studies` = 여러 연구의 증거를 종합하다
+
 ### synthetic
 
 - 발음: /sɪˈnθɛtɪk/
@@ -87,4 +95,3 @@
 
 `synthesis`는 [[sym]] 문서에도 있음.
 그쪽은 `syn-` = 함께 접두사 중심, 이 문서는 `thesis` = 놓음 중심.
-

@@ -570,6 +570,12 @@
       "mtime": 1779800249.0,
       "root": "cred"
     },
+    "Roots/crep.md": {
+      "doc": "Roots/crep.md",
+      "heading_count": 3,
+      "mtime": 1780252086.0,
+      "root": "crep"
+    },
     "Roots/cresc.md": {
       "doc": "Roots/cresc.md",
       "heading_count": 9,
@@ -750,6 +756,12 @@
       "mtime": 1779800249.0,
       "root": "em"
     },
+    "Roots/emul.md": {
+      "doc": "Roots/emul.md",
+      "heading_count": 4,
+      "mtime": 1780252062.0,
+      "root": "emul"
+    },
     "Roots/enth.md": {
       "doc": "Roots/enth.md",
       "heading_count": 5,
@@ -800,8 +812,8 @@
     },
     "Roots/exper.md": {
       "doc": "Roots/exper.md",
-      "heading_count": 9,
-      "mtime": 1779800249.0,
+      "heading_count": 10,
+      "mtime": 1780251969.0,
       "root": "exper"
     },
     "Roots/extra.md": {
@@ -1328,8 +1340,8 @@
     },
     "Roots/ject.md": {
       "doc": "Roots/ject.md",
-      "heading_count": 13,
-      "mtime": 1779800249.0,
+      "heading_count": 14,
+      "mtime": 1780251969.0,
       "root": "ject"
     },
     "Roots/jud.md": {
@@ -1626,6 +1638,12 @@
       "mtime": 1779800249.0,
       "root": "metr"
     },
+    "Roots/metus.md": {
+      "doc": "Roots/metus.md",
+      "heading_count": 3,
+      "mtime": 1780252062.0,
+      "root": "metus"
+    },
     "Roots/migr.md": {
       "doc": "Roots/migr.md",
       "heading_count": 9,
@@ -1643,6 +1661,12 @@
       "heading_count": 13,
       "mtime": 1779800249.0,
       "root": "min"
+    },
+    "Roots/mine.md": {
+      "doc": "Roots/mine.md",
+      "heading_count": 4,
+      "mtime": 1780252086.0,
+      "root": "mine"
     },
     "Roots/minere.md": {
       "doc": "Roots/minere.md",
@@ -2099,6 +2123,12 @@
       "heading_count": 9,
       "mtime": 1779800249.0,
       "root": "plant"
+    },
+    "Roots/plaus.md": {
+      "doc": "Roots/plaus.md",
+      "heading_count": 5,
+      "mtime": 1780252062.0,
+      "root": "plaus"
     },
     "Roots/ple.md": {
       "doc": "Roots/ple.md",
@@ -2816,8 +2846,8 @@
     },
     "Roots/stanc.md": {
       "doc": "Roots/stanc.md",
-      "heading_count": 13,
-      "mtime": 1779800249.0,
+      "heading_count": 14,
+      "mtime": 1780251969.0,
       "root": "stanc"
     },
     "Roots/stand.md": {
@@ -3026,8 +3056,8 @@
     },
     "Roots/thes.md": {
       "doc": "Roots/thes.md",
-      "heading_count": 8,
-      "mtime": 1779800249.0,
+      "heading_count": 9,
+      "mtime": 1780251969.0,
       "root": "thes"
     },
     "Roots/thought.md": {
@@ -3174,6 +3204,12 @@
       "mtime": 1779800249.0,
       "root": "urban"
     },
+    "Roots/vad.md": {
+      "doc": "Roots/vad.md",
+      "heading_count": 6,
+      "mtime": 1780252086.0,
+      "root": "vad"
+    },
     "Roots/val.md": {
       "doc": "Roots/val.md",
       "heading_count": 15,
@@ -3288,6 +3324,12 @@
       "mtime": 1779800249.0,
       "root": "vin"
     },
+    "Roots/vindic.md": {
+      "doc": "Roots/vindic.md",
+      "heading_count": 4,
+      "mtime": 1780252062.0,
+      "root": "vindic"
+    },
     "Roots/virt.md": {
       "doc": "Roots/virt.md",
       "heading_count": 15,
@@ -3355,7 +3397,7 @@
       "root": "yield"
     }
   },
-  "generated_at": "2026-05-31T18:14:06.349795+00:00",
+  "generated_at": "2026-05-31T18:28:48.272844+00:00",
   "root": "/Users/macmini/Workspace/English-Word",
   "schema": 1,
   "terms": {
@@ -6813,6 +6855,26 @@
         "root": "pet",
         "section": "단어들",
         "term": "appetite"
+      }
+    ],
+    "applaud": [
+      {
+        "doc": "Roots/plaus.md",
+        "heading": "applaud",
+        "line": 36,
+        "root": "plaus",
+        "section": "단어들",
+        "term": "applaud"
+      }
+    ],
+    "applause": [
+      {
+        "doc": "Roots/plaus.md",
+        "heading": "applause",
+        "line": 44,
+        "root": "plaus",
+        "section": "단어들",
+        "term": "applause"
       }
     ],
     "applicable": [
@@ -10707,7 +10769,7 @@
       {
         "doc": "Roots/stanc.md",
         "heading": "circumstance",
-        "line": 117,
+        "line": 125,
         "root": "stanc",
         "section": "단어들",
         "term": "circumstance"
@@ -12757,6 +12819,16 @@
         "term": "congress"
       }
     ],
+    "conjecture": [
+      {
+        "doc": "Roots/ject.md",
+        "heading": "conjecture",
+        "line": 123,
+        "root": "ject",
+        "section": "단어들",
+        "term": "conjecture"
+      }
+    ],
     "conjoin": [
       {
         "doc": "Roots/junct.md",
@@ -14641,6 +14713,16 @@
         "root": "cred",
         "section": "단어들",
         "term": "creed"
+      }
+    ],
+    "crepitate": [
+      {
+        "doc": "Roots/crep.md",
+        "heading": "crepitate",
+        "line": 35,
+        "root": "crep",
+        "section": "단어들",
+        "term": "crepitate"
       }
     ],
     "crescendo": [
@@ -17453,6 +17535,26 @@
         "term": "discreet"
       }
     ],
+    "discrepancy": [
+      {
+        "doc": "Roots/crep.md",
+        "heading": "discrepancy",
+        "line": 19,
+        "root": "crep",
+        "section": "단어들",
+        "term": "discrepancy"
+      }
+    ],
+    "discrepant": [
+      {
+        "doc": "Roots/crep.md",
+        "heading": "discrepant",
+        "line": 27,
+        "root": "crep",
+        "section": "단어들",
+        "term": "discrepant"
+      }
+    ],
     "discrete": [
       {
         "doc": "Roots/cern.md",
@@ -19551,6 +19653,16 @@
         "term": "empire"
       }
     ],
+    "empirical": [
+      {
+        "doc": "Roots/exper.md",
+        "heading": "empirical",
+        "line": 76,
+        "root": "exper",
+        "section": "단어들",
+        "term": "empirical"
+      }
+    ],
     "employ": [
       {
         "doc": "Roots/em.md",
@@ -19599,6 +19711,46 @@
         "root": "imper",
         "section": "단어들",
         "term": "empress"
+      }
+    ],
+    "emulate": [
+      {
+        "doc": "Roots/emul.md",
+        "heading": "emulate",
+        "line": 19,
+        "root": "emul",
+        "section": "단어들",
+        "term": "emulate"
+      }
+    ],
+    "emulation": [
+      {
+        "doc": "Roots/emul.md",
+        "heading": "emulation",
+        "line": 27,
+        "root": "emul",
+        "section": "단어들",
+        "term": "emulation"
+      }
+    ],
+    "emulator": [
+      {
+        "doc": "Roots/emul.md",
+        "heading": "emulator",
+        "line": 35,
+        "root": "emul",
+        "section": "단어들",
+        "term": "emulator"
+      }
+    ],
+    "emulous": [
+      {
+        "doc": "Roots/emul.md",
+        "heading": "emulous",
+        "line": 43,
+        "root": "emul",
+        "section": "단어들",
+        "term": "emulous"
       }
     ],
     "enable": [
@@ -20533,6 +20685,16 @@
         "term": "eupnea"
       }
     ],
+    "evade": [
+      {
+        "doc": "Roots/vad.md",
+        "heading": "evade",
+        "line": 51,
+        "root": "vad",
+        "section": "단어들",
+        "term": "evade"
+      }
+    ],
     "evaluate": [
       {
         "doc": "Roots/val.md",
@@ -20581,6 +20743,16 @@
         "root": "vapor",
         "section": "단어들",
         "term": "evaporative"
+      }
+    ],
+    "evasive": [
+      {
+        "doc": "Roots/vad.md",
+        "heading": "evasive",
+        "line": 59,
+        "root": "vad",
+        "section": "단어들",
+        "term": "evasive"
       }
     ],
     "event": [
@@ -27715,7 +27887,7 @@
       {
         "doc": "Roots/exper.md",
         "heading": "inexpert",
-        "line": 76,
+        "line": 85,
         "root": "exper",
         "section": "단어들",
         "term": "inexpert"
@@ -29229,6 +29401,16 @@
         "term": "intrusive"
       }
     ],
+    "invade": [
+      {
+        "doc": "Roots/vad.md",
+        "heading": "invade",
+        "line": 35,
+        "root": "vad",
+        "section": "단어들",
+        "term": "invade"
+      }
+    ],
     "invalidate": [
       {
         "doc": "Roots/val.md",
@@ -29247,6 +29429,16 @@
         "root": "vari",
         "section": "단어들",
         "term": "invariably"
+      }
+    ],
+    "invasion": [
+      {
+        "doc": "Roots/vad.md",
+        "heading": "invasion",
+        "line": 43,
+        "root": "vad",
+        "section": "단어들",
+        "term": "invasion"
       }
     ],
     "invent": [
@@ -32191,6 +32383,36 @@
         "term": "meter"
       }
     ],
+    "meticulous": [
+      {
+        "doc": "Roots/metus.md",
+        "heading": "meticulous",
+        "line": 19,
+        "root": "metus",
+        "section": "단어들",
+        "term": "meticulous"
+      }
+    ],
+    "meticulously": [
+      {
+        "doc": "Roots/metus.md",
+        "heading": "meticulously",
+        "line": 27,
+        "root": "metus",
+        "section": "단어들",
+        "term": "meticulously"
+      }
+    ],
+    "meticulousness": [
+      {
+        "doc": "Roots/metus.md",
+        "heading": "meticulousness",
+        "line": 35,
+        "root": "metus",
+        "section": "단어들",
+        "term": "meticulousness"
+      }
+    ],
     "metric": [
       {
         "doc": "Roots/metr.md",
@@ -32359,6 +32581,36 @@
         "root": "minere",
         "section": "단어들",
         "term": "minatory"
+      }
+    ],
+    "mine": [
+      {
+        "doc": "Roots/mine.md",
+        "heading": "mine",
+        "line": 27,
+        "root": "mine",
+        "section": "단어들",
+        "term": "mine"
+      }
+    ],
+    "miner": [
+      {
+        "doc": "Roots/mine.md",
+        "heading": "miner",
+        "line": 35,
+        "root": "mine",
+        "section": "단어들",
+        "term": "miner"
+      }
+    ],
+    "mineral": [
+      {
+        "doc": "Roots/mine.md",
+        "heading": "mineral",
+        "line": 43,
+        "root": "mine",
+        "section": "단어들",
+        "term": "mineral"
       }
     ],
     "minimal": [
@@ -36267,7 +36519,7 @@
       {
         "doc": "Roots/thes.md",
         "heading": "parenthesis",
-        "line": 76,
+        "line": 84,
         "root": "thes",
         "section": "단어들",
         "term": "parenthesis"
@@ -37073,7 +37325,7 @@
       {
         "doc": "Roots/exper.md",
         "heading": "peril",
-        "line": 83,
+        "line": 92,
         "root": "exper",
         "section": "단어들",
         "term": "peril"
@@ -37439,6 +37691,26 @@
         "root": "spir",
         "section": "단어들",
         "term": "perspire"
+      }
+    ],
+    "pervade": [
+      {
+        "doc": "Roots/vad.md",
+        "heading": "pervade",
+        "line": 27,
+        "root": "vad",
+        "section": "단어들",
+        "term": "pervade"
+      }
+    ],
+    "pervasive": [
+      {
+        "doc": "Roots/vad.md",
+        "heading": "pervasive",
+        "line": 19,
+        "root": "vad",
+        "section": "단어들",
+        "term": "pervasive"
       }
     ],
     "petition": [
@@ -37935,6 +38207,36 @@
         "root": "plan",
         "section": "단어들",
         "term": "plateau"
+      }
+    ],
+    "plaudit": [
+      {
+        "doc": "Roots/plaus.md",
+        "heading": "plaudit",
+        "line": 52,
+        "root": "plaus",
+        "section": "단어들",
+        "term": "plaudit"
+      }
+    ],
+    "plausibility": [
+      {
+        "doc": "Roots/plaus.md",
+        "heading": "plausibility",
+        "line": 28,
+        "root": "plaus",
+        "section": "단어들",
+        "term": "plausibility"
+      }
+    ],
+    "plausible": [
+      {
+        "doc": "Roots/plaus.md",
+        "heading": "plausible",
+        "line": 19,
+        "root": "plaus",
+        "section": "단어들",
+        "term": "plausible"
       }
     ],
     "pleasant": [
@@ -47847,6 +48149,16 @@
         "term": "substantial"
       }
     ],
+    "substantiate": [
+      {
+        "doc": "Roots/stanc.md",
+        "heading": "substantiate",
+        "line": 117,
+        "root": "stanc",
+        "section": "단어들",
+        "term": "substantiate"
+      }
+    ],
     "subsystem": [
       {
         "doc": "Roots/sym.md",
@@ -48795,6 +49107,16 @@
         "term": "synthesis"
       }
     ],
+    "synthesize": [
+      {
+        "doc": "Roots/thes.md",
+        "heading": "synthesize",
+        "line": 68,
+        "root": "thes",
+        "section": "단어들",
+        "term": "synthesize"
+      }
+    ],
     "synthetic": [
       {
         "doc": "Roots/sym.md",
@@ -48807,7 +49129,7 @@
       {
         "doc": "Roots/thes.md",
         "heading": "synthetic",
-        "line": 68,
+        "line": 76,
         "root": "thes",
         "section": "단어들",
         "term": "synthetic"
@@ -51127,6 +51449,16 @@
         "term": "underestimate"
       }
     ],
+    "undermine": [
+      {
+        "doc": "Roots/mine.md",
+        "heading": "undermine",
+        "line": 19,
+        "root": "mine",
+        "section": "단어들",
+        "term": "undermine"
+      }
+    ],
     "underscore": [
       {
         "doc": "Roots/score.md",
@@ -51983,6 +52315,16 @@
         "term": "veiled"
       }
     ],
+    "vengeance": [
+      {
+        "doc": "Roots/vindic.md",
+        "heading": "vengeance",
+        "line": 41,
+        "root": "vindic",
+        "section": "단어들",
+        "term": "vengeance"
+      }
+    ],
     "venue": [
       {
         "doc": "Roots/ven.md",
@@ -52359,6 +52701,36 @@
         "root": "vict",
         "section": "단어들",
         "term": "vincible"
+      }
+    ],
+    "vindicate": [
+      {
+        "doc": "Roots/vindic.md",
+        "heading": "vindicate",
+        "line": 17,
+        "root": "vindic",
+        "section": "단어들",
+        "term": "vindicate"
+      }
+    ],
+    "vindication": [
+      {
+        "doc": "Roots/vindic.md",
+        "heading": "vindication",
+        "line": 25,
+        "root": "vindic",
+        "section": "단어들",
+        "term": "vindication"
+      }
+    ],
+    "vindictive": [
+      {
+        "doc": "Roots/vindic.md",
+        "heading": "vindictive",
+        "line": 33,
+        "root": "vindic",
+        "section": "단어들",
+        "term": "vindictive"
       }
     ],
     "vine": [

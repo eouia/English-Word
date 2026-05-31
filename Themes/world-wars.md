@@ -103,7 +103,7 @@
 - 사용 맥락: `German blitzkrieg`, `blitzkrieg tactics`
 - 주의: 항공기, 전차, 기계화 부대의 빠른 집중 공격으로 적 방어를 무너뜨리는 전략.
 
-### invasion
+### [[vad#invasion|invasion]]
 
 - 발음: /ˌɪˈnveɪʒən/
 - 핵심 의미: 침공, 침입
