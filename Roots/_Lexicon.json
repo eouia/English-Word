@@ -3224,8 +3224,8 @@
     },
     "Roots/vers.md": {
       "doc": "Roots/vers.md",
-      "heading_count": 23,
-      "mtime": 1780251095.0,
+      "heading_count": 24,
+      "mtime": 1780251228.0,
       "root": "vers"
     },
     "Roots/vest.md": {
@@ -3355,7 +3355,7 @@
       "root": "yield"
     }
   },
-  "generated_at": "2026-05-31T18:11:51.257767+00:00",
+  "generated_at": "2026-05-31T18:14:06.349795+00:00",
   "root": "/Users/macmini/Workspace/English-Word",
   "schema": 1,
   "terms": {
@@ -4915,11 +4915,21 @@
         "term": "adverb"
       }
     ],
+    "adverse": [
+      {
+        "doc": "Roots/vers.md",
+        "heading": "adverse",
+        "line": 61,
+        "root": "vers",
+        "section": "단어들",
+        "term": "adverse"
+      }
+    ],
     "advertent": [
       {
         "doc": "Roots/vers.md",
         "heading": "advertent",
-        "line": 118,
+        "line": 127,
         "root": "vers",
         "section": "단어들",
         "term": "advertent"
@@ -4929,7 +4939,7 @@
       {
         "doc": "Roots/vers.md",
         "heading": "advertise",
-        "line": 94,
+        "line": 103,
         "root": "vers",
         "section": "단어들",
         "term": "advertise"
@@ -4939,7 +4949,7 @@
       {
         "doc": "Roots/vers.md",
         "heading": "advertisement",
-        "line": 110,
+        "line": 119,
         "root": "vers",
         "section": "단어들",
         "term": "advertisement"
@@ -4949,7 +4959,7 @@
       {
         "doc": "Roots/vers.md",
         "heading": "advertising",
-        "line": 102,
+        "line": 111,
         "root": "vers",
         "section": "단어들",
         "term": "advertising"
@@ -13659,7 +13669,7 @@
       {
         "doc": "Roots/vers.md",
         "heading": "controversial",
-        "line": 157,
+        "line": 166,
         "root": "vers",
         "section": "단어들",
         "term": "controversial"
@@ -13669,7 +13679,7 @@
       {
         "doc": "Roots/vers.md",
         "heading": "controversy",
-        "line": 149,
+        "line": 158,
         "root": "vers",
         "section": "단어들",
         "term": "controversy"
@@ -18107,7 +18117,7 @@
       {
         "doc": "Roots/vers.md",
         "heading": "diverse",
-        "line": 61,
+        "line": 70,
         "root": "vers",
         "section": "단어들",
         "term": "diverse"
@@ -18117,7 +18127,7 @@
       {
         "doc": "Roots/vers.md",
         "heading": "diversity",
-        "line": 69,
+        "line": 78,
         "root": "vers",
         "section": "단어들",
         "term": "diversity"
@@ -18127,7 +18137,7 @@
       {
         "doc": "Roots/vers.md",
         "heading": "divert",
-        "line": 77,
+        "line": 86,
         "root": "vers",
         "section": "단어들",
         "term": "divert"
@@ -18147,7 +18157,7 @@
       {
         "doc": "Roots/vers.md",
         "heading": "divorce",
-        "line": 85,
+        "line": 94,
         "root": "vers",
         "section": "단어들",
         "term": "divorce"
@@ -26765,7 +26775,7 @@
       {
         "doc": "Roots/vers.md",
         "heading": "inadvertence",
-        "line": 141,
+        "line": 150,
         "root": "vers",
         "section": "단어들",
         "term": "inadvertence"
@@ -26775,7 +26785,7 @@
       {
         "doc": "Roots/vers.md",
         "heading": "inadvertent",
-        "line": 125,
+        "line": 134,
         "root": "vers",
         "section": "단어들",
         "term": "inadvertent"
@@ -26785,7 +26795,7 @@
       {
         "doc": "Roots/vers.md",
         "heading": "inadvertently",
-        "line": 133,
+        "line": 142,
         "root": "vers",
         "section": "단어들",
         "term": "inadvertently"
@@ -51051,7 +51061,7 @@
       {
         "doc": "Roots/vers.md",
         "heading": "uncontroversial",
-        "line": 165,
+        "line": 174,
         "root": "vers",
         "section": "단어들",
         "term": "uncontroversial"
@@ -51061,7 +51071,7 @@
       {
         "doc": "Roots/vers.md",
         "heading": "uncontroversially",
-        "line": 173,
+        "line": 182,
         "root": "vers",
         "section": "단어들",
         "term": "uncontroversially"
@@ -52125,7 +52135,7 @@
       {
         "doc": "Roots/vers.md",
         "heading": "versatile",
-        "line": 188,
+        "line": 197,
         "root": "vers",
         "section": "단어들",
         "term": "versatile"
@@ -52135,7 +52145,7 @@
       {
         "doc": "Roots/vers.md",
         "heading": "version",
-        "line": 180,
+        "line": 189,
         "root": "vers",
         "section": "단어들",
         "term": "version"
@@ -52145,7 +52155,7 @@
       {
         "doc": "Roots/vers.md",
         "heading": "versus",
-        "line": 196,
+        "line": 205,
         "root": "vers",
         "section": "단어들",
         "term": "versus"

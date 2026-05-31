@@ -58,6 +58,15 @@
 - 사용 맥락: `an aversion to conflict` = 갈등을 몹시 꺼림
 - 주의: 단순한 dislike보다 강한 반감. 보통 `aversion to` 형태.
 
+### adverse
+
+- 발음: /ædˈvɝs/
+- 구성: Latin `adversus` = turned toward, opposing
+- 뜻: 불리한, 해로운, 반대의
+- 어원적 연결: 어떤 방향에 맞서 돌아서 있음
+- 사용 맥락: `adverse effects` = 부작용, 해로운 영향
+- 주의: 사람의 감정적 꺼림은 `averse`. 조건·상황·효과가 불리하거나 해로우면 `adverse`.
+
 ### diverse
 
 - 발음: /daɪˈvɝs/
@@ -209,6 +218,7 @@
 - `reverse`: 뒤로 돌림
 - `averse`: 마음이 돌아서 꺼림
 - `aversion`: 마음이 돌아선 반감
+- `adverse`: 맞서 돌아선 불리한 조건
 - `diverse`: 여러 방향으로 돌아 흩어짐
 - `divert`: 옆으로 돌림
 - `divorce`: 서로 다른 방향으로 돌아서 갈라짐
