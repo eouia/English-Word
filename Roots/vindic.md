@@ -46,6 +46,24 @@
 - 어원적 연결: 잘못에 대해 응징하거나 갚으려 함
 - 사용 맥락: `seek vengeance` = 복수를 추구하다
 
+### avenge
+
+- 발음: /əˈvɛndʒ/
+- 구성: Old French `avengier` ← Latin `vindicare`
+- 뜻: 복수하다, 원수를 갚다
+- 어원적 연결: 잘못을 당한 사람이나 명예를 위해 응징함
+- 사용 맥락: `avenge a defeat` = 패배의 원수를 갚다
+- 주의: `avenge`는 보통 피해자나 잘못을 목적어로 둠. `avenge his brother`, `avenge an injustice`.
+
+### revenge
+
+- 발음: /rɪˈvɛndʒ/
+- 구성: Old French `revengier` = take revenge
+- 뜻: 복수하다; 복수
+- 어원적 연결: 당한 해를 되갚는 행위
+- 사용 맥락: `take revenge on someone` = 누군가에게 복수하다
+- 주의: `revenge`는 개인적 감정의 보복 느낌이 강함. 명사로도 매우 흔함.
+
 ## 기억 포인트
 
 `vindic` 계열은 "권리 주장, 결백 입증, 복수" 이미지.
@@ -54,6 +72,8 @@
 - `vindication`: 입증되어 의심을 벗음
 - `vindictive`: 보복하려는
 - `vengeance`: 복수
+- `avenge`: 남이나 명예를 위해 원수를 갚음
+- `revenge`: 개인적 보복을 하거나 그 보복 자체
 
 ## 비교 단어
 

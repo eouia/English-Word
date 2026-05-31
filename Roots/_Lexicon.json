@@ -3326,8 +3326,8 @@
     },
     "Roots/vindic.md": {
       "doc": "Roots/vindic.md",
-      "heading_count": 4,
-      "mtime": 1780252062.0,
+      "heading_count": 6,
+      "mtime": 1780252193.0,
       "root": "vindic"
     },
     "Roots/virt.md": {
@@ -3397,7 +3397,7 @@
       "root": "yield"
     }
   },
-  "generated_at": "2026-05-31T18:28:48.272844+00:00",
+  "generated_at": "2026-05-31T18:30:04.737704+00:00",
   "root": "/Users/macmini/Workspace/English-Word",
   "schema": 1,
   "terms": {
@@ -8477,6 +8477,16 @@
         "root": "avant",
         "section": "단어들",
         "term": "avant-garde"
+      }
+    ],
+    "avenge": [
+      {
+        "doc": "Roots/vindic.md",
+        "heading": "avenge",
+        "line": 49,
+        "root": "vindic",
+        "section": "단어들",
+        "term": "avenge"
       }
     ],
     "avenue": [
@@ -44051,6 +44061,16 @@
         "root": "vel",
         "section": "단어들",
         "term": "revelation"
+      }
+    ],
+    "revenge": [
+      {
+        "doc": "Roots/vindic.md",
+        "heading": "revenge",
+        "line": 58,
+        "root": "vindic",
+        "section": "단어들",
+        "term": "revenge"
       }
     ],
     "revenue": [
