@@ -49,6 +49,15 @@
 - 사용 맥락: `be averse to risk` = 위험을 꺼리다
 - 주의: 보통 `be averse to` 형태. `adverse`는 "불리한, 반대의"로 의미와 철자가 다름.
 
+### aversion
+
+- 발음: /əˈvɝʒən/
+- 구성: `averse` + `-ion`
+- 뜻: 혐오감, 강한 반감, 꺼림
+- 어원적 연결: 마음이 어떤 대상에서 돌아서 멀어진 상태
+- 사용 맥락: `an aversion to conflict` = 갈등을 몹시 꺼림
+- 주의: 단순한 dislike보다 강한 반감. 보통 `aversion to` 형태.
+
 ### diverse
 
 - 발음: /daɪˈvɝs/
@@ -199,6 +208,7 @@
 - `convert`: 완전히 돌려 바꿈
 - `reverse`: 뒤로 돌림
 - `averse`: 마음이 돌아서 꺼림
+- `aversion`: 마음이 돌아선 반감
 - `diverse`: 여러 방향으로 돌아 흩어짐
 - `divert`: 옆으로 돌림
 - `divorce`: 서로 다른 방향으로 돌아서 갈라짐
