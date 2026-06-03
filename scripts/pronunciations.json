@@ -919,6 +919,16 @@
         "ipa": "/əˈlɛli/"
       }
     ],
+    "allergic": [
+      {
+        "ipa": "/əˈlɝdʒɪk/"
+      }
+    ],
+    "allergy": [
+      {
+        "ipa": "/ˈælɚdʒi/"
+      }
+    ],
     "alleviate": [
       {
         "ipa": "/əˈliviˌeɪt/"
@@ -8484,6 +8494,21 @@
         "ipa": "/ɛˈndjʊrɪŋ/"
       }
     ],
+    "energetic": [
+      {
+        "ipa": "/ˌɛnɚˈdʒɛtɪk/"
+      }
+    ],
+    "energize": [
+      {
+        "ipa": "/ˈɛnɚˌdʒaɪz/"
+      }
+    ],
+    "energy": [
+      {
+        "ipa": "/ˈɛnɚdʒi/"
+      }
+    ],
     "enforce": [
       {
         "ipa": "/ɛˈnfɔrs/"
@@ -8787,6 +8812,16 @@
     "erect": [
       {
         "ipa": "/ɪˈrɛkt/"
+      }
+    ],
+    "ergonomic": [
+      {
+        "ipa": "/ˌɝɡəˈnɑmɪk/"
+      }
+    ],
+    "ergonomics": [
+      {
+        "ipa": "/ˌɝɡəˈnɑmɪks/"
       }
     ],
     "erosion": [
@@ -11554,9 +11589,19 @@
         "ipa": "/aɪˈdiəlɪst/"
       }
     ],
+    "idealistic": [
+      {
+        "ipa": "/aɪˌdiəˈlɪstɪk/"
+      }
+    ],
     "idealize": [
       {
         "ipa": "/aɪˈdiˌlaɪz/"
+      }
+    ],
+    "ideally": [
+      {
+        "ipa": "/aɪˈdiəli/"
       }
     ],
     "ideals": [
@@ -14726,7 +14771,7 @@
     ],
     "metallurgy": [
       {
-        "ipa": "/ˈmɛtəlɚdʒi/"
+        "ipa": "/ˈmɛtəlɝdʒi/"
       }
     ],
     "metamorphosis": [
@@ -23066,7 +23111,7 @@
     ],
     "surgery": [
       {
-        "ipa": "/ˈsɝdʒɚi/"
+        "ipa": "/ˈsɝdʒəri/"
       }
     ],
     "surmise": [
@@ -25572,16 +25617,6 @@
     "zoning": [
       {
         "ipa": "/ˈzoʊnɪŋ/"
-      }
-    ],
-    "idealistic": [
-      {
-        "ipa": "/aɪˌdiəˈlɪstɪk/"
-      }
-    ],
-    "ideally": [
-      {
-        "ipa": "/aɪˈdiəli/"
       }
     ]
   },

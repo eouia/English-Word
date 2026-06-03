@@ -80,7 +80,7 @@
 - 사용 맥락: `textile industry`, `textile mills`
 - 주의: 방직·직조 산업은 산업혁명 초기의 대표 분야.
 
-### metallurgy
+### [[erg#metallurgy|metallurgy]]
 
 - 발음: /ˈmɛtəlɚdʒi/
 - 핵심 의미: 야금술, 금속공학

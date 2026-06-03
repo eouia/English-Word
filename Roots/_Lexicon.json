@@ -774,6 +774,12 @@
       "mtime": 1779800249.0,
       "root": "equ"
     },
+    "Roots/erg.md": {
+      "doc": "Roots/erg.md",
+      "heading_count": 10,
+      "mtime": 1780475064.0,
+      "root": "erg"
+    },
     "Roots/err.md": {
       "doc": "Roots/err.md",
       "heading_count": 5,
@@ -3397,8 +3403,8 @@
       "root": "yield"
     }
   },
-  "generated_at": "2026-05-31T18:30:04.737704+00:00",
-  "root": "/Users/macmini/Workspace/English-Word",
+  "generated_at": "2026-06-03T08:25:14.566752+00:00",
+  "root": "/Users/seongnohyi/Workspace/English-Word",
   "schema": 1,
   "terms": {
     "-cide": [
@@ -5435,6 +5441,26 @@
         "root": "lect",
         "section": "단어들",
         "term": "allege"
+      }
+    ],
+    "allergic": [
+      {
+        "doc": "Roots/erg.md",
+        "heading": "allergic",
+        "line": 76,
+        "root": "erg",
+        "section": "단어들",
+        "term": "allergic"
+      }
+    ],
+    "allergy": [
+      {
+        "doc": "Roots/erg.md",
+        "heading": "allergy",
+        "line": 67,
+        "root": "erg",
+        "section": "단어들",
+        "term": "allergy"
       }
     ],
     "alleviate": [
@@ -19921,6 +19947,36 @@
         "term": "enduring"
       }
     ],
+    "energetic": [
+      {
+        "doc": "Roots/erg.md",
+        "heading": "energetic",
+        "line": 26,
+        "root": "erg",
+        "section": "단어들",
+        "term": "energetic"
+      }
+    ],
+    "energize": [
+      {
+        "doc": "Roots/erg.md",
+        "heading": "energize",
+        "line": 34,
+        "root": "erg",
+        "section": "단어들",
+        "term": "energize"
+      }
+    ],
+    "energy": [
+      {
+        "doc": "Roots/erg.md",
+        "heading": "energy",
+        "line": 18,
+        "root": "erg",
+        "section": "단어들",
+        "term": "energy"
+      }
+    ],
     "enforce": [
       {
         "doc": "Roots/fort.md",
@@ -20463,6 +20519,26 @@
         "root": "rect",
         "section": "단어들",
         "term": "erect"
+      }
+    ],
+    "ergonomic": [
+      {
+        "doc": "Roots/erg.md",
+        "heading": "ergonomic",
+        "line": 51,
+        "root": "erg",
+        "section": "단어들",
+        "term": "ergonomic"
+      }
+    ],
+    "ergonomics": [
+      {
+        "doc": "Roots/erg.md",
+        "heading": "ergonomics",
+        "line": 59,
+        "root": "erg",
+        "section": "단어들",
+        "term": "ergonomics"
       }
     ],
     "err": [
@@ -32371,6 +32447,16 @@
         "root": "crat",
         "section": "단어들",
         "term": "meritocracy"
+      }
+    ],
+    "metallurgy": [
+      {
+        "doc": "Roots/erg.md",
+        "heading": "metallurgy",
+        "line": 92,
+        "root": "erg",
+        "section": "단어들",
+        "term": "metallurgy"
       }
     ],
     "metamorphosis": [
@@ -48719,6 +48805,16 @@
         "term": "surface"
       }
     ],
+    "surgery": [
+      {
+        "doc": "Roots/erg.md",
+        "heading": "surgery",
+        "line": 84,
+        "root": "erg",
+        "section": "단어들",
+        "term": "surgery"
+      }
+    ],
     "surmise": [
       {
         "doc": "Roots/mit.md",
@@ -49062,6 +49158,14 @@
       }
     ],
     "synergy": [
+      {
+        "doc": "Roots/erg.md",
+        "heading": "synergy",
+        "line": 42,
+        "root": "erg",
+        "section": "단어들",
+        "term": "synergy"
+      },
       {
         "doc": "Roots/sym.md",
         "heading": "synergy",

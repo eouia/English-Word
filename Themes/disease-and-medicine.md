@@ -220,7 +220,7 @@
 - 사용 맥락: `recommended dosage`, `adjust the dosage`
 - 주의: 약을 얼마나, 얼마나 자주 쓰는지를 나타냄.
 
-### surgery
+### [[erg#surgery|surgery]]
 
 - 발음: /ˈsɝdʒɚi/
 - 핵심 의미: 수술, 외과
