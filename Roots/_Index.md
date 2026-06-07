@@ -136,6 +136,7 @@
 | [[equ]]          | 같음, 균형, 공정함 계열                                                                                                                  | `equal`, `equality`, `equate`, `equation`, `equivalent`, `adequate`, `equity`, `equator`, `equivocal`                                                           |
 | [[erg]] | Greek `ergon` = work, action에서 온 작동·활력·작업 계열 | `energy`, `energetic`, `energize`, `synergy`, `ergonomic`, `ergonomics`, `allergy`, `allergic`, `surgery`, `metallurgy` |
 | [[err]] | 헤매다, 잘못 가다, 오류 계열 | `error`, `err`, `erroneous`, `erratic`, `aberration` |
+| [[eschew]] | Old French `eschiver` = avoid, shun에서 온 의식적 회피·삼감 계열 | `eschew`, `eschewed`, `eschewing`, `eschewal` |
 | [[ess]]          | 있다, 존재하다, 본질 계열                                                                                                                 | `interest`, `interested`, `interesting`, `disinterested`, `uninterested`, `essence`, `essential`, `entity`                                                      |
 | [[estim]]        | 가치를 매기다, 어림해 판단하다 계열                                                                                                            | `estimate`, `estimation`, `estimated`, `underestimate`, `overestimate`, `esteem`, `self-esteem`                                                                 |
 | [[evit]] | 비켜나 피하거나 피할 수 없음 계열 | `inevitable`, `inevitably`, `evitable`, `inevitability` |

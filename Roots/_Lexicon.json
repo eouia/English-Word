@@ -786,6 +786,12 @@
       "mtime": 1779800249.0,
       "root": "err"
     },
+    "Roots/eschew.md": {
+      "doc": "Roots/eschew.md",
+      "heading_count": 4,
+      "mtime": 1780808837.0,
+      "root": "eschew"
+    },
     "Roots/ess.md": {
       "doc": "Roots/ess.md",
       "heading_count": 8,
@@ -3403,7 +3409,7 @@
       "root": "yield"
     }
   },
-  "generated_at": "2026-06-03T08:25:14.566752+00:00",
+  "generated_at": "2026-06-07T05:07:48.303548+00:00",
   "root": "/Users/seongnohyi/Workspace/English-Word",
   "schema": 1,
   "terms": {
@@ -20639,6 +20645,46 @@
         "root": "scale",
         "section": "갈래 1: 단계, 척도, 축척",
         "term": "escalator"
+      }
+    ],
+    "eschew": [
+      {
+        "doc": "Roots/eschew.md",
+        "heading": "eschew",
+        "line": 19,
+        "root": "eschew",
+        "section": "단어들",
+        "term": "eschew"
+      }
+    ],
+    "eschewal": [
+      {
+        "doc": "Roots/eschew.md",
+        "heading": "eschewal",
+        "line": 43,
+        "root": "eschew",
+        "section": "단어들",
+        "term": "eschewal"
+      }
+    ],
+    "eschewed": [
+      {
+        "doc": "Roots/eschew.md",
+        "heading": "eschewed",
+        "line": 27,
+        "root": "eschew",
+        "section": "단어들",
+        "term": "eschewed"
+      }
+    ],
+    "eschewing": [
+      {
+        "doc": "Roots/eschew.md",
+        "heading": "eschewing",
+        "line": 35,
+        "root": "eschew",
+        "section": "단어들",
+        "term": "eschewing"
       }
     ],
     "espouse": [
