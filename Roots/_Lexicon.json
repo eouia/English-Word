@@ -450,6 +450,12 @@
       "mtime": 1779800249.0,
       "root": "class"
     },
+    "Roots/clast.md": {
+      "doc": "Roots/clast.md",
+      "heading_count": 6,
+      "mtime": 1780808959.0,
+      "root": "clast"
+    },
     "Roots/clin.md": {
       "doc": "Roots/clin.md",
       "heading_count": 8,
@@ -3409,7 +3415,7 @@
       "root": "yield"
     }
   },
-  "generated_at": "2026-06-07T05:07:48.303548+00:00",
+  "generated_at": "2026-06-07T05:09:56.417577+00:00",
   "root": "/Users/seongnohyi/Workspace/English-Word",
   "schema": 1,
   "terms": {
@@ -11075,6 +11081,16 @@
         "root": "class",
         "section": "단어들",
         "term": "classy"
+      }
+    ],
+    "clastic": [
+      {
+        "doc": "Roots/clast.md",
+        "heading": "clastic",
+        "line": 45,
+        "root": "clast",
+        "section": "단어들",
+        "term": "clastic"
       }
     ],
     "clause": [
@@ -26047,6 +26063,36 @@
         "term": "iatrogenic"
       }
     ],
+    "iconoclasm": [
+      {
+        "doc": "Roots/clast.md",
+        "heading": "iconoclasm",
+        "line": 37,
+        "root": "clast",
+        "section": "단어들",
+        "term": "iconoclasm"
+      }
+    ],
+    "iconoclast": [
+      {
+        "doc": "Roots/clast.md",
+        "heading": "iconoclast",
+        "line": 21,
+        "root": "clast",
+        "section": "단어들",
+        "term": "iconoclast"
+      }
+    ],
+    "iconoclastic": [
+      {
+        "doc": "Roots/clast.md",
+        "heading": "iconoclastic",
+        "line": 29,
+        "root": "clast",
+        "section": "단어들",
+        "term": "iconoclastic"
+      }
+    ],
     "idea": [
       {
         "doc": "Roots/idea.md",
@@ -35793,6 +35839,16 @@
         "term": "orthodoxy"
       }
     ],
+    "osteoclast": [
+      {
+        "doc": "Roots/clast.md",
+        "heading": "osteoclast",
+        "line": 61,
+        "root": "clast",
+        "section": "단어들",
+        "term": "osteoclast"
+      }
+    ],
     "oust": [
       {
         "doc": "Roots/obsta.md",
@@ -41205,6 +41261,16 @@
         "root": "piece",
         "section": "단어들",
         "term": "puzzle piece"
+      }
+    ],
+    "pyroclastic": [
+      {
+        "doc": "Roots/clast.md",
+        "heading": "pyroclastic",
+        "line": 53,
+        "root": "clast",
+        "section": "단어들",
+        "term": "pyroclastic"
       }
     ],
     "quadrangle": [
