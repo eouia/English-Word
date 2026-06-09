@@ -3234,6 +3234,12 @@
       "mtime": 1779800249.0,
       "root": "val"
     },
+    "Roots/van.md": {
+      "doc": "Roots/van.md",
+      "heading_count": 7,
+      "mtime": 1781004097.0,
+      "root": "van"
+    },
     "Roots/vapor.md": {
       "doc": "Roots/vapor.md",
       "heading_count": 7,
@@ -3415,7 +3421,7 @@
       "root": "yield"
     }
   },
-  "generated_at": "2026-06-07T05:09:56.417577+00:00",
+  "generated_at": "2026-06-09T11:22:14.061660+00:00",
   "root": "/Users/seongnohyi/Workspace/English-Word",
   "schema": 1,
   "terms": {
@@ -20861,6 +20867,26 @@
         "root": "val",
         "section": "단어들",
         "term": "evaluation"
+      }
+    ],
+    "evanescence": [
+      {
+        "doc": "Roots/van.md",
+        "heading": "evanescence",
+        "line": 51,
+        "root": "van",
+        "section": "단어들",
+        "term": "evanescence"
+      }
+    ],
+    "evanescent": [
+      {
+        "doc": "Roots/van.md",
+        "heading": "evanescent",
+        "line": 43,
+        "root": "van",
+        "section": "단어들",
+        "term": "evanescent"
       }
     ],
     "evaporate": [
@@ -52331,6 +52357,16 @@
         "term": "utopia"
       }
     ],
+    "vain": [
+      {
+        "doc": "Roots/van.md",
+        "heading": "vain",
+        "line": 59,
+        "root": "van",
+        "section": "단어들",
+        "term": "vain"
+      }
+    ],
     "valid": [
       {
         "doc": "Roots/val.md",
@@ -52409,6 +52445,46 @@
         "root": "val",
         "section": "단어들",
         "term": "value"
+      }
+    ],
+    "vanish": [
+      {
+        "doc": "Roots/van.md",
+        "heading": "vanish",
+        "line": 19,
+        "root": "van",
+        "section": "단어들",
+        "term": "vanish"
+      }
+    ],
+    "vanished": [
+      {
+        "doc": "Roots/van.md",
+        "heading": "vanished",
+        "line": 27,
+        "root": "van",
+        "section": "단어들",
+        "term": "vanished"
+      }
+    ],
+    "vanishing": [
+      {
+        "doc": "Roots/van.md",
+        "heading": "vanishing",
+        "line": 35,
+        "root": "van",
+        "section": "단어들",
+        "term": "vanishing"
+      }
+    ],
+    "vanity": [
+      {
+        "doc": "Roots/van.md",
+        "heading": "vanity",
+        "line": 67,
+        "root": "van",
+        "section": "단어들",
+        "term": "vanity"
       }
     ],
     "vanquish": [

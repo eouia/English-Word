@@ -8994,6 +8994,16 @@
         "ipa": "/ɪˌvæljuˈeɪʃən/"
       }
     ],
+    "evanescence": [
+      {
+        "ipa": "/ˌɛvəˈnɛsəns/"
+      }
+    ],
+    "evanescent": [
+      {
+        "ipa": "/ˌɛvəˈnɛsənt/"
+      }
+    ],
     "evaporate": [
       {
         "ipa": "/ɪˈvæpɚˌeɪt/"
@@ -24924,6 +24934,11 @@
         "ipa": "/ˈvækjum/"
       }
     ],
+    "vain": [
+      {
+        "ipa": "/ˈveɪn/"
+      }
+    ],
     "valid": [
       {
         "ipa": "/ˈvælɪd/"
@@ -24962,6 +24977,26 @@
     "value": [
       {
         "ipa": "/ˈvælju/"
+      }
+    ],
+    "vanish": [
+      {
+        "ipa": "/ˈvænɪʃ/"
+      }
+    ],
+    "vanished": [
+      {
+        "ipa": "/ˈvænɪʃt/"
+      }
+    ],
+    "vanishing": [
+      {
+        "ipa": "/ˈvænɪʃɪŋ/"
+      }
+    ],
+    "vanity": [
+      {
+        "ipa": "/ˈvænəti/"
       }
     ],
     "vanquish": [

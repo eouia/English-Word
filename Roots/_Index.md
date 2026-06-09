@@ -544,6 +544,7 @@
 | [[urban]] | 도시와 도시화 계열 | `urbanization`, `urban`, `urbanize`, `urbanized`, `urbanism`, `urbane`, `urbanity`, `suburban`, `suburb` |
 | [[vad]] | 가다, 지나가다, 들어가거나 빠져나가는 계열 | `pervasive`, `pervade`, `invade`, `invasion`, `evade`, `evasive` |
 | [[val]] | 힘이 있다, 가치가 있다, 유효함을 확인하는 계열 | `value`, `valuable`, `valuation`, `evaluate`, `evaluation`, `valid`, `validity`, `validate`, `validation`, `invalidate` |
+| [[van]] | Latin `vanus` = empty, vain에서 온 사라짐·헛됨·허영 계열 | `vanish`, `vanished`, `vanishing`, `evanescent`, `evanescence`, `vain`, `vanity` |
 | [[vapor]]        | 증기, 증기로 변해 밖으로 흩어짐 계열                                                                                                           | `evaporate`, `evaporation`, `evaporative`, `vapor`, `vaporize`, `vaporization`, `vapour`                                                                        |
 | [[vari]]         | 다양한, 여러 모습으로 달라짐 계열                                                                                                             | `various`, `vary`, `variety`, `variation`, `variable`, `invariably`, `variance`                                                                                 |
 | [[vel]]          | 베일, 덮개, 가려진 것을 드러냄 계열                                                                                                           | `reveal`, `revelation`, `veil`, `unveil`, `veiled`                                                                                                              |
