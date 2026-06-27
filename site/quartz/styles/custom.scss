@@ -98,6 +98,8 @@ ul.toc-content.overflow > li + li,
   }
 
   body .page > #quartz-body > .sidebar,
+  body .page > #quartz-body > .left.sidebar,
+  body .page > #quartz-body > .right.sidebar,
   body .page > #quartz-body > .page-header,
   body .page > #quartz-body > footer,
   body .page > #quartz-body .breadcrumbs,
@@ -106,7 +108,8 @@ ul.toc-content.overflow > li + li,
   body .page > #quartz-body .graph,
   body .page > #quartz-body .toc,
   body .page > #quartz-body .backlinks {
-    display: none;
+    display: none !important;
+    visibility: hidden;
   }
 
   body .page > #quartz-body > .center,
