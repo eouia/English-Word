@@ -69,3 +69,134 @@ ul.toc-content.overflow > li + li,
     overflow: visible;
   }
 }
+
+@media print {
+  @page {
+    margin: 16mm 14mm;
+  }
+
+  html,
+  body {
+    width: auto;
+    overflow: visible;
+    background: #fff;
+    color: #111;
+  }
+
+  body {
+    font-size: 10.5pt;
+  }
+
+  body .page {
+    max-width: none;
+    margin: 0;
+  }
+
+  body .page > #quartz-body {
+    display: block;
+    padding: 0;
+  }
+
+  body .page > #quartz-body > .sidebar,
+  body .page > #quartz-body > .page-header,
+  body .page > #quartz-body > footer,
+  body .page > #quartz-body .breadcrumbs,
+  body .page > #quartz-body .content-meta,
+  body .page > #quartz-body .tags,
+  body .page > #quartz-body .graph,
+  body .page > #quartz-body .toc,
+  body .page > #quartz-body .backlinks {
+    display: none;
+  }
+
+  body .page > #quartz-body > .center,
+  body .page > #quartz-body > .center > article {
+    display: block;
+    max-width: none;
+    min-width: 0;
+    width: 100%;
+    margin: 0;
+  }
+
+  article {
+    color: #111;
+  }
+
+  article > h1:first-child {
+    margin-top: 0;
+  }
+
+  article h1 {
+    font-size: 18pt;
+  }
+
+  article h2 {
+    font-size: 14pt;
+  }
+
+  article h3 {
+    font-size: 11.5pt;
+  }
+
+  article h1,
+  article h2,
+  article h3,
+  article h4,
+  article h5,
+  article h6 {
+    break-after: avoid;
+    page-break-after: avoid;
+    color: #111;
+  }
+
+  article p,
+  article li,
+  article td,
+  article th {
+    line-height: 1.45;
+  }
+
+  article ul,
+  article ol {
+    padding-left: 1.25rem;
+  }
+
+  article blockquote {
+    border-left-color: #999;
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+
+  article table,
+  article pre,
+  article blockquote,
+  article figure {
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+
+  article a,
+  article a.internal,
+  article a.external {
+    color: #111;
+    background: transparent;
+    text-decoration: none;
+    padding: 0;
+  }
+
+  article a[role="anchor"],
+  article a[href^="#"] {
+    display: none;
+  }
+
+  article code {
+    color: #111;
+    background: #f2f2f2;
+    border: 1px solid #ddd;
+  }
+
+  article pre {
+    border-color: #ccc;
+    white-space: pre-wrap;
+  }
+}
