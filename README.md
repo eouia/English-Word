@@ -39,6 +39,7 @@ cp publish/local.env.example publish/local.env
 ## 노트 수정 후 배포
 
 Obsidian에서는 iCloud Vault의 원본 노트를 수정한다. 배포는 Workspace 저장소에서 실행한다.
+Codex나 자동화가 노트를 고칠 때도 `~/Workspace/English-Word/Roots`나 `Themes`를 먼저 수정하지 않고, iCloud Vault 원본 파일을 먼저 수정해야 한다.
 
 ```bash
 cd ~/Workspace/English-Word
@@ -49,15 +50,16 @@ publish/publish_notes.sh "Update notes"
 
 이 스크립트는 다음 작업을 수행한다.
 
-1. GitHub 최신 변경을 `git pull --ff-only`로 가져옴
-2. iCloud Vault 원본에서 `Roots/_Lexicon.json` 갱신
-3. iCloud Vault 원본에서 테마 heading과 어근 문서 링크 갱신
-4. iCloud Vault 원본에서 `Themes/_Lexicon.json` 갱신
-5. iCloud Vault의 `Roots/`, `Themes/`, `scripts/`, `index.md`, `AGENTS.md`, `RTK.md`를 Workspace 저장소로 동기화
-6. Workspace 저장소에서도 역색인과 테마 링크를 한 번 더 갱신
-7. Quartz 빌드 확인
-8. 변경 사항이 있으면 커밋 후 푸시
-9. GitHub Actions가 자동으로 GitHub Pages에 배포
+1. Workspace의 Vault 동기화 대상 경로에 iCloud Vault와 다른 미커밋 변경이 있으면 중단
+2. GitHub 최신 변경을 `git pull --ff-only`로 가져옴
+3. iCloud Vault 원본에서 `Roots/_Lexicon.json` 갱신
+4. iCloud Vault 원본에서 테마 heading과 어근 문서 링크 갱신
+5. iCloud Vault 원본에서 `Themes/_Lexicon.json` 갱신
+6. iCloud Vault의 `Roots/`, `Themes/`, `scripts/`, `index.md`, `AGENTS.md`, `RTK.md`를 Workspace 저장소로 동기화
+7. Workspace 저장소에서도 역색인과 테마 링크를 한 번 더 갱신
+8. Quartz 빌드 확인
+9. 변경 사항이 있으면 커밋 후 푸시
+10. GitHub Actions가 자동으로 GitHub Pages에 배포
 
 ## 수동 작업
 
@@ -136,6 +138,7 @@ python3 scripts/build_theme_lexicon.py
 - GitHub 저장소가 최신이어도 노트 본문의 정답으로 간주하지 않는다. 다른 Mac에서 작업한 노트는 iCloud Vault에 먼저 들어온다고 본다.
 - "최신화" 순서는 `git pull --ff-only`로 배포 스크립트와 Quartz 설정을 받은 뒤, `publish/sync_from_icloud.sh`로 **Vault → Workspace** 방향 동기화다.
 - Workspace/GitHub 내용을 iCloud Vault에 역으로 덮어쓰지 않는다. Vault 파일 삭제나 복구는 사용자가 명시적으로 요청한 경우에만 한다.
+- `publish/publish_notes.sh`와 `publish/sync_from_icloud.sh`는 Workspace의 Vault 동기화 대상 경로에 iCloud Vault와 다른 미커밋 변경이 있으면 실패한다. 이 가드는 Workspace에서 노트를 먼저 고치는 실수를 차단하기 위한 것이다.
 - iCloud Vault 안에는 `.git`, `site/`, `node_modules/`를 두지 않는다.
 - Git/Quartz 작업은 `~/Workspace/English-Word`에서만 한다.
 - 새 작업 세션을 시작할 때, 노트 데이터 동기화가 아니라 스크립트·설정 최신화만 필요하면 아래 명령을 먼저 실행한다.

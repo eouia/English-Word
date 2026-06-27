@@ -2048,8 +2048,8 @@
     },
     "Roots/pel.md": {
       "doc": "Roots/pel.md",
-      "heading_count": 12,
-      "mtime": 1779800249.0,
+      "heading_count": 14,
+      "mtime": 1782553015.121619,
       "root": "pel"
     },
     "Roots/pend.md": {
@@ -3421,8 +3421,8 @@
       "root": "yield"
     }
   },
-  "generated_at": "2026-06-09T11:22:14.061660+00:00",
-  "root": "/Users/seongnohyi/Workspace/English-Word",
+  "generated_at": "2026-06-27T09:37:13.040780+00:00",
+  "root": "/Users/eouia/Library/Mobile Documents/com~apple~CloudDocs/Obsidian/MyObsidian/English-Word",
   "schema": 1,
   "terms": {
     "-cide": [
@@ -12191,7 +12191,7 @@
       {
         "doc": "Roots/pel.md",
         "heading": "compulsory",
-        "line": 100,
+        "line": 118,
         "root": "pel",
         "section": "단어들",
         "term": "compulsory"
@@ -17839,6 +17839,16 @@
         "term": "disparity"
       }
     ],
+    "dispel": [
+      {
+        "doc": "Roots/pel.md",
+        "heading": "dispel",
+        "line": 44,
+        "root": "pel",
+        "section": "단어들",
+        "term": "dispel"
+      }
+    ],
     "dispensable": [
       {
         "doc": "Roots/pend.md",
@@ -21681,7 +21691,7 @@
       {
         "doc": "Roots/pel.md",
         "heading": "expel",
-        "line": 35,
+        "line": 53,
         "root": "pel",
         "section": "단어들",
         "term": "expel"
@@ -26653,6 +26663,16 @@
         "term": "impediment"
       }
     ],
+    "impel": [
+      {
+        "doc": "Roots/pel.md",
+        "heading": "impel",
+        "line": 35,
+        "root": "pel",
+        "section": "단어들",
+        "term": "impel"
+      }
+    ],
     "impend": [
       {
         "doc": "Roots/pend.md",
@@ -27081,7 +27101,7 @@
       {
         "doc": "Roots/pel.md",
         "heading": "impulse",
-        "line": 84,
+        "line": 102,
         "root": "pel",
         "section": "단어들",
         "term": "impulse"
@@ -27091,7 +27111,7 @@
       {
         "doc": "Roots/pel.md",
         "heading": "impulsive",
-        "line": 92,
+        "line": 110,
         "root": "pel",
         "section": "단어들",
         "term": "impulsive"
@@ -40671,7 +40691,7 @@
       {
         "doc": "Roots/pel.md",
         "heading": "propel",
-        "line": 68,
+        "line": 86,
         "root": "pel",
         "section": "단어들",
         "term": "propel"
@@ -40781,7 +40801,7 @@
       {
         "doc": "Roots/pel.md",
         "heading": "propulsion",
-        "line": 76,
+        "line": 94,
         "root": "pel",
         "section": "단어들",
         "term": "propulsion"
@@ -41253,7 +41273,7 @@
       {
         "doc": "Roots/pel.md",
         "heading": "pulse",
-        "line": 108,
+        "line": 126,
         "root": "pel",
         "section": "단어들",
         "term": "pulse"
@@ -43347,7 +43367,7 @@
       {
         "doc": "Roots/pel.md",
         "heading": "repel",
-        "line": 43,
+        "line": 61,
         "root": "pel",
         "section": "단어들",
         "term": "repel"
@@ -43357,7 +43377,7 @@
       {
         "doc": "Roots/pel.md",
         "heading": "repellent",
-        "line": 60,
+        "line": 78,
         "root": "pel",
         "section": "단어들",
         "term": "repellent"
@@ -43595,7 +43615,7 @@
       {
         "doc": "Roots/pel.md",
         "heading": "repulse",
-        "line": 51,
+        "line": 69,
         "root": "pel",
         "section": "단어들",
         "term": "repulse"

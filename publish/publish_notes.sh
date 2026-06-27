@@ -11,6 +11,38 @@ if [ -f "$CONFIG" ]; then
 fi
 
 SOURCE="${OBSIDIAN_VAULT_PATH:-$HOME/Library/Mobile Documents/com~apple~CloudDocs/Obsidian/MyObsidian/English-Word}"
+VAULT_SYNC_PATHS=(Roots Themes scripts index.md AGENTS.md RTK.md)
+
+guard_workspace_note_changes() {
+  local dirty unsafe line path
+  dirty="$(git status --porcelain -- "${VAULT_SYNC_PATHS[@]}")"
+  if [ -z "$dirty" ]; then
+    return
+  fi
+
+  unsafe=""
+  while IFS= read -r line; do
+    path="${line:3}"
+    if [ -e "$ROOT/$path" ] && [ -e "$SOURCE/$path" ] && cmp -s "$ROOT/$path" "$SOURCE/$path"; then
+      continue
+    fi
+    if [ ! -e "$ROOT/$path" ] && [ ! -e "$SOURCE/$path" ]; then
+      continue
+    fi
+    unsafe+="$line"$'\n'
+  done <<< "$dirty"
+
+  if [ -n "$unsafe" ]; then
+    cat >&2 <<EOF
+Workspace has uncommitted changes that differ from the iCloud Vault source:
+$unsafe
+
+Edit the iCloud Obsidian Vault first, or copy these exact changes there, then rerun this script.
+This guard prevents Workspace edits from being overwritten by Vault -> Workspace sync.
+EOF
+    exit 1
+  fi
+}
 
 prepare_vault() {
   if [ ! -d "$SOURCE" ]; then
@@ -33,6 +65,7 @@ EOF
 }
 
 cd "$ROOT"
+guard_workspace_note_changes
 git pull --ff-only
 prepare_vault
 publish/sync_from_icloud.sh
