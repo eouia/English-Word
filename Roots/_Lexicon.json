@@ -3302,8 +3302,8 @@
     },
     "Roots/via.md": {
       "doc": "Roots/via.md",
-      "heading_count": 13,
-      "mtime": 1779800249.0,
+      "heading_count": 14,
+      "mtime": 1783399424.2557476,
       "root": "via"
     },
     "Roots/vict.md": {
@@ -3421,7 +3421,7 @@
       "root": "yield"
     }
   },
-  "generated_at": "2026-06-27T09:37:13.040780+00:00",
+  "generated_at": "2026-07-07T04:49:24.937088+00:00",
   "root": "/Users/eouia/Library/Mobile Documents/com~apple~CloudDocs/Obsidian/MyObsidian/English-Word",
   "schema": 1,
   "terms": {
@@ -13935,6 +13935,16 @@
         "root": "vers",
         "section": "단어들",
         "term": "convert"
+      }
+    ],
+    "convey": [
+      {
+        "doc": "Roots/via.md",
+        "heading": "convey",
+        "line": 123,
+        "root": "via",
+        "section": "단어들",
+        "term": "convey"
       }
     ],
     "convict": [

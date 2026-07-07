@@ -120,6 +120,14 @@
 - 어원적 연결: 길을 따라 떠나는 여행
 - 사용 맥락: `a long sea voyage` = 긴 항해
 
+### convey
+
+- 발음: /kənˈveɪ/
+- 구성: `con-` = together + Vulgar Latin `conviare` = 길을 함께 가다
+- 뜻: 운반하다, 전달하다, 표현하다; 법률상 양도하다
+- 어원적 연결: 같은 길을 따라 함께 가며 물건·정보·권리를 옮김
+- 사용 맥락: `convey a message` = 메시지를 전달하다, `convey property` = 재산권을 양도하다
+
 ## 기억 포인트
 
 `via` 계열은 "길" 이미지.
@@ -133,6 +141,7 @@
 - `previous`: 길에서 앞서 간
 - `previously`: 시간상 앞서
 - `voyage`: 길을 따라 떠나는 여행
+- `convey`: 길을 함께 가며 옮기거나 전달함
 
 ## 비교 단어
 
