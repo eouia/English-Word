@@ -67,10 +67,13 @@ fi
 
 if [ "$RUN_BUILD" -eq 1 ]; then
   cd "$ROOT/site"
+  export npm_config_cache="${NPM_CONFIG_CACHE:-$ROOT/.npm-cache}"
+  export npm_config_update_notifier=false
+
   if [ ! -d node_modules ]; then
     npm ci
   fi
-  npx quartz build -d ..
+  npm run quartz -- build -d ..
 fi
 
 cd "$ROOT"

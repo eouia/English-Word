@@ -11,7 +11,7 @@ if [ -f "$CONFIG" ]; then
 fi
 
 SOURCE="${OBSIDIAN_VAULT_PATH:-$HOME/Library/Mobile Documents/com~apple~CloudDocs/Obsidian/MyObsidian/English-Word}"
-VAULT_SYNC_PATHS=(Roots Themes scripts index.md AGENTS.md RTK.md)
+VAULT_SYNC_PATHS=(Roots Themes index.md AGENTS.md RTK.md)
 
 guard_workspace_note_changes() {
   local dirty unsafe line path
@@ -56,28 +56,50 @@ EOF
     exit 1
   fi
 
-  (
-    cd "$SOURCE"
-    python3 scripts/build_lexicon.py
-    python3 scripts/link_theme_roots.py --write --list-ambiguous
-    python3 scripts/build_theme_lexicon.py
-  )
+  ENGLISH_WORD_ROOT="$SOURCE" python3 "$ROOT/scripts/build_lexicon.py"
+  ENGLISH_WORD_ROOT="$SOURCE" python3 "$ROOT/scripts/link_theme_roots.py" --write --list-ambiguous
+  ENGLISH_WORD_ROOT="$SOURCE" python3 "$ROOT/scripts/build_theme_lexicon.py"
+}
+
+build_site() {
+  cd "$ROOT/site"
+  export npm_config_cache="${NPM_CONFIG_CACHE:-$ROOT/.npm-cache}"
+  export npm_config_update_notifier=false
+
+  if [ ! -d node_modules ]; then
+    npm ci
+  fi
+
+  npm run quartz -- build -d ..
+}
+
+push_changes() {
+  local branch origin_url repo_path ssh_url
+
+  branch="$(git branch --show-current)"
+  if git push; then
+    return
+  fi
+
+  origin_url="$(git remote get-url origin || true)"
+  if [[ "$origin_url" =~ ^https://github.com/(.+)\.git$ ]]; then
+    repo_path="${BASH_REMATCH[1]}"
+    ssh_url="git@github.com:${repo_path}.git"
+    echo "git push via origin failed; retrying via SSH: $ssh_url"
+    git push "$ssh_url" "$branch"
+    git fetch origin "$branch"
+    return
+  fi
+
+  return 1
 }
 
 cd "$ROOT"
 guard_workspace_note_changes
 git pull --ff-only
 prepare_vault
-publish/sync_from_icloud.sh
-python3 scripts/build_lexicon.py
-python3 scripts/link_theme_roots.py --write --list-ambiguous
-python3 scripts/build_theme_lexicon.py
-
-cd "$ROOT/site"
-if [ ! -d node_modules ]; then
-  npm ci
-fi
-npx quartz build -d ..
+publish/sync_from_icloud.sh --no-guard
+build_site
 
 cd "$ROOT"
 if git diff --quiet --exit-code && [ -z "$(git status --short)" ]; then
@@ -87,6 +109,6 @@ fi
 
 git add .
 git commit -m "$MESSAGE"
-git push
+push_changes
 
 echo "Published notes. GitHub Pages will deploy from the pushed commit."

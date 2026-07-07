@@ -6,4 +6,5 @@ site/node_modules/
 site/public/
 site/.quartz-cache/
 site/quartz/.quartz-cache/
+.npm-cache/
 publish/local.env

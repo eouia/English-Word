@@ -93,13 +93,15 @@
 
 - 데이터 원본은 항상 iCloud Obsidian Vault다. GitHub 저장소나 `~/Workspace/English-Word`가 노트 본문의 원본이라고 가정하지 않는다.
 - `~/Workspace/English-Word`는 Quartz 설정, Git 이력, GitHub Pages 배포를 위한 작업 폴더다. 노트 본문은 iCloud Vault에서 Workspace로 복사되어 빌드된다.
-- Codex나 자동화가 노트 본문을 수정할 때도 Workspace의 `Roots/`, `Themes/`, `scripts/`, `index.md`, `AGENTS.md`, `RTK.md`를 먼저 고치지 않는다. 반드시 iCloud Vault 원본을 먼저 수정한 뒤 Workspace에서 배포 스크립트를 실행한다.
+- Codex나 자동화가 노트 본문을 수정할 때도 Workspace의 `Roots/`, `Themes/`, `index.md`, `AGENTS.md`, `RTK.md`를 먼저 고치지 않는다. 반드시 iCloud Vault 원본을 먼저 수정한 뒤 Workspace에서 배포 스크립트를 실행한다.
 - 새 세션을 시작할 때 사용자가 "도구 업데이트", "스크립트 최신화", "다른 Mac 작업 후 이어서 작업"처럼 노트 원본 동기화가 아니라 도구·설정 최신화를 원하면, Workspace 저장소에서 `publish/update_workspace_tools.sh`를 실행한다. 이 스크립트는 `git pull --ff-only`와 도구 문법 검사를 수행하며 iCloud Vault를 쓰거나 Vault → Workspace 노트 동기화를 하지 않는다.
 - 빌드 확인까지 필요하면 `publish/update_workspace_tools.sh --build`를 사용한다.
 - 노트 본문에 대한 "최신화", "동기화", "업데이트" 요청을 받으면 기본 방향은 iCloud Vault → Workspace다. Workspace/GitHub 내용을 iCloud Vault에 역으로 덮어쓰지 않는다.
 - 다른 Mac에서 작업한 내용은 iCloud Vault에 먼저 들어온다고 본다. 이 Mac에서는 `git pull --ff-only`로 배포 스크립트와 Quartz 설정을 최신화한 뒤, 반드시 `publish/sync_from_icloud.sh`로 Vault 내용을 Workspace에 반영한다.
 - Workspace와 iCloud Vault가 다를 때 repo를 정답으로 간주해 Vault 파일을 삭제하거나 복구하지 않는다. Vault를 바꿔야 할 때는 사용자가 명시적으로 요청한 경우에만 한다.
 - `publish/publish_notes.sh`와 `publish/sync_from_icloud.sh`는 Workspace의 Vault 동기화 대상 경로에 iCloud Vault와 다른 미커밋 변경이 있으면 실패해야 한다. 이 가드는 Workspace 선수정 후 Vault 동기화로 내용이 사라지는 문제를 차단하기 위함이다.
+- 단, `publish/publish_notes.sh` 내부에서는 최초 가드를 통과한 뒤 iCloud Vault 원본에서 `Roots/_Lexicon.json`, 테마 링크, `Themes/_Lexicon.json`을 갱신하므로, 그 직후 Vault → Workspace 동기화에는 `publish/sync_from_icloud.sh --no-guard`를 사용한다. 이 예외는 배포 스크립트 내부 전용이며, 사람이 단독 동기화를 실행할 때는 기본 가드를 유지한다.
+- 색인과 테마 링크 갱신은 Workspace의 `scripts/*.py`를 사용하되 `ENGLISH_WORD_ROOT`로 iCloud Vault 경로를 넘겨 실행한다. iCloud Vault 안에 `scripts/`나 `publish/` 디렉터리를 둘 필요가 없다.
 - 사용자는 여러 Mac에서 번갈아 작업할 수 있다. 스크립트, 배포 방식, 운영 규칙을 바꾸면 해당 변경을 GitHub 배포 저장소에도 반드시 반영한다.
 - 작업 지침이 바뀌면 iCloud 원본의 `AGENTS.md`에 남기고, 다른 Mac 사용자가 따라야 하는 실행 절차는 Workspace 저장소의 `README.md`에 남긴다.
 - `scripts/` 안의 도구를 고치거나 새로 만들면 예시 명령, dry-run 여부, 주의할 점을 `README.md`나 스크립트 help에 같이 기록한다.
@@ -107,7 +109,7 @@
 - 복수 어근 후보가 나오는 항목은 표제어 뒤에 후보 링크를 나열한다. 예: `aqueduct ([[aqua#aqueduct|aqua]], [[duc#aqueduct|duc]])`.
 - 특정 테마에서 후보 링크가 너무 복잡하거나 학습 흐름상 하나만 필요하면 사람이 수동으로 줄인다.
 - 배포 전에는 Workspace 저장소에서 `git pull --ff-only`가 선행되어야 한다. `publish/publish_notes.sh`도 이 단계를 수행한다.
-- `Roots/`, `Themes/`, `scripts/`, `AGENTS.md`, `RTK.md`, `index.md`를 수정한 작업은 `publish/publish_notes.sh "설명적인 커밋 메시지"` 실행까지 완료 조건이다.
+- `Roots/`, `Themes/`, `AGENTS.md`, `RTK.md`, `index.md`를 수정한 작업은 `publish/publish_notes.sh "설명적인 커밋 메시지"` 실행까지 완료 조건이다. Workspace의 `scripts/`, `publish/`, README, Quartz 설정을 바꾼 경우도 같은 스크립트로 빌드, 커밋, 푸시까지 확인한다.
 - 위 파일을 수정한 뒤에는 최종 응답 전에 반드시 Workspace 저장소에서 배포 스크립트를 실행해 테마 링크 연결, Quartz 빌드, 커밋, 푸시까지 끝낸다.
 - 배포 스크립트가 실패하면 실패 단계와 원인을 최종 응답에 명시하고, 사용자가 별도로 중단을 지시하지 않는 한 가능한 수정 후 다시 실행한다.
 - 사용자가 "배포하지 마", "커밋하지 마", "로컬만 수정"처럼 명시한 경우에만 배포 단계를 건너뛴다.

@@ -46,7 +46,7 @@ cd ~/Workspace/English-Word
 publish/publish_notes.sh "Update notes"
 ```
 
-`Roots/`, `Themes/`, `scripts/`, `AGENTS.md`, `RTK.md`, `index.md`를 수정한 작업은 이 스크립트 실행까지가 완료 조건이다. 사용자가 명시적으로 배포나 커밋을 금지하지 않은 한, 노트 수정 후에는 최종 응답 전에 반드시 실행한다.
+`Roots/`, `Themes/`, `AGENTS.md`, `RTK.md`, `index.md`를 수정한 작업은 이 스크립트 실행까지가 완료 조건이다. 사용자가 명시적으로 배포나 커밋을 금지하지 않은 한, 노트 수정 후에는 최종 응답 전에 반드시 실행한다. 배포 도구나 Quartz 설정처럼 Workspace/GitHub가 원본인 파일을 고친 경우에도 같은 스크립트로 빌드, 커밋, 푸시까지 확인한다.
 
 이 스크립트는 다음 작업을 수행한다.
 
@@ -55,11 +55,16 @@ publish/publish_notes.sh "Update notes"
 3. iCloud Vault 원본에서 `Roots/_Lexicon.json` 갱신
 4. iCloud Vault 원본에서 테마 heading과 어근 문서 링크 갱신
 5. iCloud Vault 원본에서 `Themes/_Lexicon.json` 갱신
-6. iCloud Vault의 `Roots/`, `Themes/`, `scripts/`, `index.md`, `AGENTS.md`, `RTK.md`를 Workspace 저장소로 동기화
-7. Workspace 저장소에서도 역색인과 테마 링크를 한 번 더 갱신
-8. Quartz 빌드 확인
-9. 변경 사항이 있으면 커밋 후 푸시
-10. GitHub Actions가 자동으로 GitHub Pages에 배포
+6. iCloud Vault의 `Roots/`, `Themes/`, `index.md`, `AGENTS.md`, `RTK.md`를 Workspace 저장소로 동기화
+7. Quartz 빌드 확인
+8. 변경 사항이 있으면 커밋 후 푸시
+9. GitHub Actions가 자동으로 GitHub Pages에 배포
+
+`publish_notes.sh` 내부 동기화는 1단계 가드를 통과한 뒤 `publish/sync_from_icloud.sh --no-guard`를 사용한다. iCloud 원본에서 색인 파일이 새로 생성된 직후에는 Workspace와 Vault가 정상적으로 달라지기 때문에, 같은 가드를 두 번 적용하지 않기 위함이다. 단독으로 `publish/sync_from_icloud.sh`를 실행할 때는 기존처럼 가드가 켜져 있다.
+
+색인과 테마 링크 갱신은 Workspace의 `scripts/*.py`를 사용하되, `ENGLISH_WORD_ROOT`로 iCloud Vault 경로를 넘겨 Vault 안의 노트 파일을 대상으로 실행한다. 따라서 iCloud Vault 안에 `scripts/`나 `publish/` 디렉터리를 둘 필요가 없다.
+
+Quartz 빌드와 `npm ci`는 기본적으로 Workspace 안의 `.npm-cache/`를 npm 캐시로 사용한다. `~/.npm` 권한 문제를 피하기 위한 설정이며, 필요하면 `NPM_CONFIG_CACHE=/path/to/cache publish/publish_notes.sh "Update notes"`처럼 바꿀 수 있다.
 
 ## 수동 작업
 
@@ -73,7 +78,7 @@ publish/sync_from_icloud.sh
 
 ```bash
 cd site
-npx quartz build -d ..
+npm run quartz -- build -d ..
 ```
 
 로컬 미리보기:
@@ -138,9 +143,9 @@ python3 scripts/build_theme_lexicon.py
 - GitHub 저장소가 최신이어도 노트 본문의 정답으로 간주하지 않는다. 다른 Mac에서 작업한 노트는 iCloud Vault에 먼저 들어온다고 본다.
 - "최신화" 순서는 `git pull --ff-only`로 배포 스크립트와 Quartz 설정을 받은 뒤, `publish/sync_from_icloud.sh`로 **Vault → Workspace** 방향 동기화다.
 - Workspace/GitHub 내용을 iCloud Vault에 역으로 덮어쓰지 않는다. Vault 파일 삭제나 복구는 사용자가 명시적으로 요청한 경우에만 한다.
-- `publish/publish_notes.sh`와 `publish/sync_from_icloud.sh`는 Workspace의 Vault 동기화 대상 경로에 iCloud Vault와 다른 미커밋 변경이 있으면 실패한다. 이 가드는 Workspace에서 노트를 먼저 고치는 실수를 차단하기 위한 것이다.
-- iCloud Vault 안에는 `.git`, `site/`, `node_modules/`를 두지 않는다.
-- Git/Quartz 작업은 `~/Workspace/English-Word`에서만 한다.
+- `publish/publish_notes.sh`와 `publish/sync_from_icloud.sh`는 Workspace의 Vault 동기화 대상 경로에 iCloud Vault와 다른 미커밋 변경이 있으면 실패한다. 이 가드는 Workspace에서 노트를 먼저 고치는 실수를 차단하기 위한 것이다. 단, `publish_notes.sh` 내부에서는 최초 가드를 통과한 뒤 iCloud 원본에서 색인과 테마 링크를 갱신하므로, 그 다음 Vault → Workspace 동기화에는 `sync_from_icloud.sh --no-guard`를 사용한다.
+- iCloud Vault 안에는 `.git`, `site/`, `node_modules/`, `scripts/`, `publish/`를 두지 않는다.
+- Git/Quartz 작업과 배포 도구 관리는 `~/Workspace/English-Word`에서만 한다.
 - 새 작업 세션을 시작할 때, 노트 데이터 동기화가 아니라 스크립트·설정 최신화만 필요하면 아래 명령을 먼저 실행한다.
 
 ```bash

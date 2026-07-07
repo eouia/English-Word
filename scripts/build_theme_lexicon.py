@@ -5,13 +5,14 @@ from __future__ import annotations
 
 import argparse
 import json
+import os
 import re
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
 
 
-ROOT = Path(__file__).resolve().parents[1]
+ROOT = Path(os.environ.get("ENGLISH_WORD_ROOT", Path(__file__).resolve().parents[1]))
 THEMES_DIR = ROOT / "Themes"
 LEXICON_PATH = THEMES_DIR / "_Lexicon.json"
 

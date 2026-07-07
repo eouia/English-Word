@@ -3,6 +3,38 @@ set -euo pipefail
 
 ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 CONFIG="$ROOT/publish/local.env"
+RUN_GUARD=1
+
+usage() {
+  cat <<'EOF'
+Usage: publish/sync_from_icloud.sh [--no-guard]
+
+Sync Obsidian vault content from iCloud into the Workspace repo.
+
+Options:
+  --no-guard  Skip the Workspace-vs-vault dirty-file guard. Use only from
+              publish/publish_notes.sh after its initial guard has passed.
+  -h, --help  Show this help.
+EOF
+}
+
+while [ "$#" -gt 0 ]; do
+  case "$1" in
+    --no-guard)
+      RUN_GUARD=0
+      ;;
+    -h|--help)
+      usage
+      exit 0
+      ;;
+    *)
+      echo "Unknown option: $1" >&2
+      usage >&2
+      exit 2
+      ;;
+  esac
+  shift
+done
 
 if [ -f "$CONFIG" ]; then
   # shellcheck disable=SC1090
@@ -11,7 +43,7 @@ fi
 
 SOURCE="${OBSIDIAN_VAULT_PATH:-$HOME/Library/Mobile Documents/com~apple~CloudDocs/Obsidian/MyObsidian/English-Word}"
 DEST="$ROOT"
-VAULT_SYNC_PATHS=(Roots Themes scripts index.md AGENTS.md RTK.md)
+VAULT_SYNC_PATHS=(Roots Themes index.md AGENTS.md RTK.md)
 
 guard_workspace_note_changes() {
   local dirty unsafe line path
@@ -55,9 +87,11 @@ EOF
   exit 1
 fi
 
-guard_workspace_note_changes
+if [ "$RUN_GUARD" -eq 1 ]; then
+  guard_workspace_note_changes
+fi
 
-for path in Roots Themes scripts index.md AGENTS.md RTK.md; do
+for path in "${VAULT_SYNC_PATHS[@]}"; do
   if [ -e "$SOURCE/$path" ]; then
     rsync -a --delete "$SOURCE/$path" "$DEST/"
   fi
